@@ -2,7 +2,7 @@
 import feedparser
 import json
 import time
-from datetime import datetime, timedelta
+from datetime import datetime
 import dateutil.parser
 
 # Define RSS feeds
@@ -19,7 +19,7 @@ FEEDS = [
 ]
 
 def fetch_new_articles():
-    """Fetch articles from all RSS feeds"""
+    """Fetch all articles from RSS feeds without date filtering."""
     all_papers = []
     
     for feed in FEEDS:
@@ -36,39 +36,36 @@ def fetch_new_articles():
                 if hasattr(entry, 'published'):
                     try:
                         pub_date = dateutil.parser.parse(entry.published)
-                    except:
+                    except Exception:
                         pub_date = datetime.now()
                 else:
                     pub_date = datetime.now()
                 
-                # Check if the article was published within the last 36 hours
-                hours_since_publication = (datetime.now() - pub_date).total_seconds() / 3600
-                if hours_since_publication <= 36:
-                    # Extract author information
-                    authors = "Unknown"
-                    if hasattr(entry, 'authors'):
-                        authors = ", ".join([author.get("name", "") for author in entry.authors])
-                    elif hasattr(entry, 'author'):
-                        authors = entry.author
-                    
-                    # Extract summary
-                    summary = entry.get('summary', '')
-                    if not summary and hasattr(entry, 'description'):
-                        summary = entry.description
-                    
-                    # Clean summary (remove HTML tags)
-                    import re
-                    summary = re.sub('<[^<]+?>', '', summary)
-                    
-                    # Add paper to the list
-                    all_papers.append({
-                        "title": entry.get('title', 'No Title Available'),
-                        "link": entry.get('link', '#'),
-                        "authors": authors,
-                        "source": feed["name"],
-                        "publicationDate": pub_date.isoformat(),
-                        "summary": summary
-                    })
+                # Extract author information
+                authors = "Unknown"
+                if hasattr(entry, 'authors'):
+                    authors = ", ".join([author.get("name", "") for author in entry.authors])
+                elif hasattr(entry, 'author'):
+                    authors = entry.author
+                
+                # Extract summary
+                summary = entry.get('summary', '')
+                if not summary and hasattr(entry, 'description'):
+                    summary = entry.description
+                
+                # Clean summary (remove HTML tags)
+                import re
+                summary = re.sub('<[^<]+?>', '', summary)
+                
+                # Add paper to the list
+                all_papers.append({
+                    "title": entry.get('title', 'No Title Available'),
+                    "link": entry.get('link', '#'),
+                    "authors": authors,
+                    "source": feed["name"],
+                    "publicationDate": pub_date.isoformat(),
+                    "summary": summary
+                })
         except Exception as e:
             print(f"Error processing {feed['name']}: {e}")
     
@@ -78,20 +75,39 @@ def fetch_new_articles():
     return all_papers
 
 def main():
-    # Fetch all articles
-    papers = fetch_new_articles()
+    # Load existing data from data.json if it exists
+    try:
+        with open('data.json', 'r', encoding='utf-8') as f:
+            data = json.load(f)
+            existing_papers = data.get("papers", [])
+    except FileNotFoundError:
+        data = {"lastUpdated": None, "papers": []}
+        existing_papers = []
+
+    # Fetch all articles from RSS feeds
+    new_articles = fetch_new_articles()
     
-    # Add timestamp
-    output = {
-        "lastUpdated": datetime.now().isoformat(),
-        "papers": papers
-    }
+    # Create a set of existing article links for comparison
+    existing_links = set(paper["link"] for paper in existing_papers)
+    
+    # Filter out articles already in data.json
+    new_papers = [article for article in new_articles if article["link"] not in existing_links]
+    
+    # Add new papers to the existing list
+    existing_papers.extend(new_papers)
+    
+    # Sort all papers by publication date (newest first)
+    existing_papers.sort(key=lambda x: x["publicationDate"], reverse=True)
+    
+    # Update the data dictionary
+    data["papers"] = existing_papers
+    data["lastUpdated"] = datetime.now().isoformat()
     
     # Save to JSON file
     with open('data.json', 'w', encoding='utf-8') as f:
-        json.dump(output, f, ensure_ascii=False, indent=2)
+        json.dump(data, f, ensure_ascii=False, indent=2)
     
-    print(f"Saved {len(papers)} papers to data.json")
+    print(f"Added {len(new_papers)} new papers. Total papers in data.json: {len(existing_papers)}")
 
 if __name__ == "__main__":
     main()
