@@ -26,10 +26,11 @@ jobs:
       - name: Fetch RSS feeds and update data
         run: python update_rss_data.py
         
+
       - name: Commit and push if changed
         run: |
           git config --global user.name 'GitHub Action'
           git config --global user.email 'action@github.com'
           git add data.json
           git diff --quiet && git diff --staged --quiet || git commit -m "Update RSS data [skip ci]"
-          git push
+          git push https://${{ secrets.PAT }}@github.com/fewbody/papers.git
