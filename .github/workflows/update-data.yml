@@ -3,7 +3,6 @@
   with:
     token: ${{ secrets.GITHUB_TOKEN }}
     persist-credentials: true
-
 on:
   schedule:
     - cron: '0 */6 * * *'  # Run every 6 hours
