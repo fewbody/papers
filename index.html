@@ -1,0 +1,885 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Recent Nuclear Physics Publications</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.29.4/moment.min.js"></script>
+    <style>
+        :root {
+            --primary-color: #0071e3;
+            --secondary-color: #1d1d1f;
+            --light-bg: #f5f5f7;
+            --dark-bg: #141414;
+            --text-color: #1d1d1f;
+            --light-text: #86868b;
+            --accent-color: #6e6e73;
+            --border-color: #d2d2d7;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, 
+                Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        }
+
+        body {
+            background-color: var(--light-bg);
+            color: var(--text-color);
+            line-height: 1.5;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 20px;
+        }
+
+        header {
+            background-color: rgba(255, 255, 255, 0.8);
+            backdrop-filter: blur(10px);
+            position: sticky;
+            top: 0;
+            z-index: 100;
+            border-bottom: 1px solid var(--border-color);
+        }
+
+        .header-content {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 20px 0;
+        }
+
+        .logo h1 {
+            font-size: 24px;
+            font-weight: 600;
+            color: var(--secondary-color);
+        }
+
+        .hero {
+            background: linear-gradient(135deg, #0071e3 0%, #42b0ff 100%);
+            color: white;
+            text-align: center;
+            padding: 80px 20px;
+            margin-bottom: 40px;
+        }
+
+        .hero h1 {
+            font-size: 48px;
+            font-weight: 700;
+            margin-bottom: 20px;
+        }
+
+        .hero p {
+            font-size: 22px;
+            max-width: 800px;
+            margin: 0 auto;
+            opacity: 0.9;
+        }
+
+        .filters {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+            margin-bottom: 30px;
+            justify-content: center;
+        }
+
+        .filter-btn {
+            background-color: transparent;
+            border: 1px solid var(--border-color);
+            border-radius: 20px;
+            padding: 8px 16px;
+            font-size: 14px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            color: var(--secondary-color);
+        }
+
+        .filter-btn:hover {
+            background-color: var(--light-bg);
+        }
+
+        .filter-btn.active {
+            background-color: var(--primary-color);
+            color: white;
+            border-color: var(--primary-color);
+        }
+
+        .status {
+            text-align: center;
+            margin-bottom: 30px;
+            color: var(--accent-color);
+            font-size: 16px;
+        }
+
+        .papers-grid {
+            display: grid;
+            grid-template-columns: 1fr;
+            gap: 20px;
+            margin-bottom: 40px;
+        }
+
+        @media (min-width: 768px) {
+            .papers-grid {
+                grid-template-columns: repeat(2, 1fr);
+            }
+        }
+
+        @media (min-width: 992px) {
+            .papers-grid {
+                grid-template-columns: repeat(3, 1fr);
+            }
+        }
+
+        .paper-card {
+            background-color: white;
+            border-radius: 12px;
+            overflow: hidden;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            height: 100%;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .paper-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+        }
+
+        .paper-source {
+            background-color: var(--primary-color);
+            color: white;
+            padding: 10px 15px;
+            font-weight: 600;
+            font-size: 14px;
+        }
+
+        .paper-content {
+            padding: 20px;
+            flex-grow: 1;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .paper-title {
+            font-size: 18px;
+            font-weight: 600;
+            margin-bottom: 10px;
+            color: var(--secondary-color);
+        }
+
+        .paper-authors {
+            font-size: 14px;
+            color: var(--accent-color);
+            margin-bottom: 15px;
+        }
+
+        .paper-date {
+            font-size: 12px;
+            color: var(--light-text);
+            margin-bottom: 15px;
+        }
+
+        .paper-summary {
+            font-size: 14px;
+            color: var(--accent-color);
+            margin-bottom: 20px;
+            overflow: hidden;
+            display: -webkit-box;
+            -webkit-line-clamp: 3;
+            -webkit-box-orient: vertical;
+            flex-grow: 1;
+        }
+
+        .paper-link {
+            margin-top: auto;
+            text-align: right;
+        }
+
+        .paper-link a {
+            display: inline-flex;
+            align-items: center;
+            color: var(--primary-color);
+            text-decoration: none;
+            font-weight: 500;
+            font-size: 14px;
+            transition: color 0.2s ease;
+        }
+
+        .paper-link a:hover {
+            color: #005bbf;
+        }
+
+        .paper-link a svg {
+            margin-left: 5px;
+            width: 16px;
+            height: 16px;
+        }
+
+        footer {
+            background-color: var(--secondary-color);
+            color: white;
+            padding: 40px 0;
+            margin-top: 60px;
+        }
+
+        .footer-content {
+            text-align: center;
+        }
+
+        .footer-content p {
+            margin-bottom: 20px;
+            font-size: 14px;
+            color: rgba(255, 255, 255, 0.7);
+        }
+
+        .footer-content a {
+            color: white;
+            text-decoration: none;
+            transition: opacity 0.2s ease;
+        }
+
+        .footer-content a:hover {
+            opacity: 0.8;
+        }
+
+        .loading-spinner {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100px;
+        }
+
+        .spinner {
+            width: 40px;
+            height: 40px;
+            border-radius: 50%;
+            border: 3px solid rgba(0, 113, 227, 0.2);
+            border-top-color: var(--primary-color);
+            animation: spin 1s linear infinite;
+        }
+
+        @keyframes spin {
+            to {
+                transform: rotate(360deg);
+            }
+        }
+
+        .no-papers {
+            text-align: center;
+            padding: 40px;
+            color: var(--accent-color);
+            font-size: 18px;
+            background-color: white;
+            border-radius: 12px;
+            margin-bottom: 40px;
+        }
+
+        .stats-bar {
+            background-color: white;
+            border-radius: 12px;
+            padding: 20px;
+            margin-bottom: 40px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+        }
+
+        .stats-content {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-around;
+            gap: 20px;
+        }
+
+        .stat-item {
+            text-align: center;
+            flex: 1;
+            min-width: 120px;
+        }
+
+        .stat-value {
+            font-size: 32px;
+            font-weight: 700;
+            color: var(--primary-color);
+            margin-bottom: 5px;
+        }
+
+        .stat-label {
+            font-size: 14px;
+            color: var(--light-text);
+        }
+
+        .search-box {
+            margin-bottom: 30px;
+            display: flex;
+            justify-content: center;
+        }
+
+        .search-input {
+            width: 100%;
+            max-width: 500px;
+            padding: 12px 20px;
+            border: 1px solid var(--border-color);
+            border-radius: 30px;
+            font-size: 16px;
+            outline: none;
+            transition: border-color 0.3s ease, box-shadow 0.3s ease;
+        }
+
+        .search-input:focus {
+            border-color: var(--primary-color);
+            box-shadow: 0 0 0 2px rgba(0, 113, 227, 0.2);
+        }
+
+        /* Dark mode toggle */
+        .theme-toggle {
+            background-color: transparent;
+            border: none;
+            cursor: pointer;
+            padding: 5px;
+            display: flex;
+            align-items: center;
+            color: var(--secondary-color);
+        }
+
+        .theme-toggle svg {
+            width: 24px;
+            height: 24px;
+        }
+
+        /* Animation for card appearance */
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+                transform: translateY(20px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        .paper-card {
+            animation: fadeIn 0.5s ease forwards;
+        }
+
+        /* Progress bar for loading */
+        .progress-container {
+            width: 100%;
+            height: 4px;
+            background-color: rgba(0, 0, 0, 0.1);
+            position: fixed;
+            top: 0;
+            left: 0;
+            z-index: 9999;
+        }
+
+        .progress-bar {
+            height: 100%;
+            background-color: var(--primary-color);
+            width: 0;
+            transition: width 0.3s ease;
+        }
+    </style>
+</head>
+<body>
+    <div class="progress-container">
+        <div class="progress-bar" id="progressBar"></div>
+    </div>
+
+    <header>
+        <div class="container">
+            <div class="header-content">
+                <div class="logo">
+                    <h1>NuclearPapers</h1>
+                </div>
+                <button class="theme-toggle" id="themeToggle">
+                    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20.354 15.354A9 9 0 018.646 3.646 9.003 9.003 0 0012 21a9.003 9.003 0 008.354-5.646z" />
+                    </svg>
+                </button>
+            </div>
+        </div>
+    </header>
+
+    <section class="hero">
+        <div class="container">
+            <h1>Discover Nuclear Physics Research</h1>
+            <p>The latest publications from leading journals in nuclear physics, updated in real-time</p>
+        </div>
+    </section>
+
+    <div class="container">
+        <div class="search-box">
+            <input type="text" class="search-input" placeholder="Search by title, author, or keyword..." id="searchInput">
+        </div>
+
+        <div class="stats-bar">
+            <div class="stats-content">
+                <div class="stat-item">
+                    <div class="stat-value" id="totalPapers">0</div>
+                    <div class="stat-label">Papers</div>
+                </div>
+                <div class="stat-item">
+                    <div class="stat-value" id="totalJournals">9</div>
+                    <div class="stat-label">Journals</div>
+                </div>
+                <div class="stat-item">
+                    <div class="stat-value" id="lastUpdated">Now</div>
+                    <div class="stat-label">Last Updated</div>
+                </div>
+            </div>
+        </div>
+
+        <div class="filters">
+            <button class="filter-btn active" data-source="all">All Sources</button>
+            <button class="filter-btn" data-source="Physical Review Letter">PRL</button>
+            <button class="filter-btn" data-source="Physical Review C">PRC</button>
+            <button class="filter-btn" data-source="arXiv for Nuclear Theory">arXiv</button>
+            <button class="filter-btn" data-source="Journal of Physics G: Nuclear and Particle Physics">J. Phys. G</button>
+            <button class="filter-btn" data-source="European Physical Journal A">EPJA</button>
+            <button class="filter-btn" data-source="Physics Letters B">Phys. Lett. B</button>
+            <button class="filter-btn" data-source="Nuclear Physics A">Nucl. Phys. A</button>
+            <button class="filter-btn" data-source="Few-Body Systems">Few-Body</button>
+            <button class="filter-btn" data-source="Chinese Physics C">Chin. Phys. C</button>
+        </div>
+
+        <div class="status" id="statusMessage">Loading recent publications...</div>
+
+        <div class="loading-spinner" id="loadingSpinner">
+            <div class="spinner"></div>
+        </div>
+
+        <div class="papers-grid" id="papersGrid">
+            <!-- Papers will be loaded here via JavaScript -->
+        </div>
+    </div>
+
+    <footer>
+        <div class="container">
+            <div class="footer-content">
+                <p>Designed and made by <a href="http://jinlei.fewbody.com/">Jin Lei</a>. Supported by the National Natural Science Foundation of China (Grants No. 12475132). If you find any bugs or errors related to this website, please <a href="mailto:jinl@tongji.edu.cn">email me</a>.</p>
+                <p>&copy; 2025 NuclearPapers. All rights reserved.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script>
+        // RSS Feed URLs
+        const FEEDS = [
+            {"url": "http://feeds.aps.org/rss/tocsec/PRL-NuclearPhysics.xml", "name": "Physical Review Letter"},
+            {"url": "http://feeds.aps.org/rss/recent/prc.xml", "name": "Physical Review C"},
+            {"url": "https://rss.arxiv.org/rss/nucl-th", "name": "arXiv for Nuclear Theory"},
+            {"url": "https://iopscience.iop.org/journal/rss/0954-3899", "name": "Journal of Physics G: Nuclear and Particle Physics"},
+            {"url": "http://feeds.feedburner.com/edp_epja?format=xml", "name": "European Physical Journal A"},
+            {"url": "https://rss.sciencedirect.com/publication/science/03702693", "name": "Physics Letters B"},
+            {"url": "https://rss.sciencedirect.com/publication/science/03759474", "name": "Nuclear Physics A"},
+            {"url": "http://link.springer.com/search.rss?facet-content-type=Article&facet-journal-id=601&channel-name=Few-Body%20Systems", "name": "Few-Body Systems"},
+            {"url": "https://iopscience.iop.org/journal/rss/1674-1137", "name": "Chinese Physics C"},
+        ];
+
+        // Function to parse RSS feeds using a CORS proxy
+        async function fetchRSSFeeds() {
+            const corsProxy = 'https://api.allorigins.win/raw?url=';
+            let allPapers = [];
+            let loadedFeeds = 0;
+            
+            updateProgressBar(0);
+
+            for (const feed of FEEDS) {
+                try {
+                    const response = await fetch(corsProxy + encodeURIComponent(feed.url));
+                    if (!response.ok) {
+                        console.error(`Failed to fetch ${feed.name}: ${response.status}`);
+                        continue;
+                    }
+                    
+                    const text = await response.text();
+                    const parser = new DOMParser();
+                    const xmlDoc = parser.parseFromString(text, "text/xml");
+                    const items = xmlDoc.querySelectorAll("item");
+                    
+                    items.forEach(item => {
+                        // Get publication date
+                        const pubDateElement = item.querySelector("pubDate");
+                        let pubDate = pubDateElement ? new Date(pubDateElement.textContent) : new Date();
+                        
+                        // Check if the paper was published in the last 36 hours
+                        const hoursSincePublication = (new Date() - pubDate) / (1000 * 60 * 60);
+                        if (hoursSincePublication <= 36) {
+                            // Extract authors - different RSS feeds may structure this differently
+                            let authors = "Unknown";
+                            const creatorElement = item.querySelector("dc\\:creator");
+                            if (creatorElement) {
+                                authors = creatorElement.textContent;
+                            } else if (item.querySelector("author")) {
+                                authors = item.querySelector("author").textContent;
+                            }
+                            
+                            // Extract and clean the summary
+                            let summary = item.querySelector("description") ? 
+                                item.querySelector("description").textContent : "";
+                            // Remove HTML tags from summary
+                            summary = summary.replace(/<[^>]*>/g, "");
+                            
+                            allPapers.push({
+                                title: item.querySelector("title") ? 
+                                    item.querySelector("title").textContent : "No Title Available",
+                                link: item.querySelector("link") ? 
+                                    item.querySelector("link").textContent : "#",
+                                authors: authors,
+                                source: feed.name,
+                                publicationDate: pubDate,
+                                summary: summary
+                            });
+                        }
+                    });
+                    
+                    loadedFeeds++;
+                    updateProgressBar((loadedFeeds / FEEDS.length) * 100);
+                    
+                } catch (error) {
+                    console.error(`Error fetching ${feed.name}:`, error);
+                    loadedFeeds++;
+                    updateProgressBar((loadedFeeds / FEEDS.length) * 100);
+                }
+            }
+            
+            // Sort papers by publication date (newest first)
+            allPapers.sort((a, b) => b.publicationDate - a.publicationDate);
+            
+            return allPapers;
+        }
+
+        // Update progress bar
+        function updateProgressBar(percentage) {
+            document.getElementById('progressBar').style.width = `${percentage}%`;
+            if (percentage >= 100) {
+                setTimeout(() => {
+                    document.getElementById('progressBar').style.width = '0';
+                }, 500);
+            }
+        }
+
+        // Function to render the papers
+        function renderPapers(papers, filter = 'all') {
+            const papersGrid = document.getElementById('papersGrid');
+            const loadingSpinner = document.getElementById('loadingSpinner');
+            const statusMessage = document.getElementById('statusMessage');
+            const totalPapersElement = document.getElementById('totalPapers');
+            const lastUpdatedElement = document.getElementById('lastUpdated');
+            
+            // Hide loading spinner
+            loadingSpinner.style.display = 'none';
+            
+            // Filter papers if necessary
+            let filteredPapers = papers;
+            if (filter !== 'all') {
+                filteredPapers = papers.filter(paper => paper.source === filter);
+            }
+            
+            // Update stats
+            totalPapersElement.textContent = papers.length;
+            lastUpdatedElement.textContent = moment().format('HH:mm');
+            
+            // Show appropriate message based on results
+            if (filteredPapers.length === 0) {
+                statusMessage.textContent = filter === 'all' 
+                    ? 'No papers published in the last 36 hours.' 
+                    : `No papers from ${filter} in the last 36 hours.`;
+                papersGrid.innerHTML = `
+                    <div class="no-papers">
+                        <p>No recent papers found matching your criteria.</p>
+                    </div>
+                `;
+                return;
+            }
+            
+            statusMessage.textContent = filter === 'all' 
+                ? `Showing ${filteredPapers.length} papers from the last 36 hours` 
+                : `Showing ${filteredPapers.length} papers from ${filter}`;
+            
+            // Render the papers
+            papersGrid.innerHTML = '';
+            filteredPapers.forEach((paper, index) => {
+                const paperCard = document.createElement('div');
+                paperCard.className = 'paper-card';
+                paperCard.style.animationDelay = `${index * 0.05}s`;
+                
+                // Format publication date
+                const formattedDate = moment(paper.publicationDate).fromNow();
+                
+                // Truncate summary if needed
+                const truncatedSummary = paper.summary && paper.summary.length > 200 
+                    ? paper.summary.substring(0, 200) + '...' 
+                    : paper.summary;
+                
+                paperCard.innerHTML = `
+                    <div class="paper-source">${paper.source}</div>
+                    <div class="paper-content">
+                        <div class="paper-title">${paper.title}</div>
+                        <div class="paper-authors">${paper.authors}</div>
+                        <div class="paper-date">${formattedDate}</div>
+                        <div class="paper-summary">${truncatedSummary || 'No summary available.'}</div>
+                        <div class="paper-link">
+                            <a href="${paper.link}" target="_blank">
+                                Read Paper
+                                <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3" />
+                                </svg>
+                            </a>
+                        </div>
+                    </div>
+                `;
+                
+                papersGrid.appendChild(paperCard);
+            });
+        }
+
+        // Filter papers based on search input
+        function filterPapersBySearch(papers, searchTerm) {
+            if (!searchTerm) return papers;
+            
+            searchTerm = searchTerm.toLowerCase();
+            return papers.filter(paper => 
+                paper.title.toLowerCase().includes(searchTerm) || 
+                paper.authors.toLowerCase().includes(searchTerm) || 
+                paper.summary.toLowerCase().includes(searchTerm)
+            );
+        }
+
+        // Dark mode toggle
+        function toggleDarkMode() {
+            const body = document.body;
+            body.classList.toggle('dark-mode');
+            
+            // Save preference to localStorage
+            const isDarkMode = body.classList.contains('dark-mode');
+            localStorage.setItem('darkMode', isDarkMode ? 'enabled' : 'disabled');
+            
+            // Update the toggle icon
+            const themeToggle = document.getElementById('themeToggle');
+            if (isDarkMode) {
+                themeToggle.innerHTML = `
+                    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 3v1m0 16v1m9-9h-1M4 12H3m15.364 6.364l-.707-.707M6.343 6.343l-.707-.707m12.728 0l-.707.707M6.343 17.657l-.707.707M16 12a4 4 0 11-8 0 4 4 0 018 0z" />
+                    </svg>
+                `;
+            } else {
+                themeToggle.innerHTML = `
+                    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20.354 15.354A9 9 0 018.646 3.646 9.003 9.003 0 0012 21a9.003 9.003 0 008.354-5.646z" />
+                    </svg>
+                `;
+            }
+        }
+
+        // Apply dark mode styles
+        function applyDarkMode() {
+            const darkModeStyles = `
+                body.dark-mode {
+                    background-color: var(--dark-bg);
+                    color: white;
+                }
+                
+                body.dark-mode header {
+                    background-color: rgba(20, 20, 20, 0.8);
+                    border-bottom: 1px solid #333;
+                }
+                
+                body.dark-mode .logo h1 {
+                    color: white;
+                }
+                
+                body.dark-mode .theme-toggle {
+                    color: white;
+                }
+                
+                body.dark-mode .paper-card {
+                    background-color: #262626;
+                }
+                
+                body.dark-mode .paper-title {
+                    color: white;
+                }
+                
+                body.dark-mode .paper-summary,
+                body.dark-mode .paper-authors {
+                    color: #bbb;
+                }
+                
+                body.dark-mode .paper-date {
+                    color: #999;
+                }
+                
+                body.dark-mode .filter-btn {
+                    border-color: #444;
+                    color: white;
+                }
+                
+                body.dark-mode .filter-btn:hover {
+                    background-color: #333;
+                }
+                
+                body.dark-mode .filter-btn.active {
+                    background-color: var(--primary-color);
+                    border-color: var(--primary-color);
+                }
+                
+                body.dark-mode .stats-bar {
+                    background-color: #262626;
+                }
+                
+                body.dark-mode .stat-label {
+                    color: #999;
+                }
+                
+                body.dark-mode .search-input {
+                    background-color: #262626;
+                    border-color: #444;
+                    color: white;
+                }
+                
+                body.dark-mode .search-input:focus {
+                    border-color: var(--primary-color);
+                }
+                
+                body.dark-mode .no-papers {
+                    background-color: #262626;
+                    color: #bbb;
+                }
+            `;
+            
+            // Add the styles to the document
+            const styleElement = document.createElement('style');
+            styleElement.textContent = darkModeStyles;
+            document.head.appendChild(styleElement);
+            
+            // Check for saved preference
+            const savedDarkMode = localStorage.getItem('darkMode');
+            if (savedDarkMode === 'enabled') {
+                document.body.classList.add('dark-mode');
+                
+                // Update the toggle icon
+                const themeToggle = document.getElementById('themeToggle');
+                themeToggle.innerHTML = `
+                    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 3v1m0 16v1m9-9h-1M4 12H3m15.364 6.364l-.707-.707M6.343 6.343l-.707-.707m12.728 0l-.707.707M6.343 17.657l-.707.707M16 12a4 4 0 11-8 0 4 4 0 018 0z" />
+                    </svg>
+                `;
+            }
+        }
+
+        // Initialize
+        document.addEventListener('DOMContentLoaded', async () => {
+            // Apply dark mode
+            applyDarkMode();
+            
+            // Theme toggle event listener
+            document.getElementById('themeToggle').addEventListener('click', toggleDarkMode);
+            
+            let allPapers = [];
+            
+            try {
+                // Fetch all papers
+                allPapers = await fetchRSSFeeds();
+                
+                // Render all papers initially
+                renderPapers(allPapers);
+                
+                // Add event listeners for filter buttons
+                const filterButtons = document.querySelectorAll('.filter-btn');
+                filterButtons.forEach(button => {
+                    button.addEventListener('click', () => {
+                        // Remove active class from all buttons
+                        filterButtons.forEach(btn => btn.classList.remove('active'));
+                        
+                        // Add active class to clicked button
+                        button.classList.add('active');
+                        
+                        // Get filter value
+                        const filter = button.getAttribute('data-source');
+                        
+                        // Get current search term
+                        const searchTerm = document.getElementById('searchInput').value;
+                        
+                        // Apply both filters
+                        let filteredPapers = allPapers;
+                        if (filter !== 'all') {
+                            filteredPapers = filteredPapers.filter(paper => paper.source === filter);
+                        }
+                        
+                        filteredPapers = filterPapersBySearch(filteredPapers, searchTerm);
+                        
+                        // Render filtered papers
+                        renderPapers(filteredPapers, filter);
+                    });
+                });
+                
+                // Add event listener for search input
+                const searchInput = document.getElementById('searchInput');
+                searchInput.addEventListener('input', () => {
+                    const searchTerm = searchInput.value;
+                    const activeFilter = document.querySelector('.filter-btn.active');
+                    const filterValue = activeFilter.getAttribute('data-source');
+                    
+                    // Apply both filters
+                    let filteredPapers = allPapers;
+                    if (filterValue !== 'all') {
+                        filteredPapers = filteredPapers.filter(paper => paper.source === filterValue);
+                    }
+                    
+                    filteredPapers = filterPapersBySearch(filteredPapers, searchTerm);
+                    
+                    // Render filtered papers
+                    renderPapers(filteredPapers, filterValue);
+                });
+                
+                // Auto-refresh every 60 minutes
+                setInterval(async () => {
+                    try {
+                        const statusMessage = document.getElementById('statusMessage');
+                        statusMessage.textContent = 'Refreshing publications...';
+                        
+                        allPapers = await fetchRSSFeeds();
+                        
+                        // Apply current filters
+                        const activeFilter = document.querySelector('.filter-btn.active');
+                        const filterValue = activeFilter.getAttribute('data-source');
+                        const searchTerm = document.getElementById('searchInput').value;
+                        
+                        let filteredPapers = allPapers;
+                        if (filterValue !== 'all') {
+                            filteredPapers = filteredPapers.filter(paper => paper.source === filterValue);
+                        }
+                        
+                        filteredPapers = filterPapersBySearch(filteredPapers, searchTerm);
+                        
+                        renderPapers(filteredPapers, filterValue);
+                    } catch (error) {
+                        console.error('Error refreshing data:', error);
+                        const statusMessage = document.getElementById('statusMessage');
+                        statusMessage.textContent = 'Error refreshing data. Will try again later.';
+                    }
+                }, 60 * 60 * 1000); // 60 minutes
+            } catch (error) {
+                console.error('Error loading papers:', error);
+                const statusMessage = document.getElementById('statusMessage');
+                statusMessage.textContent = 'Error loading publications. Please try refreshing the page.';
+                
+                const loadingSpinner = document.getElementById('loadingSpinner');
+                loadingSpinner.style.display = 'none';
+                
+                const papersGrid = document.getElementById('papersGrid');
+                papersGrid.innerHTML = `
+                    <div class="no-papers">
+                        <p>Unable to load papers. Please try again later.</p>
+                    </div>
+                `;
+            }
+        });
