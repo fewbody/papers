@@ -2,7 +2,7 @@ name: Update RSS Data
 
 on:
   schedule:
-    - cron: '0 */6 * * *'  # Run every 6 hours
+    - cron: '0 1 * * *'  # Run at 1 AM UTC, which is 9 AM Beijing Time
   workflow_dispatch:  # Allow manual trigger
 
 permissions:
