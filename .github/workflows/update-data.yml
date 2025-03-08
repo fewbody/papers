@@ -5,6 +5,9 @@ on:
     - cron: '0 */6 * * *'  # Run every 6 hours
   workflow_dispatch:  # Allow manual trigger
 
+permissions:
+  contents: write  # This gives the GITHUB_TOKEN permission to write to the repository
+
 jobs:
   update-data:
     runs-on: ubuntu-latest
@@ -12,6 +15,9 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
+        with:
+          # This makes sure we have the full git history
+          fetch-depth: 0
         
       - name: Set up Python
         uses: actions/setup-python@v2
@@ -26,10 +32,38 @@ jobs:
       - name: Fetch RSS feeds and update data
         run: python update_rss_data.py
         
-      - name: Commit and push if changed
+      - name: Configure Git
         run: |
-          git config --global user.name 'GitHub Action'
-          git config --global user.email 'action@github.com'
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+      
+      # Method 1: Using Actions-specific deploy key
+      - name: Commit and push changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "Update RSS data [skip ci]"
+          file_pattern: data.json
+      
+      # Method 2: If Method 1 fails, try this alternative approach
+      - name: Alternative push (if the above fails)
+        if: failure()
+        run: |
           git add data.json
           git diff --quiet && git diff --staged --quiet || git commit -m "Update RSS data [skip ci]"
-          git push https://${{ secrets.PAT }}@github.com/fewbody/papers.git
+          # Use GITHUB_TOKEN which has the right permissions because we set them at the top
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      
+      # Method 3: Final attempt with PAT if you've configured it
+      - name: Final attempt with PAT
+        if: failure()
+        run: |
+          # Only run this if previous steps failed
+          git add data.json
+          git diff --quiet && git diff --staged --quiet || git commit -m "Update RSS data [skip ci]"
+          
+          # Use a more robust URL format with the token
+          echo "Attempting push with PAT..."
+          git remote set-url origin https://${{ secrets.PAT }}@github.com/${{ github.repository }}.git
+          git push origin HEAD:${{ github.ref }}
