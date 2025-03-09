@@ -20,7 +20,7 @@ FEEDS = [
 
 def fetch_new_articles():
     """
-    Fetch all articles from RSS feeds without handling publication dates.
+    Fetch all articles from RSS feeds.
     
     Returns:
         list: A list of dictionaries containing article details (title, link, authors, source, summary).
@@ -63,53 +63,51 @@ def fetch_new_articles():
         except Exception as e:
             print(f"Error processing {feed['name']}: {e}")
     
-    # No sorting by publication date; return papers in fetched order
     return all_papers
 
 def main():
     """
-    Main function to fetch new articles, compare with existing ones, and update the data file.
+    Main function to fetch new articles, compare with existing ones, and update the data files.
+    - source.json: Contains all historical articles
+    - data.json: Contains only the newest batch of articles from current run
     """
-    # Load existing data from data.json if it exists, excluding publicationDate
+    # Load existing data from source.json if it exists
     try:
-        with open('data.json', 'r', encoding='utf-8') as f:
-            data = json.load(f)
-            # Reconstruct existing papers with only desired fields
-            existing_papers = [
-                {
-                    "title": paper.get("title", "No Title Available"),
-                    "link": paper.get("link", "#"),
-                    "authors": paper.get("authors", "Unknown"),
-                    "source": paper.get("source", ""),
-                    "summary": paper.get("summary", "")
-                }
-                for paper in data.get("papers", [])
-            ]
+        with open('source.json', 'r', encoding='utf-8') as f:
+            source_data = json.load(f)
+            existing_papers = source_data.get("papers", [])
     except FileNotFoundError:
-        data = {"lastUpdated": None, "papers": []}
+        source_data = {"lastUpdated": None, "papers": []}
         existing_papers = []
 
     # Fetch all articles from RSS feeds
-    new_articles = fetch_new_articles()
+    all_articles = fetch_new_articles()
     
     # Create a set of existing article links for comparison
     existing_links = set(paper["link"] for paper in existing_papers)
     
-    # Filter out articles already in data.json
-    new_papers = [article for article in new_articles if article["link"] not in existing_links]
+    # Filter to get only new articles
+    new_papers = [article for article in all_articles if article["link"] not in existing_links]
     
-    # Add new papers to the existing list
-    existing_papers.extend(new_papers)
+    # Update source.json with all papers (existing + new)
+    source_data["papers"] = existing_papers + new_papers
+    source_data["lastUpdated"] = datetime.now().isoformat()
     
-    # Update the data dictionary
-    data["papers"] = existing_papers
-    data["lastUpdated"] = datetime.now().isoformat()
+    with open('source.json', 'w', encoding='utf-8') as f:
+        json.dump(source_data, f, ensure_ascii=False, indent=2)
     
-    # Save to JSON file
+    # Create data.json with only the new papers from this run
+    data_json = {
+        "lastUpdated": datetime.now().isoformat(),
+        "papers": new_papers
+    }
+    
     with open('data.json', 'w', encoding='utf-8') as f:
-        json.dump(data, f, ensure_ascii=False, indent=2)
+        json.dump(data_json, f, ensure_ascii=False, indent=2)
     
-    print(f"Added {len(new_papers)} new papers. Total papers in data.json: {len(existing_papers)}")
+    print(f"Found {len(new_papers)} new papers in this run.")
+    print(f"Total papers in source.json: {len(source_data['papers'])}")
+    print(f"New papers added to data.json: {len(new_papers)}")
 
 if __name__ == "__main__":
     main()
