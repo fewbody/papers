@@ -383,8 +383,11 @@
                 // Apply initial sorting and filtering
                 applyFiltersAndSort();
                 
-                // Remove loading indicator
-                document.querySelector('.loading').remove();
+                // Remove loading indicator if it exists
+                const loadingElement = document.querySelector('.loading');
+                if (loadingElement) {
+                    loadingElement.remove();
+                }
             } catch (error) {
                 console.error('Error fetching data:', error);
                 document.getElementById('publicationsContainer').innerHTML = 
