@@ -42,13 +42,13 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: "Update RSS data [skip ci]"
-          file_pattern: data.json
+          file_pattern: data.json source.json
       
       # Method 2: If Method 1 fails, try this alternative approach
       - name: Alternative push (if the above fails)
         if: failure()
         run: |
-          git add data.json
+          git add data.json source.json
           git diff --quiet && git diff --staged --quiet || git commit -m "Update RSS data [skip ci]"
           # Use GITHUB_TOKEN which has the right permissions because we set them at the top
           git push
@@ -60,7 +60,7 @@ jobs:
         if: failure()
         run: |
           # Only run this if previous steps failed
-          git add data.json
+          git add data.json source.json
           git diff --quiet && git diff --staged --quiet || git commit -m "Update RSS data [skip ci]"
           
           # Use a more robust URL format with the token
