@@ -66,6 +66,23 @@
             color: var(--medium-gray);
             font-size: 0.9rem;
         }
+        
+        .data-toggle {
+            color: var(--medium-gray);
+            font-size: 0.9rem;
+            margin-top: var(--spacing-xs);
+        }
+        
+        .data-toggle label {
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+        
+        .data-toggle input[type="checkbox"] {
+            accent-color: var(--primary-color);
+        }
 
         .controls {
             max-width: 1200px;
@@ -310,6 +327,11 @@
         <div class="header-content">
             <h1>Recent Nuclear Theory Publications</h1>
             <p class="last-updated">Last updated: <span id="lastUpdated">Loading...</span></p>
+            <p class="data-toggle">
+                <label>
+                    <input type="checkbox" id="toggleDataSource"> Show all historical publications
+                </label>
+            </p>
         </div>
     </header>
 
@@ -342,57 +364,80 @@
     </main>
 
     <footer>
-        <p>© 2025 Nuclear Theory Publications. Updated daily at 9:00 AM Beijing Time.</p>
+        <p>© 2025 Nuclear Theory Publications. <span id="dataSourceInfo">Currently showing newest publications only.</span></p>
+        <p>Designed and made by <a href="http://jinlei.fewbody.com/">Jin Lei</a>. Supported by the National Natural Science Foundation of China (Grants No. 12475132). If you find any bugs or errors related to this website, please <a href="mailto:jinl@tongji.edu.cn">email me</a>.</p>
     </footer>
 
     <script>
         // Configuration
         const DATA_URL = 'data.json';
+        const SOURCE_URL = 'source.json'; // Add source.json URL
         const ITEMS_PER_PAGE = 12;
         let allPublications = [];
         let filteredPublications = [];
         let currentPage = 1;
         let allSources = new Set();
+        let useSourceData = false; // Flag to determine which data source to use
 
         // Fetch data from the JSON file
         async function fetchData() {
             try {
-                const response = await fetch(DATA_URL);
+                // Determine which URL to use based on toggle state
+                const url = useSourceData ? SOURCE_URL : DATA_URL;
+                const response = await fetch(url);
+                
                 if (!response.ok) {
+                    // If source.json fails but we're trying to use it, fall back to data.json
+                    if (useSourceData) {
+                        console.warn('Failed to load source.json, falling back to data.json');
+                        const dataResponse = await fetch(DATA_URL);
+                        if (!dataResponse.ok) {
+                            throw new Error('Failed to load both source and data files');
+                        }
+                        const data = await dataResponse.json();
+                        processData(data);
+                        return;
+                    }
                     throw new Error('Network response was not ok');
                 }
+                
                 const data = await response.json();
-                
-                // Update last updated time
-                const lastUpdated = new Date(data.lastUpdated);
-                document.getElementById('lastUpdated').textContent = formatDate(lastUpdated);
-                
-                // Process publications
-                allPublications = data.papers;
-                
-                // Extract all sources for filtering
-                allPublications.forEach(pub => {
-                    if (pub.source) {
-                        allSources.add(pub.source);
-                    }
-                });
-                
-                // Populate source filter dropdown
-                populateSourceFilter();
-                
-                // Apply initial sorting and filtering
-                applyFiltersAndSort();
-                
-                // Remove loading indicator if it exists
-                const loadingElement = document.querySelector('.loading');
-                if (loadingElement) {
-                    loadingElement.remove();
-                }
+                processData(data);
             } catch (error) {
                 console.error('Error fetching data:', error);
                 document.getElementById('publicationsContainer').innerHTML = 
                     `<div class="error-message">Failed to load publications: ${error.message}</div>`;
                 document.getElementById('loadMoreButton').disabled = true;
+            }
+        }
+        
+        // Process the fetched data
+        function processData(data) {
+            // Update last updated time
+            const lastUpdated = new Date(data.lastUpdated);
+            document.getElementById('lastUpdated').textContent = formatDate(lastUpdated);
+            
+            // Process publications
+            allPublications = data.papers;
+            
+            // Extract all sources for filtering
+            allSources.clear();
+            allPublications.forEach(pub => {
+                if (pub.source) {
+                    allSources.add(pub.source);
+                }
+            });
+            
+            // Populate source filter dropdown
+            populateSourceFilter();
+            
+            // Apply initial sorting and filtering
+            applyFiltersAndSort();
+            
+            // Remove loading indicator if it exists
+            const loadingElement = document.querySelector('.loading');
+            if (loadingElement) {
+                loadingElement.remove();
             }
         }
 
@@ -594,6 +639,23 @@
                 currentPage++;
                 renderPublications();
                 updateLoadMoreButton();
+            });
+            
+            // Toggle between data sources
+            document.getElementById('toggleDataSource').addEventListener('change', (e) => {
+                useSourceData = e.target.checked;
+                
+                // Clear the current display and show loading
+                document.getElementById('publicationsContainer').innerHTML = '<div class="loading">Loading publications...</div>';
+                document.getElementById('loadMoreButton').disabled = true;
+                
+                // Update the data source info text
+                document.getElementById('dataSourceInfo').textContent = useSourceData 
+                    ? 'Currently showing all historical publications.' 
+                    : 'Currently showing newest publications only.';
+                
+                // Fetch data from the appropriate source
+                fetchData();
             });
         });
 
