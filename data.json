@@ -1,4 +1,103 @@
 {
-  "lastUpdated": "2025-04-14T02:26:40.676786",
-  "papers": []
+  "lastUpdated": "2025-04-15T02:25:52.295252",
+  "papers": [
+    {
+      "title": "Impact of the $σ$-cut potential in the properties of neutron star matter",
+      "link": "http://link.aps.org/doi/10.1103/PhysRevC.111.045801",
+      "authors": "Tamanna Iqbal, Prashant Thakur, Yashmitha Kumaran, R. Chandra, T. K. Jha, and B. K. Sharma",
+      "source": "Physical Review C",
+      "summary": "Author(s): Tamanna Iqbal, Prashant Thakur, Yashmitha Kumaran, R. Chandra, T. K. Jha, and B. K. SharmaWe analyze the effect of the $σ$ potential on the characteristics of pure nucleonic and hyperon-rich neutron star matter with recently proposed, well-constrained relativistic mean field model. The $σ$-cut potential is recognized for diminishing the influence of the $σ$ field, leading to a stiffer eq…[Phys. Rev. C 111, 045801] Published Mon Apr 14, 2025"
+    },
+    {
+      "title": "Can the strong interactions between hadrons be determined using femtoscopy?",
+      "link": "https://arxiv.org/abs/2504.08631",
+      "authors": "Evgeny Epelbaum, Sven Heihoff, Ulf-G. Mei{\\ss}ner, Alexander Tscherwon",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2504.08631v1 Announce Type: new \nAbstract: In the last decades, femtoscopic measurements from heavy-ion collisions have become a popular tool to investigate the strong interactions between hadrons. The key observables measured in such experiments are the two-hadron momentum correlations, which depend on the production mechanism of hadron pairs and the final-state interactions. Given the complexity of ultra-relativistic collision experiments, the source term describing the production mechanism can only be modeled phenomenologically based on numerous assumptions. The commonly employed approach for analyzing femtoscopic data relies on the Koonin-Pratt formula, which relates the measured correlation functions with the relative wave function of an outgoing hadron pair and a source term that is assumed to be universal. Here, we critically examine this universality assumption and show that for strongly interacting particles such as nucleons, the interpretation of femtoscopic measurements suffers from a potentially large intrinsic uncertainty. We also comment on the ongoing efforts to explore three-body interactions using this experimental technique."
+    },
+    {
+      "title": "Two-body currents at finite momentum transfer and applications to M1 transitions",
+      "link": "https://arxiv.org/abs/2504.08711",
+      "authors": "C. Brase, T. Miyagi, J. Men\\'endez, A. Schwenk",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2504.08711v1 Announce Type: new \nAbstract: We explore the impact of two-body currents (2BCs) at finite momentum transfer with a focus on magnetic dipole properties in $^{48}$Ca and $^{48}$Ti. To this end, we derive a multipole decomposition of 2BCs to fully include the momentum-transfer dependence in ${\\it ab\\,\\,initio}$ calculations. As application, we investigate the effects of 2BCs on the strong M1 transition at 10.23 MeV in $^{48}$Ca using the valence-space in-medium similarity renormalization group (VS-IMSRG) with a set of non-implausible interactions as well as the 1.8/2.0 (EM) interaction. Experiments, such as $(e,e')$ and $(\\gamma,n)$, disagree on the magnetic dipole strength $B$(M1) for this transition. Our VS-IMSRG results favor larger $B$(M1) values similar to recent coupled-cluster calculations. However, for this transition there are larger cancellations between the leading pion-in-flight and seagull 2BCs, so that future calculations including higher-order 2BCs are important. For validation of our results, we investigate additional observables in $^{48}$Ca as well as M1 transitions in $^{48}$Ti. For these, our results agree with experiment. Finally, our results show that for medium-mass nuclei 2BC contributions to M1 and Gamow-Teller transitions are, as expected, very different. Therefore, using similar quenching factors for both in phenomenological calculations is not supported from first principles."
+    },
+    {
+      "title": "The Early History of the Quark-Gluon Plasma",
+      "link": "https://arxiv.org/abs/2504.08720",
+      "authors": "W. Busza, W. A. Zajc",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2504.08720v1 Announce Type: new \nAbstract: We present the historical antecedents to the field of relativistic heavy ion physics, beginning with early attempts to model the strong interaction and ending with the endorsement of a relativistic heavy ion collider in the 1983 U.S. Long-Range Plan for Nuclear Science. Particular attention is paid to two major themes: 1) A program to study high density states of nuclear matter emerging from the 1974 Bear Mountain conference and 2) Efforts to understand the predictions of QCD for matter at high densities and/or temperatures."
+    },
+    {
+      "title": "Kaon and Pion Fragmentation Functions",
+      "link": "https://arxiv.org/abs/2504.08142",
+      "authors": "Hui-Yu Xing, Wen-Hao Bian, Zhu-Fang Cui, Craig D. Roberts",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2504.08142v1 Announce Type: cross \nAbstract: The Drell-Levy-Yan relation is employed to obtain pion and kaon elementary fragmentation functions (EFFs) from the hadron-scale parton distribution functions (DFs) of these mesons. Two different DF sets are used: that calculated using a symmetry-preserving treatment of a vector $\\times$ vector contact interaction (SCI) and the other expressing results obtained using continuum Schwinger function methods (CSMs). Thus determined, the EFFs serve as driving terms in a coupled set of hadron cascade equations, whose solution yields the complete array of hadron-scale fragmentation functions (FFs) for pion and kaon production in high energy reactions. After evolution to scales typical of experiments, the SCI and CSM FF predictions are seen to be in semiquantitative agreement. Importantly, they conform with a range of physical expectations for FF behaviour on the endpoint domains $z\\simeq 0, 1$, e.g., nonsinglet FFs vanish at $z=0$ and singlet FFs diverge faster than $1/z$. Predictions for hadron multiplicities in jets are also delivered. They reveal SU$(3)$ symmetry breaking in the charged-kaon/neutral-kaon multiplicity ratio, whose size diminishes with increasing reaction energy, and show that, with increasing energy, the pion/kaon ratio in $e^+ e^- \\to h X$ diminishes to a value that is independent of hadron masses."
+    },
+    {
+      "title": "Phase Boundary of Nuclear Matter in Magnetic Field",
+      "link": "https://arxiv.org/abs/2504.08379",
+      "authors": "Yuki Amari, Muneto Nitta, Zebin Qiu",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2504.08379v1 Announce Type: cross \nAbstract: Nuclear matter with a strong magnetic field is prevalent inside neutron stars and heavy-ion collisions. In a sufficiently large magnetic field the ground state is either a chiral soliton lattice (CSL), an array of solitons of the neutral pion field, or a domain-wall Skyrmion phase in which Skyrmions emerge inside the chiral solitons. In the region of large chemical potential and a magnetic field lower than its critical value for CSL, a Skyrmion crystal is expected to take up the ground state based on the chiral perturbation theory at the next leading order. We determine the phase boundary between such a Skyrmion crystal and the QCD vacuum. There was a conjecture that a magnetic field deforms the Skyrmion into a pancake shape whose boundary is a superconducting ring of charged pions. In contrast, through the exact Skyrmion solution, we find that the pancake conjecture holds approximately in a strong magnetic field, but fails for a weak one. We also validate that a Skyrmion would shrink to null without the Skyrme term, although Derrick's scaling law is modified by a background magnetic field, and the stability at the leading order is not ruled out in theory."
+    },
+    {
+      "title": "Dependence of post-merger properties on the thermal heating efficiency in neutron star mergers",
+      "link": "https://arxiv.org/abs/2504.08514",
+      "authors": "Ming-Zhe Han, Yong Gao, Kenta Kiuchi, Masaru Shibata",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2504.08514v1 Announce Type: cross \nAbstract: We systematically perform numerical-relativity simulations for equal-mass binary neutron star mergers for the models varying the thermal index $\\Gamma_{\\rm th}$ with 3 different equations of state (EOSs) of the neutron stars (NSs), which are consistent with current multi-messenger observational data and state-of-the-art theoretical calculations, and 2 different binary total mass ($m_0=2.7\\ \\text{and}\\ 2.9~M_\\odot$). By varying the value of $\\Gamma_{\\rm th}$ within the hybrid EOS framework, we investigate the thermal effects on the merger dynamics, gravitational waves (GWs), and the dynamical mass ejection process. We find that the choice of the constant $\\Gamma_{\\rm th}$ can change the outcome of the remnant for specific EOSs and $m_0$. We also show that the dynamical ejecta mass is affected by the $\\Gamma_{\\rm th}$ value in a different way for different EOSs: for a stiff EOS the ejecta mass is high when $\\Gamma_{\\rm th}$ is small, while for softer EOSs the largest ejecta is achieved when $\\Gamma_{\\rm th} = 1.3$--$1.4$. While the inspiral motion does not depend on the $\\Gamma_{\\rm th}$, the post merger phase evolution is highly affected by that. We show that the dominant peak frequency $f_2$ of the post merger GW spectrum monotonically decreases as the $\\Gamma_{\\rm th}$ increases. We find that the universal relations between NS macroscopic properties and post-merger GW frequencies are subject to non-negligible thermal uncertainties, which can obscure the universal relation between the tidal deformability and $f_2$."
+    },
+    {
+      "title": "Hidden Twin Star Solutions from an Agnostic Speed-of-Sound Model: Confronting XTE J1814--338's Extreme Compactness",
+      "link": "https://arxiv.org/abs/2504.08662",
+      "authors": "Tianzhe Zhou, Chun Huang",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2504.08662v1 Announce Type: cross \nAbstract: The twin star configuration, where two neutron stars share the same mass but exhibit different radii, arises from a strong first-order phase transition within the stellar interior. In widely used equation of state (EoS) meta-models, such as the Polytrope (PP) and Speed-of-Sound (CS) models, this first-order phase transition behavior can be naturally mimicked by tuning some model parameters. Here, we systematically explore the under-explored parameter space within one of a widely adopted CS model that leads to twin stars via a strong first-order phase transition. Within this twin-star subspace, we perform a comprehensive Bayesian analysis that integrates mass--radius (MR) constraints from X-ray observations of rotation-powered millisecond pulsars. The resultant twin star branch, situated within the 1--1.2 $M_{\\odot}$ mass range and approximately 7 km in radius, surprisingly coincides with the MR ranges proposed for the recent anomaly in the Accreting Millisecond X-ray Pulsars XTE J1814--338 (J1814), suggesting a hybrid twin star configuration. Moreover, incorporating the J1814 observation as an additional constraint yields an extreme phase transition pressure $P_{\\text{trans}} = 108.9_{-4.85}^{+6.46}$ MeV/fm$^3$, a transition density of $\\varepsilon_{\\text{trans}}/\\varepsilon_0 = 4.847_{-0.134}^{+0.271}$(where $\\varepsilon_0$ is the nuclear saturation energy density) and an energy density jump $\\Delta \\varepsilon = 558.7_{-278.7}^{+303.6}$ MeV/fm$^3$, corresponding to $\\Delta \\varepsilon/\\varepsilon_0 = 3.716_{-1.854}^{+2.020}$. Notably, to satisfy all astrophysical constraints, the speed of sound inside of the hybrid twin star core is driven toward the speed of light ($c_s^2/c^2 > 0.9$), indicating the potential presence of strongly interacting, exotic matter in this core region."
+    },
+    {
+      "title": "Sensitivity analysis of $\\beta$-decay half-life predictions for Ge, As, Zr and Mo nuclei within the mapped interacting boson model",
+      "link": "https://arxiv.org/abs/2411.19480",
+      "authors": "M. Homma, K. Nomura",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2411.19480v2 Announce Type: replace \nAbstract: We analyze parameter sensitivities of the mapped interacting boson model (IBM) and boson-fermion-fermion model (IBFFM) in the description of $\\beta$-decay properties of the even-mass neutron-deficient Ge and As, and neutron-rich Zr and Mo isotopes. Based on the self-consistent mean-field calculations with a given energy density functional and a pairing interaction, the IBM Hamiltonian for even-even nuclei, single-particle energies, and occupation probabilities for unpaired nucleons, which are necessary building blocks of the IBFFM Hamiltonian and Gamow-Teller and Fermi transition operators, are completely determined. A few coupling constants of the boson-fermion and residual neutron-proton interactions are only phenomenological parameters fitted to reproduce low-energy spectra of odd-mass and odd-odd nuclei. It is found that the calculated $\\log{}_{10}ft$ values for the $\\beta^+$ decays $^{68}$As$\\to^{68}$Ge are particularly sensitive to the quadrupole-quadrupole boson interaction strength used for the parent ($^{68}$As) nucleus. We further incorporate higher-order terms in the one-nucleon transfer operators in the boson system, and find that, while their effects are non-negligible, they do not significantly alter qualitative features of $\\beta$-decay properties. We report a novel application of the mapped IBM framework to compute $\\beta$-decay half-lives, and show that the observed trend along isotopic chains are reasonably reproduced."
+    },
+    {
+      "title": "Semi-automatic Calculations of Multi-loop Feynman Amplitudes with AmpRed",
+      "link": "https://arxiv.org/abs/2408.06426",
+      "authors": "Wen Chen",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2408.06426v2 Announce Type: replace-cross \nAbstract: We present a Mathematica package AmpRed for the semi-automatic calculations of multi-loop Feynman amplitudes with high efficiency and precision. AmpRed implements the methods of integration by parts and differential equations in the Feynman-parameter representation. It allows for the calculations of general parametric integrals (which may not have momentum-space correspondences). Various user-friendly tools for multi-loop calculations, such as those to construct and solve differential equations for Feynman integrals, are provided. It can also deal with tensor algebras in non-relativistic field theories. Interfaces to some packages, like QGRAF and FORM, are also provided."
+    },
+    {
+      "title": "Theory of resonances",
+      "link": "https://arxiv.org/abs/2502.02654",
+      "authors": "Maxim Mai",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2502.02654v2 Announce Type: replace-cross \nAbstract: We give a pedagogical introduction to the theory of resonances, focusing specifically on the spectrum of excited strongly interacting particles. After providing historical context starting from the atomic theory, we summarize the status of theoretical and experimental research. We discuss then the methodology to determine universal resonance parameter through the analytical properties of the transition amplitudes. For this, the main aspects of the $S$-matrix theory are introduced including some explicit calculations in simplified cases. In the last section, we summarize several frequently used amplitude types also making a connection to Effective Field Theories, as well as provide first glimpse into some more advanced applications to further resonance properties."
+    },
+    {
+      "title": "Refining Big Bang Nucleosynthesis abundances via the Trojan Horse method",
+      "link": "https://epja.epj.org/10.1140/epja/s10050-025-01546-0",
+      "authors": "Daniel Bemmerer, David Blaschke, Oleksii Ivanytskyi, Eliana Masha, Marie Pichotta, Konrad Schmidt, Matthias Steffen, Roberta Spartà, Rosario Gianluca Pizzone, Livio Lamia, Alessandro Alberto Oliva, Marco La Cognata, Alessia Di Pietro, Pierpaolo Figuera, Giovanni Luca Guardo, Marco La Commara, Dario Lattuada, Marco Mazzocco, Sara Palmerini, Giuseppe Gabriele Rapisarda, Stefano Romano, Maria Letizia Sergi, Aurora Tumino",
+      "source": "European Physical Journal A",
+      "summary": "Authors: Daniel Bemmerer, David Blaschke, Oleksii Ivanytskyi, Eliana Masha, Marie Pichotta, Konrad Schmidt, Matthias Steffen, Roberta Spartà, Rosario Gianluca Pizzone, Livio Lamia, Alessandro Alberto Oliva, Marco La Cognata, Alessia Di Pietro, Pierpaolo Figuera, Giovanni Luca Guardo, Marco La Commara, Dario Lattuada, Marco Mazzocco, Sara Palmerini, Giuseppe Gabriele Rapisarda, Stefano Romano, Maria Letizia Sergi and Aurora Tumino.The European Physical Journal A Vol. 61 , page 77Published online: 10/4/2025"
+    },
+    {
+      "title": "Publisher Erratum: Plasma-delay studies on heavy ion detection using PIPS at the LOHENGRIN recoil separator",
+      "link": "https://epja.epj.org/10.1140/epja/s10050-025-01547-z",
+      "authors": "Ana M. Gómez L., Ali Al-Adili, Diego Tarrío, Andreas Solders, Zhihao Gao, Alf Göök, Stephan Pomp, André Poussette, Samuel Bennett, Yung Hee Kim, Ulli Köster, Andreas Oberstedt, Gavin Smith, Nikolay V. Sosnin, Stephan Oberstedt",
+      "source": "European Physical Journal A",
+      "summary": "Authors: Ana M. Gómez L., Ali Al-Adili, Diego Tarrío, Andreas Solders, Zhihao Gao, Alf Göök, Stephan Pomp, André Poussette, Samuel Bennett, Yung Hee Kim, Ulli Köster, Andreas Oberstedt, Gavin Smith, Nikolay V. Sosnin and Stephan Oberstedt.The European Physical Journal A Vol. 61 , page 78Published online: 10/4/2025"
+    },
+    {
+      "title": "γ$$\\gamma $$-ray angular correlations, distributions and linear polarization in tracking arrays",
+      "link": "https://epja.epj.org/10.1140/epja/s10050-025-01533-5",
+      "authors": "T. Lauritsen, A. Korichi, C. M. Campbell, M. P. Carpenter, P. A. Copp, J. P. Greene, R. V. F. Janssens, T. L. Khoo, F. G. Kondev, C. Müller-Gatermann, S. Nandi, W. Reviol, G. Savard, M. Siciliano, D. Seweryniak, S. Zhu",
+      "source": "European Physical Journal A",
+      "summary": "Authors: T. Lauritsen, A. Korichi, C. M. Campbell, M. P. Carpenter, P. A. Copp, J. P. Greene, R. V. F. Janssens, T. L. Khoo, F. G. Kondev, C. Müller-Gatermann, S. Nandi, W. Reviol, G. Savard, M. Siciliano, D. Seweryniak and S. Zhu.The European Physical Journal A Vol. 61 , page 76Published online: 10/4/2025"
+    }
+  ]
 }
