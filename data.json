@@ -1,47 +1,19 @@
 {
-  "lastUpdated": "2025-05-18T02:43:59.979393",
+  "lastUpdated": "2025-05-19T02:43:28.282849",
   "papers": [
     {
-      "title": "Coupling between collective modes in the deformed $^{98}\\mathrm{Zr}$ nucleus: Insights from consistent $\\mathrm{HFB}+\\mathrm{QRPA}$ calculations with the Gogny interaction",
-      "link": "http://link.aps.org/doi/10.1103/PhysRevC.111.054314",
-      "authors": "E. V. Chimanski, E. J. In, S. Péru, A. Thapa, W. Younes, and J. E. Escher",
-      "source": "Physical Review C",
-      "summary": "Author(s): E. V. Chimanski, E. J. In, S. Péru, A. Thapa, W. Younes, and J. E. EscherThe zirconium isotopes exhibit structural properties that present multiple challenges to nuclear theory. Investigations of the coupling present within isoscalar modes and within isovector modes are scarce but important for advancing our understanding of the microscopic picture of nuclei. To explore …[Phys. Rev. C 111, 054314] Published Fri May 16, 2025"
-    },
-    {
-      "title": "Thermal properties of zero sound in asymmetrical nuclear matter",
-      "link": "http://link.aps.org/doi/10.1103/PhysRevC.111.054315",
-      "authors": "Jing Ye and Wei-Zhou Jiang",
-      "source": "Physical Review C",
-      "summary": "Author(s): Jing Ye and Wei-Zhou JiangThe zero-sound modes at finite temperature are investigated with the relativistic random phase approximation to signal the uncertainty of the equation of state (EOS) of asymmetrical nuclear matter. It is observed that in typically selected stiff and soft relativistic mean-field (RMF) models, zero-so…[Phys. Rev. C 111, 054315] Published Fri May 16, 2025"
-    },
-    {
-      "title": "Coulomb and nuclear breakup of $^{11}\\mathrm{Be}$ using an effective-potential theory description at ${\\mathrm{N}}^{2}\\mathrm{LO}$",
-      "link": "http://link.aps.org/doi/10.1103/PhysRevC.111.054618",
-      "authors": "L.-P. Kubushishi and P. Capel",
-      "source": "Physical Review C",
-      "summary": "Author(s): L.-P. Kubushishi and P. CapelBackground: Halo effective field theory (Halo-EFT) provides a very efficient description of loosely bound nuclei in models of reaction. It offers a very systematical ranking of the significance of nuclear-structure observables in reaction calculations. This greatly helps to infer reliable structure …[Phys. Rev. C 111, 054618] Published Fri May 16, 2025"
-    },
-    {
-      "title": "Relative abundance of correlated spin-zero nucleon pairs",
-      "link": "http://link.aps.org/doi/10.1103/PhysRevC.111.L051304",
-      "authors": "Raz Yankovich, Ehoud Pazy, and Nir Barnea",
-      "source": "Physical Review C",
-      "summary": "Author(s): Raz Yankovich, Ehoud Pazy, and Nir BarneaWe utilize the generalized contact formalism in conjunction with the Woods-Saxon mean-field description of the long-range part of the nuclear wave function to assess the relative prevalence of short-range correlation pairs within atomic nuclei. We validate our approach for proton-proton and neutron-…[Phys. Rev. C 111, L051304] Published Fri May 16, 2025"
-    },
-    {
-      "title": "Investigations on the Maxwell electromagnetic invariant in the spinning and charged horizonless star background",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269325003399?dgcid=rss_sd_all",
+      "title": "Contributions of $${\\varvec{\\psi }}_{\\textbf{2}}$$(3823) and $$\\varvec{\\psi }$$(4040) Charmonium in $$\\varvec{B}^{\\mathbf{+}}\\varvec{\\rightarrow } \\varvec{J}/\\varvec{\\psi \\eta K}^{\\mathbf{+}}$$ Decay",
+      "link": "https://link.springer.com/article/10.1007/s00601-025-01992-y",
       "authors": "Unknown",
-      "source": "Physics Letters B",
-      "summary": "Publication date: July 2025Source: Physics Letters B, Volume 866Author(s): Yan Peng"
+      "source": "Few-Body Systems",
+      "summary": "A recent study from the LHCb detector analyzed the $$J/\\psi \\eta $$ mass spectrum from $$B^+\\rightarrow J/\\psi \\eta K^+$$ decays, reporting the branching fraction ratios as $$F_{X}\\equiv \\frac{\\mathcal {B}r(B^+\\rightarrow \\psi ' K^+)\\times \\mathcal {B}r(\\psi '\\rightarrow J/\\psi \\eta )}{\\mathcal {B}r(B^+\\rightarrow \\psi (2S) K^+)\\times \\mathcal {B}r(\\psi (2S)\\rightarrow J/\\psi \\eta )}$$ for $$\\psi '=\\psi _2(3823),\\psi (4040)$$, which are $$(5.95^{+3.38}_{-2.55})\\times 10^{-2}$$ and $$(40.60\\pm 11.20)\\times 10^{-2}$$, respectively. Also, the products related to $$B_{X}\\equiv \\mathcal {B}r(B^+\\rightarrow \\psi 'K^+)\\times \\mathcal {B}r(\\psi '\\rightarrow J/\\psi \\eta )$$ branching fractions are $$B_{\\psi _2(3823)}=(1.25^{+0.71}_{-0.53}\\pm 0.04)\\times 10^{-6}$$ and $$B_{\\psi (4040)}=(8.53\\pm 2.35\\pm 0.30)\\times 10^{-6}$$. This represents the first calculation of this branching fraction using factorization. Our calculations indicate that $$F_X$$ is $$F_{\\psi _{2}(3823)}=(6.55\\pm 1.88)\\times 10^{-2}$$ and $$F_{\\psi (4040)}=(14.33\\pm 4.15)\\times 10^{-2}$$ at $$\\mu =m_b/2$$. We have estimated $$B_{\\psi _{2}(3823)}=(0.26\\pm 0.05)\\times 10^{-6}$$ at $$\\mu =m_b/2$$ and $$B_{\\psi (4040)}=(2.88\\pm 0.64)\\times 10^{-6}$$ at $$\\mu =2m_b$$."
     },
     {
-      "title": "A New Determination of the (<em>Z</em>,<em>A</em>) Dependence of Coherent Muon-to-Electron Conversion",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0375947425001472?dgcid=rss_sd_all",
+      "title": "On the SUSY Structure of Spherically Symmetric Pauli Hamiltonians",
+      "link": "https://link.springer.com/article/10.1007/s00601-025-01994-w",
       "authors": "Unknown",
-      "source": "Nuclear Physics A",
-      "summary": "Publication date: Available online 16 May 2025Source: Nuclear Physics AAuthor(s): Léo Borrel, David G. Hitlin, Sophie Middleton"
+      "source": "Few-Body Systems",
+      "summary": "It is shown that the quantum Hamiltonian characterising a non-relativistic electron under the influence of an external spherical symmetric electromagnetic potential exhibits a supersymmetric structure. Both cases, spherical symmetric scalar potentials and spherical symmetric vector potentials are discussed in detail. The current approach, which includes the spin-$$\\frac{1}{2}$$ degree of freedom, provides new insights to known models like the radial harmonic oscillator and the Coulomb problem. We also find a few new exactly solvable models, one of them exhibiting a new mixed type of shape invariance containing translation and scaling of potential parameters. The fundamental role as Witten parity played by the spin-orbit operator is high-lighted."
     }
   ]
 }
