@@ -1,19 +1,138 @@
 {
-  "lastUpdated": "2025-05-19T02:43:28.282849",
+  "lastUpdated": "2025-05-20T02:38:47.091076",
   "papers": [
     {
-      "title": "Contributions of $${\\varvec{\\psi }}_{\\textbf{2}}$$(3823) and $$\\varvec{\\psi }$$(4040) Charmonium in $$\\varvec{B}^{\\mathbf{+}}\\varvec{\\rightarrow } \\varvec{J}/\\varvec{\\psi \\eta K}^{\\mathbf{+}}$$ Decay",
-      "link": "https://link.springer.com/article/10.1007/s00601-025-01992-y",
-      "authors": "Unknown",
-      "source": "Few-Body Systems",
-      "summary": "A recent study from the LHCb detector analyzed the $$J/\\psi \\eta $$ mass spectrum from $$B^+\\rightarrow J/\\psi \\eta K^+$$ decays, reporting the branching fraction ratios as $$F_{X}\\equiv \\frac{\\mathcal {B}r(B^+\\rightarrow \\psi ' K^+)\\times \\mathcal {B}r(\\psi '\\rightarrow J/\\psi \\eta )}{\\mathcal {B}r(B^+\\rightarrow \\psi (2S) K^+)\\times \\mathcal {B}r(\\psi (2S)\\rightarrow J/\\psi \\eta )}$$ for $$\\psi '=\\psi _2(3823),\\psi (4040)$$, which are $$(5.95^{+3.38}_{-2.55})\\times 10^{-2}$$ and $$(40.60\\pm 11.20)\\times 10^{-2}$$, respectively. Also, the products related to $$B_{X}\\equiv \\mathcal {B}r(B^+\\rightarrow \\psi 'K^+)\\times \\mathcal {B}r(\\psi '\\rightarrow J/\\psi \\eta )$$ branching fractions are $$B_{\\psi _2(3823)}=(1.25^{+0.71}_{-0.53}\\pm 0.04)\\times 10^{-6}$$ and $$B_{\\psi (4040)}=(8.53\\pm 2.35\\pm 0.30)\\times 10^{-6}$$. This represents the first calculation of this branching fraction using factorization. Our calculations indicate that $$F_X$$ is $$F_{\\psi _{2}(3823)}=(6.55\\pm 1.88)\\times 10^{-2}$$ and $$F_{\\psi (4040)}=(14.33\\pm 4.15)\\times 10^{-2}$$ at $$\\mu =m_b/2$$. We have estimated $$B_{\\psi _{2}(3823)}=(0.26\\pm 0.05)\\times 10^{-6}$$ at $$\\mu =m_b/2$$ and $$B_{\\psi (4040)}=(2.88\\pm 0.64)\\times 10^{-6}$$ at $$\\mu =2m_b$$."
+      "title": "$^{16}\\mathrm{O}$ Electroweak Response Functions from First Principles",
+      "link": "http://link.aps.org/doi/10.1103/PhysRevLett.134.202501",
+      "authors": "Bijaya Acharya, Joanna E. Sobczyk, Sonia Bacca, Gaute Hagen, and Weiguang Jiang",
+      "source": "Physical Review Letter",
+      "summary": "Author(s): Bijaya Acharya, Joanna E. Sobczyk, Sonia Bacca, Gaute Hagen, and Weiguang JiangWe present calculations of various electroweak response functions for the $^{16}\\mathrm{O}$ nucleus obtained using coupled-cluster theory in conjunction with the Lorentz integral transform method. We employ nuclear forces derived at next-to-leading order and next-to-next-to-leading order in chiral e…[Phys. Rev. Lett. 134, 202501] Published Mon May 19, 2025"
     },
     {
-      "title": "On the SUSY Structure of Spherically Symmetric Pauli Hamiltonians",
-      "link": "https://link.springer.com/article/10.1007/s00601-025-01994-w",
+      "title": "Investigation of the formation of superheavy elements with atomic numbers 116 and 120 through $^{50}\\mathrm{Ti}$-induced reactions",
+      "link": "http://link.aps.org/doi/10.1103/PhysRevC.111.054619",
+      "authors": "Bakhodir Kayumov",
+      "source": "Physical Review C",
+      "summary": "Author(s): Bakhodir KayumovThe synthesis of superheavy elements provides crucial insights into the stability and structure of nuclei at the limits of the periodic table. This study investigates the $^{50}\\mathrm{Ti}+^{244}\\mathrm{Pu}$ and $^{50}\\mathrm{Ti}+^{251}\\mathrm{Cf}$ reactions as pathways to form superheavy elements (…[Phys. Rev. C 111, 054619] Published Mon May 19, 2025"
+    },
+    {
+      "title": "Monte Carlo event generator MC-EKRT with saturated minijet production for initializing $(3+1)\\mathrm{D}$ fluid dynamics in high-energy nuclear collisions",
+      "link": "http://link.aps.org/doi/10.1103/PhysRevC.111.054914",
+      "authors": "Mikko Kuha, Jussi Auvinen, Kari J. Eskola, Henry Hirvonen, Yuuka Kanakubo, and Harri Niemi",
+      "source": "Physical Review C",
+      "summary": "Author(s): Mikko Kuha, Jussi Auvinen, Kari J. Eskola, Henry Hirvonen, Yuuka Kanakubo, and Harri NiemiWe present a novel Monte Carlo implementation of the EKRT model, MC-EKRT, for computing partonic initial states in high-energy nuclear collisions. Our new MC-EKRT event generator is based on collinearly factorized, dynamically fluctuating perturbative QCD (pQCD) minijet production, supplemented with…[Phys. Rev. C 111, 054914] Published Mon May 19, 2025"
+    },
+    {
+      "title": "Nuclear modification of ${B}_{c}$ mesons in relativistic heavy-ion collisions based on a linear Boltzmann transport model",
+      "link": "http://link.aps.org/doi/10.1103/PhysRevC.111.054915",
+      "authors": "Lejing Zhang, Xiaowen Li, Wen-Jing Xing, Shanshan Cao, and Guang-You Qin",
+      "source": "Physical Review C",
+      "summary": "Author(s): Lejing Zhang, Xiaowen Li, Wen-Jing Xing, Shanshan Cao, and Guang-You QinThe nuclear modification factor (${R}_{\\mathrm{AA}}$) of ${B}_{c}$ mesons in high-energy nuclear collisions provides a novel probe of heavy quark interactions with the quark-gluon plasma (QGP). Based on a linear Boltzmann transport model that incorporates both Yukawa and string types of interactions…[Phys. Rev. C 111, 054915] Published Mon May 19, 2025"
+    },
+    {
+      "title": "Weak decays in superheavy nuclei",
+      "link": "http://link.aps.org/doi/10.1103/PhysRevC.111.L051305",
+      "authors": "A. Ravlić and W. Nazarewicz",
+      "source": "Physical Review C",
+      "summary": "Author(s): A. Ravlić and W. NazarewiczSuperheavy nuclei represent the extreme atoms and nuclides known at the limit of mass and charge. The observed superheavy nuclei are all proton-rich; they decay primarily by emitting $α$ particles and by fission with a possible small electron capture (EC) branch. Due to the huge atomic numbers and a…[Phys. Rev. C 111, L051305] Published Mon May 19, 2025"
+    },
+    {
+      "title": "Neutron versus proton scattering on exotic nuclei: The $^{9}\\mathrm{He}$ example",
+      "link": "http://link.aps.org/doi/10.1103/PhysRevC.111.L051601",
+      "authors": "M. S. Khirk, L. V. Grigorenko, D. E. Lanskoy, and P. G. Sharov",
+      "source": "Physical Review C",
+      "summary": "Author(s): M. S. Khirk, L. V. Grigorenko, D. E. Lanskoy, and P. G. SharovNeutron scattering on exotic nuclides is a class of processes that cannot be studied directly now and in any foreseeable future. Resonance proton scattering of exotic nuclide on a thick target in inverse kinematics can be used to infer the properties of the low-energy neutron scattering of this nucl…[Phys. Rev. C 111, L051601] Published Mon May 19, 2025"
+    },
+    {
+      "title": "Probing the refined performance of the Categorical-Boosting algorithm to the Hartree-Fock-Bogoliubov mass model with different Skyrme forces",
+      "link": "https://arxiv.org/abs/2505.10750",
+      "authors": "Jin-Liang Guo, Hua-Lei Wang, Zhen-Zhen Zhang, Min-Liang Liu",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2505.10750v1 Announce Type: new \nAbstract: Nuclear mass can offer profound insights into many physical branches, e.g., nuclear physics and astrophysics, while the predicted accuracy by nuclear mass models is usually far from satisfactory until now, especially within the fully microscopic self-consistent mean-field theory. In this project, we present the predictive power for the binding energy within the the Hartree-Fock-Bogoliubov (HFB) methods with six widely used Skyrme forces (SkM*, SkP, SLy4, SV-min, UNEDF0 and UNEDF1) and evaluate the refined performance of the machine learning based on a novel Categorical Boosting (CatBoost) algorithm to the Skyrme HFB mass models. The root-mean-square (rms) deviations between the bare HFB calculations with different Skyrme forces and the available experimental data range from the minimum, about 1.43 MeV, for the UNEDF0 parameter set to the maximum, about 7.03 MeV, for the SkM* paraterer set. For the CatBoost-refined HFB predictions, the predictive power can be significantly improved. All the prediction accurancies on the testing set can reach the level around 0.2 MeV and, meanwhile, the large model bias can be reduced. The model-repair coefficients for the adopted Skyrme parameter sets are uniformly more than 80\\%. Moreover, for 21 newly measured nuclei outside AME2020, the predicted masses by the CatBoost-refined HFB models are also in good agreement with the experimental data, illustrating their good generalization abilities. Intrestingly, it is found that the optimal Skyrme parameter set that possesses the highest predictive power for the bare HFB mass calculations may be not the best candidate for the CatBoost-refined HFB model, indicating the different abilities of picking up the missing ``physics'' for different Skyrme forces by the CatBoost algorithm."
+    },
+    {
+      "title": "Collective excited states at small amplitude in neutron elastic scattering at low-energies",
+      "link": "https://arxiv.org/abs/2505.10971",
+      "authors": "Do Quang Tam, Nguyen Hoang Tung, Nguyen Hoang Phuc, T. V. Nhan Hao",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2505.10971v1 Announce Type: new \nAbstract: We investigate the contributions of isoscalar and isovector collective excitations in the neutron elastic scattering of $^{16}$O, $^{40}$Ca, $^{48}$Ca, and $^{208}$Pb nuclei by using a microscopic optical potential (MOP) derived from nuclear structure models based on self-consistent mean-field approaches. Particular attention is given to the role of these collective modes in shaping the imaginary part of the MOP and the resulting angular distributions. Our analysis indicates that both isoscalar and isovector contributions are significant for all considered targets, especially for light and medium targets. Furthermore, the Coulomb interaction is found to play an important role in describing absorption mechanisms and reproducing the experimental angular distributions."
+    },
+    {
+      "title": "Systematic analysis of double Gamow-Teller sum rules",
+      "link": "https://arxiv.org/abs/2505.11305",
+      "authors": "Hong-Jin Xie, Yi Lu, Shu-Yuan Liang, Yang Lei, Calvin W. Johnson",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2505.11305v1 Announce Type: new \nAbstract: Sum rules are important bulk properties of transition strength functions for atomic nuclei. Unlike the Ikeda sum rule for single Gamow-Teller transition, double Gamow-Teller transition sum rules rely on the details of many-body wavefunctions. We approximate the shell model ground state with nucleon-pair condensates, by projection after variation, and compute double Gamow-Teller (DGT) transition sum rules from both $\\beta+$ and $\\beta-$ directions. By systematic investigation of DGT sum rules of even-even nuclei in the $1s0d$, $1p0f$ major shells, we quantitatively estimate the model-dependent fractions in the sum rules, and analyze the importance of double isospin-analogue state in the DGT strength function."
+    },
+    {
+      "title": "Neural-Network Correlation Functions for Light Nuclei with Chiral Two- and Three-Body Interactions",
+      "link": "https://arxiv.org/abs/2505.11442",
+      "authors": "Pengsheng Wen, Alexandros Gezerlis, Jeremy W. Holt",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2505.11442v1 Announce Type: new \nAbstract: Finding high-quality trial wave functions for quantum Monte Carlo calculations of light nuclei requires a strong intuition for modeling the interparticle correlations as well as large computational resources for exploring the space of variational parameters. Moreover, for systems with three-body interactions, the wave function should account for many-body effects beyond simple pairwise correlations. In this work, we design neural networks that efficiently incorporate these factors to generate expressive wave function Ansatzes for light nuclei using variational Monte Carlo. Our neural-network approach for A=3 nuclei can capture, already at the level of variational Monte Carlo, the overwhelming majority of the ground-state energy estimated by Green's Function Monte Carlo (GFMC). We can find a 91% improvement over standard variational Monte Carlo and achieve a ground state energy within 0.45% of the GFMC result for 3H using the softest chiral interaction with neural networks. The result indicates the potential of neural networks to construct effective trial wave functions for quantum Monte Carlo calculations."
+    },
+    {
+      "title": "Distribution Functions of $\\Lambda$ and $\\Sigma^0$ Baryons",
+      "link": "https://arxiv.org/abs/2505.10663",
+      "authors": "Yang Yu, Peng Cheng, Hui-Yu Xing, Daniele Binosi, Craig D. Roberts",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2505.10663v1 Announce Type: cross \nAbstract: Treating baryons as quark + interacting-diquark bound states, a symmetry-preserving formulation of a vector$\\,\\times\\,$vector contact interaction (SCI) is used to deliver an extensive, coherent set of predictions for $\\Lambda, \\Sigma^0$ baryon unpolarised and polarised distribution functions (DFs) -- valence, glue, and four-flavour separated sea -- and compare them with those of a like-structured nucleon. $\\Lambda, \\Sigma^0$ baryons are strangeness negative-one isospin partners within the SU$(3)$-flavour baryon octet. This makes such structural comparisons significant. The study reveals impacts of diquark correlations and SU$(3)$-flavour symmetry breaking on $\\Lambda$, $\\Sigma^0$ structure functions, some of which are significant. For instance, were it not for the presence of axialvector diquarks in the $\\Sigma^0$ at the hadron scale, the $s$ quark could carry none of the $\\Sigma^0$ spin. The discussion canvasses issues that include helicity retention in hard scattering processes; the sign and size of polarised gluon DFs; and the origin and decomposition of baryon spins. Interpreted judiciously, the SCI analysis delivers an insightful explanation of baryon structure as expressed in DFs."
+    },
+    {
+      "title": "Some Aspects of Three-Quark Potentials (Part II)",
+      "link": "https://arxiv.org/abs/2505.11234",
+      "authors": "Oleg Andreev",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2505.11234v1 Announce Type: cross \nAbstract: We continue our investigation of the effective string model for the triply heavy quark system, mimicking that in pure $SU(3)$ gauge theory. We present analytical and numerical studies of the three-quark potential for isosceles and collinear geometries. In the general case, we derive the asymptotic expression of the potential in the infrared limit. Here we also demonstrate the universality of the string tension and interpret the transition between two distinct regimes, occurring when one of the triangle's angles formed by the quarks is equal to $\\frac{2}{3}\\pi$, as a breaking of permutational symmetry. This symmetry breaking implies the emergence of a heavy quark dressed by gluons, transforming in the two-index antisymmetric representation. Additionally, we discuss various aspects of the $Y$- and $\\Delta$-laws, diquarks, and connections to lattice QCD."
+    },
+    {
+      "title": "Thermal Static Potential and Pseudo-Scalar Quarkonium Spectral Functions from 2+1 Flavor Lattice QCD",
+      "link": "https://arxiv.org/abs/2505.11313",
+      "authors": "Sajid Ali, Dibyendu Bala, Olaf Kaczmarek,  Pavan",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2505.11313v1 Announce Type: cross \nAbstract: Quarkonia, which are bound states of a heavy quark and antiquark, play a key role in probing the quark-gluon plasma (QGP). The dynamics of quarkonia in the QGP are encoded in their finite-temperature spectral functions. In this work, we estimate the quarkonium spectral functions in the pseudo-scalar channel using 2+1 flavor lattice QCD with a pion mass of $320\\,\\text{MeV}$, at temperatures of $220\\,\\text{MeV}\\,(1.2\\,T_{pc}),\\,251\\,\\text{MeV}\\,(1.4\\,T_{pc})\\,\\text{and}\\,293\\,\\text{MeV}\\,(1.6\\,T_{pc})$. Reconstructing the spectral function from the Euclidean lattice correlator is a well-known ill-posed problem, requiring additional physics-motivated input. We address this by smoothly matching contributions from different frequency regions of the spectral function, using appropriate physics valid for each region. The spectral function around $\\omega \\sim 2\\,M_q$ is obtained using a non-perturbative complex potential, while for $\\omega \\gg 2\\,M_q$ it is modeled using results from vacuum perturbation theory. Since the pseudoscalar channel does not receive a transport contribution near $\\omega \\sim 0$, we find that the combination of these two regions already provides a good description of the relativistic lattice pseudoscalar correlator. We observe a substantial thermal width in the $\\eta_c(1S)$ state, indicating that pseudoscalar charmonium ($\\eta_c$) is nearing dissolution at the studied temperatures. In comparison, the $\\eta_b$ ground state exhibits little change and remains well-defined."
+    },
+    {
+      "title": "Symmetry breaking effects in pion couplings to constituent quark currents",
+      "link": "https://arxiv.org/abs/2412.15104",
+      "authors": "Fabio L. Braghin",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2412.15104v2 Announce Type: replace-cross \nAbstract: Pseudoscalar and axial neutral and charged pion-constituent quark coupling constants are investigated with nondegenerate quark masses in different kinematical points, off shell and on shell pions and constituent quarks. By considering a large quark mass expansion of a quark determinant in the presence of local pion field and of constituent quark background currents, gluonic effects are considered by means of an effective gluon propagator that dresses quark currents. For the neutral pion, mixing effects are introduced by means of the pion mixing to states $P_0$ and $P_8$, that give rise to the $\\pi^0-\\eta-\\eta'$ meson mixing, and mixing of quark currents via corresponding mixing interactions. The relative behavior of charged and neutral pion coupling constants to quarks may be nearly the same - in the framework of the constituent quark model - as the pion-nucleon coupling constants if mixings are introduced. A very small pion coupling to strange quark current is also obtained. The dependence of the positive and negative pion-constituent quark coupling constant on the non-degeneracy of quark masses, for emission and absorption processes, is identified."
+    },
+    {
+      "title": "Efficient Monte Carlo Event Generation for Neutrino-Nucleus Exclusive Cross Sections",
+      "link": "https://arxiv.org/abs/2502.14452",
+      "authors": "Mathias El Baz, Federico S\\'anchez, Natalie Jachowicz, Kajetan Niewczas, Ashish Kumar Jha, Alexis Nikolakopoulos",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2502.14452v3 Announce Type: replace-cross \nAbstract: Modern neutrino-nucleus cross section predictions need to incorporate sophisticated nuclear models to achieve greater predictive precision. However, the computational complexity of these advanced models often limits their practicality for experimental analyses. To address this challenge, we introduce a new Monte Carlo method utilizing Normalizing Flows to generate surrogate cross sections that closely approximate those of the original model while significantly reducing computational overhead. As a case study, we built a Monte Carlo event generator for the neutrino-nucleus cross section model developed by the Ghent group. This model employs a Hartree-Fock procedure to establish a quantum mechanical framework in which both the bound and scattering nucleon states are solutions to the mean-field nuclear potential. The surrogate cross sections generated by our method demonstrate excellent accuracy with a relative effective sample size of more than $98.4 \\%$, providing a computationally efficient alternative to traditional Monte Carlo sampling methods for differential cross sections."
+    },
+    {
+      "title": "Determining the Density of the Sun with Neutrinos",
+      "link": "https://arxiv.org/abs/2502.17546",
+      "authors": "Peter B. Denton, Charles Gourley",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2502.17546v2 Announce Type: replace-cross \nAbstract: The discovery of solar neutrinos confirmed that the inner workings of the Sun generally match our theoretical understanding of the fusion process. Solar neutrinos have also played a role in discovering that neutrinos have mass and that they oscillate. We combine the latest solar neutrino data along with other oscillation data from reactors to determine the Sun's density profile. We derive constraints given the current data and show the anticipated improvements with more reactor neutrino data from JUNO constraining the true oscillation parameters and more solar neutrino data from DUNE which should provide a crucial measurement of $hep$ neutrinos."
+    },
+    {
+      "title": "Effect of hadronic transport processes on HBT radii in the AMPT model",
+      "link": "http://iopscience.iop.org/article/10.1088/1361-6471/add30d",
+      "authors": "Yao Zhang",
+      "source": "Journal of Physics G: Nuclear and Particle Physics",
+      "summary": "We investigate how hadronic scattering cross sections σH of the hadronic transport processes shape charged hadron observables in Au + Au collisions at using the AMPT (A Multi-Phase Transport) model. By adjusting cross sections, we find that larger σH reduces midrapidity charged hadron multiplicity and flattens transverse momentum spectra. While anisotropic flow is secondarily affected by σH due to its dominance by partonic stage dynamics, HBT radii for pions and kaons exhibit strong sensitivity to σH, with elastic and inelastic pion scattering driving spatial expansion. HBT radii of kaons further depend on inelastic interactions with pions, yet increasing kaon cross sections enhances kaon HBT radii without altering pion HBT radii, revealing distinct rescattering mechanisms. These results resolve the HBT underestimation in default AMPT simulations and establish critical constraints for refining transport models and quantifying hadronic viscosity in relativistic heavy-ion collisions."
+    },
+    {
+      "title": "Corrigendum to “Cosmology in energy-momentum squared symmetric teleparallel gravity” [Physics Letterrs B, Vol 858, 139608, (2024)]",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269325003326?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: July 2025Source: Physics Letters B, Volume 866Author(s): Aaqid Bhat, P.K. Sahoo"
+    },
+    {
+      "title": "Selected Spectroscopic Characteristics of Lithium Atom Confined in Endofullerene with Noncentral Interaction within Quantum Plasma",
+      "link": "https://link.springer.com/article/10.1007/s00601-025-01993-x",
       "authors": "Unknown",
       "source": "Few-Body Systems",
-      "summary": "It is shown that the quantum Hamiltonian characterising a non-relativistic electron under the influence of an external spherical symmetric electromagnetic potential exhibits a supersymmetric structure. Both cases, spherical symmetric scalar potentials and spherical symmetric vector potentials are discussed in detail. The current approach, which includes the spin-$$\\frac{1}{2}$$ degree of freedom, provides new insights to known models like the radial harmonic oscillator and the Coulomb problem. We also find a few new exactly solvable models, one of them exhibiting a new mixed type of shape invariance containing translation and scaling of potential parameters. The fundamental role as Witten parity played by the spin-orbit operator is high-lighted."
+      "summary": "In this work, the behavior of a lithium (Li) atom within a noncentral interacting endohedral fullerene under spherical confinement and in a quantum plasma environment is investigated. The relevant Schrödinger wave equation is solved using a hybrid approach that combines the tridiagonal matrix method and the asymptotic iteration method. Through this solution, the system’s energy levels, probability densities, dipole polarizabilities, and oscillator strengths are calculated. The changes in plasma density, plasma shielding effect, and endofullerene parameters significantly influence the dynamics of these fundamental properties. Specifically, the analysis of oscillator strengths reveals the strength of electromagnetic interactions during transitions within the system and details how these transitions are affected by plasma, endofullerene confinement, spherical confinement, and angular interactions. Changes in dipole polarizability illustrate how the atom evolves under the influence of these external factors, while differences in oscillator strengths play a critical role in understanding the efficiency of electronic transitions and the system’s interaction with electromagnetic waves. This work contributes to a better understanding of endohedral molecular systems in quantum plasma environments and provides a valuable foundation for modeling the properties of such systems. Moreover, as it serves as an important reference for broader investigations into the dynamics of noncentral endohedral fullerene and quantum plasma interactions at the atomic and molecular levels, it sheds light on future experimental and theoretical studies."
     }
   ]
 }
