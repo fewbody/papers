@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-05-26T02:42:28.588994",
+  "lastUpdated": "2025-05-27T02:29:39.223584",
   "papers": [
     {
       "title": "Increasing Octupole Collectivity across the $Z=64$ Isotopic Chain: B(E3) Values in $^{150}\\mathrm{Gd}$",
@@ -13657,6 +13657,111 @@
       "authors": "Unknown",
       "source": "Nuclear Physics A",
       "summary": "Publication date: Available online 23 May 2025Source: Nuclear Physics AAuthor(s): Hadj Mouloudj, Fethi Redjem, Oussama Zeggai, Mousaab Belarbi, Youcef Belgaid, Abdelkader Ghalem"
+    },
+    {
+      "title": "Recent progress in configuration-interaction shell model",
+      "link": "https://arxiv.org/abs/2505.17453",
+      "authors": "Menglan Liu, Cenxi Yuan",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2505.17453v1 Announce Type: new \nAbstract: Since Mayer and Jensen employed the single-particle shell model to interpret the magic numbers, various microscopic nuclear models have been developed to study the nuclear force and structure. The confguration-interaction shell model (CISM), performed in truncated model space with the inclusion of the residual interaction, is one widely-used nuclear structure model. In the last decade, CISM has progressed in investigating the cross-shell excitation in exotic light nuclei, the similarity and diference in mirror nuclei, and the isomerism and seniority conservation in medium and heavy nuclei. Additionally, researchers have attempted to construct effective Hamiltonians for nuclei near 132Sn and 208Pb through a unifed way in the CISM framework. In parallel, related models, including the nucleon-pair approximation (NPA) approach, the Monte Carlo shell model (MCSM), the projected shell model (PSM), the Gamow shell model (GSM), etc., have also been extensively developed and validated in the last decade. This paper reviews the recent progress in CISM and some related models."
+    },
+    {
+      "title": "Compositness and wave function of shallow bound states in relation with scattering observables",
+      "link": "https://arxiv.org/abs/2505.17657",
+      "authors": "Ibuki Terashima, Tetsuo Hyodo",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2505.17657v1 Announce Type: cross \nAbstract: We study the internal structure of exotic hadrons, especially focusing on the relation between the compositeness and physical observables. Defined as the probability of finding hadronic molecular components in the wave function, compositeness serves as a quantitative measure of internal structure of exotic hadrons. We utilize the coupled-channel potential model incorporating both quark and hadron degrees of freedom, which naturally generate the $\\textit{bare state}$ responsible for the elementary component as the bound state in the quark channel. The behavior of the compositeness under the variation of the model parameters is investigated by using the $X(3872)$ as an example. In particular, we analyze the associated scattering phase shifts and the bound state wave functions to discuss the relation between the compositeness and the scattering observables for a shallow bound state."
+    },
+    {
+      "title": "Thermodynamics of magnetized BPS baryonic layers",
+      "link": "https://arxiv.org/abs/2505.18007",
+      "authors": "Sergio Luigi Cacciatori, Fabrizio Canfora, Evangelo Delgado, Federica Muscolino, Luigi Rosa",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2505.18007v1 Announce Type: cross \nAbstract: Through the Hamilton-Jacobi equation of classical mechanics, BPS magnetized Baryonic layers (possessing both baryonic charge and magnetic flux) have been constructed in the gauged non-linear sigma model (G-NLSM), which is one of the most relevant effective theories for Quantum Chromodynamics (QCD) in the strongly interacting low-energy limit. Since the topological charge that naturally appears on the right hand side of the BPS bound is a non-linear function of the baryonic charge, the thermodynamics of these magnetized Baryonic layers is highly non-trivial. In this work, using tools from the theory of Casimir effect, we derive analytical relationship between baryonic charge, topological charge, magnetic flux and relevant thermodynamical quantities (such as pressure, specific heat and magnetic susceptibility) of these layers. The critical Baryonic chemical potential is identified. Quite interestingly, the grand canonical partition function can be related with the Riemann zeta function. On the technical side, it is quite a remarkable result to derive explicit expressions for all these thermodynamics quantities of a strongly interacting magnetized system at finite Baryon density. On the physical side, such expressions allow a direct physical interpretation which we discuss."
+    },
+    {
+      "title": "Probing small neutron skin variations in isotope pairs by hyperon-antihyperon production in antiproton--nucleus interactions",
+      "link": "https://arxiv.org/abs/2411.13622",
+      "authors": "Falk Schupp, Josef Pochodzalla, Michael B\\\"olting, Martin Christiansen, Theodoros Gaitanos, Horst Lenske, Marcell Steinen",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2411.13622v2 Announce Type: replace \nAbstract: We propose a new method to study the evolution of the neutron periphery between different isotopes by considering antiproton--nucleus interactions close to the production threshold of $\\Lambda \\overline{\\Lambda }$ and $\\Sigma^-\\overline{\\Lambda }$ pairs. At low energies, $\\Lambda \\overline{\\Lambda }$ pairs are produced in $\\overline{\\text{p}} +\\text{p}$ collisions, while $\\Sigma^-\\overline{\\Lambda }$ pairs can only be produced in $\\overline{\\text{p}} +\\text{n}$ interactions. Within a simple geometrical picture we show that the double ratio for the production of $\\Sigma^-\\overline{\\Lambda }$ and $\\Lambda \\overline{\\Lambda }$ pairs for two different isotopes are related to the variation of the neutron skin thickness between the two nuclei. Performing high statistics calculations with the Gie\\ss en Boltzmann--Uehling--Uhlenbeck (GiBUU) transport model for several isotope pairs covering a wide range of elements we verify a strong correlation between the double ratio from the full transport simulations and the schematic model. This correlation enables us to quantify the potential of the proposed method for precise studies of neutron skin variations in isotope chains."
+    },
+    {
+      "title": "Quantum Dynamical Microscopic Approach to Stellar Carbon Burning",
+      "link": "https://arxiv.org/abs/2502.11240",
+      "authors": "Grant Close, Paul Stevenson, Alexis Diaz-Torres",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2502.11240v2 Announce Type: replace \nAbstract: The process of carbon burning is vital to understanding late stage stellar evolution of massive stars and the conditions of certain supernovae. Carbon burning is a complex problem, involving quantum tunnelling and nuclear molecular states. Quantum dynamical calculations of carbon burning are presented, combining the time-dependent wave-packet method and the density-constrained time-dependent Hartree-Fock (DC-TDHF) approach. By limiting the contribution of triaxial molecular configurations to fusion, we demonstrate that the DC-TDHF interaction potential successfully explains the appearance of some resonant structures in the sub-barrier fusion cross-section. This result shows the critical role of nucleon-nucleon interactions in the 12C + 12C fusion resonances observed at astrophysical energies."
+    },
+    {
+      "title": "Quasielastic Lepton-Nucleus Scattering and the Correlated Fermi Gas Model",
+      "link": "https://arxiv.org/abs/2405.05342",
+      "authors": "Bhubanjyoti Bhattacharya, Sam Carey, Erez O. Cohen, Gil Paz",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2405.05342v2 Announce Type: replace-cross \nAbstract: The neutrino research program in the coming decades will require improved precision. A major source of uncertainty is the interaction of neutrinos with nuclei that serve as targets for such experiments. Broadly speaking, this interaction often depends, e.g., for charge-current quasi-elastic scattering, on the combination of ``nucleon physics\", expressed by form factors, and ``nuclear physics\", expressed by a nuclear model. It is important to get a good handle on both. We present a fully analytic implementation of the Correlated Fermi Gas Model for electron-nucleus and charge-current quasi-elastic neutrino-nucleus scattering. The implementation is used to compare separately form factors and nuclear model effects for both electron-carbon and neutrino-carbon scattering data."
+    },
+    {
+      "title": "Neural Ordinary Differential Equations for Mapping the Magnetic QCD Phase Diagram via Holography",
+      "link": "https://arxiv.org/abs/2406.12772",
+      "authors": "Rong-Gen Cai, Song He, Li Li, Hong-An Zeng",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2406.12772v3 Announce Type: replace-cross \nAbstract: The QCD phase diagram is crucial for understanding strongly interacting matter under extreme conditions, with major implications for cosmology, neutron stars, and heavy-ion collisions. We present a novel holographic QCD model utilizing neural ordinary differential equations (ODEs) to map the QCD phase diagram under magnetic field $B$, baryon chemical potential $\\mu_B$, and temperature $T$. By solving the inverse problem of constructing the gravitational theory from Lattice QCD data, we reveal an unprecedentedly rich phase structure at finite $B$, including discovering multiple critical endpoints (CEPs) under strong magnetic fields. Specifically, for {$B = 1.618 \\, \\mathrm{GeV}^2=2.592 \\times 10^{19}$ Gauss}, we identify two distinct CEPs at $(T_C = 87.3 \\, \\mathrm{MeV}, \\, \\mu_C = 115.9 \\, \\mathrm{MeV})$ and $(T_C = 78.9 \\, \\mathrm{MeV}, \\, \\mu_C = 244.0 \\, \\mathrm{MeV})$. Notably, the critical exponents vary depending on the CEP's location. These findings significantly advance our understanding of the QCD phase structure and provide concrete predictions for experimental validation at upcoming facilities such as FAIR, JPARC-HI, and NICA."
+    },
+    {
+      "title": "New Angles on Energy Correlators",
+      "link": "https://arxiv.org/abs/2410.16368",
+      "authors": "Samuel Alipour-fard, Ankita Budhraja, Jesse Thaler, Wouter J. Waalewijn",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2410.16368v2 Announce Type: replace-cross \nAbstract: Energy correlators have recently come to the forefront of jet substructure studies at colliders due to their remarkable properties: they naturally separate physics at different scales, are robust to contamination from soft radiation, and offer a direct connection with quantum field theory. The current parametrization used for energy correlators, however, is based on redundant pairwise angles with complex phase space restrictions. In this Letter, we introduce a new parametrization of energy correlators that features a simpler phase space structure and preserves information about the orientation of jet constituents. Further, our parametrization drastically reduces the computational cost to compute energy correlators on experimental data; whereas the time to compute a traditional projected $N$-point energy correlator scales as $M^N/N!$ on a jet with $M$ particles, our new parametrization achieves a scaling of $M^2 \\log M$, remarkably independently of N. Even for N=3, this improved scaling is particularly important for studies of heavy ion collisions, and higher values of $N$ will enable new qualitative understanding of gauge theories. Theoretical calculations for our new energy correlators differ from those of traditional parametrizations only at next-to-next-to-leading logarithmic accuracy and beyond, and we expect that our simpler phase space structure will simplify those calculations. We also discuss how to extend our parametrization to resolved $N$-point energy correlators that encode angular distances between greater numbers of particles, yielding intuitive visualizations of jet substructure that are qualitatively different for different jet samples. We propose two possible generalizations for probing multi-prong jets and testing jet scaling behavior."
+    },
+    {
+      "title": "Condensation and prescaling in spatial Polyakov loop correlations far from equilibrium",
+      "link": "https://arxiv.org/abs/2411.05582",
+      "authors": "Daniel Spitz, Kirill Boguslavski, Thimo Preis",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2411.05582v2 Announce Type: replace-cross \nAbstract: The far-from-equilibrium dynamics of spatial Polyakov loop correlations, which provide gauge-invariant observables akin to effective particle numbers for gluon plasmas, are investigated within real-time $\\mathrm{SU}(N_c)$ lattice gauge theory at weak couplings and large gluon occupations. The momentum zero mode of these correlations reveals the dynamic formation of a condensate, while at nonzero momenta, energy is transported toward the ultraviolet. We demonstrate that the non-zero momentum dynamics is well described by a direct cascade in terms of gauge-invariant Polyakov loop excitations, exhibiting self-similar prescaling indicative of a nonthermal attractor. This behavior can be analytically understood through perturbation theory for the Polyakov loop correlations and the established dynamics of gauge field correlations. We perform simulations for both $\\mathrm{SU}(2)$ and $\\mathrm{SU}(3)$ gauge groups, providing further consistency checks on the $N_c$-dependence of perturbative expectations. No evidence of an inverse cascade toward lower momenta is found for momenta above the electric screening scale."
+    },
+    {
+      "title": "Visualizing How the Structure of Large-Radius Jets Shapes Their Wakes",
+      "link": "https://arxiv.org/abs/2501.18683",
+      "authors": "Arjun Srinivasan Kudinoor, Daniel Pablos, Krishna Rajagopal",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2501.18683v2 Announce Type: replace-cross \nAbstract: The ATLAS collaboration has introduced and implemented a strategy for selecting and analyzing large-radius jets composed of skinny $R=0.2$ subjets in heavy ion collisions at the LHC. We show how measurements of these jets teach us about the resolution length $L_{\\rm res}$ of quark-gluon plasma (QGP) and can teach us how jet substructure shapes the wakes that jets excite in the QGP droplets through which they pass. We use Hybrid Model calculations to reproduce measurements of $R_{AA}$ for large-radius jets in PbPb collisions, and study their dependence on the angle between the two skinny subjets involved in the final reclustering step of an $R=1$ jet. We show how these observables can constrain the value of $L_{\\rm res}$ and demonstrate that the ATLAS data rule out any picture in which an entire parton shower loses energy coherently as if it were a single entity. Determining the degree to which the QGP can resolve partons within a jet is central to the broader program of using jet quenching measurements to probe QGP.\n  We make further use of this setup by analyzing the response of the medium to the passage of large-radius $R=2$ jets containing two skinny subjets in gamma-jet events. We introduce novel jet-shape observables that allow us to visualize the angular shape of the soft hadrons originating from the wakes that wide jets with two skinny subjets excite in a droplet of QGP, as a function of the angular separation between the subjets. We find that even when they are $\\sim 0.8- 1$ radian apart, a single broad wake is produced. Only when the two subjets are even farther apart is the presence of two sub-wakes revealed. We show that the way in which jet structure shapes jet wakes can be visualized with similar clarity in experiments by using only those hadrons with low $p_T$. These observables thus offer a new and distinctive way of seeing jet wakes in heavy ion collision data."
+    },
+    {
+      "title": "Fractional vorticity, Bogomol'nyi-Prasad-Sommerfield systems and complex structures for the (generalized) spinor Gross-Pitaevskii equations",
+      "link": "https://arxiv.org/abs/2502.00578",
+      "authors": "Fabrizio Canfora, Pablo Pais",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2502.00578v2 Announce Type: replace-cross \nAbstract: The (generalized) Gross-Pitaevskii equation (GPE) for a complex scalar field in two spatial dimensions is analyzed. It is shown that there is an infinite family of self-interaction potentials which admit Bogomol'nyi-Prasad-Sommerfield (BPS) bounds together with the corresponding first-order BPS systems. For each member of this family, the solutions of the first-order BPS systems are automatically solutions of the corresponding second-order generalized GPE. The simplest topologically non-trivial solutions of these first-order BPS systems describe configurations with quantized fractional vorticity. The corresponding fraction is related to the degree of non-linearity. The case in which the self-interaction potential is of order six (namely $|\\Psi |^{6}$, which is a relevant theory both in relativistic quantum field theories in $(2+1)$ dimensions in connection with the quantum Hall effect as well as in the theory of the supersolids) is analyzed in detail. Such formalism can also be extended to the case of quantum mixtures with multi-component GPEs. The relationship between these techniques and supersymmetry will be discussed. In particular, despite several common features, we will show that there are multi-component GPEs that are not supersymmetric (at least, not in the standard sense) and possess a BPS system of the above type."
+    },
+    {
+      "title": "Shape evolution of even-even strontium isotopes near N = 50 shell closure",
+      "link": "https://epja.epj.org/10.1140/epja/s10050-025-01585-7",
+      "authors": "Meena Sharma, Manvi Rajput, Suram Singh, Arun Bharti, G. H. Bhat, J. A. Sheikh",
+      "source": "European Physical Journal A",
+      "summary": "Authors: Meena Sharma, Manvi Rajput, Suram Singh, Arun Bharti, G. H. Bhat and J. A. Sheikh.The European Physical Journal A Vol. 61 , page 113Published online: 22/5/2025"
+    },
+    {
+      "title": "Linear relation between short range correlation and EMC effect of gluons in nuclei",
+      "link": "https://epja.epj.org/10.1140/epja/s10050-025-01588-4",
+      "authors": "Wei Wang, Ji Xu, Xing-Hua Yang, Shuai Zhao",
+      "source": "European Physical Journal A",
+      "summary": "Authors: Wei Wang, Ji Xu, Xing-Hua Yang and Shuai Zhao.The European Physical Journal A Vol. 61 , page 112Published online: 22/5/2025"
+    },
+    {
+      "title": "Potential for tensor polarized deuterons in Hall D at Jefferson lab",
+      "link": "https://epja.epj.org/10.1140/epja/s10050-025-01580-y",
+      "authors": "Mark M. Dalton, Alexandre Deur, Christopher D. Keith",
+      "source": "European Physical Journal A",
+      "summary": "Authors: Mark M. Dalton, Alexandre Deur and Christopher D. Keith.The European Physical Journal A Vol. 61 , page 111Published online: 22/5/2025\n       Keywords:"
+    },
+    {
+      "title": "The SOCIAL project: measurement of the 14$$^{14}$$N(p,γ)15$$\\gamma )^{15}$$O cross section",
+      "link": "https://epja.epj.org/10.1140/epja/s10050-025-01561-1",
+      "authors": "Giulia Gosta",
+      "source": "European Physical Journal A",
+      "summary": "Authors: Giulia Gosta and  .The European Physical Journal A Vol. 61 , page 110Published online: 22/5/2025"
     }
   ]
 }
