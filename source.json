@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-06-25T02:44:45.307201",
+  "lastUpdated": "2025-06-26T02:43:44.331298",
   "papers": [
     {
       "title": "Increasing Octupole Collectivity across the $Z=64$ Isotopic Chain: B(E3) Values in $^{150}\\mathrm{Gd}$",
@@ -17577,6 +17577,118 @@
       "authors": "Unknown",
       "source": "Nuclear Physics A",
       "summary": "Publication date: Available online 23 June 2025Source: Nuclear Physics AAuthor(s): Jaesung Kim, Jin-Hee Yoon"
+    },
+    {
+      "title": "Pion fragmentation functions from a quark-jet model in a functional approach",
+      "link": "http://link.aps.org/doi/10.1103/bvtp-cgnv",
+      "authors": "Roberto Correa da Silveira, Fernando E. Serna, and Bruno El-Bennich",
+      "source": "Physical Review C",
+      "summary": "Author(s): Roberto Correa da Silveira, Fernando E. Serna, and Bruno El-BennichThe elementary fragmentation function that describes the process $q→π$ is predicted by applying crossing and charge symmetry to the cut diagram of the pion valence quark distribution function. This elementary probability distribution defines the ladder-kernel of a quark jet fragmentation equation, w…[Phys. Rev. C 111, 065204] Published Tue Jun 24, 2025"
+    },
+    {
+      "title": "Sensitivity of double deeply virtual Compton-scattering observables to generalized parton distributions",
+      "link": "http://link.aps.org/doi/10.1103/PhysRevC.111.065205",
+      "authors": "J. S. Alvarado, M. Hoballah, and E. Voutier",
+      "source": "Physical Review C",
+      "summary": "Author(s): J. S. Alvarado, M. Hoballah, and E. VoutierA major thrust of twenty-first century electron scattering at the present CEBAF at JLab and at the future Electron Ion Collider (EIC) at BNL is the determination of generalized parton distributions (GPDs), which describe the full 3D quark and gluon structure of the proton and of atomic nuclei. The authors have carried out a comprehensive study of a new, yet-unmeasured process, double deeply virtual Compton scattering (DDVCS), at both CEBAF and EIC, which can access GPDs without restrictions that are present in current measurements. For example, they show the sensitivity of DDVCS cross-section asymmetries to the chiral-even proton GPDs from different model predictions. The insights gained from the systematic analysis promise significant benefit to next-generation experiments designed to study the full 3D quark and gluon structure of hadrons.[Phys. Rev. C 111, 065205] Published Tue Jun 24, 2025"
+    },
+    {
+      "title": "Probing jet-medium interactions via jet substructure observables in relativistic heavy-ion collisions",
+      "link": "https://arxiv.org/abs/2506.19033",
+      "authors": "Xiang-Pan Duan, Tan Luo, Guo-Liang Ma",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2506.19033v1 Announce Type: new \nAbstract: We present a comprehensive study of jet substructure observables in $pp$ and PbPb collisions at $\\sqrt{s_{NN}} = 5.02$~TeV using a multi-phase transport model. To suppress background contamination, the constituent subtraction method is employed for both PbPb and smeared $pp$ events. The jet splitting momentum fraction ($z_g$) and the groomed jet mass to the ungroomed jet transverse momentum ($M_g / p_{T,\\text{jet}}$) are reconstructed using the Soft Drop algorithm with two grooming parameter settings. With $z_\\text{cut} = 0.1$ and $\\beta = 0.0$, a slight modification in the $z_g$ distribution is observed in central PbPb collisions, whereas a pronounced enhancement in the high $M_g / p_{T,\\text{jet}}$ region is found, particularly at low $p_{T,\\text{jet}}$ and in more central events. A detailed analysis of the dynamical evolution stages reveals that this enhancement primarily originates from jet-medium interactions, whereas the contributions from hadronization and hadronic rescatterings are largely mitigated by the grooming procedure. In contrast, under a stronger grooming condition ($z_\\text{cut} = 0.5$, $\\beta = 1.5$), no significant changes in $M_g / p_{T,\\text{jet}}$ are observed, indicating that the medium-induced modifications are predominantly associated with large-angle scattering."
+    },
+    {
+      "title": "Study of entanglement in Ne, Mg, and Si isotopic chains",
+      "link": "https://arxiv.org/abs/2506.19437",
+      "authors": "Rohit M. Shinde, Praveen C. Srivastava",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2506.19437v1 Announce Type: new \nAbstract: In this article, we have presented the results for mode entanglement and its evolution in Ne, Mg, and Si isotopic chains. A detailed study has also been conducted on the role of nuclear forces with the assistance of the spin-tensor decomposition of two-body interaction into three components: central, spin-orbit, and tensor. This study can shed light on the high entanglement entropy observed for $N=Z$ nuclei and the importance of the tensor component on the proton-neutron entanglement entropy."
+    },
+    {
+      "title": "Determination of Asymptotic Normalization Coefficients Based on the Dispersive Optical Model",
+      "link": "https://arxiv.org/abs/2506.19664",
+      "authors": "O. V. Bespalova, L. D. Blokhintsev, A. A. Klimochkina, D. A. Savin",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2506.19664v1 Announce Type: new \nAbstract: A method for determining asymptotic normalization coefficients for removing nucleons from nuclei is proposed. It is based on the use of the dispersive optical model potential. Within the method, the strength parameter of the Hartree- Fock type potential at the Fermi energy is the only one fitting parameter. It was found that adjusting this parameter allows us to achieve a coincidence of the calculated binding energies with the experimental ones accurately enough. Specific calculations were carried out for 17O, 17F, 41Ca, and 41Sc nuclei. An acceptable agreement with the results of other works, which are characterized by a noticeable spread, was achieved."
+    },
+    {
+      "title": "The perfect spinfluid",
+      "link": "https://arxiv.org/abs/2506.19786",
+      "authors": "Nick Abboud, Lorenzo Gavassino, Rajeev Singh, Enrico Speranza",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2506.19786v1 Announce Type: new \nAbstract: We present a new formulation of non-dissipative relativistic spin hydrodynamics that incorporates spin degrees of freedom into the divergence-type theory framework. Due to the divergence-type structure, it is straightforward to enforce non-linear causality and symmetric hyperbolicity of the equations of motion, ensuring local well-posedness of the initial-value problem and stability of the theory. Furthermore, in a specific realization based on spin kinetic theory, we prove that the equations of motion remain non-linearly causal and symmetric-hyperbolic to all orders in the spin potential, provided a specific thermodynamic constraint is satisfied. This framework can be applied for numerical simulations to study the dynamics of spin-polarized fluids, such as the quark-gluon plasma in heavy-ion collisions."
+    },
+    {
+      "title": "Neutron skin thickness for $^{nat}$Pb, $^{159}$Tb and effects of deformation on matter radii for Mg, Na, Ar isotopes",
+      "link": "https://arxiv.org/abs/2506.18936",
+      "authors": "Shingo Tagami, Takaykui Myo, Masanobu Yahiro",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2506.18936v1 Announce Type: cross \nAbstract: Data on reaction cross section $\\sigma_{\\rm R}$ of proton scattering are available for $^{nat}$Pb (natural lead) and $^{159}$Tb. In addition, data on $\\sigma_{\\rm R}$ and/or interaction ones $\\sigma_{\\rm I}$ are available for Mg, Na, Ar isotopes. Our aim is to determine neutron skin thickness $r_{\\rm skin}$ for $^{nat}$Pb, $^{159}$Tb and to investigate effects of deformation for Mg, Na, Ar isotopes. We use the chiral (Kyushu) $g$-matrix folding model for lower energies and the folding model based on the Love-Franey (LF) $t$-matrix for higher energies. For $^{159}$Tb, our skin value is $r_{\\rm skin}=0.273 \\pm 0.073$~fm. As for $^{24}$Mg, our matter radius $r_{\\rm m}(\\sigma_{\\rm R})=3.03 \\pm 0.08$~fm determined from $\\sigma_{\\rm R}$ includes effects of deformation, whereas the corresponding $r_{\\rm m}(\\sigma_{\\rm I})=2.79 \\pm 0.15$~fm does not. Effects of deformation are seen for Mg isotopes, $^{21, 23}$Na, $^{40}$Ar. Our result $r_{\\rm skin}=0.271 \\pm 0.008$~fm for $^{nat}$Pb agrees with $r_{\\rm skin}^{208}({\\rm PREX\\text{-}II}) = 0.283\\pm 0.071$~fm for $^{208}$Pb, where we assume $A=208$ for $^{nat}$Pb."
+    },
+    {
+      "title": "Novel Phases of a Baryon-Dense QCD-like Theory",
+      "link": "https://arxiv.org/abs/2506.18964",
+      "authors": "Yang Bai, Carlos Henrique de Lima, Daniel Stolarski",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2506.18964v1 Announce Type: cross \nAbstract: We investigate the phases of a strongly coupled QCD-like theory at finite baryon chemical potential using s-confining supersymmetric QCD deformed by anomaly-mediated supersymmetry breaking. Focusing on the case of three colors and four flavors, we identify novel phases including spontaneous breaking of baryon number and/or parity. Both first-order and second-order phase transitions are observed as the baryon chemical potential is varied. These findings may offer insights into possible phases of real QCD at intermediate baryon densities."
+    },
+    {
+      "title": "Interferometry Radii at RHIC BES Energies within the integrated HydroKinetic Model",
+      "link": "https://arxiv.org/abs/2506.19101",
+      "authors": "Vladislav Naboka, Yuri Sinyukov, Musfer Adzhymambetov, Hanna Zbroszczyk",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2506.19101v1 Announce Type: cross \nAbstract: This study presents a correlation femtoscopy analysis of relativistic heavy-ion collisions at RHIC Beam Energy Scan (BES) energies using the extended integrated HydroKinetic Model (iHKMe). The model combines initial conditions from UrQMD transport simulations, a gradual pre-equilibrium relaxation stage, viscous hydrodynamic evolution, and a hadronic cascade, providing a comprehensive description of the system's full dynamical evolution. Special emphasis is placed on the impact of extended nuclear overlap times and partial thermalization, which are characteristic of intermediate collision energies (sqrt(s_NN) = 7.7-39 GeV). The corresponding correlation femtoscopy scales, or interferometry (HBT) radii, are calculated across a range of collision energies and compared with experimental data to assess the sensitivity of femtoscopic observables to the equation of state (EoS). Two EoS scenarios are explored. The model demonstrates good agreement with experimental femtoscopy measurements, particularly at lower BES energies. These results enhance our understanding of the space-time structure of the particle-emitting source and provide valuable insight into the nature of the QCD phase transition in the intermediate energy regime."
+    },
+    {
+      "title": "Relativistic corrections to hadron-hadron correlation function",
+      "link": "https://arxiv.org/abs/2506.19240",
+      "authors": "Zeyu Zeng, Baoyi Chen, Jiaxing Zhao",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2506.19240v1 Announce Type: cross \nAbstract: Femtoscopy offers a sensitive probe of hadron emission sources and hadronic interactions. In this study, we examine relativistic corrections to scattering phase shifts and correlation functions using the two-body Dirac equation framework. We analyze the impact of the Darwin term and spin-dependent potentials, showing that these relativistic effects, especially spin-related interactions, significantly enhance the proton-proton correlation function. Our findings emphasize the necessity of including relativistic corrections for precise femtoscopic analyses."
+    },
+    {
+      "title": "Kaon structure modifications in strange hadronic matter",
+      "link": "https://arxiv.org/abs/2506.19347",
+      "authors": "Manpreet Kaur, Abi Jebarson A, Dhananjay Singh, Navpreet Kaur, Suneel Dutt, Harleen Dahiya, Arvind Kumar",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2506.19347v1 Announce Type: cross \nAbstract: We present the valence quark distributions of the kaons in an isospin asymmetric dense strange medium consisting of nucleons and hyperons. The comparative analysis of in-medium parton distribution functions, electromagnetic form factors, and charge densities with respect to the free space distributions is studied in the light-cone quark model. The medium effects are incorporated in these distribution functions by using the effective quark masses, computed from the chiral SU(3) quark mean field model for finite values of baryonic density, isospin asymmetry, and strangeness fraction parameters. We observe a suppression of the kaon electromagnetic form factors and a redistribution of charge density in high-density strange matter."
+    },
+    {
+      "title": "Solving the QCD effective kinetic theory with neural networks",
+      "link": "https://arxiv.org/abs/2506.19632",
+      "authors": "Sergio Barrera Cabodevila, Aleksi Kurkela, Florian Lindenbauer",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2506.19632v1 Announce Type: cross \nAbstract: Event-by-event QCD kinetic theory simulations are hindered by the large numerical cost of evaluating the high-dimensional collision integral in the Boltzmann equation. In this work, we show that a neural network can be used to obtain an accurate estimate of the collision integral in a fraction of the time required for the ordinary Monte Carlo evaluation of the integral. We demonstrate that for isotropic and anisotropic distribution functions, the network accurately predicts the time evolution of the distribution function, which we verify by performing traditional evaluations of the collision integral and comparing several moments of the distribution function. This work sets the stage for an event-by-event modeling of the pre-equilibrium initial stages in heavy-ion collisions."
+    },
+    {
+      "title": "Atmospheric Antideuteron Flux Within a Dynamical Coalescence Approach",
+      "link": "https://arxiv.org/abs/2501.02422",
+      "authors": "Jie Pu, Xin Li, Kai-Jia Sun, Chun-Wang Ma, Lie-Wen Chen",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2501.02422v2 Announce Type: replace \nAbstract: Cosmic antideuterons are considered as one of the most promising tools for the indirect detection of dark matter due to their ultra-low astrophysical backgrounds. Currently only upper limits on the antideuteron flux exist, but advancements in experimental detection technology may soon lead to positive signals. A major source of background is the production of secondary antideuterons through collisions of cosmic rays with the surrounding medium. In this study, antideuteron production is modeled using a multiphase transport model (AMPT) coupled with a dynamical coalescence model. By applying a widely used leaky box model and incorporating specific processes, we present a new theoretical baseline for atmospheric secondary antideuteron flux, including a tertiary contribution, from primary cosmic rays interacting with Earth's atmosphere. Our results indicate that the atmospheric antideuteron flux are within the range of various existing calculations and remain well below the upper limits set by the Balloon-borne Experiment with a Superconducting Spectrometer (BESS). The atmospheric antideuteron is found to dominate the antideuteron background at kinetic energies below $0.26 $ GeV/n."
+    },
+    {
+      "title": "Hybrid stars with large quark cores within the parity doublet model and modified NJL model",
+      "link": "https://arxiv.org/abs/2502.17859",
+      "authors": "Wen-Li Yuan, Bikai Gao, Yan Yan, Renxin Xu",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2502.17859v4 Announce Type: replace \nAbstract: Using the parity doublet model (PDM) for hadronic matter and a modified Nambu-Jona-Lasinio (NJL) model for quark matter, we investigate the potential existence of two- and three-flavor quark matter in neutron star cores. Both models respect chiral symmetry, and a sharp first-order phase transition is implemented via Maxwell construction. We find stable neutron stars with quark cores within a specific parameter space that satisfies current astronomical observations. Typical neutron stars with masses around $1.4 \\ M_\\odot$ may possess deconfined quark matter in their centers. The hybrid star scenario with a two-flavor quark core offers enough parameter space to allow the neutron stars with large quark cores exceeding $\\sim 1\\ M_\\odot$, and allow the early deconfinement position before $2\\ \\rho_0$, where $\\rho_0$ is the nuclear saturation density. The observations of gravitational wave event GW170817 suggest a relatively large chiral invariant mass $m_0=600\\ \\rm MeV$ in the PDM for scenarios involving three-flavor quark matter cores. The maximum mass of the hybrid star with a quark core is found to be approximately $2.2\\ M_\\odot$ for both two- or three-flavor quark matter in their centers."
+    },
+    {
+      "title": "Estimating energy levels from lattice QCD correlation functions using a transfer matrix formalism",
+      "link": "https://arxiv.org/abs/2412.01900",
+      "authors": "Debsubhra Chakraborty, Dhruv Sood, Archana Radhakrishnan, Nilmani Mathur",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2412.01900v2 Announce Type: replace-cross \nAbstract: We present an efficient method for extracting energy levels from lattice QCD correlation functions by computing the eigenvalues of the transfer matrix associated with the lattice QCD Hamiltonian. While mathematically and numerically equivalent to the recently introduced Lanczos procedure, our approach introduces a novel prescription for removing spurious eigenvalues using a kernel density estimator (KDE) and Gaussian-convoluted histogram method. This strategy yields a robust and stable estimate of the energy spectrum, outperforming the Cullum-Willoughby filtering technique in efficiency. In addition, we detail how this method can be applied to extract overlap factors from two-point correlation functions, as well as matrix elements from three-point functions with a current insertion. Furthermore, we extend the methodology to accommodate correlation matrices constructed from a variational basis of operators, with its Block formulation. We demonstrate the efficacy of this framework by computing the two lowest energy levels for a broad range of hadrons, including several nuclei. Although the signal-to-noise ratio is not significantly improved, the extracted energy levels are found to be more reliable than those obtained with conventional techniques. Within a given statistical ensemble, the proposed method effectively captures both statistical uncertainties and systematic errors, including those arising from the choice of fitting window, making it a robust and practical tool for lattice QCD analysis."
+    },
+    {
+      "title": "Form-factor dependence of neutrino-nucleus cross sections using microscopic methods",
+      "link": "http://iopscience.iop.org/article/10.1088/1361-6471/adde77",
+      "authors": "D Simons, N Steinberg, A Lovato, Y Meurice, N Rocco and M Wagman",
+      "source": "Journal of Physics G: Nuclear and Particle Physics",
+      "summary": "To achieve its design goals, the next generation of neutrino-oscillation accelerator experiments requires percent-level predictions of neutrino-nucleus cross sections supplemented by robust estimates of the theoretical uncertainties involved. The latter arise from both approximations in solving the nuclear many-body problem and in the determination of the single- and few-nucleon quantities taken as input by many-body methods. To gauge the sensitivity of realistic nuclear many body methods to these few-nucleon quantities, we compute flux-averaged double-differential cross sections using the Green’s function Monte Carlo and spectral function methods as well as different parameterizations of the nucleon axial form factors based on either deuterium bubble-chamber data or lattice quantum chromodynamics calculations. The cross-section results are compared with available experimental data from the MiniBooNE and T2K collaborations. We also discuss the uncertainties associated with N → Δ transition form factors that enter the two-body current operator. We quantify the relations between neutrino-nucleus cross section and nucleon form factor uncertainties. These relations enable us to determine the form factor precision targets required to achieve a given cross-section precision."
     }
   ]
 }
