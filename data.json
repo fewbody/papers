@@ -1,40 +1,152 @@
 {
-  "lastUpdated": "2025-06-30T02:49:49.362548",
+  "lastUpdated": "2025-07-01T02:56:18.819592",
   "papers": [
     {
-      "title": "Software defined radio for on-line interaction with beam processes in the heavy ion storage ring ESR*",
-      "link": "http://iopscience.iop.org/article/10.1088/1674-1137/adcc01",
-      "authors": "M. S. Sanjari, Yu. A. Litvinov, S. Litvinov, B. Peter, R. J. Chen, 瑞九 陈, D. Dmytriiev, C. Forconi, J. Glorius, G. W. Hudson-Chang, H. Hüther, E. B. Menz, Z. Nunns, T. Ohnishi, 哲哉 大西, Zs. Podolyak, J. Stadlmann, Th. Stöhlker, Q. Wang, 茜 王, T. Yamaguchi, 貴之 山口, Y. Yamaguchi, 由高 山口, X. Yan, 鑫亮 颜, A. Yano, 朝陽 矢野, Y. Yu and 越 于",
-      "source": "Chinese Physics C",
-      "summary": "The application of software defined radio in on-line interactions with the beam processes of the heavy ion storage ring is presented. We discusse how this new technique can enhance the beam time efficiency and create new measurement possibilities. A specific example to halt the accelerator running if a rare stored particle is identified on-line is discussed."
+      "title": "Quantum-mechanical description of angular motion of fission fragments at scission",
+      "link": "http://link.aps.org/doi/10.1103/ltv2-4141",
+      "authors": "T. M. Shneidman, A. Rahmatinejad, G. G. Adamian, and N. V. Antonenko",
+      "source": "Physical Review C",
+      "summary": "Author(s): T. M. Shneidman, A. Rahmatinejad, G. G. Adamian, and N. V. AntonenkoThe quantum-mechanical description of the collective angular motion in a system of two touching fission fragments is proposed. The main features of excitation spectrum and the structure of the wave functions are investigated. As found, the angular motion approximately corresponds to independent vibr…[Phys. Rev. C 111, 064621] Published Mon Jun 30, 2025"
     },
     {
-      "title": "New Z' boson of the bestest little Higgs model as a portal to signatures of Higgs bosons h 0 and H 0 at the future muon collider",
-      "link": "http://iopscience.iop.org/article/10.1088/1674-1137/adcc8a",
-      "authors": "J. M. Martínez-Martínez, A. Gutiérrez-Rodríguez, E. Cruz-Albaro and M. A. Hernández-Ruíz",
-      "source": "Chinese Physics C",
-      "summary": "We study the new boson as a portal for the production of Higgs bosons and predicted by the Bestest Little Higgs Model through Higgs-strahlung processes . We focus on the resonant and nonresonant effects of the signals. In our analysis, we consider the center-of-mass energies of TeV and integrated luminosities of projected for a future muon collider. The possibility of performing precision measurements for Higgs bosons and is very promising for the future muon collider. Furthermore, our results may be useful to the High Energy Physics community. Complementarily, we generate and provide the Feynman rules necessary for studying processes ."
+      "title": "Higher-order symmetry plane correlations in Pb-Pb collisions at $\\sqrt{{s}_{NN}}=5.02\\phantom{\\rule{0.28em}{0ex}}\\mathrm{TeV}$",
+      "link": "http://link.aps.org/doi/10.1103/zx6t-29hf",
+      "authors": "S. Acharya <em>et al.</em> (ALICE Collaboration)",
+      "source": "Physical Review C",
+      "summary": "Author(s): S. Acharya et al. (ALICE Collaboration)The correlations between event-by-event fluctuations of symmetry planes are measured in Pb-Pb collisions at a center-of-mass energy per nucleon pair $\\sqrt{{s}_{NN}}=5.02\\phantom{\\rule{0.28em}{0ex}}\\mathrm{TeV}$ recorded by the ALICE detector at the Large Hadron Collider. This analysis is conducted …[Phys. Rev. C 111, 064913] Published Mon Jun 30, 2025"
     },
     {
-      "title": "Effect of tensor force on 2νββ and 0νββ decays in 76Ge, 82Se, 130Te, and 136Xe*",
-      "link": "http://iopscience.iop.org/article/10.1088/1674-1137/adcf8f",
-      "authors": "M.D. Wu, 明德 吴, C.L. Bai, 春林 白, D.L. Fang, 栋梁 房, Y.F. Niu, 一斐 牛, H. Sagawa, H.Q. Zhang and 焕乔 张",
-      "source": "Chinese Physics C",
-      "summary": "The effects of the tensor force on the and decay nuclear matrix elements (NMEs) of , , , and are studied using the Hartree-Fock-Bogoliubov (HFB) plus proton-neutron quasi-particle random phase approximation (pnQRPA) model based on the Skyrme energy density functional. We include the full spectra of intermediate states with up to the energy cutoff E = 60 MeV, which is sufficient for convergence of NME calculations. The isovector (IV) pairing and tensor interactions are considered in both HFB and QRPA calculations, while the isoscalar (IS) pairing interaction is included only in QRPA calculations. We found that the tensor force shifts Gamow-Teller (GT) transition strengths substantially to low-energy regions and enhances the decay NME. The inclusion of tensor force enhances the NME by approximately 13% for and and 30% for and , for a fixed IS pairing strength. We found that the intermediate 2- state makes an important contribution to the NME, which is slightly enhanced by the inclusion of the tensor force. We also found that the contribution of the state makes important differences through the inclusion of the tensor force, which enhances the contribution largely. However when the IS pairing strength is increased, the contributions from 1+ states are rapidly reduced to be very small, resulting in even negative contributions. Thus, tensor and IS pairing effects cancel each other, making the net effect on the NME relatively small. Due to this cancellation, if the IS pairing strength is optimized separately for cases with and without the tensor interaction to reproduce the experimental NME, the consequent NME with the tensor interaction is close to that without the tensor interaction within a 10% difference."
+      "title": "Four types of phase transitions in interacting boson (meson) matter at high temperatures",
+      "link": "https://arxiv.org/abs/2506.21736",
+      "authors": "D. Anchishkin, V. Gnatovskyy, D. Zhuravel, I. Mishustin, H. Stoecker",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2506.21736v1 Announce Type: new \nAbstract: The thermodynamics of the interacting system of relativistic particles and antiparticles in the presence of a Bose-Einstein condensate was investigated within the framework of the mean-field model. It is assumed that the total isospin (charge) density is conserved. We show that, depending on the strength of the interaction, a bosonic particle-antiparticle system exhibits four types of phase transitions to the condensate phase. Three types correspond to the second-order phase transition, while one is a first-order phase transition."
     },
     {
-      "title": "Comparison of the descriptions of yrast bands in the Harris and IBM models for even Th and U nuclei",
-      "link": "http://iopscience.iop.org/article/10.1088/1674-1137/add25a",
-      "authors": "A. D. Efimov, I. V. Koval and I. N. Izosimov",
-      "source": "Chinese Physics C",
-      "summary": "For even Th and U nuclei, the description of the energies of yrast bands in the Harris variable moment of inertia model is studied in its phenomenological application. For some of these nuclei, the results obtained in the microscopic version of the interacting boson model (IBM) are presented, in which high-spin excitation modes are also considered. For other nuclei, in scenarios where high-spin orbits are not highly significant in describing the properties of yrast bands, in addition to the Harris model, the IBM with a full standard Hamiltonian constructed only from s and d bosons is utilized. Because the Harris model is considered with no more than four parameters, it can be used for both heavy and superheavy nuclei to approximate the energies of high-spin states. This study on the properties of nuclei using various models reveals the possibilities of describing different behaviors of the moments of inertia in the IBM and outlines additional criteria for the implementation of band crossing."
+      "title": "Kinetic theories: from curved space to flat space",
+      "link": "https://arxiv.org/abs/2506.21890",
+      "authors": "Shu Lin",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2506.21890v1 Announce Type: new \nAbstract: We show how to map kinetic theories for spinning particles in curved space to flat space through choice of inertial frame that eliminate forces acting on momentum and spin, thus putting the idea of mimicking off-equilibrium state by metric perturbation to equilibrium state on firm ground. The equivalence has been shown for hydrodynamic and elastic regimes. In the latter case, we predict spin polarization induced by time-variation of strain in elastic matter."
     },
     {
-      "title": "Exploring vector dark matter via effective interactions",
-      "link": "http://iopscience.iop.org/article/10.1088/1674-1137/add5c5",
-      "authors": "Hrishabh Bharadwaj",
-      "source": "Chinese Physics C",
-      "summary": "We explore the properties of vector dark matter (DM) particles that predominantly interact with Standard Model (SM) electroweak gauge bosons using an effective field theory approach. The study emphasizes effective contact interactions, invariant under the SM gauge group, between vector DM and SM-neutral electroweak gauge bosons. Focusing on interaction terms up to dimension-eight, we establish constraints on the model parameters based on the observed DM relic density and indirect detection signals. We also examine the prospects for dark matter-nucleon scattering in direct detection experiments. In addition, we analyze the sensitivity of low-energy LEP data to the pair production of light DM particles (with masses up to 80 GeV). Finally, we assess the potential of the proposed International Linear Collider to probe these effective operators through the detection of DM particles produced in association with mono-photons."
+      "title": "Nucleon-Quark Diquark-exchange Interaction",
+      "link": "https://arxiv.org/abs/2506.22079",
+      "authors": "Th. A. Rijken",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2506.22079v1 Announce Type: new \nAbstract: In this note the nucleon-quark diquark-exchange interaction is derived using the Feynman-propagator for axial-vector diquark (D) exchange. The Feynman diquark propagator is derived and the result is a (-)-sign difference w.r.t. quark-antiquark exchange. This is due to the (-)-sign for a closed fermion loop, present in for example vector and axial-vector quark-antiquark exchange, but absent in the case of D-exchange. The calculations in these notes follow closely those for vacuum polarisation in the literature. Taking into account that the diquark D is a color $\\left{\\bar{3}_c\\right\\}$-state giving a factor +2. The result is an effective axial-vector diquark propagator. Application to $QN \\rightarrow NQ$ gives a repulsive potential, which has been used in mixed nuclear-quark matter calculation."
+    },
+    {
+      "title": "Spin polarization from nucleon-nucleon scatterings in intermediate-energy heavy-ion collisions",
+      "link": "https://arxiv.org/abs/2506.22247",
+      "authors": "Rong-Jun Liu, Jun Xu, Yu-Gang Ma",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2506.22247v1 Announce Type: new \nAbstract: We propose a new mechanism of generating spin polarization in heavy-ion collisions dominated by nucleon degree of freedom. By incorporating the spin change in nucleon-nucleon scatterings based on the phase shift data together with the constraint of rigorous angular momentum conservation and Pauli blocking, we illustrate through a Boltzmann-Uehling-Uhlenbeck transport model that appreciable spin polarization (about $1 \\sim 2\\%$) can be generated in intermediate-energy heavy-ion collisions. This mechanism, together with the nuclear spin-orbit potential, may help to understand the spin polarization in few-GeV heavy-ion collisions dominated by nucleon degree of freedom."
+    },
+    {
+      "title": "Exploring hadronic rescattering effects on resonance productions in pp and p-Pb collisions with PYTHIA8",
+      "link": "https://arxiv.org/abs/2506.22368",
+      "authors": "Su-Jeong Ji, Gyeongbin Park, Bong-Hwi Lim, Sanghoon Lim",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2506.22368v1 Announce Type: new \nAbstract: In relativistic heavy-ion collisions, the quark-gluon plasma is created, and as the medium cools down, the system transitions into a hadronic phase. While such interactions are well established for large systems, such as Pb-Pb collisions, their relevance in smaller collision systems remains unclear. Consequently, hadronic interactions during the hadronic phase are studied in pp collisions at $\\sqrt{s}=13$ TeV and p-Pb collisions at $\\sqrt{s_{\\rm{NN}}}=5.02$ TeV with the PYTHIA8 event generator. The interaction is studied via the yield ratios between resonances and stable particles with similar quark contents, which are obtained as a function of transverse momentum ($p_{\\rm{T}}$) using $\\mathrm{\\rho(770)^0}$, $\\mathrm{K^*(892)^0}$, and $\\mathrm{\\phi(1020)}$ mesons and their stable particles, $\\mathrm{\\pi^\\pm}$ and $\\mathrm{K^\\pm}$ at midrapidity ($|y|<0.5$). Yield ratios are calculated in five multiplicity classes for pp and six for p-Pb collisions, using the 60-100\\% multiplicity class in pp as a reference. Although rescattering leads to stronger suppression at low $p_{\\rm{T}} < 2$ GeV/$c$, a visible suppression remains even when rescattering is turned off. To isolate the rescattering effect, double ratios between the rescattering on and off configurations are obtained. These are then integrated in the full $p_{\\rm{T}}$ range ($0<6.0$ GeV/$c$) and in the low-$p_{\\rm{T}}$ region ($0<0.8$ GeV/$c$), where rescattering effects are most pronounced. The normalized double ratios show a decreasing trend with increasing multiplicity, independent of the collision system. The lower limit of the hadronic phase lifetimes extracted in low-$p_{\\rm{T}}$ region increases with multiplicity in both systems, but with a notable discrepancy between pp and p-Pb collisions."
+    },
+    {
+      "title": "Impact of magnetic field-driven anisotropies on the equation of state probed in neutron star mergers",
+      "link": "https://arxiv.org/abs/2506.21696",
+      "authors": "Elias R. Most, Jeffrey Peterson, Luigi Scurto, Helena Pais, Veronica Dexheimer",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2506.21696v1 Announce Type: cross \nAbstract: Binary neutron star mergers can produce extreme magnetic fields, some of which can lead to strong magnetar-like remnants. While strong magnetic fields have been shown to affect the dynamics of outflows and angular momentum transport in the remnant, they can also crucially alter the properties of nuclear matter probed in the merger. In this work, we provide a first assessment of the latter, determining the strength of the pressure anisotropy caused by Landau level quantization and the anomalous magnetic moment. To this end, we perform the first numerical relativity simulation with a magnetic polarization tensor and a magnetic-field-dependent equation of state using a new algorithm we present here, which also incorporates a mean-field dynamo model to control the magnetic field strength present in the merger remnant. Our results show that -- in the most optimistic case -- corrections to the anisotropy can be in excess of $10\\%$, and are potentially largest in the outer layers of the remnant. This work paves the way for a systematic investigation of these effects."
+    },
+    {
+      "title": "Universal Effective Charges in the $sd$ and $fp$ Shells",
+      "link": "https://arxiv.org/abs/2506.21852",
+      "authors": "T. H. Ogunbeku, J. M. Allmond, T. J. Gray, W. -J. Ong, B. A. Brown, A. Gargano, R. Grzywacz, J. D. Holt, A. O. Macchiavelli, T. Miyagi, S. Neupane, B. C. Rasco, H. Schatz, B. M. Sherrill, O. B. Tarasov, H. Arora, A. D. Ayangeakaa, H. C. Berg, J. M. Berkman, D. L. Bleuel, K. Bosmpotinis, M. P. Carpenter, G. Cerizza, A. Chester, J. M. Christie, I. Cox, H. L. Crawford, B. P. Crider, J. Davis, A. A. Doetsch, J. G. Duarte, A. Estrade, A. Fija{\\l}kowska, C. Frantzis, T. Gaballah, E. C. Good, K. Haak, S. Hanai, J. T. Harke, A. C. Hartley, K. Hermansen, D. E. M. Hoff, D. Hoskins III, J. Huffman, P. Van Isacker, R. Jain, M. Karny, T. T. King, N. Kitamura, K. Kolos, A. Laminack, S. N. Liddick, B. Longfellow, R. S. Lubna, S. Lyons, M. Madurga, M. J. Mogannam, G. Owens-Fryar, J R. Palomino, M. M. Rajabali, A. L. Richard, I. J. Richardson, E. K. Ronning, G. E. Rose, T. J. Ruland, K. P. Rykaczewski, N. D. Scielzo, D. P. Scriven, D. Seweryniak, K. Siegl, M. Singh, A. Spyrou, M. Stepaniuk, A. E. Stuchbery, A. Sweet, V. Tripathi, A. Tsantiri, S. Uthayakumaar, W. B. Walters, S. Watters, Z. Xu, R. Yokoyama",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2506.21852v1 Announce Type: cross \nAbstract: The 247-keV state in $^{54}$Sc, populated in the $\\beta$ decay of $^{54}$Ca, is reported here as a nanosecond isomer with a half-life of 26.0(22) ns. The state is interpreted as the $1^+$ member of the $\\pi f_{7/2}\\otimes\\nu f_{5/2}$ spin-coupled multiplet, which decays to the $3^+,\\pi f_{7/2} \\otimes \\nu p_{1/2}$ ground state. The new half-life corresponds to a pure $E2$ transition with a strength of 1.93(16) W.u., providing the most precise, unambiguous $B(E2)$ value in the neutron-rich $fp$ region to date for a nucleus with valence protons above $Z=20$. Notably, it is roughly four times larger than the $B(E2; 1/2^{-} \\rightarrow 5/2^{-})$ value in $^{55}$Ca. The results, as compared to semi-empirical and ab initio shell-model calculations, indicate (1) a weak $N=34$ sub-shell gap relative to $N = 32$, (2) a large $E2$ enhancement in Sc as compared to Ca due to $1p-1h$ proton excitations across $Z=28$, and (3) empirical effective proton and neutron charges, $e_\\pi$ = 1.30(8)$e$ and $e_\\nu$ = 0.452(7)$e$, respectively, that are in contrast to reports of $e_\\pi \\approx 1.1-1.15e$ and $e_\\nu \\approx 0.6-0.8e$ for $fp$-shell nuclei near $N = Z$. We demonstrate that these reports are erroneous and that, in fact, a universal set of effective charges can be used across the $sd$ and $fp$ shells."
+    },
+    {
+      "title": "The nature of the $P_c$ states from compositeness criteria",
+      "link": "https://arxiv.org/abs/2506.21858",
+      "authors": "Yu-Fei Wang, Chao-Wei Shen, Deborah R\\\"onchen, Ulf-G. Mei{\\ss}ner, Bing-Song Zou, Fei Huang",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2506.21858v1 Announce Type: cross \nAbstract: Based on a coupled-channel approach, we investigate the structures of four $P_c$ states through compositeness criteria. Towards a more precise description of the states, we have obtained refined fit results of the LHCb data on the $J/\\psi p$ invariant mass distribution of the $\\Lambda_b^0\\to J/\\psi p K^-$ decay. Allowing for the fact that each of the four $P_c$ states couples strongly to a nearby $S$-wave channel, three criteria on the compositeness/elementariness are adopted in this study: the pole-counting rule, the spectral density function, and the Gamow wave function. Compositeness information is extracted from the scattering amplitudes and the pole parameters (pole positions and residues), without any preconceived assumptions on the nature of the $P_c$ states. Consistently within the framework of all the three methods, it has been found that the $P_c(4312)\\,1/2^-$ is mainly composed by $\\bar{D}\\Sigma_c$, $P_c(4380)\\,3/2^-$ by $\\bar{D}\\Sigma_c^*$, while the $P_c(4440)\\,1/2^-$ and $P_c(4457)\\,3/2^-$ states are both turn out as composite states of $\\bar{D}^*\\Sigma_c$. The upper limits of the values of their elementariness are estimated to be rather small. This paper provides an additional confirmation of the molecular interpretation for the $P_c$ states in the literature."
+    },
+    {
+      "title": "Eigenstates in coupled-channel scattering amplitude and their effects on spectrum",
+      "link": "https://arxiv.org/abs/2506.21949",
+      "authors": "Takuma Nishibuchi, Tetsuo Hyodo",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2506.21949v1 Announce Type: cross \nAbstract: In general, discrete eigenstates such as resonances are represented by poles of the scattering amplitude, analytically continued to the complex energy plane. In multi-channel scattering, however, the Riemann surface becomes more complicated, leading to the emergence of various types of poles with distinct characteristics. In this study, we investigate the relationship between poles located on different Riemann sheets and analyze how they influence the observable spectra. In particular, we clarify the effect of the decay channel on the pole trajectory, where an $s$-wave bound state evolves into a resonance via a virtual state. It is shown that the quasibound state pole below the threshold does not continuously connected to the resonance pole above the threshold, and a kind of interchange of poles occurs. As a concrete example, we consider several models based on the chiral unitary approach that describe meson-baryon scattering amplitudes involving the $\\Xi(1620)$ and $\\Xi(1690)$ resonances. We examine their impact on the $\\pi\\Xi$ invariant mass distributions in the $\\Xi_{c} \\to \\pi\\pi\\Xi$ decay, discussing how the pole structure manifests itself in experimental observables."
+    },
+    {
+      "title": "Magneto-Thomson and transverse Thomson effects in an interacting hadron gas in the presence of an external magnetic field",
+      "link": "https://arxiv.org/abs/2506.22086",
+      "authors": "Kamaljeet Singh, Kshitish Kumar Pradhan, Raghunath Sahoo",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2506.22086v1 Announce Type: cross \nAbstract: The universality of electric charge as a quantum number allows thermoelectric properties to manifest across diverse systems, starting from a hot quantum chromodynamics matter in heavy-ion collisions at a high energy scale to semiconductors in condensed matter systems at a low energy scale. In this work, we explore the emergence of magneto-transport phenomena, specifically the magneto-Thomson and transverse Thomson effects, in a hot and dense hadronic medium produced in relativistic heavy-ion collisions at Relativistic Heavy Ion Collider and Large Hadron Collider energies. These phenomena arise due to the combined influence of temperature gradients and non-zero baryon chemical potential, particularly in the presence of an external magnetic field. Using the relativistic Boltzmann transport equation within the relaxation time approximation, we analyze the behavior of the hadronic medium considering different frameworks of hadron resonance gas models. The presence of external magnetic fields breaks the isotropy of the thermoelectric transport coefficient matrix, giving rise to new components of the Thomson coefficient, namely, magneto-Thomson and transverse Thomson coefficients. For the first time, we estimate the magneto-Thomson and transverse Thomson coefficients, which originate from the temperature dependence of the magneto-Seebeck coefficient and Nernst coefficient, respectively, in hadron gas under the influence of a magnetic field. Our findings provide a novel perspective on the higher-order thermoelectric properties of the hot and dense hadronic medium in the context of heavy-ion collisions."
+    },
+    {
+      "title": "Space-like pion off-shell form factors in the Bethe-Salpeter approach",
+      "link": "https://arxiv.org/abs/2506.22153",
+      "authors": "S. Bondarenko (Joint Institute for Nuclear Research, Dubna, Russia, Dubna State University, Dubna, Russia), M. Slautin (Joint Institute for Nuclear Research, Dubna, Russia, Dubna State University, Dubna, Russia)",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2506.22153v1 Announce Type: cross \nAbstract: In the paper, the off-shell electromagnetic pion form factors in the Bethe-Salpeter formalism are considered. The separable kernel of the first rank quark-antiquark interaction is used to solve the equation analytically.The semi-off-shell pion form factors \\( F_1 \\) and \\( F_2 \\), which are related to each other by the Ward-Takahashi identity, are calculated. The obtained off-shell form factors as well as static properties of the pion are compared with the results of other authors."
+    },
+    {
+      "title": "Excited States from ADAPT-VQE convergence path in Many-Body Problems: application to nuclear pairing problem and $H_4$ molecule dissociation",
+      "link": "https://arxiv.org/abs/2506.22275",
+      "authors": "Jing Zhang, Denis Lacroix",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2506.22275v1 Announce Type: cross \nAbstract: A quantum computing algorithm is proposed to obtain low-lying excited states in many-body interacting systems. The approximate eigenstates are obtained by using a quantum space diagonalization method in a subspace of states selected from the convergence path of the ADAPT-VQE (adaptive derivative-assembled pseudo-Trotter Ansatz variational quantum eigensolver) towards the ground state of the many-body problem. This method is shown to be accurate with only a small overhead in terms of quantum resources required to get the ground state. We also show that the quantum algorithm might be used to facilitate the convergence of the ADAPT-VQE method itself. Successful applications of the technique are made to like-particle pairing as well as neutron-proton pairing. Finally, the $H_4$ molecule's dissociation also illustrates the technique, demonstrating its accuracy and versatility."
+    },
+    {
+      "title": "Meson-baryon scattering lengths without annihilation diagrams to order $p^4$ in heavy baryon chiral perturbation theory",
+      "link": "https://arxiv.org/abs/2506.22339",
+      "authors": "Jing Ou-Yang, Ke Wang, Bo-Lin Huang",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2506.22339v1 Announce Type: cross \nAbstract: We calculate the threshold $T$ matrices of the meson and baryon processes that have no annihilation diagrams: $\\pi^{+}\\Sigma^{+}$, $\\pi^{+}\\Xi^0$, $K^+p$, $K^+n$, and $\\bar{K}^0\\Xi^0$ to the fourth order in heavy baryon chiral perturbation theory. By performing least squares and Bayesian fits to the non-physical lattice QCD data, we determine the low-energy constants through both perturbative and non-perturbative iterative methods. By using these low-energy constants, we obtain the physical scattering lengths in these fits. The values of the scattering lengths tend to be convergent at the fourth order in the perturbative method. The scattering lengths for the five channels, obtained by taking the median values from four different fitting approaches, are $a_{\\pi^+\\Sigma^+}=-0.16\\pm 0.07\\,\\text{fm}$, $a_{\\pi^+\\Xi^0}=-0.04\\pm0.04\\,\\text{fm}$, $a_{K^+p}=-0.41\\pm 0.11\\,\\text{fm}$, $a_{K^+n}=-0.19\\pm 0.10\\,\\text{fm}$, and $a_{\\bar{K}^0\\Xi^0}=-0.30\\pm 0.07\\,\\text{fm}$, where the uncertainties are conservatively estimated by taking the maximum deviation between the median and extreme values of the statistical errors."
+    },
+    {
+      "title": "Energy-Energy Correlator for jet production in $pp$ and $pA$ collisions",
+      "link": "https://arxiv.org/abs/2411.11782",
+      "authors": "Jo\\~ao Barata, Zhong-Bo Kang, Xo\\'an Mayo L\\'opez, Jani Penttala",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2411.11782v2 Announce Type: replace-cross \nAbstract: In this Letter, we study the collinear limit of the Energy-Energy Correlator (EEC) in single-inclusive jet production in proton-proton ($pp$) and proton-nucleus ($pA$) collisions. We introduce a non-perturbative model that allows us to describe the EEC in the entire angular region of the current experiments. Our results for $pp$ collisions show excellent agreement with CMS and ALICE data over a wide range of jet transverse momenta. For $pA$ collisions, we include modifications from the nuclear medium, and our predictions align well with the trends observed in recent ALICE measurements."
+    },
+    {
+      "title": "Chirally motivated $\\pi\\Sigma$-$\\bar{K}N$ model in a finite volume",
+      "link": "https://arxiv.org/abs/2412.12977",
+      "authors": "Peter C. Bruns, Ales Cieply",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2412.12977v2 Announce Type: replace-cross \nAbstract: We generalize the chirally motivated $\\pi\\Sigma - \\bar{K}N$ coupled channels model to the cubic finite volume and use it to calculate the stationary energy spectrum that appears in a nice agreement with the spectrum obtained in the lattice QCD simulations by the BaSc collaboration. Several other comparisons with the BaSc results are made, in particular relating their pole positions of the meson-baryon scattering matrix to the two-pole picture of $\\Lambda(1405)$ generated by our chiral model in the infinite volume."
+    },
+    {
+      "title": "Gluon mass scale through the Schwinger mechanism",
+      "link": "https://arxiv.org/abs/2501.01080",
+      "authors": "M. N. Ferreira, J. Papavassiliou",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2501.01080v2 Announce Type: replace-cross \nAbstract: It has long been argued that the action of the Schwinger mechanism in the gauge sector of Quantum Chromodynamics leads to the generation of a gluon mass scale. Within this scenario, the analytic structure of the fundamental vertices is modified by the creation of scalar colored excitations with vanishing mass. In the limit of zero momentum transfer, these terms act as massless poles, providing the required conditions for the infrared stabilization of the gluon propagator, and producing a characteristic displacement to the associated Ward identities. In this article we offer an extensive overview of the salient notions and techniques underlying this dynamical picture. We place particular emphasis on recent developments related to the exact renormalization of the mass, the nonlinear nature of the pole equation, and the key role played by the Fredholm alternative theorem."
+    },
+    {
+      "title": "Generative adversarial neural networks for simulating neutrino interactions",
+      "link": "https://arxiv.org/abs/2502.20244",
+      "authors": "Jose L. Bonilla, Krzysztof M. Graczyk, Artur M. Ankowski, Rwik Dharmapal Banerjee, Beata E. Kowal, Hemant Prasad, Jan T. Sobczyk",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2502.20244v2 Announce Type: replace-cross \nAbstract: We propose a new approach to simulate neutrino scattering events as an alternative to the standard Monte Carlo generator approach. Generative adversarial neural network (GAN) models are developed to simulate charged current neutrino-carbon collisions in the few-GeV energy range. We consider a simplified framework to generate muon kinematic variables, specifically its energy and scattering angle. GAN models are trained on simulation data from \\nuwro{} Monte Carlo event generator. Two GAN models have been obtained: one simulating quasielastic neutrino-nucleus scatterings and another simulating all interactions at given neutrino energy. The models work for neutrino energy ranging from 300 MeV to 10 GeV. The performance of both models has been assessed using two statistical metrics. It is shown that both GAN models successfully reproduce the distribution of muon kinematics."
+    },
+    {
+      "title": "Nucleosynthesis with tritium",
+      "link": "http://iopscience.iop.org/article/10.1088/1361-6471/addc86",
+      "authors": "Ani Aprahamian, R James deBoer, Joachim Görres, Maxwell Q Sorensen, Michael Wiescher, Maria Gatu-Johnson, Chad J Forrest and Arnold Schwemmlein",
+      "source": "Journal of Physics G: Nuclear and Particle Physics",
+      "summary": "This paper reports on the possible role of tritium-induced reactions of light nuclei, which may influence nucleosynthesis in short-lived environments such as the third minute of the Big Bang. They may also play a role during the emergence of the neutrino-driven shock front in core collapse supernovae or merging neutron stars at extreme densities. The production of tritium requires a very dynamic and neutron-rich environment; under such conditions tritium-induced reactions are expected to play an important role in the development of specific reaction patterns that could lead to a delayed release of neutrons influencing the associated nucleosynthesis. Here, we summarize different possible reaction sequences and discuss the strength and impact of tritium cluster resonances that occur near the tritium threshold in the respective compound systems."
+    },
+    {
+      "title": "Spectroscopic investigation of 54$$^{54}$$Cr via α$$\\alpha $$-transfer reaction",
+      "link": "https://epja.epj.org/10.1140/epja/s10050-025-01619-0",
+      "authors": "Biswajit Das, A. Kundu, R. Palit, P. Dey, Vishal Malik, U. Garg, D. Negi, S. R. Laskar, Rajkumar Santra, S. K. Jadhav, B. S. Naidu, A. T. Vazhappilly",
+      "source": "European Physical Journal A",
+      "summary": "Authors: Biswajit Das, A. Kundu, R. Palit, P. Dey, Vishal Malik, U. Garg, D. Negi, S. R. Laskar, Rajkumar Santra, S. K. Jadhav, B. S. Naidu and A. T. Vazhappilly.The European Physical Journal A Vol. 61 , page 148Published online: 26/6/2025"
     }
   ]
 }
