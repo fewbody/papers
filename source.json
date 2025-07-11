@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-07-10T02:47:05.264265",
+  "lastUpdated": "2025-07-11T02:50:41.163312",
   "papers": [
     {
       "title": "Increasing Octupole Collectivity across the $Z=64$ Isotopic Chain: B(E3) Values in $^{150}\\mathrm{Gd}$",
@@ -19719,6 +19719,104 @@
       "authors": "Unknown",
       "source": "Physics Letters B",
       "summary": "Publication date: September 2025Source: Physics Letters B, Volume 868Author(s): Reggie C. Pantig"
+    },
+    {
+      "title": "New approach for the quantification of uncertainties in reaction modeling via data-driven multi-objective optimization",
+      "link": "https://arxiv.org/abs/2507.06370",
+      "authors": "N. Dimitrakopoulos, G. Perdikakis, F. Montes, P. Gastis, S. A. Kuvin, H. Y. Lee, P. Tsintari, A. V. Voinov",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2507.06370v1 Announce Type: new \nAbstract: We introduce a new multi-objective optimization approach to determine uncertainty-quantified nuclear reaction parameters in the Hauser-Feshbach framework. By simultaneously accounting for all available data across multiple reaction channels we capture parameter correlations and estimate data-driven uncertainties. We implement in the Ni-Ge region yielding uncertainty-quantified model parameters for both stable and unstable isotopes. We estimate resonance spacings for nuclei beyond experimental reach and validate our method by calculating a known cross-section outside our optimization region."
+    },
+    {
+      "title": "Ferromagnetic instabilities in quarkyonic matter",
+      "link": "https://arxiv.org/abs/2507.06577",
+      "authors": "Bikai Gao, Kenichi Yoshida",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2507.06577v1 Announce Type: new \nAbstract: We investigate the magnetic properties of quarkyonic matter, which naturally bridges nuclear and quark matter at intermediate densities relevant to neutron star cores. We extend the quarkyonic model to include spin polarization, where nucleons near the Fermi surface can be polarized while quarks in the deep Fermi sea remain unpolarized due to strong Pauli blocking. After including neutron interactions with spin-dependent terms, we find that quarkyonic matter can develop ferromagnetic instabilities at low densities, characterized by negative magnetic susceptibility. This ferromagnetic behavior occurs in pure neutron matter, independent of proton contributions, and results from the competition between attractive spin-dependent interactions and kinetic energy costs. The system returns to paramagnetic behavior at higher densities when Pauli pressure dominates. Our results demonstrate that the splitting of Fermi momenta of quarkyonic matter produces fundamentally different magnetic responses compared to conventional nuclear matter, with important implications for neutron star magnetism and magnetar physics."
+    },
+    {
+      "title": "Asymptotic behavior of the Speed of Sound in Dense Matter",
+      "link": "https://arxiv.org/abs/2507.06741",
+      "authors": "Udita Shukla, Pok Man Lo",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2507.06741v1 Announce Type: new \nAbstract: We show that a class of NJL-like models fails to reproduce the expected conformal limit of the speed of sound, making them unsuitable for analyzing the equation of state of dense matter. We then demonstrate how this issue can be resolved within a simple dynamical quark model."
+    },
+    {
+      "title": "Does HESS J1731-347 have a thick crust ?",
+      "link": "https://arxiv.org/abs/2507.06837",
+      "authors": "Sebastian Kubis, W{\\l}odzimierz W\\'ojcik",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2507.06837v1 Announce Type: new \nAbstract: A relativistic mean-field model with a crossing term of isovector-scalar and isoscalar mesons, the Cracow crossing terms (CCT) model, has previously been shown to be capable of explaining the light and compact object HESS J1731-347. Here, the model is supplemented with a correct treatment of the phase transition. Applying the thermodynamically consistent Gibbs conditions shows that a mixed-phase system occurs in the core of the neutron star over a wide range of densities, extending up to the neutron star crust, leading to an intriguing stellar structure with a thick and massive crust."
+    },
+    {
+      "title": "High-Dimensional Unfolding in Large Backgrounds",
+      "link": "https://arxiv.org/abs/2507.06291",
+      "authors": "Alexandre Falc\\~ao, Adam Takacs",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2507.06291v1 Announce Type: cross \nAbstract: We propose new methodologies in multi-dimensional unfolding in dense environments, and show that incorporating auxiliary observables can significantly improve performance. Our approach builds on the ML-based OmniFold algorithm, which we extend to account for background, detector acceptance, efficiency, and uncertainties, enabling its application in high-luminosity and heavy-ion collision settings. We derive this algorithm and demonstrate its mathematical and numerical equivalence to expectation-maximization and Iterative Bayesian Unfolding (IBU). We illustrate our method with a realistic jet substructure analysis incorporating both large background and detector simulation. Our analysis includes up to 18 observables, leading to significantly improved performance in the unfolding. We propose a method that integrates calibration and unfolding into a single, consistent framework, and demonstrate enhanced performance relative to traditional methods. These developments lay the groundwork for robust, high-dimensional, ML-based unfolding and calibration in complex collider environments across a wide range of analyses."
+    },
+    {
+      "title": "Chiral symmetry breaking and pion condensation in the early universe",
+      "link": "https://arxiv.org/abs/2507.06518",
+      "authors": "Osvaldo Ferreira, Eduardo S. Fraga, Maur\\'icio Hippert, J\\\"urgen Schaffner-Bielich",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2507.06518v1 Announce Type: cross \nAbstract: We determine the possible trajectories the universe may have followed in the QCD phase diagram during the QCD epoch. We focus on the roles of chiral symmetry breaking and pion condensation under high imbalances in lepton asymmetry. Adopting the quark-meson model as an effective description of QCD at finite temperature, charge and baryon chemical potentials we show that, for sufficiently large but physically motivated asymmetries, the universe may have entered the pion condensation phase through a first-order phase transition, followed by a second-order phase transition when exiting it. Such a first-order phase transition represents a new possible source of primordial gravitational waves during the QCD epoch."
+    },
+    {
+      "title": "Two-flavor color superconductivity in a general Nambu-Jona-Lasinio model with color and charge neutrality",
+      "link": "https://arxiv.org/abs/2507.06676",
+      "authors": "Li-Kang Yang, Di-Sheng Fan, Cheng-Ming Li, Yong-Liang Ma",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2507.06676v1 Announce Type: cross \nAbstract: By using a general NJL model including as many interaction channels as possible, and taking into account the constraints imposed by color and charge neutrality, we analyze how the different interaction channels contribute to the charge-neutral two-flavor color-superconducting matter. After taking the Fierz transformation, the number of parameters in the NJL model is reduced and thereby quark-antiquark condensates and diquark condensates are related. Through a self-consistent solution of the gap equations, we find that in addition to the diquark and vector channels, the scalar-isovector, vector-isovector, and vector-isovector-color-octet channels are also important, while other channels can be neglected. Moreover, between the normal quark matter phase and two-flavor color-superconducting phase, there is a gapless two-flavor color-superconducting phase. The fractions of quarks with different flavors and colors are calculated in both gaped and gapless two-flavor color-superconducting phases. In addition, We illustrate the phase diagrams in the diquark coupling and chemical potential plane, and discuss in detail how the dominant channels influence these phase diagrams."
+    },
+    {
+      "title": "Transition from weak to strong coupling in thermal gauge theories: Lessons from ${\\cal N}=4$ SYM Theory",
+      "link": "https://arxiv.org/abs/2507.06845",
+      "authors": "Berndt M\\\"uller",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2507.06845v1 Announce Type: cross \nAbstract: We investigate the transition between weak and strong coupling in thermal ${\\cal N}=4$ supersymmetric Yang-Mills (SYM) theory as a function of 't Hooft coupling $\\lambda$ for several quantities of phenomenological interest for which next-to-leading order calculations are available in both regimes. We use Pad\\'e approximants to interpolate between the weak and strong coupling expansions and determine the location and width of the transition between the asymptotic regimes."
+    },
+    {
+      "title": "Giving wake to energy-energy correlators: Hydrodynamic response on the celestial sphere",
+      "link": "https://arxiv.org/abs/2412.03616",
+      "authors": "Jo\\~ao Barata, Matvey V. Kuzmin, Jos\\'e Guilherme Milhano, Andrey V. Sadofyev",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2412.03616v3 Announce Type: replace-cross \nAbstract: The observation of the medium response generated by the propagation of high energy partons in the quark gluon plasma produced in heavy-ion collisions would provide a clear and unmistakable evidence for the hydrodynamic behavior of the bulk. Recently, it has been argued that the features of the medium's back-reaction to the jet could be cleanly imprinted in the correlations of asymptotic energy flows, in principle allowing to isolate this signal from other uncorrelated physical processes. Nonetheless, the current limited theoretical understanding of these jet observables in heavy-ion collisions constrains their applicability as probes of the medium (hydro)dynamics. In this work, we provide an analytic picture for the medium back-reaction's effect on the energy flux and two point energy correlator. We show that the medium response leads to the emergence of an universal classical scaling law, competing with the perturbative QCD contribution at large angles. Comparing the associated correlator to recent experimental measurements, we find that the observed large angle features can be qualitatively described by a purely hydrodynamically driven response and its interplay with the hard jet component."
+    },
+    {
+      "title": "Confined Monopoles in Chiral Bag",
+      "link": "https://arxiv.org/abs/2501.16653",
+      "authors": "Fan Lin, Yong-Liang Ma",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2501.16653v2 Announce Type: replace-cross \nAbstract: The chiral bag model offers a dual description of hadron physics in terms of quarks and hadrons in the sense of Cheshire Cat principle. In this work, we find that, within the chiral bag, confinement is likely caused by monopole condensation. The chiral bag surface can be interpreted as an $\\eta'$ domain wall, where a dynamical Chern-Simons theory emerges. Under level-rank duality, the Chern-Simons theory serves as the counterterm introduced to block the so-called color charge leakage. To ensure the correct net baryon number of the full chiral bag, an additional Chern-Simons theory involving the vector meson field arises on the bag surface and extends outside the bag. This leads to a Chern-Simons-Higgs theory localized on the $\\eta'$ domain wall, as previously conjectured. We also propose that the skyrmion description of baryons could be understood as a system of monopoles enveloped by a meson cloud."
+    },
+    {
+      "title": "Testing quantum entanglement via quantum state tomography with muons",
+      "link": "http://iopscience.iop.org/article/10.1088/1361-6471/ade733",
+      "authors": "Alim Ruzi, Leyun Gao, Qite Li, Chen Zhou, Liangwen Chen, Xueheng Zhang, Zhiyu Sun and Qiang Li",
+      "source": "Journal of Physics G: Nuclear and Particle Physics",
+      "summary": "Entanglement is a fundamental pillar of quantum mechanics. Probing quantum entanglement and testing Bell inequality with muons can be a significant leap forward, as the muon is arguably one of the best elementary particles that can be manipulated and detected over a wide range of energies, e.g. from approximately 0.3–102 GeV, corresponding to velocities from 0.94 to nearly the speed of light. In this work, we present a realistic proposal and a comprehensive study of quantum entanglement in a state composed of different-flavor fermions in muon–electron scattering. The polarization density matrix for the muon–electron system is derived using a kinematic approach within the relativistic quantum field theory framework. Entanglement in the resulting muon–electron qubit system and the violation of the Bell inequality can be observed with a high event rate. This paves the way for performing quantum tomography with muons."
+    },
+    {
+      "title": "Energy calibration of the 2.5 MV Pelletron at the Dalton Cumbrian Facility",
+      "link": "https://epja.epj.org/10.1140/epja/s10050-025-01622-5",
+      "authors": "K. Linkowski, R. S. Sidhu, J. Skowronski, M. Aliotta, P. Black, T. Davinson, M. Wiescher, A. Caciolli, J. Jones, K. Manukyan, D. Robertson, A. Smith",
+      "source": "European Physical Journal A",
+      "summary": "Authors: K. Linkowski, R. S. Sidhu, J. Skowronski, M. Aliotta, P. Black, T. Davinson, M. Wiescher, A. Caciolli, J. Jones, K. Manukyan, D. Robertson and A. Smith.The European Physical Journal A Vol. 61 , page 155Published online: 8/7/2025\n       Keywords:"
+    },
+    {
+      "title": "Directed flow from parton spin-orbit coupling in <em>pp</em> and <em>pA</em> collisions",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269325004708?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: September 2025Source: Physics Letters B, Volume 868Author(s): Sanjin Benić, Yoshitaka Hatta"
+    },
+    {
+      "title": "First observation of negative-parity high-spin states in <sup>134</sup>Cs and possible boundary of chirality in odd-odd Cs isotopes",
+      "link": "https://www.sciencedirect.com/science/article/pii/S037026932500471X?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: September 2025Source: Physics Letters B, Volume 868Author(s): H. Wang, K.Y. Ma, D. Zhao, J.Y. Li, H.Y. Ye, X.J. Zhao, Y.C. Hao, Z. Qiao, J.X. Teng, K.S. Su, X.R. Zhao, Z.H. Zhao, H.C. Zhang, Y.K. Pan, Y.J. Ma, J.B. Lu, Y. Zheng, C.B. Li, T.X. Li, X.G. Wu"
     }
   ]
 }
