@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-07-12T02:50:16.074458",
+  "lastUpdated": "2025-07-13T02:57:57.890934",
   "papers": [
     {
       "title": "Increasing Octupole Collectivity across the $Z=64$ Isotopic Chain: B(E3) Values in $^{150}\\mathrm{Gd}$",
@@ -19915,6 +19915,69 @@
       "authors": "Unknown",
       "source": "Few-Body Systems",
       "summary": "In the present study, we consider the hydrogen atom confined within an impenetrable infinite cylindrical cavity of radius $$\\rho _{0}$$ in the presence of a constant magnetic field $$\\textbf{B} = B\\,\\hat{\\textbf{z}}$$ oriented along the main cylinder’s axis. In the Born-Oppenheimer approximation, anchoring the nucleus to the geometric center of the cylinder, a physically meaningful 3-parametric trial function is used to determine the ground state energy E of the system. This trial function incorporates the exact symmetries and key limiting behaviors of the problem explicitly. In particular, it does not treat the Coulomb potential nor the magnetic interaction as a perturbation. The novel inclusion of a variational cut-off factor $$\\big (1 - \\big (\\frac{\\rho }{\\rho _0}\\big )^\\nu \\big )$$, $$\\nu \\ge 1$$, appears to represent a significant improvement compared to the non-variational cut-off factors commonly employed in the literature. The dependence of the total energy $$E=E(\\rho _0,\\,B)$$ and the binding energy $$E_b=E_b(\\rho _0,\\,B)$$ on the cavity radius $$\\rho _0 \\in [0.8,\\,5] \\,$$a.u. and the magnetic field strength $$B\\in [0.0,\\,1.0]\\,$$a.u. is presented in detail. The expectation values $$\\langle \\rho \\rangle $$ and $$\\langle |z| \\rangle $$, and the Shannon entropy in position space are computed to provide additional insights into the system’s localization. A brief discussion is provided comparing the 2D and 3D cases as well."
+    },
+    {
+      "title": "Machine-learning predictions for the nuclear charge radius: Bayesian method versus decision-tree-based algorithm",
+      "link": "http://link.aps.org/doi/10.1103/vj25-zwd3",
+      "authors": "Zhilong Li, Yongjia Wang, Qingfeng Li, and Bing-feng Lv",
+      "source": "Physical Review C",
+      "summary": "Author(s): Zhilong Li, Yongjia Wang, Qingfeng Li, and Bing-feng LvIn this work, two popular modern machine learning (ML) algorithms, the light gradient boosting machine (LightGBM, a decision tree-based algorithm) and the sparse variational Gaussian process (SVGP, a Bayesian method), are used to assess their performance in predicting the nuclear charge radius ${R}_…[Phys. Rev. C 112, 014312] Published Fri Jul 11, 2025"
+    },
+    {
+      "title": "Shell-model description of the isospin-symmetry-breaking correction to Gamow-Teller $β$-decay rates and their mirror asymmetries",
+      "link": "http://link.aps.org/doi/10.1103/s2jy-4mdv",
+      "authors": "L. Xayavong and Y. Lim",
+      "source": "Physical Review C",
+      "summary": "Author(s): L. Xayavong and Y. LimThis paper extends the shell-model formalism for calculating the isospin-symmetry-breaking correction $({δ}_{C})$, which has been highly successful in studies of superallowed ${0}^{+}→{0}^{+}$ Fermi $β$ decays [Phys. Rev. C 77, 025501 (2008)], to the nuclear matrix elements of Gamow-Teller (GT) tran…[Phys. Rev. C 112, 014313] Published Fri Jul 11, 2025"
+    },
+    {
+      "title": "Cardy entropy of charged and rotating asymptotically AdS and Lifshitz solutions with a generalized Chern–Simons term",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269325004824?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: September 2025Source: Physics Letters B, Volume 868Author(s): Moises Bravo-Gaete, Adolfo Cisterna, Mokhtar Hassaine, David Kubizňák"
+    },
+    {
+      "title": "Imaginary rotating gluonic matter at strong coupling",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269325004770?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: September 2025Source: Physics Letters B, Volume 868Author(s): Kenji Fukushima, Yusuke Shimada"
+    },
+    {
+      "title": "Pure geometric <em>f</em>(<em>R</em>) branes",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269325004794?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: September 2025Source: Physics Letters B, Volume 868Author(s): Heng Guo, Cai-Ling Wang, Yong-Tao Lu, Yue Sun, Lang-Lang Wang"
+    },
+    {
+      "title": "<em>J</em>/<em>ψ</em>-meson photoproduction off the nucleon in a dynamical model",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269325004861?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: September 2025Source: Physics Letters B, Volume 868Author(s): Sang-Ho Kim"
+    },
+    {
+      "title": "Correlation between particle spectra and elliptic flow",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269325004903?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: September 2025Source: Physics Letters B, Volume 868Author(s): Tribhuban Parida, Rupam Samanta, Jean-Yves Ollitrault"
+    },
+    {
+      "title": "Measurement of jet track functions in <em>pp</em> collisions at <math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si1.svg\" class=\"math\"><msqrt><mrow><mi>s</mi></mrow></msqrt><mo linebreak=\"goodbreak\" linebreakstyle=\"after\">=</mo><mn>13</mn></math> TeV with the ATLAS detector",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269325004411?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: September 2025Source: Physics Letters B, Volume 868Author(s): G. Aad, E. Aakvaag, B. Abbott, S. Abdelhameed, K. Abeling, N.J. Abicht, S.H. Abidi, M. Aboelela, A. Aboulhorma, H. Abramowicz, H. Abreu, Y. Abulaiti, B.S. Acharya, A. Ackermann, C. Adam Bourdarios, L. Adamczyk, S.V. Addepalli, M.J. Addison, J. Adelman, A. Adiguzel"
+    },
+    {
+      "title": "Inferred Hubble parameter from gravitational waves in a perturbative Bianchi I background",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269325004782?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: September 2025Source: Physics Letters B, Volume 868Author(s): Kevin J. Ludwick, Peter L. Williams"
     }
   ]
 }
