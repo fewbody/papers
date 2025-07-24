@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-07-23T02:59:05.528614",
+  "lastUpdated": "2025-07-24T02:53:44.943006",
   "papers": [
     {
       "title": "Increasing Octupole Collectivity across the $Z=64$ Isotopic Chain: B(E3) Values in $^{150}\\mathrm{Gd}$",
@@ -21210,6 +21210,167 @@
       "authors": "Unknown",
       "source": "Physics Letters B",
       "summary": "Publication date: September 2025Source: Physics Letters B, Volume 868Author(s): Malin Sjodahl"
+    },
+    {
+      "title": "Tripling Fluctuations and Peaked Sound Speed in Fermionic Matter",
+      "link": "http://link.aps.org/doi/10.1103/4ywp-752m",
+      "authors": "Hiroyuki Tajima, Kei Iida, Toru Kojo, and Haozhao Liang",
+      "source": "Physical Review Letter",
+      "summary": "Author(s): Hiroyuki Tajima, Kei Iida, Toru Kojo, and Haozhao LiangA crossover involving three-fermion clusters is relevant to the hadron-quark crossover, which, if occurring in a neutron star, could naturally reproduce the dense-matter equation of state recently deduced from simultaneous observations of neutron-star masses and radii. To understand the crossover me…[Phys. Rev. Lett. 135, 042701] Published Wed Jul 23, 2025"
+    },
+    {
+      "title": "Quantum Monte Carlo calculations of neutron-$α$ scattering via an integral relation",
+      "link": "http://link.aps.org/doi/10.1103/q4dy-vhv1",
+      "authors": "Abraham R. Flores, Kenneth M. Nollett, and Maria Piarulli",
+      "source": "Physical Review C",
+      "summary": "Author(s): Abraham R. Flores, Kenneth M. Nollett, and Maria PiarulliNuclear physics seeks to describe both bound and unbound states within a unified predictive framework. While coordinate-space quantum Monte Carlo (QMC) methods have successfully computed bound states for systems with $A≤12$, their application to unbound states remains limited. In this work, we advan…[Phys. Rev. C 112, 014008] Published Wed Jul 23, 2025"
+    },
+    {
+      "title": "Further exploration of binding energy residuals using machine learning and the development of a composite ensemble model",
+      "link": "http://link.aps.org/doi/10.1103/brx1-pnq9",
+      "authors": "I. Bentley, J. Tedder, M. Gebran, and A. Paul",
+      "source": "Physical Review C",
+      "summary": "Author(s): I. Bentley, J. Tedder, M. Gebran, and A. PaulThis paper describes the development of the Four Model Tree Ensemble (FMTE). The FMTE is a composite of machine learning models trained on experimental binding energies from the Atomic Mass Evaluation (AME) 2012. The FMTE predicts binding energy values for all nuclei with $N&gt;7$ and $Z&gt;7$ from …[Phys. Rev. C 112, 014324] Published Wed Jul 23, 2025"
+    },
+    {
+      "title": "Evidence for neutron-induced $γ$-ray emissions in the vicinity of the $Q$ value of $^{76}\\mathrm{Ge}$ $0νββ$ decay",
+      "link": "http://link.aps.org/doi/10.1103/bczs-6hvl",
+      "authors": "Marie Pichotta, Toralf Döring, Hans F. R. Hoffmann, Konrad Schmidt, Ronald Schwengner, Steffen Turkat, Birgit Zatschler, and Kai Zuber",
+      "source": "Physical Review C",
+      "summary": "Author(s): Marie Pichotta, Toralf Döring, Hans F. R. Hoffmann, Konrad Schmidt, Ronald Schwengner, Steffen Turkat, Birgit Zatschler, and Kai ZuberNeutrinoless double-beta decay of nuclei represents one of the most promising methods for uncovering physics beyond the standard model. In this context, $^{76}\\mathrm{Ge}$ stands out as a particularly attractive candidate, as it can serve as an intrinsic component in semiconductor detectors. If the …[Phys. Rev. C 112, 014325] Published Wed Jul 23, 2025"
+    },
+    {
+      "title": "Investigation into the production of neutron-rich nuclides in the $N=126$ region through multinucleon transfer reactions",
+      "link": "http://link.aps.org/doi/10.1103/xppr-9l38",
+      "authors": "F. C. Dai, P. W. Wen, C. J. Lin, J. J. Liu, X. X. Xu, K. L. Wang, H. M. Jia, L. Yang, and N. R. Ma",
+      "source": "Physical Review C",
+      "summary": "Author(s): F. C. Dai, P. W. Wen, C. J. Lin, J. J. Liu, X. X. Xu, K. L. Wang, H. M. Jia, L. Yang, and N. R. MaThere is a growing body of evidence highlighting that multinucleon transfer (MNT) reactions offer a unique advantage in synthesizing neutron-rich nuclei within the $N=126$ region. However, forecasting the yields of products for specific projectile and target combinations, as well as their correspond…[Phys. Rev. C 112, 014621] Published Wed Jul 23, 2025"
+    },
+    {
+      "title": "Symmetric-asymmetric collision comparison: disentangling nuclear structure and subnucleonic structure effects for small system flow",
+      "link": "https://arxiv.org/abs/2507.16162",
+      "authors": "Shengli Huang, Jiangyong Jia, Chunjian Zhang",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2507.16162v1 Announce Type: new \nAbstract: Previous flow measurements in small collision systems were mostly based on highly asymmetric collisions ($p$+Pb, $p$+Au, $d$+Au, $^{3}$He+Au), where both nuclear structure and subnucleonic fluctuations are important. Comparing these asymmetric systems with the newly available symmetric $^{16}$O+$^{16}$O collisions at RHIC and LHC provides a unique opportunity to disentangle these two contributions. Using Glauber models incorporating both nucleon and quark-level substructure, we analyze multiplicity distributions and initial-state estimators: eccentricities $\\varepsilon_n$ for anisotropic flow $v_n$ and inverse transverse size $d_{\\perp}$ for radial flow. We find that subnucleonic fluctuations impact O+O collisions differently from asymmetric systems, creating specific patterns in flow observables that enable disentangling the competing contributions. Such experimental comparisons will reduce uncertainties in the initial conditions and improve our understanding of the properties of the QGP-like medium produced in small systems."
+    },
+    {
+      "title": "Charged Particle Scattering in Renormalizable Pionless Effective Field Theory at Next-to-Leading Order: The $pd$, $dd$, and $p^3\\mathrm{He}$ Case",
+      "link": "https://arxiv.org/abs/2507.16250",
+      "authors": "Mat\\'u\\v{s} Rojik, Martin Sch\\\"afer, Mirko Bagnarol, Nir Barnea",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2507.16250v1 Announce Type: new \nAbstract: We formulate a renormalizable pionless effective field theory (Pionless EFT) with a non-perturbative treatment of the Coulomb interaction up to next-to-leading order (NLO) for few-nucleon systems. We extract scattering observables for charged clusters by employing two-, three-, and four-body contact interactions and using the stochastic variational method with a Coulomb-corrected harmonic oscillator trap. Our NLO results yield a $pd$ spin-quartet scattering length and effective range of $a_{pd}^{3/2} = 12.76(29)\\,\\mathrm{fm}$ and $r_{pd}^{3/2} = 1.17(7)\\,\\mathrm{fm}$; for $dd$ scattering in the spin-quintet channel, we find $a_{dd}^{2} = 6.26(3)\\,\\mathrm{fm}$ and $r_{dd}^{2} = 1.41(7)\\,\\mathrm{fm}$; and for $p^3\\mathrm{He}$ scattering, the spin-singlet and spin-triplet channels are characterized by $a_{p^3\\mathrm{He}}^0 = 11.26(4)\\,\\mathrm{fm}$, $r_{p^3\\mathrm{He}}^0 = 1.65(26)\\,\\mathrm{fm}$ and $a_{p^3\\mathrm{He}}^1 = 9.06(4)\\,\\mathrm{fm}$, $r_{p^3\\mathrm{He}}^1 = 1.36(25)\\,\\mathrm{fm}$, respectively. Our predictions exhibit mild cutoff dependence and agree well with existing experimental phase shift analyses and potential model calculations. This demonstrates the predictive power of (Pionless EFT) for charged few-nucleon systems."
+    },
+    {
+      "title": "Strangeness production in $O+O$ collisions at $\\sqrt{s_{\\mathrm{NN}}}=7$ TeV using various model approaches",
+      "link": "https://arxiv.org/abs/2507.16266",
+      "authors": "J. Singh, M. U. Ashraf, A. M. Khan, S. Kabana",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2507.16266v1 Announce Type: new \nAbstract: We present the predictions of various observables for strange ($\\mathrm{K}^{0}_{\\mathrm S}$, $\\Lambda$($\\overline{\\Lambda}$)) and multi-strange hadrons ($\\Xi^-$($\\overline{\\Xi}^+$), $\\phi$, and $\\Omega^-$($\\overline{\\Omega}^+$)) using the recently updated 3+1D hydrodynamics-based EPOS4 framework and AMPT model. In this study, we report the transverse momentum (${p_{\\rm T}}$) spectra, particle yields (${\\mathrm{d}N/\\mathrm{d}y}$), and ${p_{\\rm T}}$ integrated yield ratios relative to pions for $O+O$ collisions at $\\sqrt{s_{\\mathrm{NN}}}=7$~TeV. The results reveal that there are indications of stronger radial flow in EPOS4 compared to AMPT. We observe a final state multiplicity overlap with small ($p+p$ and $p+Pb$) and large ($Pb+Pb$) collision systems."
+    },
+    {
+      "title": "Anisotropic flow predictions for identified and strange hadrons in $O+O$ collisions at $\\sqrt{s_{\\mathrm{NN}}}$ = 7 TeV using model approaches",
+      "link": "https://arxiv.org/abs/2507.16273",
+      "authors": "Jagbir Singh, M. U. Ashraf, A. M. Khan, S. Kabana",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2507.16273v1 Announce Type: new \nAbstract: In this study, we report the predictions for the flow observables for different centrality classes in $O+O$ collisions. Our predictions utilize two different approaches, hydrodynamic and transport models, to analyze the behavior of the flow coefficients for identified ($\\pi^\\pm$, $K^\\pm$ and $p (\\overline{p})$) and strange ($\\mathrm{K}^{0}_{\\mathrm S}$, $\\Lambda$ ($\\overline{\\Lambda}$), $\\Omega^{-}$ ($\\overline{\\Omega}^{+}$), $\\Xi^{-}$ ($\\overline{\\Xi}^{+}$), $\\phi$) hadrons. We explore particle-by-particle flow and compare the response of the system to initial conditions across various models, which provide insights into the underlying partonic and hadronic dynamics. The study presents comparisons of flow harmonics with the existing experimental measurements and demonstrates how $O+O$ collisions can serve as a benchmark to understand the transition from small to large systems, contributing to our knowledge of the Quark-Gluon Plasma (QGP) and collective phenomena in heavy-ion collisions."
+    },
+    {
+      "title": "Alpha clustering in warm and dense nuclear matter from heavy-ion collisions",
+      "link": "https://arxiv.org/abs/2507.16613",
+      "authors": "Rui Wang, Zhen Zhang, Yu-Gang Ma, Lie-Wen Chen, Che Ming Ko, Kai-Jia Sun",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2507.16613v1 Announce Type: new \nAbstract: Although light nuclear clusters are known to affect the properties of warm and dilute nuclear matter, their role in warm and dense nuclear matter remains unclear due to the lack of experimental evidence for their modifications by the Mott effect in such an environment. To address this issue, we resort to intermediate-energy heavy-ion collisions, where light clusters are mainly produced in the transiently formed warm and dense matter. A kinetic approach, which includes dynamically the formation and dissociation of light clusters, is employed to deduce the strength of the Mott effects and the $\\alpha$-particle fraction in warm and dense nuclear matter from the light-nuclei yields measured by the FOPI Collaboration in central Au$+$Au collisions at energies of $0.25A$ to $0.6A~\\rm GeV$. We find an unexpectedly abundant $\\alpha$ clustering in this environment, which will have profound implications for modeling the nuclear equation of state and describing supernovae and neutron star mergers."
+    },
+    {
+      "title": "Quantum Scaling in Energy Correlators Beyond the Confinement Transition",
+      "link": "https://arxiv.org/abs/2507.15923",
+      "authors": "Cyuan-Han Chang, Hao Chen, Xiaohui Liu, David Simmons-Duffin, Feng Yuan, Hua Xing Zhu",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2507.15923v1 Announce Type: cross \nAbstract: We study the QCD scaling behavior of the small-angle Energy-Energy Correlator (EEC), focusing on the transition between its perturbative pre-confinement and non-perturbative post-confinement regimes. Applying the light-ray Operator Product Expansion (OPE), we develop a formalism that describes the scaling of the EEC with the input energy $Q$ in the transition and the post-confinement region, where the latter quantum scaling is determined by the $J=5$ DGLAP anomalous dimension. A key result of our work is a novel connection between the light-ray OPE and the dihadron fragmentation function (DFF), where we show that the non-perturbative OPE coefficients correspond to moments of the DFF. This finding establishes a new paradigm for studying hadronization. Our theoretical predictions are validated against Monte Carlo simulations for both $e^+e^-$ and $pp$ collisions, showing excellent agreement. The potential role of the quantum scaling in the precision determination of $\\alpha_s$ is also discussed."
+    },
+    {
+      "title": "Extracting Essential Non-perturbative Information in Jet Invariant Mass via the Bayesian Analysis",
+      "link": "https://arxiv.org/abs/2507.15945",
+      "authors": "Zhan Gao, Yu Shi, Bo-Wen Xiao, Han-Zhong Zhang",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2507.15945v1 Announce Type: cross \nAbstract: In this paper, we present a new three-dimensional non-perturbative (NP) function to account for and parameterize the NP contributions in the jet invariant mass spectrum, in addition to the conventional NP mass shift parametrization. By implementing Bayesian analysis on experimental data of the jet invariant mass from exclusive $W/Z+$jet events and inclusive jet events in $pp$ collisions at RHIC and LHC, where collisional energy increases by a factor of up to $65$ from RHIC to LHC, we ensure the analysis covers a wide range of data. For the first time, we simultaneously extract NP contributions from hadronization, initial soft-gluon radiation, and underlying events, based on two different NP prescriptions. We find that the contribution from initial soft-gluon radiation is negligible, and the hadronization effect dominates in the small-$R$ region, while underlying events provide the dominant contribution in the large-$R$ region. Moreover, when only hadronization effects are considered, our results successfully describe the jet mass data measured in $e^+e^-$ collisions, where only hadronization effects are expected to be present. Our work offers quantitative insights into understanding the soft hadronic contribution to jet substructure."
+    },
+    {
+      "title": "Correlation function for the $n \\bar{D}_{s0}^*(2317)$ interaction and the issue of elastic unitarity",
+      "link": "https://arxiv.org/abs/2507.16367",
+      "authors": "Natsumi Ikeno, Eulogio Oset",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2507.16367v1 Announce Type: cross \nAbstract: We study the interaction of a neutron with the $\\bar D_{s0}^*(2317)$ resonance and look at the amplitude below threshold and close above threshold. The study is done from the perspective that the $D_{s0}^*(2317)$ resonance is a molecular state of $DK$. To study this interaction, we use the Fixed Center Approximation to Faddeev equations that considers the $DK$ molecule as the cluster and the neutron as the external particle. We improve the Fixed Center approach to implement elastic unitarity around threshold, which is needed to obtain scattering parameters and to evaluate the $n \\bar D_{s0}^*(2317)$ correlation function that we determine here. One interesting result of the study is the appearance of a resonant state below threshold with a binding of about 130 MeV and a width of about 80 MeV, which we suggest to look at in reactions measuring the invariant mass of $\\pi \\Sigma \\bar D$. The ALICE collaboration has initiated studies of this type, by looking at the $p f_1(1285)$ correlation function, and we can only encourage work in this direction which should provide much valuable information on the nature of many resonant states."
+    },
+    {
+      "title": "Di-$J/\\psi$ structures from the quark Pauli-blocking effect",
+      "link": "https://arxiv.org/abs/2507.16752",
+      "authors": "Sachiko Takeuchi, Atsushi Hosaka, Makoto Takizawa, Yasuhiro Yamaguchi",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2507.16752v1 Announce Type: cross \nAbstract: The double-charmonium scattering states such as $J/\\psi J/\\psi$, $\\eta_cJ/\\psi$, and $\\eta_c\\eta_c$ are investigated by a simplified quark cluster model. It is found that the quark Pauli-principle over the $c\\bar c c\\bar c$ system causes a rapid increase and a node in the two-meson phase shifts. The increase is not large enough to be regarded as a resonance, but if it is seen experimentally, that is most likely the quark Pauli-blocking effect."
+    },
+    {
+      "title": "Learning nuclear cross sections across the chart of nuclides with graph neural networks",
+      "link": "https://arxiv.org/abs/2404.02332",
+      "authors": "Hongjun Choi, Sinjini Mitra, Jason Brodksy, Ruben Glatt, Erika Holmbeck, Shusen Liu, Nicolas Schunck, Andre Sieverding, Kyle Wendt",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2404.02332v3 Announce Type: replace \nAbstract: In this work, we explore the use of deep learning techniques to learn how nuclear cross-sections change as we add or remove protons and neutrons. As a proof of principle, we focus on the neutron-induced reactions in the fast energy regime that are the most important in nuclear science and engineering. We use variational autoencoders (VAEs) and implicit neural representations (INRs) to build a learned feature representation space of nuclear cross sections and reduce the dimensionality of the problem. We then train graph neural networks (GNNs) on the resulting latent space to leverage the topological information encoded in the chart of isotopes and to capture the variations of cross sections with the number of particles in nuclei. We find that hypernetworks based on INRs significantly outperforms VAEs in encoding nuclear cross-sections. This superiority is attributed to INR's ability to model complex, varying frequency details, which enables lower prediction errors when combined with GNNs. We also observe that GNN optimization is much more successful when performed in the latent space, whether using INRs or VAEs. However VAEs' continuous representation also allows for direct GNN training in the original input space. We leverage these representational learning techniques and successfully predict cross sections for a $17\\times17$ block of nuclei with high accuracy and precision. Using clustering algorithms, we map groups of latent vectors into regions of the nuclear chart and show that VAEs and INRs can discover some of the neutron magic numbers. These findings suggest that deep-learning models based on representation encoding of cross-sections combined with graph neural networks hold significant potential in augmenting nuclear theory models, e.g., providing reliable estimates of covariances of cross sections, including cross-material covariances."
+    },
+    {
+      "title": "Quantum Algorithms for Simulating Nuclear Effective Field Theories",
+      "link": "https://arxiv.org/abs/2312.05344",
+      "authors": "James D. Watson, Jacob Bringewatt, Alexander F. Shaw, Andrew M. Childs, Alexey V. Gorshkov, Zohreh Davoudi",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2312.05344v2 Announce Type: replace-cross \nAbstract: Quantum computers offer the potential to simulate nuclear processes that are classically intractable. With the goal of understanding the necessary quantum resources to realize this potential, we employ state-of-the-art Hamiltonian-simulation methods, and conduct a thorough algorithmic analysis, to estimate the qubit and gate costs to simulate low-energy effective field theories (EFTs) of nuclear physics. Within the framework of nuclear lattice EFT, we obtain simulation costs for the leading-order pionless and pionful EFTs. For the latter, we consider both static pions represented by a one-pion-exchange potential between the nucleons, and dynamical pions represented by relativistic bosonic fields coupled to non-relativistic nucleons. Within these models, we examine the resource costs for the tasks of time evolution and energy estimation for physically relevant scales. We account for model errors associated with truncating either long-range interactions in the one-pion-exchange EFT or the pionic Hilbert space in the dynamical-pion EFT, and for algorithmic errors associated with product-formula approximations and quantum phase estimation. We find that the pionless EFT is the least costly to simulate, followed by the one-pion-exchange theory, then the dynamical-pion theory. We demonstrate how symmetries of the low-energy nuclear Hamiltonians can be utilized to obtain tighter error bounds. By retaining the locality of nucleonic interactions when mapped to qubits, we achieve reduced circuit depth and substantial parallelization. In the process, we develop new methods to bound the algorithmic error for classes of fermionic number-preserving Hamiltonians, and obtain tighter Trotter error bounds by explicitly computing nested commutators of Hamiltonian terms. Compared to previous estimates for the pionless EFT, our results represent an improvement by several orders of magnitude."
+    },
+    {
+      "title": "Light rings and shadows of static black holes in effective quantum gravity II: A new solution without Cauchy horizons",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269325005039?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: September 2025Source: Physics Letters B, Volume 868Author(s): Wentao Liu, Di Wu, Jieci Wang"
+    },
+    {
+      "title": "On the Yamazaki–Hori solution of the Ernst equation",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269325004964?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: September 2025Source: Physics Letters B, Volume 868Author(s): A.R. Melikyan"
+    },
+    {
+      "title": "Investigating QCD dynamical entropy in high-energy nuclear collisions",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269325004988?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: September 2025Source: Physics Letters B, Volume 868Author(s): G.S. Ramos, L.S. Moriggi, M.V.T. Machado"
+    },
+    {
+      "title": "Inclusive studies of two- and three-nucleon short-range correlations in <sup>3</sup>H and <sup>3</sup>He",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269325004952?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: September 2025Source: Physics Letters B, Volume 868Author(s): S. Li, S.N. Santiesteban, J. Arrington, R. Cruz-Torres, L. Kurbany, D. Abrams, S. Alsalmi, D. Androic, K. Aniol, T. Averett, C. Ayerbe Gayoso, J. Bane, S. Barcus, J. Barrow, A. Beck, V. Bellini, H. Bhatt, D. Bhetuwal, D. Biswas, D. Bulumulla"
+    },
+    {
+      "title": "Reviving nuclear fusion reaction cycles <em>in solido</em>",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0375947425001915?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Nuclear Physics A",
+      "summary": "Publication date: Available online 22 July 2025Source: Nuclear Physics AAuthor(s): Lorenzo Fortunato"
+    },
+    {
+      "title": "Rotational metric: a solution to Einstein's clock-rate problem and its magnetospheric applications*",
+      "link": "http://iopscience.iop.org/article/10.1088/1674-1137/add9fb",
+      "authors": "Zhen Zhang, 镇 张, Rui Zhang and 睿 张",
+      "source": "Chinese Physics C",
+      "summary": "The rotational metric provides an exact solution to Einstein's clock-rate problem in curved spacetime, specifically, whether time flows more slowly at the equator of a compact object such as a neutron star than at its poles. It features a curvature singularity, an event horizon, a potentially evolving ergosphere, a rigidly-rotating normal space, and two stationary limit surfaces. Although derived from the Schwarzschild metric through rotational transformations, it includes an additional ergosphere. Given the equivalence of inertia and gravity, this demonstrates how non-inertial transformations, such as rotational transformations, can introduce new spacetime structures into a gravitational system. In particular, the additional physical degrees of freedom carried by rotational transformations are eaten by the gravitational system to form an additional ergosphere. Furthermore, the rotational metric effectively models a rigidly-rotating gravitational system and is applicable for describing rotationally-induced gravitational effects in various rotating magnetospheres."
+    },
+    {
+      "title": "Predictions for bottomonium from a relativistic screened potential model",
+      "link": "http://iopscience.iop.org/article/10.1088/1674-1137/adc084",
+      "authors": "Chaitanya Anil Bokade and Azhothkaran Bhaghyesh",
+      "source": "Chinese Physics C",
+      "summary": "This work conducts a comprehensive analysis of the mass spectra and decay properties of bottomonium states using a relativistic screened potential model. The mass spectrum, decay constants, transitions, transitions, and annihilation decay widths are evaluated. The interpretation of , , , and as mixed bottomonium states are analysed. The state is considered to be , and are considered to be mixed states, and the and are considered to be mixed states."
     }
   ]
 }
