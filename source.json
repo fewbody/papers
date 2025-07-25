@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-07-24T02:53:44.943006",
+  "lastUpdated": "2025-07-25T02:53:28.473070",
   "papers": [
     {
       "title": "Increasing Octupole Collectivity across the $Z=64$ Isotopic Chain: B(E3) Values in $^{150}\\mathrm{Gd}$",
@@ -21371,6 +21371,160 @@
       "authors": "Chaitanya Anil Bokade and Azhothkaran Bhaghyesh",
       "source": "Chinese Physics C",
       "summary": "This work conducts a comprehensive analysis of the mass spectra and decay properties of bottomonium states using a relativistic screened potential model. The mass spectrum, decay constants, transitions, transitions, and annihilation decay widths are evaluated. The interpretation of , , , and as mixed bottomonium states are analysed. The state is considered to be , and are considered to be mixed states, and the and are considered to be mixed states."
+    },
+    {
+      "title": "Angular correlations in neutron-gamma reactions",
+      "link": "https://arxiv.org/abs/2507.16885",
+      "authors": "Vladimir Gudkov, Hirohiko M. Shimizu",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2507.16885v1 Announce Type: new \nAbstract: Angular correlations for low energy neutron induced gamma reactions are calculated using nuclear reaction formalism for multi level neutron capture with arbitrary multiplicities of gamma transitions. We confirm previous calculations [1] for dipole transitions obtained with different formalism. The possible applications of n-gamma correlations for studies of symmetry violations and electromagnetic transitions are discussed."
+    },
+    {
+      "title": "Hypernuclei with Neural Network Quantum States",
+      "link": "https://arxiv.org/abs/2507.16994",
+      "authors": "Andrea Di Donna, Lorenzo Contessi, Alessandro Lovato, Francesco Pederiva",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2507.16994v1 Announce Type: new \nAbstract: Leveraging complementary machine-learning-based approaches, we compute properties of $s$- and $p$-shell $\\Lambda$ hypernuclei - including binding energies, single-particle densities, and radii - starting from the individual interactions among their constituents. These interactions are modeled using an improved leading-order pionless effective field theory expansion, with coefficients determined via a Gaussian Process framework anchored on virtually exact few-body techniques. We solve the many-body Schr\\\"odinger equation using a variational Monte Carlo method based on neural network quantum states, extending it for the first time to include $\\Lambda$ particles alongside protons and neutrons. The predicted binding energies show remarkably good agreement with experimental results, given the simplicity of the input Hamiltonian. We also confirm the experimentally observed shrinkage of the proton radius in $^7_\\Lambda$Li compared to its parent nucleus, $^6$Li. This work paves the way for an ab initio description of medium-mass and heavy hypernuclei, as well as for understanding the onset of strange degrees of freedom in the core of neutron stars."
+    },
+    {
+      "title": "Probing $ \\phi $N interaction through bound states of $_{\\phi}^{6}\\textrm{He} $ mesic nuclei within $ \\phi\\textrm{N-}\\alpha $ cluster model",
+      "link": "https://arxiv.org/abs/2507.17022",
+      "authors": "Faisal Etminan",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2507.17022v1 Announce Type: new \nAbstract: The spin dependence of the $ \\phi $N interaction is explored through the bound states of\n  $ \\phi\\textrm{N-}\\alpha $ mesic nuclei with $\\alpha$ being a spectator to attract the $ \\phi $N pair without changing its spin structure.\n  The bound state of $ _{\\phi}^{6}\\textrm{He} $ mesic nuclei is calculated within the framework of the developed three-body cluster model \n  by solving the Faddeev equations in the method of hyperspherical harmonics (HH) expansions.\n  The calculations are done by employing the state-of-the-art $ \\phi $N potential obtained from lattice QCD calculations and correlation function analysis for the $^{4}S_{3/2}$ and $^{2}S_{1/2}$ channels.\n  The $ \\phi\\alpha $ potential is constructed through a folding procedure of the spin-averaged $ \\phi $N interaction with\n  the matter distribution of $ ^{4}\\textrm{He} $.\n  And for N$\\alpha$ potential two common types of N$\\alpha$ interactions are taken from the literature with central and spin-orbit\n  components.\n  The central binding energies of the $ \\phi\\textrm{N-}\\alpha $ bound states in the spin $ 3/2\\left(1/2\\right) $ channel are found to be $\\sim 10 \\left(25\\right) $ and $ 11 \\left(13\\right) $ MeV at Euclidean times $ t/a=12 $ and $14$, respectively. As well as, the corresponding nuclear matter radii are estimated to be $\\sim 4.5 \\left(1.7\\right) $ and $ 4.6 \\left(1.8\\right) $ fm."
+    },
+    {
+      "title": "Further steps towards next generation of covariant energy density functionals",
+      "link": "https://arxiv.org/abs/2507.17082",
+      "authors": "B. Osei, A. V. Afanasjev, A. Taninah, A. Dalbah, U. C. Perera, V. A. Dzuba, V. V. Flambaum",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2507.17082v1 Announce Type: new \nAbstract: The present study aims at further development of covariant energy density functionals (CEDFs) towards more accurate description of binding energies across the nuclear chart.\n  For the first time, infinite basis corrections to binding energies in the fermionic and bosonic sectors of the covariant density functional theory have been taken into account in the fitting protocol within the covariant density functional theory. In addition, total electron binding energies have been used in the conversion of atomic binding energies into nuclear ones. Their dependence on neutron excess has been investigated for the first time across the nuclear chart within atomic approach. These factors have been disregarded in previous generation of covariant energy density functionals but their neglect leads to substantial global calculation errors for physical quantities of interest. For example, these errors for binding energies are of the order of 0.8 MeV or higher for the three major classes of covariant energy density functionals."
+    },
+    {
+      "title": "Implications of the recent neutron decay measurements on the properties of compact objects -- a dark star with nucleonic shell ?",
+      "link": "https://arxiv.org/abs/2507.17340",
+      "authors": "M. Veselsk\\'y, V. Petousis, Ch. C. Moustakidis, M. Vikiaris",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2507.17340v1 Announce Type: new \nAbstract: Recent experimental observation suggests that neutron decay is always accompanied by emission of electron while in 1% of cases proton is not emitted. We develop a scenario kinematically compatible with experimental observation, where neutron decay results in production of two dark matter particles of about half the mass of neutron and test properties of neutron stars with admixture of such particles. Constraints on mass and coupling to vector dark boson are obtained. The structure of the compact object is modified to a dark star with a shell of nucleonic matter around the nuclear saturation density."
+    },
+    {
+      "title": "Simultaneous improved predictions of nuclear mass and charge radius via multi-task Gaussian process machine learning approach",
+      "link": "https://arxiv.org/abs/2507.17357",
+      "authors": "Weihu Ye, Niu Wan",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2507.17357v1 Announce Type: new \nAbstract: We introduce a multi-task Gaussian process (GP) machine learning model to simultaneously predict nuclear masses and charge radii across the nuclear chart. Utilizing 12 physical input features, our multi-task GP consistently outperforms single-task learning, achieving root-mean-square deviations of 0.09 MeV for masses and 0.004 fm for charge radii. The model explicitly incorporates correlations between these observables. By employing the SHapley Additive exPlanations (SHAP) method, we interpret the significance of different features for mass and radius predictions across distinct nuclear regions. These results demonstrate the effectiveness of the multi-task GP approach for high-accuracy nuclear property predictions."
+    },
+    {
+      "title": "Impact of 3D macro physics and nuclear physics on the p nuclei in O-C shell mergers",
+      "link": "https://arxiv.org/abs/2507.16965",
+      "authors": "Joshua Issa, Falk Herwig, Pavel Denissenkov, Marco Pignatari",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2507.16965v1 Announce Type: cross \nAbstract: O-C shell mergers in massive stars are a site for producing the p nuclei by the $\\gamma$ process, but 1D stellar models rely on mixing length theory, which does not match the radial velocity profiles of 3D hydrodynamic simulations. We investigate how 3D macro physics informed mixing impacts the nucleosynthesis of p nuclei. We post-process the O-shell of the $M_\\mathrm{ZAMS} = 15~\\mathrm{M}_\\odot$, $Z = 0.02$ model from the NuGrid stellar data set. Applying a downturn to velocities at the boundary and increasing velocities across the shell as obtained in previous results, we find non-linear, non-monotonic increase in p-nuclei production with a spread of 0.96 dex, and find that isotopic ratios can change. Reducing C-shell ingestion rates as found in 3D simulations suppresses production, with spreads of 1.22-1.84 dex across MLT and downturn scenarios. Applying dips to the diffusion profile to mimic quenching events also suppresses production, with a 0.51 dex spread. We analyze the impact of varying all photo-disintegration rates of unstable n-deficient isotopes from Se-Po by a factor of 10 up and down. The nuclear physics variations for the MLT and downturn cases have a spread of 0.56-0.78 dex. We also provide which reaction rates are correlated with the p nuclei, and find few correlations shared between mixing scenarios. Our results demonstrate that uncertainties in mixing arising from uncertain 3D macro physics are as significant as nuclear physics and are crucial for understanding p-nuclei production during O-C shell mergers quantitatively."
+    },
+    {
+      "title": "Quantifying alpha clustering in the ground states of 16-O and 20-Ne",
+      "link": "https://arxiv.org/abs/2507.17059",
+      "authors": "E. Harris, M. Barbui, J. Bishop, G. Chubarian, Sebastian Konig, E. Koshchiy, K. D. Launey, Dean Lee, Zifeng Luo, Yuan-Zhuo Ma, Ulf-G. Meissner, C. E. Parker, Zhengxue Ren, M. Roosa, A. Saastamoinen, G. H. Sargsyan, D. P. Scriven, Shihang Shen, A. Volya, Hang Yu, G. V. Rogachev",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2507.17059v1 Announce Type: cross \nAbstract: Understanding the role of multi-nucleon correlations in the structure of light nuclei is at the forefront of modern nuclear science. In this letter, we present a quantitative benchmark study of alpha-cluster correlations in the ground states of 16-O and 20-Ne. Experimental data provide direct evidence that the wave functions of the ground states of 16-O and 20-Ne are dominated by alpha-cluster correlations, in agreement with the predictions of sophisticated nuclear structure models. We also provide a new model-independent constraint for the alpha asymptotic normalization coefficient of the 16-O ground state and discuss the implications of these findings on the 12-C(alpha,gamma)16-O reaction, which is of critical importance for nuclear astrophysics."
+    },
+    {
+      "title": "Novel insight into centre-vortex geometry in four dimensions",
+      "link": "https://arxiv.org/abs/2507.17200",
+      "authors": "Jackson A. Mickley, Chris Allton, Ryan Bignell, Derek B. Leinweber",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2507.17200v1 Announce Type: cross \nAbstract: Centre-vortex surfaces are mapped out in four dimensions within the framework of SU(3) lattice gauge theory to understand the role of secondary loops that develop in three-dimensional visualisations of centre-vortex structure, appearing separate from the percolating cluster. Loops that initially appear disconnected in three-dimensional slices can originate from the same connected surface in four dimensions depending on the surface's curvature. For the first time, these secondary loops are identified as \"connected\" or \"disconnected\" with respect to the vortex sheet, allowing new insight into the evolution of centre-vortex geometry through the finite-temperature phase transition. At low temperatures, we find that secondary loops of any length primarily lie in the same sheet percolating the four-dimensional volume. Only a handful of small secondary sheets disconnected from the percolating sheet are identified. Above the phase transition, the vortex structure is still found to be dominated by a single large sheet but one that has aligned with the temporal dimension. With the near absence of any curvature orthogonal to the temporal dimension, connected secondary loops become vanishingly rare. Other novel quantities, such as the four-dimensional density of secondary sheets and the sheet sizes themselves, are analysed to build a complete picture of centre-vortex geometry in four dimensions."
+    },
+    {
+      "title": "Threshold cusp structures in multi-channel scattering",
+      "link": "https://arxiv.org/abs/2507.17260",
+      "authors": "Katsuyoshi Sone, Tetsuo Hyodo",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2507.17260v1 Announce Type: cross \nAbstract: We study the behavior of the cusp structures focusing on the isospin symmetry breaking effects. The properties of the exotic hadrons are reflected in the shape of the cusp structures. In realistic hadron scatterings, the threshold energies of the isospin partners appear within a small energy region. For a detailed analysis of such systems, it is essential to study the behavior of the cusp structures arising at two closely spaced thresholds. In this work, we introduce a convenient formulation of the scattering amplitude and demonstrate that the cusp structures at two nearby thresholds are related through the isospin symmetry."
+    },
+    {
+      "title": "Convergence in charmonium structure: light-front wave functions from basis light-front quantization and Dyson-Schwinger equations",
+      "link": "https://arxiv.org/abs/2507.17330",
+      "authors": "Xianghui Cao, Yang Li, Chao Shi, James P. Vary, Qun Wang",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2507.17330v1 Announce Type: cross \nAbstract: We present a systematic comparison of charmonium light-front wave functions obtained through two complementary non-perturbative approaches: Basis Light-Front Quantization (BLFQ) and Dyson-Schwinger Equations (DSE). Key observables include the charge form factor, gravitational form factors, light-cone distribution amplitudes, decay constants, and two-photon transition form factors. Despite their distinct theoretical foundations and model parameters, the predictions from BLFQ and DSE exhibit remarkable agreement across all observables. This convergence validates both frameworks for studying charmonium structure and highlights the complementary strengths of Hamiltonian-based -- BLFQ -- and Lagrangian-based -- DSE -- methods in addressing non-perturbative QCD."
+    },
+    {
+      "title": "Dihadron fragmentation framework for near-side energy-energy correlators",
+      "link": "https://arxiv.org/abs/2507.17444",
+      "authors": "Zhong-Bo Kang, Andreas Metz, Daniel Pitonyak, Congyue Zhang",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2507.17444v1 Announce Type: cross \nAbstract: We establish an approach to analyze the free hadron and transition (nonperturbative) regions of near-side energy-energy correlators (EECs) based on dihadron fragmentation functions (DiFFs). We introduce a (nonperturbative) function we call the \"EEC-DiFF\" and explicitly show that expanding it for large relative transverse momentum between the two hadrons gives the $O(\\alpha_s)$ expression for the \"EEC jet\" function used in the quark/gluon (perturbative) region. This connection indicates that a formal theoretical matching will be able to bridge the free hadron, transition, and quark/gluon regions and allow all of them to be analyzed simultaneously. We further derive a result valid for near-side EECs in the free hadron and transition regions of $e^+e^-$ annihilation in terms of the EEC-DiFF. Using a simple model for the function, we perform the first fit to experimental data in this regime. We find reasonable agreement with the measurements and reproduce the salient features of near-side EECs in the free hadron and transition regions."
+    },
+    {
+      "title": "Solving two and three-body systems with deep neural networks",
+      "link": "https://arxiv.org/abs/2507.17559",
+      "authors": "Ruitian Li, Xuan Luo, Hao Sun, Pablo G. Ortega",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2507.17559v1 Announce Type: cross \nAbstract: We develop a new method for solving two- and three-body bound state problems using unsupervised machine learning techniques. We use a deep neural network to calculate both simple and realistic potentials, obtaining the properties of the deuteron and triton bound states for the chiral effective field theory NN potential. Our results provide significant accuracy with no prior assumptions about the behaviour of the wave function. This neural network technique, which extends from two-body to three-body, may provide insight into potential solutions to the nuclear and hadronic many-body problems."
+    },
+    {
+      "title": "Collinear limit of the energy-energy correlator in $e^+ e^-$ collisions: transition from perturbative to non-perturbative regimes",
+      "link": "https://arxiv.org/abs/2507.17704",
+      "authors": "Enrico Herrmann, Zhong-Bo Kang, Jani Penttala, Congyue Zhang",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2507.17704v1 Announce Type: cross \nAbstract: We study the collinear limit of the energy-energy correlator (EEC) in $e^+e^-$ collisions, focusing on the transition from the perturbative QCD regime at relatively large angles to the non-perturbative region at small angles. To describe this transition, we introduce a non-perturbative jet function and perform a global analysis at NNLO+NNLL accuracy using experimental data spanning center-of-mass energies from $Q = 29.0$ to $91.2$ GeV. This marks the first accurate description of the EEC across the entire near-side region ($0^\\circ<\\chi<90^\\circ$) within a unified theoretical framework. Our analysis also provides, for the first time, a quantitative extraction of the non-perturbative contribution to the EEC quark jet function, identifying a characteristic transition scale around $2.3$ GeV - distinct from the scale observed in EEC-in-jet measurements in $pp$ collisions at the LHC, which are dominated by gluon jets. These results offer the first evidence for flavor dependence (quark vs. gluon) in the EEC and provide new insights into the interplay between perturbative and non-perturbative QCD dynamics."
+    },
+    {
+      "title": "Vector and Tensor Spin Polarization for Vector Bosons at Local Equilibrium",
+      "link": "https://arxiv.org/abs/2412.19416",
+      "authors": "Zhong-Hua Zhang, Xu-Guang Huang, Francesco Becattini, Xin-Li Sheng",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2412.19416v2 Announce Type: replace-cross \nAbstract: We derive expressions for the vector and tensor components of the spin polarization of massive vector bosons at local thermodynamic equilibrium up to second order in the space-time gradients of the thermodynamic fields pertaining to the canonical stress-energy tensor and spin tensor of the free Proca field. A set of Feynman rules is devised to calculate the Wigner function and the matrix-valued spin-dependent distribution (MVSD) functions order by order in space-time gradients. Due to constraints imposed by time-reversal symmetry, the leading contribution to spin alignment - defined as the 00-component of the tensor polarization - arises from second-order terms in MVSD, for which we provide an analytic formula. We discuss the physical meaning of different contributions to vector and tensor polarization. These formulae provide a prediction of a contribution to the spin alignment which can be compared with the observations in relativistic heavy-ion collisions."
+    },
+    {
+      "title": "η$$\\eta $$, η′$$\\eta ^\\prime $$ mesons from lattice QCD in fully physical conditions",
+      "link": "https://epja.epj.org/10.1140/epja/s10050-025-01635-0",
+      "authors": "Konstantin Ottnad, Simone Bacchio, Jacob Finkenrath, Bartosz Kostrzewa, Marcus Petschlies, Ferenc Pittler, Carsten Urbach, Urs Wenger",
+      "source": "European Physical Journal A",
+      "summary": "Authors: Konstantin Ottnad, Simone Bacchio, Jacob Finkenrath, Bartosz Kostrzewa, Marcus Petschlies, Ferenc Pittler, Carsten Urbach and Urs Wenger.The European Physical Journal A Vol. 61 , page 169Published online: 22/7/2025"
+    },
+    {
+      "title": "Ray and wave dynamics in a static FRW spacetime with conical singularity",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269325005040?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: September 2025Source: Physics Letters B, Volume 868Author(s): Faizuddin Ahmed, Abdelmalek Bouzenada"
+    },
+    {
+      "title": "Gravitational equilibrium with steady flow and relativistic local thermodynamics",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269325005015?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: September 2025Source: Physics Letters B, Volume 868Author(s): Shuichi Yokoyama"
+    },
+    {
+      "title": "Image of the time-dependent black hole",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269325005064?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: September 2025Source: Physics Letters B, Volume 868Author(s): Yu Liang, Sen Guo, Kai Lin, Yu-Hao Cui, Yu-Xiang Huang, Tao Yu"
+    },
+    {
+      "title": "Photonuclear reactions on mercury isotopes",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0375947425001927?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Nuclear Physics A",
+      "summary": "Publication date: Available online 23 July 2025Source: Nuclear Physics AAuthor(s): O.V. Poriadina, S.S. Belyshev, N.Yu. Fursova, V.V. Khankin, A.A. Kuznetsov"
+    },
+    {
+      "title": "Alpha-particles induced nuclear reactions on zinc: Experimental and theoretical evaluation",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0375947425001976?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Nuclear Physics A",
+      "summary": "Publication date: Available online 23 July 2025Source: Nuclear Physics AAuthor(s): A. Elbinawi, B.M. Ali, F. Ditrói, M. Al-Abyad"
+    },
+    {
+      "title": "Nuclear Reaction Experiments at TRIUMF-ISAC",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0375947425001939?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Nuclear Physics A",
+      "summary": "Publication date: Available online 23 July 2025Source: Nuclear Physics AAuthor(s): Chris Ruiz"
     }
   ]
 }
