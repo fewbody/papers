@@ -1,4 +1,96 @@
 {
-  "lastUpdated": "2025-08-18T02:54:00.835091",
-  "papers": []
+  "lastUpdated": "2025-08-19T02:28:13.404446",
+  "papers": [
+    {
+      "title": "On non-flow suppression in an MLE-based flow analysis",
+      "link": "https://arxiv.org/abs/2508.11113",
+      "authors": "Chong Ye, Wei-Liang Qian, Cesar A. Bernardes, Sandra S. Padula, Rui-Hong Yue, Yutao Xing, Takeshi Kodama",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2508.11113v1 Announce Type: new \nAbstract: We show that the maximum likelihood estimator (MLE) is an effective tool for mitigating non-flow effects in flow analysis. To this end, one constructs two toy models that simulate non-flow contributions corresponding to particle decay and energy-momentum conservation, respectively. The performance of MLE is analyzed by comparing it against standard approaches such as particle correlation and event plane methods. For both cases, MLE is observed to provide a reasonable estimate of the underlying flow harmonics, and in particular, its performance can be further improved when the specific form of the likelihood in the presence of non-flow can be assessed. The dependencies of extracted flow harmonics on the multiplicity of individual events and the total number of events are analyzed. Additionally, it is shown that the proposed approach performs efficiently in addressing deficiencies in detector acceptance. These findings suggest MLE as a compelling alternative to standard methods for flow analysis."
+    },
+    {
+      "title": "Characterization of low-lying isomers in odd-odd 162Lu",
+      "link": "https://arxiv.org/abs/2508.11251",
+      "authors": "N Susshma, S Deepa, K Vijay Sai, R Gowrishankar",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2508.11251v1 Announce Type: new \nAbstract: The well-tested empirical two quasiparticle rotor model calculations are used to characterize low-lying isomers in the odd-odd nucleus $^{162}$Lu. Physically admissible 2qp bandheads are obtained to construct the low-energy level structure of the nucleus, assign spin-parity (J$^\\pi$), orbital configuration, and level energies (E$_x$), for the gs and the two reported isomers. The spin-parity and orbital configuration of the 1.5 min isomer are confirmed to be J$^\\pi$= 4$^-$\\{$\\pi$5/2$^+$[402$\\uparrow$] $\\otimes$ $\\nu$3/2$^-$[521$\\uparrow$]\\}. Its level energy has been estimated to be E$_x$ $\\thickapprox$ 62 keV. The 1.9 min isomer is characterized for the first time with J$^\\pi$= 6$^+$\\{$\\pi$9/2$^-$[514$\\uparrow$] $\\otimes$ $\\nu$3/2$^-$[521$\\uparrow$]\\} and energy E$_x$ $\\thickapprox$ 157 keV. Based on these assignments, individual $\\beta$-decay branches of gs and the two isomers to the daughter levels in $^{162}$Yb are proposed. The study is extended to neighboruing isotopes $^{164,166,168}$Lu. A short-lived isomer, tentatively proposed in a previous study of $^{164}$Lu, is identified as J$^\\pi$= 6$^+$\\{$\\pi$7/2$^+$[404$\\downarrow$] $\\otimes$ $\\nu$5/2$^+$[402$\\uparrow$]\\} with energy E$_x$ $\\thickapprox$ 52 keV. The energy of the J$^\\pi$=3$^+$ isomer in $^{168}$Lu, currently listed with large uncertainty, is deduced as E$_x$ $\\thickapprox$ 100 keV significantly improving its value."
+    },
+    {
+      "title": "Highly efficient nuclear population transfer through physics-informed neural networks",
+      "link": "https://arxiv.org/abs/2508.11546",
+      "authors": "Jing Liu, Fu-Quan Dou",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2508.11546v1 Announce Type: new \nAbstract: Nuclear coherent population transfer (NCPT) offers numerous potential applications, particularly in next-generation nuclear clocks and nuclear batteries. However, the realization of high fidelity, fast operation, and low energy consumption in NCPT remains so far challenging. Here, we employ physics-informed neural networks (PINNs) to the population transfer in an open three-level nuclear system with spontaneous emission. The method embeds the system's control equations and boundary conditions into the loss function, thereby enabling the automatic learning of optimal laser pulse sequences that drive highly efficient population transfer. We take a short-lived excited state of $^{172}\\mathrm{Yb}$ and a long-lived state of $^{229}\\mathrm{Th}$ as representative examples, and systematically compare the performance of the PINNs approach with three conventional control strategies. We show that PINNs can achieve higher transfer efficiency with smaller pulse areas and shorter durations across different lifetime regimes. Our results provide a new perspective to overcome the lifetime limitation and enhance the efficiency of nuclear state transfer."
+    },
+    {
+      "title": "Studying the in-medium $\\phi$ meson spectrum through kaons in proton-nucleus reactions",
+      "link": "https://arxiv.org/abs/2508.11344",
+      "authors": "Gabor Balassa, Kazuya Aoki, Philipp Gubler, Su Houng Lee, Hiroyuki Sako, Gyorgy Wolf",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2508.11344v1 Announce Type: cross \nAbstract: Exploring the mass modifications of $\\phi$ mesons in nuclei provides insights into the nature of strongly interacting matter. Specifically, $\\phi$ meson mass shifts can be related to the in-medium modification of the strange quark condensate. Therefore, the partial restoration of chiral symmetry can be studied by observing the mass shifts through the decay channels $\\phi \\rightarrow e^+e^-$, and $\\phi \\rightarrow K^+K^-$. In this paper, we examine the possibility of observing the $\\phi$ meson mass modifications of the $\\phi$ mesons in 30 GeV proton-nucleus (C, Cu, Pb) collisions, to be studied at the J-PARC E88 experiment, through the kaonic decay channel, with the off-shell Budapest Boltzmann-Uehling-Uhlenbeck (BuBUU) transport model. By applying different mean fields to the kaons, we examine their effects on the invariant mass spectra. Our simulations suggest that, although different mean fields for the kaons do affect the spectrum, there is a common observable effect primarily driven by the $\\phi$ mass shift. However, due to the threshold associated with the two kaons, the signal we observe is quite different from the one expected in dilepton spectra. Therefore, to meaningfully constrain the mass shift, it will be useful to include both kaon and dilepton channels in the analysis of the experimental data."
+    },
+    {
+      "title": "Exotic Heavy Hadrons",
+      "link": "https://arxiv.org/abs/2508.11483",
+      "authors": "H- Garcilazo, A. Valcarce",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2508.11483v1 Announce Type: cross \nAbstract: We review our recent findings on the structure and properties of exotic heavy hadrons, focusing on two main topics. First, we examine the role of correlations driven by the short-range Coulomb-like color interaction in hidden heavy-flavor pentaquarks. We show how this framework consistently accounts for the observed pattern of $P_c$ and $P_{cs}$ states in the hidden-charm sector and enables predictions for the hidden-bottom sector, where experimental data are still lacking. The second topic explores the possibility of forming stable multihadron molecules from deeply bound two-hadron exotic states. In this context, a bound state of three $B$ mesons, denoted as $T_{bbb}$, with quantum numbers $(I)J^P = (1/2)2^-$, is presented. We find that the binding energy generally decreases as the number of hadrons increases, primarily due to effects of the Pauli principle and the appearance of new decay thresholds. Nonetheless, resonances may still arise in specific cases, depending on the internal thresholds of the system. Finally, we discuss how the decay width of an exotic multihadron resonance can offer valuable insights into its internal structure and underlying~dynamics."
+    },
+    {
+      "title": "Quantum Simulation of Collective Neutrino Oscillations in Dense Neutrino Environment",
+      "link": "https://arxiv.org/abs/2508.11610",
+      "authors": "Shvetaank Tripathi, Sandeep Joshi, Garima Rajpoot, Prashant Shukla",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2508.11610v1 Announce Type: cross \nAbstract: Inside dense neutrino gases, such as neutron star mergers or core-collapse supernovae, collective neutrino effects cause the transformation of one neutrino flavour into another. Due to strong neutrino self-interactions in these environments, there is prevalence of flavour swapping. Considering these environments to be isotropic and homogeneous, we present a study of collective neutrino oscillations by simulating such a system on a noisy quantum simulator (Qiskit AerSimulator) and a quantum processor (ibm\\_brisbane). We model the effective Hamiltonian governing neutrino interactions and by applying the Trotter-Suzuki approximation, decompose it into a tractable form suitable for quantum circuit implementation of the time-evolution propagator. Encoding the neutrino state for a system of two- and three-neutrinos onto qubits, we compute the time evolution of the inversion probability relative to the initial product state. Furthermore, we present quantum circuits to evaluate the concurrence as a measure of entanglement between the neutrinos."
+    },
+    {
+      "title": "White Dwarf Structure and Binary Inspiral Gravitational Waves from Quantum Hadrodynamics",
+      "link": "https://arxiv.org/abs/2410.06088",
+      "authors": "Ling-Jun Guo, Yao Ma, Yong-Liang Ma, Ruo-Xi Wu, Yue-Liang Wu",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2410.06088v2 Announce Type: replace \nAbstract: White dwarfs, one of the compact objects in the universe, play a crucial role in astrophysical research and provide a platform for exploring nuclear physics. In this work, we extend the relativistic mean field approach by using a Walecka-type quantum hadrodynamics model to capture the intricate structure of white dwarfs. We calculate nuclear properties, Coulomb energy, and photon energy within white dwarfs in a unified framework. By carefully calibrating the model parameters to align with nuclear matter properties, we successfully reproduce the structures of several elements in white dwarfs, such as the isotopes of $\\rm C$ and $^{16}\\rm O$, except for the unnaturally deeply bound state $^4$He. Furthermore, we predict the characteristics of white dwarfs composed of atom-like units and the gravitational waves stemming from binary white dwarf inspirals incorporating tidal deformability contributions up to the 2.5 post-Newtonian order. These results shed light on the structure of white dwarfs and provide valuable information for future gravitational wave detection. This methodological advancement allows for a cohesive analysis of white dwarfs, neutron stars, and the nuclear pasta within a unified theoretical framework."
+    },
+    {
+      "title": "Electroproduction of medium- and heavy-mass hypernuclei",
+      "link": "https://arxiv.org/abs/2503.04495",
+      "authors": "P. Byd\\v{z}ovsk\\'y, D. Denisova, F. Knapp, P. Vesel\\'y",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2503.04495v2 Announce Type: replace \nAbstract: The DWIA formalism for computing the cross sections in electroproduction of hypernuclei used before for lighter (p-shell and sd-shell) systems is utilized in studying electroproduction on heavier targets such as $^{52}$Cr, and $^{208}$Pb. First, the effects from kaon distortion and kinematics are re-examined and then results for the heavy targets are discussed in view of various forms of the $\\Lambda$N effective interaction, the elementary amplitude, and kinematics. Apparent sensitivity of the hypernucleus excitation spectra to various forms of the $\\Lambda$N effective interaction is shown. Predictions of the excitation spectrum in electroproduction of $^{208}_{~~\\Lambda}$Tl are also given in kinematics of the experiment E12-20-013 in preparation at Jefferson Lab."
+    },
+    {
+      "title": "Bound State Internal Interactions as a Mechanism for Exponential Decay",
+      "link": "https://arxiv.org/abs/2206.14875",
+      "authors": "Peter W. Bryant",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2206.14875v2 Announce Type: replace-cross \nAbstract: We hypothesize that the binding interactions among the components of bound systems and the background fields, sometimes known as virtual particle exchange, affect the state of the systems as do typical scattering interactions. Then with the assumption that the interior environment of unstable particles is disordered, we derive in the limit of continuous binding both an exactly exponential non-decay probability and Fermi's Golden Rule for the decay rates. The result suggests resolutions to several long-standing theoretical challenges associated with exponential decay in quantum mechanics, without appealing directly to non-Hermitian, approximate Hamiltonians or complex energies. It also contributes to a conceptual understanding of the continuum between controlled interactions that induce deviations from exponential decay, such as those in the Quantum Zeno Effect, and the uncontrolled internal dynamics of excited atoms and nuclei, which exhibit no such deviations. Finally, we examine how the binding interactions responsible for the general exponential character of decay for bound systems differ from the couplings with decay products that control decay rates, providing insight into challenges in quantum computing and information processing."
+    },
+    {
+      "title": "Exploring Λ– and Ξ–triton correlation functions in heavy-ion collisions",
+      "link": "http://iopscience.iop.org/article/10.1088/1361-6471/adf5d8",
+      "authors": "Faisal Etminan",
+      "source": "Journal of Physics G: Nuclear and Particle Physics",
+      "summary": "The momentum correlation functions between the Λ- and Ξ-triton (t) in high-energy collisions are investigated. Notably, data obtained from the STAR detector presents a valuable opportunity to study the Λt correlation function. These functions are calculated using an Isle-type and spin-averaged Λt potential, with their sensitivity to variations in potential strength also examined. Although experimental data on the Ξ-triton interaction is currently unavailable, I have developed Ξt potentials based on first-principles calculations from the HAL QCD approach and the Nijmegen extended soft-core (ESC08c) model for spin- and isospin-averaged ΞN interactions, employing the single-folding potential framework. Subsequently, the Ξt correlation functions are computed for these two modern potentials, as well as for the Nijmegen hard-core model D ΞN potential. The numerical results suggest that, with sufficient measurement resolution, it may be feasible to distinguish between different potential models through correlation function analysis at relatively small source sizes, specifically within the range R = 1–3 fm."
+    },
+    {
+      "title": "Fission product mass distribution studies in 35Cl + 176Yb and 35Cl + 165Ho reactions",
+      "link": "https://epja.epj.org/10.1140/epja/s10050-025-01655-w",
+      "authors": "S. Kumar, R. Tripathi, S. Patra, A. Mhatre, A. Kumar, K. Ramachandran, T. N. Nag, S. Santra",
+      "source": "European Physical Journal A",
+      "summary": "Authors: S. Kumar, R. Tripathi, S. Patra, A. Mhatre, A. Kumar, K. Ramachandran, T. N. Nag and S. Santra.The European Physical Journal A Vol. 61 , page 190Published online: 14/8/2025"
+    },
+    {
+      "title": "Revised QCD effects on the Z →bb¯$$\\rightarrow \\,b\\overline{b}$$ forward–backward asymmetry in e+e-$$e^+e^-$$ collisions",
+      "link": "https://epja.epj.org/10.1140/epja/s10050-025-01656-9",
+      "authors": "David d’Enterria, Cynthia Yan",
+      "source": "European Physical Journal A",
+      "summary": "Authors: David d’Enterria and Cynthia Yan.The European Physical Journal A Vol. 61 , page 188Published online: 14/8/2025"
+    },
+    {
+      "title": "Precision measurement of the half-lifes of the excited nuclear states in Fe-57",
+      "link": "https://epja.epj.org/10.1140/epja/s10050-025-01659-6",
+      "authors": "Benedikt Bergmann, Lukas Javora, Petr Smolyanskiy",
+      "source": "European Physical Journal A",
+      "summary": "Authors: Benedikt Bergmann, Lukas Javora and Petr Smolyanskiy.The European Physical Journal A Vol. 61 , page 189Published online: 14/8/2025"
+    }
+  ]
 }
