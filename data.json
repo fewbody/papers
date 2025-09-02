@@ -1,19 +1,124 @@
 {
-  "lastUpdated": "2025-09-01T02:48:10.452432",
+  "lastUpdated": "2025-09-02T02:24:33.519316",
   "papers": [
     {
-      "title": "Geometric scaling of elastic <math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si4.svg\" class=\"math\"><mrow><mi>p</mi><mi>p</mi></mrow></math> cross section at the LHC",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269325006082?dgcid=rss_sd_all",
-      "authors": "Unknown",
-      "source": "Physics Letters B",
-      "summary": "Publication date: October 2025Source: Physics Letters B, Volume 869Author(s): Michał Praszałowicz"
+      "title": "Probing the onset of collectivity via scaled particle spectra in ultrarelativistic nuclear collisions",
+      "link": "https://arxiv.org/abs/2508.21176",
+      "authors": "Thiago S. Domingues, Fernando G. Gardim, David D. Chinellato, Gabriel S. Denicol, Andre V. Giannini, Matthew Luzum, Cicero D. Muncinelli, Jorge Noronha, Tiago Nunes da Silva, Jun Takahashi, Giorgio Torrieri",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2508.21176v1 Announce Type: new \nAbstract: We identify a novel scaling in the transverse momentum spectra of produced particles, obtained by removing the global scales of multiplicity and mean transverse momentum. Hydrodynamic simulations and experimental data reveal an almost universal scaled spectrum across centralities, systems, and even small systems, pointing to its origin in the collective, fluid-like dynamics of the QGP. Comparing this observable with Bayesian a priori distributions shows its independent constraining power on QCD transport properties, while also exposing limitations of current models. A detailed posterior analysis will be pursued in future work, opening a new avenue to refine our understanding of collectivity in heavy-ion collisions."
     },
     {
-      "title": "Shower formation in the presence of a string-inspired foam in space-time",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269325005842?dgcid=rss_sd_all",
+      "title": "Bohr-Mottelson Hamiltonian with octic potential applied to the $^{106-116}$Cd isotopes",
+      "link": "https://arxiv.org/abs/2508.21391",
+      "authors": "P. Buganu, R. Budaca",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2508.21391v1 Announce Type: new \nAbstract: The Bohr-Mottelson Hamiltonian, with an octic potential in the $\\beta$-deformation variable, is numerically solved for a $\\gamma$-unstable symmetry of the nuclear system. The analytical structure of the model allows the description of multiple phenomena of great interest for the nuclear structure such as ground-state shape phase transitions and their critical points, dynamical shape phase transitions, shape coexistence with and without mixing, anomalous in-band $E2$ transitions, large $E2$ intra-band transitions and large monopole transition between the first excited $0^+$ state and the ground state, respectively. As a first application of the present model is selected the $^{106-116}$Cd isotope chain known in literature to manifest shape phase transition, respectively shape coexistence and mixing."
+    },
+    {
+      "title": "SMASH: Results from hadronic transport for heavy-ion collisions at high densities",
+      "link": "https://arxiv.org/abs/2508.21477",
+      "authors": "Hannah Elfner, Renan G\\'oes-Hirayama",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2508.21477v1 Announce Type: new \nAbstract: This mini-review summarizes the general setup and some highlight results from the hadronic transport approach SMASH (Simulating Many Accelerated Strongly-interacting Hadrons). We start by laying out the software development structures as well as the particle properties and how they are determined by elementary collisions. The different ways to produce light clusters in SMASH, either by coalescence or dynamic multi-particle reactions, are explained. The constraints on nuclear mean fields and the corresponding equation of state from collective flow observables are discussed. In addition, we show how fluctuations associated with a potential critical endpoint survive through the hadronic rescattering stage. Besides hadronic observables, electromagnetic probes offer nice possibilities to study the properties of matter. We present results on collisional broadening of resonances and elliptic flow of dileptons. Last but not least, we review how SMASH can be employed as part of a hybrid approach including a Bayesian analysis for transport coefficients as a function of temperature and chemical potential. We end with an outlook how the hybrid approach has been recently extended to lower collision energies by dynamical fluidization initial conditions."
+    },
+    {
+      "title": "Relativistic plane wave predictions of polarization transfer observables for ($\\vec{p},2\\vec{p}\\,$) knockout reactions from the 3s$_{1/2}$ state in $^{208}$Pb at 392 MeV",
+      "link": "https://arxiv.org/abs/2508.21497",
+      "authors": "T. Mello, G. C. Hillhouse, J. P. W. Diener",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2508.21497v1 Announce Type: new \nAbstract: Exclusive ($\\vec{p},2\\vec{p}$) reactions are often described within the Relativistic Distorted Wave Impulse Approximation (RDWIA) model to include nuclear distortion effects. The Relativistic Plane Wave Impulse Approximation (RPWIA) model, on the other hand, neglects these effects on the incident and outgoing proton wave functions. Our aim is to identify kinematic regions where the RPWIA model quantitatively describes energy-sharing analyzing power (A$_y$) and qualitatively describes the unpolarized triple differential cross section ($\\sigma$) data. Where no data exist, we also seek regions where RPWIA gives similar results of the complete set of polarization transfer observables (D$_{i'j}$) compared to RDWIA. The sensitivity of the RPWIA predictions to different Relativistic Mean Field (RMF) models will be assessed. For an incident 392 MeV proton beam and coplanar scattering angles, $\\theta_{a'} = 32.5^\\circ$ and $\\theta_{b'} = -50.0^\\circ$, the RPWIA predictions of $\\sigma$ and A$_y$ are compared to published data for ($\\vec{p},2\\vec{p}$) knockout from the 3s$_{1/2}$ state in $^{208}$Pb. In the RPWIA model the proton wave functions are treated as Dirac plane waves, the $NN$ interaction is modeled using the relativistic IA1 parameterization of the Relativistic Impulse Approximation (RIA) framework, and the boundstate wave functions are extracted from the RMF models. We found that within a range of $\\pm10$ MeV around the peak of $\\sigma$, the RPWIA and RDWIA models quantitatively describe the A$_y$ data and qualitatively the $\\sigma$. Here, the RPWIA and RDWIA predictions agree for D$_{i'j}$. While $\\sigma$ is sensitive to the RMF models, D$_{i'j}$ is not. Thus concluding that RPWIA can be applied to quantitative description of D$_{i'j}$ in a limited range for proton knockout from the 3s$_{1/2}$ state in $^{208}$Pb, and qualitatively describe the shape of $\\sigma$."
+    },
+    {
+      "title": "Transport Model Investigation of NCQ Scaling and the Hadronic-Partonic Transition in Au+Au Collisions",
+      "link": "https://arxiv.org/abs/2508.21577",
+      "authors": "Li-Ke Liu, Shusu Shi",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2508.21577v1 Announce Type: new \nAbstract: We investigate elliptic flow ($v_2$) in Au+Au collisions at $\\sqrt{s_{\\text{NN}}} = 3.0$ and 4.5 GeV using hadronic and partonic transport models, including JAM, SMASH, AMPT-Hadronic Cascade, and AMPT-String Melting. At 3.0 GeV, hadronic models reproduce the centrality dependence of $v_2$ and the particle ordering ($K^0_S > p > \\pi^+$), while violating number-of-constituent-quark (NCQ) scaling, indicating that collectivity is primarily driven by hadronic interactions and influenced by spectator shadowing. Forward rapidity shows weaker spectator effects, yielding more positive $v_2$ for heavier hadrons, whereas pions remain largely unaffected. At 4.5 GeV, partonic interactions in the AMPT-String Melting mode significantly enhance NCQ scaling, and turning off final-state hadronic rescattering further clarifies the scaling pattern, highlighting the growing role of partonic degrees of freedom. The energy dependence of $p_T$-integrated $v_2$ reflects the transition from hadronic-dominated dynamics at lower energies to increasing partonic collectivity at higher energies. These results demonstrate that the breakdown of NCQ scaling at 3.0 GeV arises from hadronic interactions, whereas the emergence of scaling at higher energies signals partonic contributions in heavy-ion collisions."
+    },
+    {
+      "title": "Fluid dynamics of charm quarks from heavy to light-ion collisions",
+      "link": "https://arxiv.org/abs/2508.21600",
+      "authors": "Federica Capellino, Andrea Dubla, Rossana Facen, Stefan Floerchinger, Eduardo Grossi, Andreas Kirchner",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2508.21600v1 Announce Type: new \nAbstract: Heavy quarks are powerful tools to characterize the quark-gluon plasma (QGP) produced in relativistic nuclear collisions. By exploiting a mapping between transport theory and hydrodynamics, we developed a fluid-dynamic description of heavy-quark diffusion in the QCD plasma. We present results for the transverse momentum distributions of charm hadrons and evolution of charm density and diffusion fields obtained using a fluid-dynamic code coupled with the conservation of a heavy-quark current in the QGP in various collision systems."
+    },
+    {
+      "title": "Neutron Dark Decay in Neutron Stars: The Role of the Symmetry Energy",
+      "link": "https://arxiv.org/abs/2508.21754",
+      "authors": "M. Divaris, Ch. C. Moustakidis",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2508.21754v1 Announce Type: new \nAbstract: We conduct a systematic investigation of the influence of the nuclear symmetry energy on the proposed neutron decay into dark matter particles within the cores of neutron stars. Unlike the majority of previous studies that considered only pure neutron matter, the present analysis is extended to encompass $\\beta$-stable nuclear matter. Furthermore, in relation to previous studies, the interactions between dark matter and baryons are incorporated and systematically studied regarding their effect on the structure of neutron stars. Our findings indicate that the nuclear symmetry energy plays a critical role in shaping the total equation of state (EoS) for dense neutron star matter containing dark sector components. The strength of interactions among dark matter particles, as well as between dark matter and baryons, is shown to be pivotal in determining both the composition and the macroscopic properties of neutron stars. The concurrent tuning of interaction strengths alongside the symmetry energy parameters may facilitate a more accurate reproduction of recent observational data relevant to neutron star properties. In any case, the extent to which the proposed dark decay of the neutron is affected by the extreme conditions prevailing in the interior of neutron stars remains an open problem."
+    },
+    {
+      "title": "Conflation of Ensemble-Learned Nuclear Mass Models for Enhanced Precision",
+      "link": "https://arxiv.org/abs/2508.21771",
+      "authors": "Srikrishna Agrawal, N. Chandnani, T. Ghosh, G. Saxena, B. K. Agrawal, N. Paar",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2508.21771v1 Announce Type: new \nAbstract: Ensemble learning algorithms, the gradient boosting and bagging regressors, are employed to correct the residuals of nuclear mass excess for a diverse set of six nuclear mass models. The weighted average of these corrected residuals reduces due to their partial cancellation, yielding a significant improvement in nuclear mass predictions. Our conflated model, which integrates ensemble learning and model averaging (ELMA), achieves a root mean square error of approximately 65 keV, well below the critical threshold of 100 keV, for the complete data set of Atomic Mass Evaluation (AME2020). The validity of ELMA is demonstrated through the evaluation of $Q$ values for $\\alpha$ decay, showing a marked decrease in deviations from experimental data relative to predictions from individual nuclear mass models. We have also compiled a table of nuclear mass excesses and binding energies for about 6,300 nuclei, which serves as a valuable resource for various nuclear physics applications and is publicly accessible via the ELMA web interface (https://ddnp.in)."
+    },
+    {
+      "title": "Revisiting extremely high energy QED bremsstrahlung in matter: large modifications to the LPM effect",
+      "link": "https://arxiv.org/abs/2508.21120",
+      "authors": "Peter Arnold, Joshua Bautista, Omar Elgedawy, Shahin Iqbal",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2508.21120v1 Announce Type: cross \nAbstract: Very high energy electrons initiate electromagnetic showers in ordinary matter that branch and multiply through bremsstrahlung and pair production. At extremely high energies, the quantum mechanical duration of these processes becomes longer than the mean free time to elastically scatter from the medium, which leads to a very significant suppression of bremsstrahlung (and pair production) known as the Landau-Pomeranchuk-Migdal (LPM) effect. We revisit the LPM effect for bremsstrahlung of energy $k_\\gamma$ from an electron of energy $E$. We find that there are very large corrections to the LPM bremsstrahlung rate for certain regions of $(k_\\gamma,E)$ due to quantum overlap of bremsstrahlung and subsequent pair production. This possibility was first raised in the 1960s, when it was argued qualitatively that pair production would significantly decrease the bremsstrahlung rate in those regions of $(k_\\gamma,E)$ compared to the already-suppressed LPM bremsstrahlung rate. We find the opposite -- quantum overlap of bremsstrahlung with pair production significantly *increases* the bremsstrahlung rate compared to the LPM calculation -- and we verify our qualitative arguments with an analytic calculation of the effect."
+    },
+    {
+      "title": "Heavy Quarkonia in the Light-Front Quark Model",
+      "link": "https://arxiv.org/abs/2508.21145",
+      "authors": "Muhammad Ridwan, Ahmad Jafar Arifi, Terry Mart",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2508.21145v1 Announce Type: cross \nAbstract: We present recent progress in constructing heavy quarkonia light-front wave functions from the light-front quark model, a relativistic framework well-suited for describing partonic structure and hadronic form factors. In this proceeding, we discuss the recent application of the model to the $M1$ radiative transition such as $J/\\psi \\to \\eta_c \\gamma$ among other transitions. Additionally, we compare our results on the transition form factor with available lattice QCD data. These show our efforts to deepen our understanding of the structure of heavy quarkonia from light-front model perspective."
+    },
+    {
+      "title": "Nuclear suppression in diffractive vector meson production within the color glass condensate framework",
+      "link": "https://arxiv.org/abs/2508.21562",
+      "authors": "Heikki M\\\"antysaari, Hendrik Roch, Farid Salazar, Bj\\\"orn Schenke, Chun Shen, Wenbin Zhao",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2508.21562v1 Announce Type: cross \nAbstract: We perform a global Bayesian analysis of diffractive $\\mathrm{J}/\\psi$ production in $\\gamma+p$ and $\\gamma+\\mathrm{Pb}$ collisions within a Color Glass Condensate based framework. Using data from HERA and the LHC, we find that a simultaneous description of $\\gamma+p$ and $\\gamma+\\mathrm{Pb}$ observables is challenging. Introducing a global $K$-factor to account for theoretical uncertainties improves the agreement with data and enhances the framework's predictive power. We present predictions for integrated $\\mathrm{J}/\\psi$ cross sections at different photon-nucleus energies and study their $A$-dependence relative to a no-saturation baseline, quantifying nuclear suppression and providing insights into the onset of saturation effects."
+    },
+    {
+      "title": "Small $x$ behavior in QCD from maximal entanglement and conformal invariance",
+      "link": "https://arxiv.org/abs/2508.21643",
+      "authors": "Sebastian Grieninger, Kun Hao, Dmitri E. Kharzeev, Vladimir Korepin",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2508.21643v1 Announce Type: cross \nAbstract: Recent evidence suggests that, at small Bjorken $x$, QCD evolution drives the proton into a state of maximal entanglement. If the evolution kernel is assumed to be conformally invariant -- as is the case for the Balitsky-Fadin-Kuraev-Lipatov (BFKL) equation -- we can describe it by a conformal field theory. Moreover, the central charge $c$ of the corresponding conformal field theory emerges as the key parameter governing the $x$-dependence of both the entanglement entropy and the structure function. Here we apply the exact Bethe Ansatz methods to the quantum spin chain dual to Lipatov's high energy effective action to extract the central charge of the theory, and find that $c=1$. This implies the $\\sim x^{-1/3}$ small $x$ behavior for the structure function -- the prediction that can be tested at the forthcoming Electron-Ion Collider."
+    },
+    {
+      "title": "Removing cutoff artifacts in the NJL model by a Renormalization Group consistent treatment",
+      "link": "https://arxiv.org/abs/2508.21735",
+      "authors": "Hosein Gholami, Marco Hofmann, Michael Buballa",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2508.21735v1 Announce Type: cross \nAbstract: We summarize how a renormalization-group (RG)-consistent treatment removes well-known artifacts in NJL-model descriptions of color-superconducting quark matter. We introduce two RG-consistent schemes, \"minimal\" and \"massless\", and present analytic solutions for the diquark gap at $T=0$ and for the phase boundary $T_c(\\mu)$ in symmetric massless matter, representing the high-density limit of the model. We compare the pairing gaps, phase diagram, and speed of sound with results obtained using conventional regularization."
+    },
+    {
+      "title": "Lattice evidence that scalar glueballs are small",
+      "link": "https://arxiv.org/abs/2508.21821",
+      "authors": "Ryan Abbott, Daniel C. Hackett, Dimitra A. Pefkou, Fernando Romero-L\\'opez, Phiala E. Shanahan",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2508.21821v1 Announce Type: cross \nAbstract: This work reports the first calculation of the gravitational form factors (GFFs) of the scalar glueball, performed via lattice field theory in Yang-Mills theory at a single lattice spacing. The glueball GFFs are compared with those of other hadrons as determined in previous lattice calculations, providing strong indications that glueballs have a different gluonic structure than typical hadronic states. A mass radius of 0.263(31) fm is predicted, supporting previous suggestions that the scalar glueball is significantly smaller than other hadrons. These results point towards a potential smoking-gun characteristic to target by experimental glueball searches."
+    },
+    {
+      "title": "Triple-α reaction rates below T 9 = 3 by a non-adiabatic three-body model",
+      "link": "http://iopscience.iop.org/article/10.1088/1361-6471/adedaa",
+      "authors": "M Katsuma",
+      "source": "Journal of Physics G: Nuclear and Particle Physics",
+      "summary": "The triple-α reaction from the ternary continuum states at off-resonant energies, α + α + α → 12C, remains an open question. This direct process is scrutinized using a non-adiabatic Faddeev hyperspherical harmonics R-matrix expansion method, and the derived reaction rates are discussed. After reviewing the model, the resultant photo-disintegration of 12C( ) is shown to be much smaller than the values predicted by the adiabatic models for 0.15 ≤ E ≤ 0.35 MeV. Despite the large difference, the derived reaction rates are illustrated to be concordant with the current evaluated rates for 0.08 ≤ T9 ≤ 3. The difference below E = 0.20 MeV can be seen in the rates for T9 ≤ 0.07. In comparison with the calculations, the rates are found to be reduced by a factor of 10−4 at T9 = 0.05, because of an accurate description for 8Be break-up. Uncertainties of the rates are also estimated by examining the sensitivity to the 3α potentials. By introducing three-body S-factors and a resonant term, the present rates are expressed in an analytic form, and they are provided in a tabular form for astrophysical applications. To update the evaluated rates, non-resonant sequential process between α + 8Be could be removed. The astrophysical impact is not expected to be large, although the rates are reduced around T9 = 0.05."
+    },
+    {
+      "title": "Influence of excluded volume corrections on hadronic yield in high-energy nuclear collisions",
+      "link": "https://epja.epj.org/10.1140/epja/s10050-025-01667-6",
+      "authors": "Sameer Ahmad Mir, Saeed Uddin, Swatantra Kumar Tiwari",
+      "source": "European Physical Journal A",
+      "summary": "Authors: Sameer Ahmad Mir, Saeed Uddin and Swatantra Kumar Tiwari.The European Physical Journal A Vol. 61 , page 198Published online: 28/8/2025"
+    },
+    {
+      "title": "Timelike entanglement and central charge for quantum BTZ black holes",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269325006069?dgcid=rss_sd_all",
       "authors": "Unknown",
       "source": "Physics Letters B",
-      "summary": "Publication date: October 2025Source: Physics Letters B, Volume 869Author(s): Chengyi Li"
+      "summary": "Publication date: October 2025Source: Physics Letters B, Volume 869Author(s): Dibakar Roychowdhury"
     }
   ]
 }
