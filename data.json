@@ -1,138 +1,131 @@
 {
-  "lastUpdated": "2025-09-06T02:14:47.396731",
+  "lastUpdated": "2025-09-07T02:23:03.535033",
   "papers": [
     {
-      "title": "From CREX to CEvNS: The Weak Radius of 40Ar",
-      "link": "https://arxiv.org/abs/2509.03645",
-      "authors": "J. Piekarewicz",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2509.03645v1 Announce Type: new \nAbstract: Despite significant theoretical efforts, the CREX-PREX dilemma remains unresolved, preventing the reliable prediction of neutron (or weak-charge) radii that, besides their intrinsic nuclear-structure interest, often serve to quantify the impact of nuclear uncertainties in searches for new physics. Coherent elastic neutrino-nucleus scattering is a clean and attractive portal to new physics whose sensitivity may be impacted by such nuclear uncertainties. In this paper we use CREX as our main anchor, together with a strong calcium-argon correlation, to provide a robust baseline for the weak radius of ${}^{40}$Ar: $R_{\\rm wk}^{\\,40} = 3.452 \\pm 0.028~\\text{(stat)} \\pm 0.022~\\text{(syst)}\\,\\text{fm}$.The weak radius of argon is an observable highly relevant to ongoing and future liquid-argon campaigns that encodes the loss of coherence at small momentum transfers."
+      "title": "Machine learning for correlations of electromagnetic properties in <i>ab initio</i> calculations",
+      "link": "http://link.aps.org/doi/10.1103/frfs-xz86",
+      "authors": "Marco Knöll, Marc L. Agel, Tobias Wolfgruber, Pieter Maris, and Robert Roth",
+      "source": "Physical Review C",
+      "summary": "Author(s): Marco Knöll, Marc L. Agel, Tobias Wolfgruber, Pieter Maris, and Robert RothIn ab initio nuclear structure theory, accurately predicting electromagnetic observables, such as moments and transition rates, is essential for a comprehensive understanding of nuclear properties. However, computational limitations and conceptual difficulties often hinder the precise calculation of…[Phys. Rev. C 112, 034306] Published Fri Sep 05, 2025"
     },
     {
-      "title": "Light nuclei under magnetic field and the lithium problem",
-      "link": "https://arxiv.org/abs/2509.03684",
-      "authors": "Nodoka Yamanaka",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2509.03684v1 Announce Type: new \nAbstract: We analyze the effect of the magnetic field on the proton and neutron density distributions of the nuclei 2H, 3H, 3He, which are calculated ab initio, and the 6Li nucleus in the alpha-cluster model. It is found that the asymptotic exponential damp of the probability density at long distance is modified, and that the linear component of the exponent with respect to the magnetic field yields the leading contribution, while those of the second derivative and the confining magnetic force are subleading. Due to the linear dependence of the exponent, fluctuating magnetic fields always enhance the tunneling rate, i.e. the cross section of low energy nuclear reactions which occur at large separation across the Coulomb barrier. While this mechanism cannot suppress the production of 7Be in the early Universe, it has the potential to resolve the lithium problem either by increasing the reaction rate of 7Be + p -> 8B at the bigbang nucleosynthesis era if the magnetic field at this time was sufficiently strong, or by correcting the systematically enlarged 4He + 3He -> 7Be cross section by the unwanted magnetic field generated in the nuclear experimental setup, which was so far used as the input of the simulation of bigbang nucleosynthesis."
+      "title": "Extending the low-$Z$ “border” of the $A=100$ region of deformation with precision mass spectrometry of $^{96−98}\\mathrm{Kr}$",
+      "link": "http://link.aps.org/doi/10.1103/dhbh-12sc",
+      "authors": "D. Lunney, V. Manea, M. Mougeot, L. Nies, N. A. Althubiti, D. Atanasov, K. Blaum, A. Herlert, W.-J. Huang, J. Karthein, I. Kulikov, Yu. A. Litvinov, D. Neidherr, T. R. Rodríguez, M. Rosenbusch, L. Schweikhard, T. Steinsberger, A. Welker, F. Wienholtz, and R. N. Wolf",
+      "source": "Physical Review C",
+      "summary": "Author(s): D. Lunney, V. Manea, M. Mougeot, L. Nies, N. A. Althubiti, D. Atanasov, K. Blaum, A. Herlert, W.-J. Huang, J. Karthein, I. Kulikov, Yu. A. Litvinov, D. Neidherr, T. R. Rodríguez, M. Rosenbusch, L. Schweikhard, T. Steinsberger, A. Welker, F. Wienholtz, and R. N. WolfThe onset of collective nuclear behavior in the $N=60$, $A≈100$ region is examined through high-precision mass measurements of $^{96−98}\\mathrm{Kr}$, performed with the ISOLTRAP mass spectrometer at ISOLDE, CERN. Our results for $^{96−97}\\mathrm{Kr}$ agree with previous measurements, with our new $^…[Phys. Rev. C 112, 034307] Published Fri Sep 05, 2025"
     },
     {
-      "title": "Mechanism of the quasi-elastic scattering based on the dinuclear system concept",
-      "link": "https://arxiv.org/abs/2509.03778",
-      "authors": "Zehong Liao, Yu Yang, Zepeng Gao, Jun Su, Long Zhu",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2509.03778v1 Announce Type: new \nAbstract: A unified description of full reaction channels in low-energy heavy-ion collisions is a great challenge. Although the theoretical models based on the dinuclear system (DNS) concept have been successfully employed in multinucleon transfer (MNT) reactions, the underestimation of the quasi-elastic (QE) channel results in unreliable description of few nucleon transfer, especially for the light reaction systems. In this work, the DNS-sysu model is improved by introducing the impact-parameter-dependent transition probabilities for a unified description of few nucleon and many nucleon transfer in MNT reactions. Extensive experimental data -- including reactions such as 40Ca, 58Ni, 64Ni, 136Xe, and 208Pb + 208Pb -- were compared with the model predictions. The calculated isotopic distributions, mass distributions, and charge distributions show good agreement with experimental measurements. The improved DNS-sysu model enables reasonable characterization and description of the QE/grazing collisions, notably resolving long-standing underestimation in the QE channel."
+      "title": "Parameterizations of electron scattering form factors for elastic scattering and electroexcitation of nuclear states in $^{27}\\mathrm{Al}$ and $^{40}\\mathrm{Ca}$",
+      "link": "http://link.aps.org/doi/10.1103/f61s-qfx5",
+      "authors": "Arie Bodek, M. E. Christy, Zihao Lin, Bulugean Giulia-Maria, and Matamoros Delgado Amii Daniela",
+      "source": "Physical Review C",
+      "summary": "Author(s): Arie Bodek, M. E. Christy, Zihao Lin, Bulugean Giulia-Maria, and Matamoros Delgado Amii DanielaWe report on empirical parameterizations of longitudinal (${\\mathcal{R}}_{L}$) and transverse (${\\mathcal{R}}_{T}$) nuclear electromagnetic form factors for elastic scattering and the excitations of nuclear states in $^{27}\\mathrm{Al}$ and $^{40}\\mathrm{Ca}$. The parameterizations are needed for the…[Phys. Rev. C 112, 034308] Published Fri Sep 05, 2025"
     },
     {
-      "title": "Exploring the fluid behavior in p+p collisions at $\\sqrt{s}=13 \\mathrm{TeV}$ with viscous anisotropic hydrodynamics",
-      "link": "https://arxiv.org/abs/2509.03841",
-      "authors": "Shujun Zhao, Yiyang Peng, Ulrich W. Heinz, Huichao Song",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2509.03841v1 Announce Type: new \nAbstract: The applicability of hydrodynamics in small collision systems remains controversial due to the small size and short lifetime of the system. In this letter, we employ viscous anisotropic hydrodynamics (VAH), which incorporates large pressure anisotropies, to study the collectivity in p+p collisions at $\\sqrt{s}=13 \\mathrm{TeV}$.VAH provides a good description for $v_{2}\\{2\\}$ and $v_{3}\\{2\\}$ over a wide range of multiplicities and correctly reproduces the experimentally observed negative $c_{2}\\{4\\}$. Traditional second-order viscous hydrodynamics (VH), on the other hand, can describe the measurements, in particular the negative $c_{2}\\{4\\}$, only with model parameters for which the bulk of the evolution is characterized by large values of the shear Knudsen number. It also can not capture the large longitudinal/transverse pressure anisotropy during the early evolution. These demonstrate the failure of traditional viscous hydrodynamics in small collision systems and establish viscous anisotropic hydrodynamics as a more reliable framework to describe the bulk evolution and the observed anisotropic flow in p-p collisions at the LHC."
+      "title": "$α+^{2}n+^{2}n$ 3-body cluster structures and dineutron breaking in $^{8}\\mathrm{He}$",
+      "link": "http://link.aps.org/doi/10.1103/tjnl-jnxp",
+      "authors": "Kosei Nakagawa and Yoshiko Kanada-En'yo",
+      "source": "Physical Review C",
+      "summary": "Author(s): Kosei Nakagawa and Yoshiko Kanada-En'yoBackground: The ${0}_{2}^{+}$ state of $^{8}\\mathrm{He}$ has been discovered by a recent experiment, which suggested a developed cluster structure of spatially correlated neutron pairs, called “dineutrons” ($^{2}n$).Purpose: We aim to investigate the structure of $^{8}\\mathrm{He}({0}_{1}^{+})$ and $…[Phys. Rev. C 112, 034309] Published Fri Sep 05, 2025"
     },
     {
-      "title": "Neutrino absorption in two-flavor color-superconducting quark matter",
-      "link": "https://arxiv.org/abs/2509.04240",
-      "authors": "Mark G. Alford, Liam Brodie, Michael Buballa, Hosein Gholami, Alexander Haber, Marco Hofmann",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2509.04240v1 Announce Type: new \nAbstract: We calculate the absorption mean free paths of electron and muon neutrinos in two-flavor color-superconducting (2SC) quark matter in the density and temperature range that is relevant to binary neutron star mergers. We model the strong interaction between quarks using a Nambu--Jona-Lasinio model, performing calculations self-consistently in the mean-field approximation. Since the 2SC gap is large we restrict our analysis to the contribution of unpaired quarks. We find that at low temperatures absorption by a down quark $\\nu+d \\to u+e^-/\\mu^-$ is kinematically not allowed, so absorption by a strange quark $\\nu+s \\to u+e^-/\\mu^-$ dominates the mean free path. As temperature or neutrino energy rises, the $d$ quark absorption channel becomes active, and the mean free path shrinks. We find that in equilibrated 2SC matter with an electron lepton fraction $Y_{L_e}=0.1$, the neutrinos form a degenerate gas with a mean free path of meters or less, independent of the temperature."
+      "title": "Measurements at forward rapidity of elliptic flow of charged hadrons and open-heavy-flavor muons in $\\mathrm{Au}+\\mathrm{Au}$ collisions at $\\sqrt{{s}_{NN}}=200\\phantom{\\rule{0.16em}{0ex}}\\mathrm{GeV}$",
+      "link": "http://link.aps.org/doi/10.1103/ptpm-jtt8",
+      "authors": "N. J. Abdulameer <em>et al.</em> (PHENIX Collaboration)",
+      "source": "Physical Review C",
+      "summary": "Author(s): N. J. Abdulameer et al. (PHENIX Collaboration)We present the first forward-rapidity measurements of elliptic anisotropy of open-heavy-flavor muons at the Relativistic Heavy Ion Collider. The measurements are based on data samples of $\\mathrm{Au}+\\mathrm{Au}$ collisions at $\\sqrt{{s}_{{}_{NN}}}=200\\phantom{\\rule{0.16em}{0ex}}\\mathrm{GeV}$ collec…[Phys. Rev. C 112, 034902] Published Fri Sep 05, 2025"
     },
     {
-      "title": "Three models for charged hadron nuclear modification from light to heavy ions",
-      "link": "https://arxiv.org/abs/2509.04299",
-      "authors": "Wilke van der Schee, Isobel Kolb\\'e, Govert Nijs, Kumail Ruhani, Ishtiaq Ahmed, Shahin Iqbal",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2509.04299v1 Announce Type: new \nAbstract: In July 2025 the Large Hadron Collider (LHC) collided $^{16}$O$^{16}$O and $^{20}$Ne$^{20}$Ne isotopes in a quest to understand the physics of ultrarelativistic light ion collisions. One of the key motivations for this run is to discover partonic energy loss in systems with a small quark-gluon plasma (QGP). In this letter we combine a BDMPS-Z based model, a path-length based energy loss prescription, and JEWEL together with two realistic geometries of the $^{16}$O and $^{20}$Ne isotopes. The different sizes of the ions affect the energy loss in characteristically different ways depending on the model."
+      "title": "Charge sum rules for quark fragmentation functions",
+      "link": "http://link.aps.org/doi/10.1103/5q6n-9ll7",
+      "authors": "D. Kotlorz and O. V. Teryaev",
+      "source": "Physical Review C",
+      "summary": "Author(s): D. Kotlorz and O. V. TeryaevCharge sum rules for quark fragmentation functions are studied. The simultaneous implementation of the conservation of electric and baryon charges, strangeness, and isospin symmetry is achieved when the fragmentation to both mesons and baryons is considered. The results are compatible to Gell-Mann–N…[Phys. Rev. C 112, 035204] Published Fri Sep 05, 2025"
     },
     {
-      "title": "Extended applicability domain of viscous anisotropic hydrodynamics in (2+1)-D Bjorken flow with transverse expansion",
-      "link": "https://arxiv.org/abs/2509.04431",
-      "authors": "Yiyang Peng, Victor E. Ambrus, Clemens Werthmann, S\\\"oren Schlichting, Ulrich Heinz, Huichao Song",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2509.04431v1 Announce Type: new \nAbstract: We perform (2{+}1)-D simulations of viscous anisotropic hydrodynamics (VAH) under boost-invariant and conformal conditions. Comparing both VAH and traditional viscous hydrodynamics with kinetic theory in the relaxation-time approximation as the underlying microscopic theory, we show that VAH provides a superior description of the evolution across a wide range of opacity, effectively extending the boundaries of the applicability of hydrodynamic modeling. Our results demonstrate VAH's potential for describing collective flow in small systems where traditional hydrodynamics faces challenges."
+      "title": "Bayesian inference of neutron star crust properties using an <i>ab-initio</i>–benchmarked metamodel",
+      "link": "http://link.aps.org/doi/10.1103/74qx-8ym8",
+      "authors": "S. Burrello, F. Gulminelli, M. Antonelli, M. Colonna, and A. F. Fantina",
+      "source": "Physical Review C",
+      "summary": "Author(s): S. Burrello, F. Gulminelli, M. Antonelli, M. Colonna, and A. F. FantinaAccurate modeling of the neutron star crust is essential for interpreting multimessenger observations and constraining the nuclear equation of state (EOS). However, standard phenomenological EOS models often rely on heuristic extrapolations in the low-density regime, which are inconsistent with micr…[Phys. Rev. C 112, 035802] Published Fri Sep 05, 2025"
     },
     {
-      "title": "Strong CP Violation and large-$N_c$ spin-flavor symmetry",
-      "link": "https://arxiv.org/abs/2509.03613",
-      "authors": "Thomas R. Richardson",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2509.03613v1 Announce Type: cross \nAbstract: We revisit the contribution of the QCD $\\bar \\theta$ term to the CP violating pion-nucleon couplings and the nucleon electric dipole moment in a combined large-$N_c$ and chiral perturbation theory framework. In particular, we approach this issue through the emergent spin-flavor symmetry of the baryon sector at large but finite $N_c$. We obtain good agreement with previous analyses for the pion-nucleon couplings and show that the large-$N_c$ framework indicates that tree-level contributions to the electric dipole moment possibly play a dominant role. The spin-flavor symmetry also enables us to provide novel constraints on CP violating pion-$\\Delta$ couplings as well as the $\\Delta$ electric dipole moment and $\\Delta N$ transition moment."
+      "title": "Concentrated valence nucleons transfer in heavy-ion collisions: Implications for the discovery of stable superheavy elements",
+      "link": "http://link.aps.org/doi/10.1103/wr7j-72w4",
+      "authors": "Zepeng Gao, Yinu Zhang, and Long Zhu",
+      "source": "Physical Review C",
+      "summary": "Author(s): Zepeng Gao, Yinu Zhang, and Long ZhuThe multinucleon transfer process is regarded as a promising pathway for producing the stable superheavy elements. However, the underlying mechanism, especially the possible transfer channels for sailing to the “island of stability” are poorly known. In this work, the time-dependent Hartree-Fock the…[Phys. Rev. C 112, L031601] Published Fri Sep 05, 2025"
     },
     {
-      "title": "Stability analysis of two-fluid neutron stars featuring twin star and ultradense configurations",
-      "link": "https://arxiv.org/abs/2509.03862",
-      "authors": "Ankit Kumar, Hajime Sotani",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2509.03862v1 Announce Type: cross \nAbstract: We perform a detailed analysis of radial oscillations to discuss dynamical stability in two-fluid neutron stars composed of ordinary nuclear matter and a gravitationally coupled dark matter component. Using a fully relativistic two-fluid formalism, we solve the eigenvalue problem for a coupled system of equations with small-amplitude radial perturbations and derive the critical line corresponding to stability boundaries. We also compare these stability boundary lines obtained from the radial perturbations with those obtained from a generalized turning-point criterion based on extremization of mass and particle numbers, and find that the two methods agree to within better than $1\\%$ across the parameter space explored. We consider both mirror dark matter and self-interacting fermionic dark matter models, and examine how microphysical properties$-$such as nuclear equations of state, dark matter mass, and vector coupling strength$-$reshape the topology of the stability boundary and gravitational mass contours. Our results reveal the emergence of ultra-dense and compact stars, with nuclear central densities exceeding single-fluid instability thresholds by factors of two or more, and the appearance of twin-star configurations with identical masses but distinct radii and internal fluid compositions. These findings have direct implications for the interpretation of neutron star observables and motivate future studies involving phase transitions, density discontinuities, or additional interactions in multi-component stellar systems. In particular, the emergence of exotic stable configurations beyond conventional stability limits underscores the need to reassess standard criteria in light of multi-fluid dynamics, with significant consequences for multimessenger probes of dense matter$-$including gravitational wave signals, mass-radius constraints, and post-merger remnants."
+      "title": "Self-consistent microscopic calculations for electron captures on nuclei in core-collapse supernovae",
+      "link": "http://link.aps.org/doi/10.1103/5r9z-ygmx",
+      "authors": "A. Ravlić, S. Giraud, N. Paar, and R. G. T. Zegers",
+      "source": "Physical Review C",
+      "summary": "Author(s): A. Ravlić, S. Giraud, N. Paar, and R. G. T. ZegersCalculations for electron capture rates on nuclei with atomic numbers between $Z=20$ and $Z=52$ are performed in a self-consistent finite-temperature covariant energy density functional theory within the relativistic quasiparticle random-phase approximation. Electron captures on these nuclei contrib…[Phys. Rev. C 112, L032801] Published Fri Sep 05, 2025"
     },
     {
-      "title": "Jet broadening and radiation in the early anisotropic plasma in heavy-ion collisions",
-      "link": "https://arxiv.org/abs/2509.03868",
-      "authors": "Alois Altenburger, Kirill Boguslavski, Florian Lindenbauer",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2509.03868v1 Announce Type: cross \nAbstract: Measuring the energy loss of energetic jet partons may provide experimental opportunities to constrain the initial nonequilibrium stages in heavy-ion collisions, which requires theoretical predictions for the jet-medium potential. In this letter, we go beyond the usual harmonic approximation, extract this potential for the first time using QCD kinetic theory simulations, and provide a simple cutoff-independent small-distance form. We find significant differences to thermal media at early times in momentum and position space, as well as substantial angular dependence. Applying our results to the gluon splitting rates using a novel computational method reveals tensions in the current kinetic theory implementations for early times."
-    },
-    {
-      "title": "The local thermodynamic instability from negative susceptibility in a holographic superfluid with nonlinear terms",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269325005829?dgcid=rss_sd_all",
+      "title": "Nucleon-nucleon correlation functions from different interactions in comparison",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269325005921?dgcid=rss_sd_all",
       "authors": "Unknown",
       "source": "Physics Letters B",
-      "summary": "Publication date: October 2025Source: Physics Letters B, Volume 869Author(s): Yu-Xiang Cao, Hui Zeng, Zhang-Yu Nie"
+      "summary": "Publication date: October 2025Source: Physics Letters B, Volume 869Author(s): Matthias Göbel, Alejandro Kievsky"
     },
     {
-      "title": "<math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si50.svg\" class=\"math\"><mrow><mi>C</mi><mi>P</mi></mrow></math>-violation and <math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si31.svg\" class=\"math\"><mi>U</mi></math>-spin symmetry in four-body bottom baryon decays",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269325005982?dgcid=rss_sd_all",
+      "title": "An exact five dimensional Weyl-Geometry Gauss-Bonnet Black Hole",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269325006288?dgcid=rss_sd_all",
       "authors": "Unknown",
       "source": "Physics Letters B",
-      "summary": "Publication date: October 2025Source: Physics Letters B, Volume 869Author(s): Shibasis Roy"
+      "summary": "Publication date: Available online 5 September 2025Source: Physics Letters BAuthor(s): Sebastian Bahamonde, Máximo Bañados"
     },
     {
-      "title": "The light neutralino dark matter in the generalized minimal supergravity (GmSUGRA)",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269325006045?dgcid=rss_sd_all",
+      "title": "Search for Higgs boson exotic decays into Lorentz-boosted light bosons in the four-with the ATLAS detector-<math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si37.svg\" class=\"math\"><mi>τ</mi></math> final state at <math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si38.svg\" class=\"math\"><mrow><msqrt><mi>s</mi></msqrt><mo linebreak=\"goodbreak\">=</mo><mn>13</mn><mspace width=\"0.16em\"></mspace><mrow><mi mathvariant=\"normal\">TeV</mi></mrow></mrow></math> with the ATLAS detector",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269325006033?dgcid=rss_sd_all",
       "authors": "Unknown",
       "source": "Physics Letters B",
-      "summary": "Publication date: October 2025Source: Physics Letters B, Volume 869Author(s): Imtiaz Khan, Waqas Ahmed, Tianjun Li, Shabbar Raza, Ali Muhammad"
+      "summary": "Publication date: Available online 5 September 2025Source: Physics Letters BAuthor(s): G. Aad, E. Aakvaag, B. Abbott, S. Abdelhameed, K. Abeling, N.J. Abicht, S.H. Abidi, M. Aboelela, A. Aboulhorma, H. Abramowicz, Y. Abulaiti, B.S. Acharya, A. Ackermann, C. Adam Bourdarios, L. Adamczyk, S.V. Addepalli, M.J. Addison, J. Adelman, A. Adiguzel, T. Adye"
     },
     {
-      "title": "Non-flat universe with Tsallis holographic dark energy",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269325005878?dgcid=rss_sd_all",
+      "title": "Determination of the <math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si3.svg\" class=\"math\"><mi>ϕ</mi></math>-meson production process and its absorption cross section via directed flow",
+      "link": "https://www.sciencedirect.com/science/article/pii/S037026932500629X?dgcid=rss_sd_all",
       "authors": "Unknown",
       "source": "Physics Letters B",
-      "summary": "Publication date: October 2025Source: Physics Letters B, Volume 869Author(s): A.V. Astashenok, A.S. Tepliakov"
+      "summary": "Publication date: Available online 5 September 2025Source: Physics Letters BAuthor(s): Jan Steinheimer, Tom Reichert, Marcus Bleicher"
     },
     {
-      "title": "<math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si3.svg\" class=\"math\"><mi>α</mi></math>-attractor inflation modified by GUP in light of ACT observations",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269325005945?dgcid=rss_sd_all",
+      "title": "First measurement of <math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si9.svg\" class=\"math\"><mi>b</mi></math>-jet mass with and without grooming",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269325006148?dgcid=rss_sd_all",
       "authors": "Unknown",
       "source": "Physics Letters B",
-      "summary": "Publication date: October 2025Source: Physics Letters B, Volume 869Author(s): Hana Heidarian, Milad Solbi, Soma Heydari, Kayoomars Karami"
+      "summary": "Publication date: Available online 5 September 2025Source: Physics Letters BAuthor(s): R. Aaij, A.S.W. Abdelmotteleb, C. Abellan Beteta, F. Abellan Abudinén, T. Ackernley, A.A. Adefisoye, B. Adeva, M. Adinolfi, P. Adlarson, C. Agapopoulou, C.A. Aidala, Z. Ajaltouni, S. Akar, K. Akiba, P. Albicocco, J. Albrecht, F. Alessio, Z. Aliouche, P. Alvarez Cartelle, R. Amalric"
     },
     {
-      "title": "Measurement of the hard exclusive π<sup>0</sup> muoproduction cross section at COMPASS",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269325005933?dgcid=rss_sd_all",
+      "title": "Revisiting the Electron EDM in the NMSSM",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269325006264?dgcid=rss_sd_all",
       "authors": "Unknown",
       "source": "Physics Letters B",
-      "summary": "Publication date: Available online 4 September 2025Source: Physics Letters BAuthor(s): G.D. Alexeev, M.G. Alexeev, C. Alice, A. Amoroso, V. Andrieux, V. Anosov, K. Augsten, W. Augustyniak, C. D R Azevedo, B. Badelek, J. Barth, R. Beck, J. Beckers, Y. Bedfer, J. Bernhard, M. Bodlak, F. Bradamante, A. Bressan, W.-C Chang, C. Chatterjee"
+      "summary": "Publication date: Available online 5 September 2025Source: Physics Letters BAuthor(s): Kaifei Ning, Michael Ramsey-Musolf"
     },
     {
-      "title": "Possible Universal Limit for Valence Parton Distributions",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0375947425002295?dgcid=rss_sd_all",
+      "title": "Nuclear mass density e........ect of 27Al and 28Si nuclei in nuclear reactions. p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 14.3px Helvetica; color: #000000}span.s1 {font: 10.0px Helvetica}",
+      "link": "https://www.sciencedirect.com/science/article/pii/S037594742500226X?dgcid=rss_sd_all",
       "authors": "Unknown",
       "source": "Nuclear Physics A",
-      "summary": "Publication date: Available online 4 September 2025Source: Nuclear Physics AAuthor(s): Christopher Leon, Misak Sargsian"
+      "summary": "Publication date: Available online 5 September 2025Source: Nuclear Physics AAuthor(s): F.R. Vasconcelos, G.F.D. Abreu, E.N. Cardozo, J. Lubian"
     },
     {
-      "title": "Systematics of reduced <em>B(E3)</em> transition probabilities for <em>E</em>3 transitions in even-A nuclei in 50 <math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si6.svg\" class=\"math\"><mo>≤</mo></math> Z <math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si6.svg\" class=\"math\"><mo>≤</mo></math> 92 region",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0375947425002271?dgcid=rss_sd_all",
+      "title": "Leptodermic corrections to the TOV equations and nuclear astrophysics within the effective surface approximation",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0375947425002258?dgcid=rss_sd_all",
       "authors": "Unknown",
       "source": "Nuclear Physics A",
-      "summary": "Publication date: Available online 4 September 2025Source: Nuclear Physics AAuthor(s): P.S. Rawat, S. Kumar"
+      "summary": "Publication date: Available online 5 September 2025Source: Nuclear Physics AAuthor(s): A.G. Magner, S.P. Maydanyuk, A. Bonasera, H. Zheng, T. Depastas, A.I. Levon, U.V. Grygoriev"
     },
     {
-      "title": "Alpha process nucleosynthesis and sensitivity analysis in SiRoP",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0375947425002283?dgcid=rss_sd_all",
+      "title": "Observability of Modified Threshold Behavior Near Unitarity",
+      "link": "https://link.springer.com/article/10.1007/s00601-025-02007-6",
       "authors": "Unknown",
-      "source": "Nuclear Physics A",
-      "summary": "Publication date: Available online 4 September 2025Source: Nuclear Physics AAuthor(s): Jose Trujillo, Rachid Ouyed"
+      "source": "Few-Body Systems",
+      "summary": "A number of recent references have pointed out that an N-particle system having short-range interactions at S-wave and/or P-wave unitarity can exhibit modified threshold behavior for various reactive processes. But the question of how close to unitarity one must get in order to observe such modifications has not been addressed. The present study quantifies this question by treating cases involving 3- or 4-neutrons, at the physical value of the neutron-neutron singlet scattering length $$a_{s}$$ and at artificially altered values. One major conclusion is that the neutron-neutron scattering length is not yet sufficiently large for the 3n or 4n systems to demonstrate the unitarity threshold exponent."
     }
   ]
 }
