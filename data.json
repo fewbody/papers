@@ -1,131 +1,19 @@
 {
-  "lastUpdated": "2025-09-07T02:23:03.535033",
+  "lastUpdated": "2025-09-08T02:24:27.232705",
   "papers": [
     {
-      "title": "Machine learning for correlations of electromagnetic properties in <i>ab initio</i> calculations",
-      "link": "http://link.aps.org/doi/10.1103/frfs-xz86",
-      "authors": "Marco Knöll, Marc L. Agel, Tobias Wolfgruber, Pieter Maris, and Robert Roth",
-      "source": "Physical Review C",
-      "summary": "Author(s): Marco Knöll, Marc L. Agel, Tobias Wolfgruber, Pieter Maris, and Robert RothIn ab initio nuclear structure theory, accurately predicting electromagnetic observables, such as moments and transition rates, is essential for a comprehensive understanding of nuclear properties. However, computational limitations and conceptual difficulties often hinder the precise calculation of…[Phys. Rev. C 112, 034306] Published Fri Sep 05, 2025"
-    },
-    {
-      "title": "Extending the low-$Z$ “border” of the $A=100$ region of deformation with precision mass spectrometry of $^{96−98}\\mathrm{Kr}$",
-      "link": "http://link.aps.org/doi/10.1103/dhbh-12sc",
-      "authors": "D. Lunney, V. Manea, M. Mougeot, L. Nies, N. A. Althubiti, D. Atanasov, K. Blaum, A. Herlert, W.-J. Huang, J. Karthein, I. Kulikov, Yu. A. Litvinov, D. Neidherr, T. R. Rodríguez, M. Rosenbusch, L. Schweikhard, T. Steinsberger, A. Welker, F. Wienholtz, and R. N. Wolf",
-      "source": "Physical Review C",
-      "summary": "Author(s): D. Lunney, V. Manea, M. Mougeot, L. Nies, N. A. Althubiti, D. Atanasov, K. Blaum, A. Herlert, W.-J. Huang, J. Karthein, I. Kulikov, Yu. A. Litvinov, D. Neidherr, T. R. Rodríguez, M. Rosenbusch, L. Schweikhard, T. Steinsberger, A. Welker, F. Wienholtz, and R. N. WolfThe onset of collective nuclear behavior in the $N=60$, $A≈100$ region is examined through high-precision mass measurements of $^{96−98}\\mathrm{Kr}$, performed with the ISOLTRAP mass spectrometer at ISOLDE, CERN. Our results for $^{96−97}\\mathrm{Kr}$ agree with previous measurements, with our new $^…[Phys. Rev. C 112, 034307] Published Fri Sep 05, 2025"
-    },
-    {
-      "title": "Parameterizations of electron scattering form factors for elastic scattering and electroexcitation of nuclear states in $^{27}\\mathrm{Al}$ and $^{40}\\mathrm{Ca}$",
-      "link": "http://link.aps.org/doi/10.1103/f61s-qfx5",
-      "authors": "Arie Bodek, M. E. Christy, Zihao Lin, Bulugean Giulia-Maria, and Matamoros Delgado Amii Daniela",
-      "source": "Physical Review C",
-      "summary": "Author(s): Arie Bodek, M. E. Christy, Zihao Lin, Bulugean Giulia-Maria, and Matamoros Delgado Amii DanielaWe report on empirical parameterizations of longitudinal (${\\mathcal{R}}_{L}$) and transverse (${\\mathcal{R}}_{T}$) nuclear electromagnetic form factors for elastic scattering and the excitations of nuclear states in $^{27}\\mathrm{Al}$ and $^{40}\\mathrm{Ca}$. The parameterizations are needed for the…[Phys. Rev. C 112, 034308] Published Fri Sep 05, 2025"
-    },
-    {
-      "title": "$α+^{2}n+^{2}n$ 3-body cluster structures and dineutron breaking in $^{8}\\mathrm{He}$",
-      "link": "http://link.aps.org/doi/10.1103/tjnl-jnxp",
-      "authors": "Kosei Nakagawa and Yoshiko Kanada-En'yo",
-      "source": "Physical Review C",
-      "summary": "Author(s): Kosei Nakagawa and Yoshiko Kanada-En'yoBackground: The ${0}_{2}^{+}$ state of $^{8}\\mathrm{He}$ has been discovered by a recent experiment, which suggested a developed cluster structure of spatially correlated neutron pairs, called “dineutrons” ($^{2}n$).Purpose: We aim to investigate the structure of $^{8}\\mathrm{He}({0}_{1}^{+})$ and $…[Phys. Rev. C 112, 034309] Published Fri Sep 05, 2025"
-    },
-    {
-      "title": "Measurements at forward rapidity of elliptic flow of charged hadrons and open-heavy-flavor muons in $\\mathrm{Au}+\\mathrm{Au}$ collisions at $\\sqrt{{s}_{NN}}=200\\phantom{\\rule{0.16em}{0ex}}\\mathrm{GeV}$",
-      "link": "http://link.aps.org/doi/10.1103/ptpm-jtt8",
-      "authors": "N. J. Abdulameer <em>et al.</em> (PHENIX Collaboration)",
-      "source": "Physical Review C",
-      "summary": "Author(s): N. J. Abdulameer et al. (PHENIX Collaboration)We present the first forward-rapidity measurements of elliptic anisotropy of open-heavy-flavor muons at the Relativistic Heavy Ion Collider. The measurements are based on data samples of $\\mathrm{Au}+\\mathrm{Au}$ collisions at $\\sqrt{{s}_{{}_{NN}}}=200\\phantom{\\rule{0.16em}{0ex}}\\mathrm{GeV}$ collec…[Phys. Rev. C 112, 034902] Published Fri Sep 05, 2025"
-    },
-    {
-      "title": "Charge sum rules for quark fragmentation functions",
-      "link": "http://link.aps.org/doi/10.1103/5q6n-9ll7",
-      "authors": "D. Kotlorz and O. V. Teryaev",
-      "source": "Physical Review C",
-      "summary": "Author(s): D. Kotlorz and O. V. TeryaevCharge sum rules for quark fragmentation functions are studied. The simultaneous implementation of the conservation of electric and baryon charges, strangeness, and isospin symmetry is achieved when the fragmentation to both mesons and baryons is considered. The results are compatible to Gell-Mann–N…[Phys. Rev. C 112, 035204] Published Fri Sep 05, 2025"
-    },
-    {
-      "title": "Bayesian inference of neutron star crust properties using an <i>ab-initio</i>–benchmarked metamodel",
-      "link": "http://link.aps.org/doi/10.1103/74qx-8ym8",
-      "authors": "S. Burrello, F. Gulminelli, M. Antonelli, M. Colonna, and A. F. Fantina",
-      "source": "Physical Review C",
-      "summary": "Author(s): S. Burrello, F. Gulminelli, M. Antonelli, M. Colonna, and A. F. FantinaAccurate modeling of the neutron star crust is essential for interpreting multimessenger observations and constraining the nuclear equation of state (EOS). However, standard phenomenological EOS models often rely on heuristic extrapolations in the low-density regime, which are inconsistent with micr…[Phys. Rev. C 112, 035802] Published Fri Sep 05, 2025"
-    },
-    {
-      "title": "Concentrated valence nucleons transfer in heavy-ion collisions: Implications for the discovery of stable superheavy elements",
-      "link": "http://link.aps.org/doi/10.1103/wr7j-72w4",
-      "authors": "Zepeng Gao, Yinu Zhang, and Long Zhu",
-      "source": "Physical Review C",
-      "summary": "Author(s): Zepeng Gao, Yinu Zhang, and Long ZhuThe multinucleon transfer process is regarded as a promising pathway for producing the stable superheavy elements. However, the underlying mechanism, especially the possible transfer channels for sailing to the “island of stability” are poorly known. In this work, the time-dependent Hartree-Fock the…[Phys. Rev. C 112, L031601] Published Fri Sep 05, 2025"
-    },
-    {
-      "title": "Self-consistent microscopic calculations for electron captures on nuclei in core-collapse supernovae",
-      "link": "http://link.aps.org/doi/10.1103/5r9z-ygmx",
-      "authors": "A. Ravlić, S. Giraud, N. Paar, and R. G. T. Zegers",
-      "source": "Physical Review C",
-      "summary": "Author(s): A. Ravlić, S. Giraud, N. Paar, and R. G. T. ZegersCalculations for electron capture rates on nuclei with atomic numbers between $Z=20$ and $Z=52$ are performed in a self-consistent finite-temperature covariant energy density functional theory within the relativistic quasiparticle random-phase approximation. Electron captures on these nuclei contrib…[Phys. Rev. C 112, L032801] Published Fri Sep 05, 2025"
-    },
-    {
-      "title": "Nucleon-nucleon correlation functions from different interactions in comparison",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269325005921?dgcid=rss_sd_all",
+      "title": "Improved predictions on Higgs-Starobinsky inflation and reheating with ACT DR6 and primordial gravitational waves",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269325006124?dgcid=rss_sd_all",
       "authors": "Unknown",
       "source": "Physics Letters B",
-      "summary": "Publication date: October 2025Source: Physics Letters B, Volume 869Author(s): Matthias Göbel, Alejandro Kievsky"
+      "summary": "Publication date: October 2025Source: Physics Letters B, Volume 869Author(s): Md Riajul Haque, Sourav Pal, Debarun Paul"
     },
     {
-      "title": "An exact five dimensional Weyl-Geometry Gauss-Bonnet Black Hole",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269325006288?dgcid=rss_sd_all",
+      "title": "Search for $CP$ violation in events with top quarks and Z bosons at $\\\\sqrt{s}$ = 13 and 13.6 TeV<math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si6.svg\" class=\"math\"><mrow><mi>C</mi><mi>P</mi></mrow></math> violation in events with top quarks and Z bosons at <math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si7.svg\" class=\"math\"><msqrt><mi>s</mi></msqrt></math> =13 and 13.6 TeV",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269325006021?dgcid=rss_sd_all",
       "authors": "Unknown",
       "source": "Physics Letters B",
-      "summary": "Publication date: Available online 5 September 2025Source: Physics Letters BAuthor(s): Sebastian Bahamonde, Máximo Bañados"
-    },
-    {
-      "title": "Search for Higgs boson exotic decays into Lorentz-boosted light bosons in the four-with the ATLAS detector-<math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si37.svg\" class=\"math\"><mi>τ</mi></math> final state at <math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si38.svg\" class=\"math\"><mrow><msqrt><mi>s</mi></msqrt><mo linebreak=\"goodbreak\">=</mo><mn>13</mn><mspace width=\"0.16em\"></mspace><mrow><mi mathvariant=\"normal\">TeV</mi></mrow></mrow></math> with the ATLAS detector",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269325006033?dgcid=rss_sd_all",
-      "authors": "Unknown",
-      "source": "Physics Letters B",
-      "summary": "Publication date: Available online 5 September 2025Source: Physics Letters BAuthor(s): G. Aad, E. Aakvaag, B. Abbott, S. Abdelhameed, K. Abeling, N.J. Abicht, S.H. Abidi, M. Aboelela, A. Aboulhorma, H. Abramowicz, Y. Abulaiti, B.S. Acharya, A. Ackermann, C. Adam Bourdarios, L. Adamczyk, S.V. Addepalli, M.J. Addison, J. Adelman, A. Adiguzel, T. Adye"
-    },
-    {
-      "title": "Determination of the <math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si3.svg\" class=\"math\"><mi>ϕ</mi></math>-meson production process and its absorption cross section via directed flow",
-      "link": "https://www.sciencedirect.com/science/article/pii/S037026932500629X?dgcid=rss_sd_all",
-      "authors": "Unknown",
-      "source": "Physics Letters B",
-      "summary": "Publication date: Available online 5 September 2025Source: Physics Letters BAuthor(s): Jan Steinheimer, Tom Reichert, Marcus Bleicher"
-    },
-    {
-      "title": "First measurement of <math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si9.svg\" class=\"math\"><mi>b</mi></math>-jet mass with and without grooming",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269325006148?dgcid=rss_sd_all",
-      "authors": "Unknown",
-      "source": "Physics Letters B",
-      "summary": "Publication date: Available online 5 September 2025Source: Physics Letters BAuthor(s): R. Aaij, A.S.W. Abdelmotteleb, C. Abellan Beteta, F. Abellan Abudinén, T. Ackernley, A.A. Adefisoye, B. Adeva, M. Adinolfi, P. Adlarson, C. Agapopoulou, C.A. Aidala, Z. Ajaltouni, S. Akar, K. Akiba, P. Albicocco, J. Albrecht, F. Alessio, Z. Aliouche, P. Alvarez Cartelle, R. Amalric"
-    },
-    {
-      "title": "Revisiting the Electron EDM in the NMSSM",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269325006264?dgcid=rss_sd_all",
-      "authors": "Unknown",
-      "source": "Physics Letters B",
-      "summary": "Publication date: Available online 5 September 2025Source: Physics Letters BAuthor(s): Kaifei Ning, Michael Ramsey-Musolf"
-    },
-    {
-      "title": "Nuclear mass density e........ect of 27Al and 28Si nuclei in nuclear reactions. p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 14.3px Helvetica; color: #000000}span.s1 {font: 10.0px Helvetica}",
-      "link": "https://www.sciencedirect.com/science/article/pii/S037594742500226X?dgcid=rss_sd_all",
-      "authors": "Unknown",
-      "source": "Nuclear Physics A",
-      "summary": "Publication date: Available online 5 September 2025Source: Nuclear Physics AAuthor(s): F.R. Vasconcelos, G.F.D. Abreu, E.N. Cardozo, J. Lubian"
-    },
-    {
-      "title": "Leptodermic corrections to the TOV equations and nuclear astrophysics within the effective surface approximation",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0375947425002258?dgcid=rss_sd_all",
-      "authors": "Unknown",
-      "source": "Nuclear Physics A",
-      "summary": "Publication date: Available online 5 September 2025Source: Nuclear Physics AAuthor(s): A.G. Magner, S.P. Maydanyuk, A. Bonasera, H. Zheng, T. Depastas, A.I. Levon, U.V. Grygoriev"
-    },
-    {
-      "title": "Observability of Modified Threshold Behavior Near Unitarity",
-      "link": "https://link.springer.com/article/10.1007/s00601-025-02007-6",
-      "authors": "Unknown",
-      "source": "Few-Body Systems",
-      "summary": "A number of recent references have pointed out that an N-particle system having short-range interactions at S-wave and/or P-wave unitarity can exhibit modified threshold behavior for various reactive processes. But the question of how close to unitarity one must get in order to observe such modifications has not been addressed. The present study quantifies this question by treating cases involving 3- or 4-neutrons, at the physical value of the neutron-neutron singlet scattering length $$a_{s}$$ and at artificially altered values. One major conclusion is that the neutron-neutron scattering length is not yet sufficiently large for the 3n or 4n systems to demonstrate the unitarity threshold exponent."
+      "summary": "Publication date: Available online 6 September 2025Source: Physics Letters BAuthor(s): The CMS Collaboration"
     }
   ]
 }
