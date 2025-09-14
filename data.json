@@ -1,138 +1,54 @@
 {
-  "lastUpdated": "2025-09-13T02:09:12.116904",
+  "lastUpdated": "2025-09-14T02:22:38.955763",
   "papers": [
     {
-      "title": "Attractor of hydrodynamic attractors",
-      "link": "https://arxiv.org/abs/2509.08864",
-      "authors": "Shile Chen, Shuzhe Shi",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2509.08864v1 Announce Type: new \nAbstract: Understanding how hydrodynamics emerges rapidly in the medium produced by relativistic heavy-ion collisions remains a key theoretical challenge. While the attractor solution -- manifesting as a non-thermal fixed point during the early evolution stage -- offers a potential explanation, it does not fully account for how far-from-equilibrium systems quickly approach near-equilibrium states. In this Letter, we demonstrate that the attractor in a higher-order hydrodynamic theory converges to the same solution as a second-order theory before reaching the Navier--Stokes limit. This finding suggests that commonly used second-order hydrodynamic equations, provided they incorporate the correct transport coefficients, are adequate to approximate the system's behavior starting from an intermediate time -- even when using a higher-order theory that would be more suitable for describing the far-from-equilibrium evolution."
+      "title": "Structural analysis of the states within the “bump” regions in the $_{\\mathrm{Λ}}^{10}\\mathrm{Be}$ spectrum via a control neural network",
+      "link": "http://link.aps.org/doi/10.1103/xdvj-hplt",
+      "authors": "Zhengri Liu, Jiaqi Tian, Mengjiao Lyu, Masahiro Isaka, Akinobu Doté, Takayuki Myo, Hisashi Horiuchi, Hiroki Takemoto, Niu Wan, and Qing Zhao",
+      "source": "Physical Review C",
+      "summary": "Author(s): Zhengri Liu, Jiaqi Tian, Mengjiao Lyu, Masahiro Isaka, Akinobu Doté, Takayuki Myo, Hisashi Horiuchi, Hiroki Takemoto, Niu Wan, and Qing ZhaoRecent high-precision ($e,{e}^{′}{K}^{+}$) experiments have observed two prominent bump structures in the ${}_{\\mathrm{Λ}}^{10}\\mathrm{Be}$ spectrum, challenging our understanding of hypernuclear structure and hyperon-nucleon ($YN$) interactions. Motivated by this, we perform a systematic study of $…[Phys. Rev. C 112, 034314] Published Fri Sep 12, 2025"
     },
     {
-      "title": "Estimation of deuteron binding energy using Qiskit with renormalization group-based effective interactions",
-      "link": "https://arxiv.org/abs/2509.08948",
-      "authors": "Sreelekshmi Pillai, S. Ramanan, V. Balakrishnan, S. Lakshmibala",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2509.08948v1 Announce Type: new \nAbstract: We have obtained the binding energy of the deuteron on a quantum simulator using the variational quantum eigensolver (VQE) for renormalization group (RG)-based low-momentum effective interactions. The binding energy has been calculated in the truncated harmonic oscillator (HO) basis, using the Qiskit-Aer simulator in both noise-free and noisy cases. The noise models have been taken from the actual IBM quantum hardware, and the results obtained have been extrapolated to the zero noise limit. It is shown that the number of HO basis states needed for computing the binding energy to within 1 percent of the experimental value in the quantum simulator, decreases with decreasing RG parameter {$\\lambda$}. The dependence of the extent of entanglement between the oscillator modes on $\\lambda$ has been analysed."
+      "title": "First observation of an isomer in $^{243}\\mathrm{Es}$ via $α$-decay spectroscopy of $^{247}\\mathrm{Md}$",
+      "link": "http://link.aps.org/doi/10.1103/6ps8-ngl3",
+      "authors": "S. Y. Xu <em>et al.</em>",
+      "source": "Physical Review C",
+      "summary": "Author(s): S. Y. Xu et al.The study of low-lying energy levels in odd-A heavy nuclei provides important information regarding the ordering of Nilsson single-particle states, and thus the evolution of shell structure in the heavy-mass region. In the present work, the authors used the observation of pile-up traces from conversion electrons following the α-decay events of 247Md to identify a new isomeric state of 243Es, which has a half-life as short as 5 microseconds. This result, which constitutes the first observation of an isomeric decay in Z=99 Es isotopes, led to a significant rearrangement of the level scheme of 243Es. This cutting-edge α-decay spectroscopy using digital pulse-shape analysis promises to open a new avenue for exploring isomerism in other transfermium isotopes.[Phys. Rev. C 112, 034315] Published Fri Sep 12, 2025"
     },
     {
-      "title": "Assessing background effects in search of the chiral vortical effect in relativistic heavy-ion collisions",
-      "link": "https://arxiv.org/abs/2509.09025",
-      "authors": "Chunzheng Wang, Jie Wan, Jinfeng Liao, Yugang Ma, Shuzhe Shi, Qiye Shou, Zhengqing Wang, Kegang Xiong, Song Zhang, Liang Zheng",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2509.09025v1 Announce Type: new \nAbstract: The search for the Chiral Vortical Effect (CVE) in relativistic heavy-ion collisions is carried out by measuring azimuthal correlators for baryon pairs such as $\\Lambda$ and protons. Experimental results from the ALICE collaboration show significant separations in these observables, however, the interpretation remains unclear. It is believed that background contributions from baryon production mechanisms may play an important role. Using three phenomenological models, the Blast Wave, AMPT, and AVFD+UrQMD, we systematically investigate the background effects in Pb--Pb collisions at \\snn = 5.02 TeV. We demonstrate that local baryon conservation, as well as hadronic annihilation processes, can significantly influence the correlators. The feed-down contribution from secondary protons is also estimated. Our study provides a foundation for disentangling background mechanisms and further facilitates the search for the CVE."
+      "title": "Multimodality of $^{188}\\mathrm{Pt}$ and $^{190}\\mathrm{Hg}$ fission studied with the Langevin approach",
+      "link": "http://link.aps.org/doi/10.1103/7gff-q1zp",
+      "authors": "Fuchang Gu, Yingge Huang, Qiafeng Chen, Erxi Xiao, Hui Wang, Yujie Feng, Long Zhu, and Jun Su",
+      "source": "Physical Review C",
+      "summary": "Author(s): Fuchang Gu, Yingge Huang, Qiafeng Chen, Erxi Xiao, Hui Wang, Yujie Feng, Long Zhu, and Jun SuBackground: The mechanism underlying asymmetric fission in the preactinide region remains incompletely understood. Recent experimental analyses of correlations between fragment mass and total kinetic energy (TKE) have demonstrated the efficacy of this approach in identifying fission modes.Purpose: T…[Phys. Rev. C 112, 034609] Published Fri Sep 12, 2025"
     },
     {
-      "title": "Study on the equation-of-state with light clusters and hypernuclei",
-      "link": "https://arxiv.org/abs/2509.09061",
-      "authors": "Elena Bratkovskaya, J\\\"org Aichelin",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2509.09061v1 Announce Type: new \nAbstract: Heavy-ion collision experiments offer a unique opportunity to explore the early stages of the Universe by creating matter under extreme conditions of high temperature and baryon density. The properties of such matter are governed by the equation-of-state (EoS), which remains a central focus of investigation from both experimental and theoretical perspectives. Flow harmonics are among the most sensitive observables for probing the EoS, as they strongly reflect the underlying interactions and degrees of freedom of the system. In this article, we review the current status of our understanding of the EoS based on microscopic transport models, emphasizing comparisons with experimental data in the few GeV energy range."
+      "title": "Effect of $α$ clusters on particle production in O-O and $p$-O collisions at energies available at the CERN Large Hadron Collider",
+      "link": "http://link.aps.org/doi/10.1103/l6mj-sgrn",
+      "authors": "Deependra Sharma, Arpit Singh, Md. Samsul Islam, Basanta Nandi, and Sadhana Dash",
+      "source": "Physical Review C",
+      "summary": "Author(s): Deependra Sharma, Arpit Singh, Md. Samsul Islam, Basanta Nandi, and Sadhana DashIn the present work, O-O collisions at $\\sqrt{{s}_{NN}}=7\\phantom{\\rule{0.16em}{0ex}}\\mathrm{TeV}$ and $p$-O collisions at $\\sqrt{{s}_{NN}}=9.9\\phantom{\\rule{0.16em}{0ex}}\\mathrm{TeV}$ are studied using the $\\mathrm{PYTHIA8}$/Angantyr model for heavy-ion collisions. The theoretically predicted $α$-c…[Phys. Rev. C 112, 034905] Published Fri Sep 12, 2025"
     },
     {
-      "title": "Scaling approach to rigid and soft nuclear deformation through flow fluctuations in high-energy nuclear collisions",
-      "link": "https://arxiv.org/abs/2509.09376",
-      "authors": "Lumeng Liu, Chunjian Zhang, Jinhui Chen, Jiangyong Jia, Xu-Guang Huang, Yu-Gang Ma",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2509.09376v1 Announce Type: new \nAbstract: The nature of octupole deformation, whether static or vibrational, remains an open question in nuclear physics. Here, we propose a scaling approach to probe this ambiguity by triangular flow fluctuations using multi-particle cumulants, $c_{3,\\varepsilon}\\{4\\}$, in relativistic $^{238}$U+$^{238}$U collisions. We demonstrate that both $|c_{3,\\varepsilon}\\{4\\}|$ and the ratio $|c_{3,\\varepsilon}\\{4\\}/c^2_{3,\\varepsilon}\\{2\\}|$ scale linearly with the fourth-order moment of octupole deformation, $\\langle \\beta^4_{3,\\mathrm{U}} \\rangle$. Combined with the known linear relation of $c_{3,\\varepsilon}\\{2\\}$ to $\\langle \\beta^2_{3,\\mathrm{U}} \\rangle$, this new relation provides a direct extraction of both the mean and variance of the octupole deformation fluctuations, finally discriminating between static and dynamic origins. This work establishes a new tool to probe the static and dynamic collective modes in high-energy nuclear collisions, advancing a significant step toward refining the initial conditions of quark-gluon plasma."
-    },
-    {
-      "title": "The role of near neutron drip-line nuclei in the $r$-process",
-      "link": "https://arxiv.org/abs/2509.09478",
-      "authors": "T. Yu, Y. Y. Guo, X. F. Jiang, X. H. Wu",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2509.09478v1 Announce Type: new \nAbstract: The role of near neutron-drip-line nuclei in the rapid neutron-capture process ($r$-process) is studied with the classical $r$-process model.\n  Simulations under different astrophysical conditions ($T$, $n_n$) show that $r$-process paths approach the neutron-drip line under low-temperature and high-neutron-density conditions.\n  A sensitivity study reveals that variations in the nuclear masses of these exotic nuclei significantly impact the abundances of superheavy nuclei, and lead to obvious abundance variations in the $A=110-125$, $A=175-185$, and $A=200-205$ regions.\n  By contrast, the $r$-process rare-earth peak and the $A=130,195$ peaks remain largely unaffected.\n  The nuclei that obviously impact $r$-process abundances are mainly distributed in the region of $25\\leq Z\\leq 90$ and $50\\leq N\\leq 180$, with the nuclei around neutron magic numbers found to be particularly important for the $r$-process, even in the near-neutron-drip-line region."
-    },
-    {
-      "title": "From wave-function to fireball geometry: the role of a restored broken symmetry in ultra-relativistic collisions of deformed nuclei",
-      "link": "https://arxiv.org/abs/2509.09549",
-      "authors": "Weiyao Ke",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2509.09549v1 Announce Type: new \nAbstract: In the traditional Monte Carlo Glauber modeling of relativistic collisions involving deformed nuclei, the nuclear shape is interpreted classically; that is, each nucleus in an event is described by a configuration with fixed deformation parameters and orientation (collective coordinates). However, quantum mechanically, a valid ground state must be a superposition, at the amplitude level, of these deformed configurations to preserve rotational and other symmetries. This leads to significant entanglement in the nucleon wave function. For collisions with a moderate number of participants, we show that accounting for this quantum superposition -- particularly in the orientation of deformed nuclei -- can substantially alter the geometric shape of the quark-gluon plasma fireball at the early stage of the collision. By modifying the Monte Carlo Glauber model to approximately incorporate these quantum superposition effects, we find that the second-order eccentricity in Ne-Ne collisions is reduced by approximately $6\\%$ compared to classical treatments of nuclear orientation. Even larger impacts are expected for Ne-Pb collisions and for symmetric cumulant observables. These results indicate that quantum entanglement in nuclear structure plays a measurable role in heavy-ion collisions and should be considered when using such collisions to probe nuclear deformation."
-    },
-    {
-      "title": "Algebraic treatment of alpha-cluster nuclei",
-      "link": "https://arxiv.org/abs/2509.09634",
-      "authors": "Roelof Bijker, Omar Alejandro D\\'iaz Caballero",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2509.09634v1 Announce Type: new \nAbstract: In this contribution we review the algebraic cluster model (ACM) for $\\alpha$-cluster nuclei with $A=4k$ nucleons and its extension to the cluster shell model (CSM) for $A=4k+x$ nuclei. Particular attention is paid to the question to what extent the $\\alpha$-cluster structure survives under the addition of extra nucleons. As an example, we discuss the properties of $^{12}$C and $^{13}$C."
-    },
-    {
-      "title": "Constraining the Resolution Length of Quark-Gluon Plasma with New Jet Substructure Measurements",
-      "link": "https://arxiv.org/abs/2509.08881",
-      "authors": "Arjun Srinivasan Kudinoor, Daniel Pablos, Krishna Rajagopal",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2509.08881v1 Announce Type: cross \nAbstract: We show that recent measurements of substructure-dependent jet suppression constrain the value of the resolution length of the droplets of quark-gluon plasma (QGP) formed in heavy ion collisions. This resolution length, $L_{\\rm res}$, is defined such that the medium can only resolve partons within a jet shower that are separated by more than $L_{\\rm res}$. We first use Hybrid Model calculations to reproduce ALICE measurements of the scaled Soft Drop angle $\\theta_g$ for anti-$k_t$ $R = 0.2$ jets reconstructed from charged-particle tracks. We find that the narrowing of the $\\theta_g$-distribution in PbPb collisions compared to pp collisions that is seen in the ALICE data rules out a picture of fully coherent energy loss ($L_{\\rm res} = \\infty$) where each entire parton shower loses energy to the plasma as if it were a single unresolved colored object. We then use Hybrid Model calculations to reproduce ATLAS measurements of $dR_{12}$, the Soft Drop angle obtained by applying the Soft Drop grooming procedure to all charged-particle tracks in $R=1$ jets reconstructed from $R = 0.2$ skinny subjets. Our analysis demonstrates that the ATLAS measurements of $R_{\\rm AA}$ for such $R = 1$ jets as a function of $dR_{12}$ are inconsistent with a picture of fully incoherent energy loss ($L_{\\rm res} = 0$) in which every splitting in a parton shower is immediately resolved by the plasma. We find that our Hybrid Model calculations agree best with the ATLAS measurements if QGP has a finite, nonzero, resolution length $L_{\\rm res}\\sim (1-2)/(\\pi T)$. For the first time, jet substructure measurements are constraining the resolution length of QGP from below, as well as from above."
-    },
-    {
-      "title": "Microscopic calculation of two-particle-two-hole meson-exchange currents in $^{40}$Ar and asymmetric scaling properties for neutrino and electron scattering",
-      "link": "https://arxiv.org/abs/2509.08916",
-      "authors": "V. L. Martinez-Consentino, J. Segovia, J. E. Amaro",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2509.08916v1 Announce Type: cross \nAbstract: We present a microscopic calculation of two particle-two hole meson exchange current response functions in asymmetric nuclei, with particular emphasis on the $^{40}$Ar nucleus. Employing a relativistic mean-field and relativistic Fermi gas framework, we compute the nuclear response for $^{40}$Ar and compare it with that of the symmetric $^{40}$Ca nucleus, analyzing the role of proton-neutron imbalance. The model incorporates distinct proton and neutron Fermi momenta to accurately capture the nuclear dynamics of systems with $Z \\neq N$. Our results indicate that using $^{40}$Ca as a proxy for $^{40}$Ar leads to a systematic error of approximately 10\\%. Additionally, we propose an asymmetric scaling formula to obtain the 2p2h response for arbitrary nuclei from the $^{12}$C response, improving the description of asymmetric nuclei. Finally, we benchmark our predictions against inclusive electron scattering and neutrino cross sections."
-    },
-    {
-      "title": "Sphaleron freeze-in baryogenesis with gravitational waves from the QCD transition",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269325006094?dgcid=rss_sd_all",
+      "title": "Microscopic determination of the interacting boson-fermion model Hamiltonian from the nuclear energy density functional",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269325006392?dgcid=rss_sd_all",
       "authors": "Unknown",
       "source": "Physics Letters B",
-      "summary": "Publication date: October 2025Source: Physics Letters B, Volume 869Author(s): Fei Gao, Julia Harz, Chandan Hati, Yi Lu, Isabel M. Oldengott, Graham White"
+      "summary": "Publication date: Available online 13 September 2025Source: Physics Letters BAuthor(s): M. Homma, K. Nomura"
     },
     {
-      "title": "Scheme-independent determination of the QCD running coupling at all scales from jet observables using the principle of maximum conformality and infinite-order scale setting",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269325006434?dgcid=rss_sd_all",
+      "title": "Unfolded Formulation of 4d Yang–Mills Theory",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269325006410?dgcid=rss_sd_all",
       "authors": "Unknown",
       "source": "Physics Letters B",
-      "summary": "Publication date: Available online 12 September 2025Source: Physics Letters BAuthor(s): Leonardo Di Giustino, Stanley J. Brodsky, Philip G. Ratcliffe, Sheng-Quan Wang, Xing-Gang Wu"
+      "summary": "Publication date: Available online 12 September 2025Source: Physics Letters BAuthor(s): Nikita Misuna"
     },
     {
-      "title": "Holographic Study of QQQ Potential in a Magnetic Field Background",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269325006197?dgcid=rss_sd_all",
+      "title": "Weak Cosmic Censorship with spinning particles in Kerr-(A)dS spacetimes",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269325006367?dgcid=rss_sd_all",
       "authors": "Unknown",
       "source": "Physics Letters B",
-      "summary": "Publication date: Available online 12 September 2025Source: Physics Letters BAuthor(s): Jing Zhou, Xiaoling Leng"
-    },
-    {
-      "title": "Thermal and baryon density modifications to the $\\\\sigma$-boson propagator:",
-      "link": "https://www.sciencedirect.com/science/article/pii/S037026932500632X?dgcid=rss_sd_all",
-      "authors": "Unknown",
-      "source": "Physics Letters B",
-      "summary": "Publication date: Available online 11 September 2025Source: Physics Letters BAuthor(s): Alejandro Ayala, José Jorge Medina-Serna, Isabel Domínguez, Ivonne Maldonado, María Elena Tejeda-Yeomans"
-    },
-    {
-      "title": "Curvature corrections to Starobinsky inflation can explain the ACT results",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269325006422?dgcid=rss_sd_all",
-      "authors": "Unknown",
-      "source": "Physics Letters B",
-      "summary": "Publication date: Available online 11 September 2025Source: Physics Letters BAuthor(s): Andrea Addazi, Yermek Aldabergenov, Sergei V. Ketov"
-    },
-    {
-      "title": "Electron-positron scattering at finite temperature in Podolsky electrodynamics",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269325006331?dgcid=rss_sd_all",
-      "authors": "Unknown",
-      "source": "Physics Letters B",
-      "summary": "Publication date: Available online 11 September 2025Source: Physics Letters BAuthor(s): D.S. Cabral, L.A.S. Evangelista, L.H.A.R. Ferreira, A.F. Santos"
-    },
-    {
-      "title": "Investigating the inclusive <math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si1.svg\" class=\"math\"><msup><mi>D</mi><mn>0</mn></msup></math> photoproduction in ultraperipheral <math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si2.svg\" class=\"math\"><mrow><mi>P</mi><mi>b</mi><mi>P</mi><mi>b</mi></mrow></math> collisions at the Large Hadron Collider",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269325006185?dgcid=rss_sd_all",
-      "authors": "Unknown",
-      "source": "Physics Letters B",
-      "summary": "Publication date: Available online 11 September 2025Source: Physics Letters BAuthor(s): Victor P. Gonçalves, Luana Santana, Wolfgang Schäfer"
-    },
-    {
-      "title": "Advanced Study of Chiral Symmetry in Pionic Atoms",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0375947425002325?dgcid=rss_sd_all",
-      "authors": "Unknown",
-      "source": "Nuclear Physics A",
-      "summary": "Publication date: Available online 12 September 2025Source: Nuclear Physics AAuthor(s): Kenta Itahashi, Takahiro Nishi, Yoshiki K. Tanaka"
-    },
-    {
-      "title": "Compound and non-compound nuclear fusion using forward recoil range distributions of evaporation residues produced in <math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si3.svg\" class=\"math\"><msup><mrow></mrow><mn>18</mn></msup></math>O+<math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si1.svg\" class=\"math\"><msup><mrow></mrow><mn>154</mn></msup></math>Sm system",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0375947425002313?dgcid=rss_sd_all",
-      "authors": "Unknown",
-      "source": "Nuclear Physics A",
-      "summary": "Publication date: Available online 11 September 2025Source: Nuclear Physics AAuthor(s): Rajesh K. Sahoo, Dharmendra Singh, Amritraj Mahato, Pankaj K. Giri, Nitin Sharma, Lupteindu Chhura, Rahul Mahato, Sneha B. Linda, Harish Kumar, Suhail A. Tali, Rahbar Ali, M. Afzal Ansari, R. Kumar, S. Muralithar, R.P. Singh"
+      "summary": "Publication date: Available online 12 September 2025Source: Physics Letters BAuthor(s): Antonia M. Frassino, Jorge V. Rocha, Andrea P. Sanna"
     }
   ]
 }
