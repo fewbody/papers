@@ -1,12 +1,82 @@
 {
-  "lastUpdated": "2025-09-15T02:25:23.235754",
+  "lastUpdated": "2025-09-16T02:16:23.810486",
   "papers": [
     {
-      "title": "Two loops, four tops and two <math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si1.svg\" class=\"math\"><msub><mi>γ</mi><mn>5</mn></msub></math> schemes: a renormalization story",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269325006379?dgcid=rss_sd_all",
+      "title": "SU(3) rigid triaxiality in $^{154}$Sm",
+      "link": "https://arxiv.org/abs/2509.10008",
+      "authors": "Chunxiao Zhou, Xue Shang, Tao Wang",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2509.10008v1 Announce Type: new \nAbstract: The $^{154}$Sm nucleus, which has long been regarded as a typical quantum system exhibiting axial symmetry, has been recently suggested to exhibit a small degree of triaxiality by Otsuka \\textit{et al.}. This small triaxiality was recently observed using the $\\gamma$ decay of the $^{154}$Sm isovector giant dipole resonance. Thus further studying this small triaxiality is very necessary for understanding the nature of the collectivity in nuclei. In this paper, the rigid triaxiality in $^{154}$Sm is investigated using the newly proposed SU3-IBM theory. If the irreducible representation (irrep) of the ground state is (18,2) in the SU(3) symmetry limit, the new model can effectively reproduce the experimental data of $^{154}$Sm, showing good agreements with realistic energy spectra, B(E2) values, and quadrupole moments. This result further confirms the vality of the SU3-IBM for the description of the rigid triaxiality in realistic nuclei, and reveals the SU(3) dominance of the collectivity motions in nuclei."
+    },
+    {
+      "title": "Nuclear chiral density wave in neutron stars?",
+      "link": "https://arxiv.org/abs/2509.10135",
+      "authors": "Orestis Papadopoulos, Andreas Schmitt",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2509.10135v1 Announce Type: new \nAbstract: Anisotropic phases potentially play a role in the internal composition of neutron stars, the main laboratory for the phase structure of QCD at high baryon densities. We review the study of such a phase, the chiral density wave, within a phenomenological nucleon-meson model, including nucleonic vacuum fluctuations within a renormalization scheme recently developed. Neutron stars in this model and within our approximations either do not contain a chiral density wave core or they are too light to agree with observations."
+    },
+    {
+      "title": "Effective Mass in Quantum Hadrodynamics-I and its Impact on the Equation of State of Neutron Matter",
+      "link": "https://arxiv.org/abs/2509.10176",
+      "authors": "Ghitha Nadhira Azka Rahiemy, Eko Tri Sulistyani, Pekik Nurwantoro",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2509.10176v1 Announce Type: new \nAbstract: The effective nucleon mass (M^*) plays a central role in Quantum Hadrodynamics-I (QHD-I), linking scalar meson interactions at the microscopic level to the macroscopic properties of dense nuclear matter. In this work, we re-derive the scalar density integral in detail and validate it numerically using Gaussian quadrature. The numerical and analytic results are found to be in excellent agreement, confirming the robustness of both approaches. We then investigate the sensitivity of M^* to different parameter sets, highlighting its strong influence on nuclear saturation, compressibility, and the resulting equation of state (EoS). The analysis shows that variations in meson-nucleon couplings propagate directly into differences in pressure and energy density, affecting the stiffness of the EoS. While QHD-I produces characteristically stiff EoS, the effective mass evaluation provides a transparent framework for connecting microscopic meson dynamics to macroscopic neutron star properties. These findings underline the relevance of M^* as a microscopic-macroscopic bridge and demonstrate the utility of numerical methods for extending relativistic mean-field models in nuclear astrophysics."
+    },
+    {
+      "title": "Extraction of neutron-capture cross sections on $^{92}$Zr using the charge-exchange Oslo method",
+      "link": "https://arxiv.org/abs/2509.09776",
+      "authors": "N. D. Pathirana, R. G. T. Zegers, B. Gao, A. Spyrou, A. C. Larsen, H. Berg, D. Bazin, H. L. Crawford, A. Gade, P. Gastis, T. Ginter, C. J. Guess, M. Guttormsen, S. Noji, B. Longfellow, J. Pereira, L. A. Riley, D. Weisshaar, J. C. Zamora",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2509.09776v1 Announce Type: cross \nAbstract: The $^{93}$Nb($t$,$^{3}$He) reaction at 115 MeV/u was studied to demonstrate that nuclear level densities and $\\gamma$-ray strength functions can be extracted from charge-exchange reactions at intermediate energies using the Oslo technique. The matrix of excitation energy in $^{93}$Zr, reconstructed from the ($t$,$^{3}$He) reaction, versus the energy of $\\gamma$ rays emitted by the excited $^{93}$Zr nuclei, was obtained in an experiment with the S800 Spectrograph operated in coincidence with the GRETINA $\\gamma$-ray detector. The extracted level density and $\\gamma$-ray strength function obtained by applying the Oslo method to this matrix were used to estimate the $^{92}$Zr($n$,$\\gamma$)$^{93}$Zr cross section by combining the new results with other experimental data and theoretical calculations for $E$1 and $M$1 strength functions at higher energies. Good agreement with direct measurements of the $^{92}$Zr($n$,$\\gamma$)$^{93}$Zr cross section was found. The contribution from the upbend in the extracted $\\gamma$-ray strength function was important to achieve the consistency as the neutron-capture cross section without this contribution is significantly below the direct measurements otherwise. Since charge-exchange reactions at intermediate energies have long been used for extracting Gamow-Teller strengths, the successful demonstration of the charge-exchange Oslo method enables experiments in which ($n$,$\\gamma$) cross sections and Gamow-Teller strengths can be measured simultaneously, which is of benefit for astrophysical studies."
+    },
+    {
+      "title": "Gluon splitting rates in an anisotropic plasma in the AMY formalism",
+      "link": "https://arxiv.org/abs/2509.09897",
+      "authors": "Florian Lindenbauer",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2509.09897v1 Announce Type: cross \nAbstract: We introduce a novel numerical method to obtain the gluon splitting rates in an anisotropic QCD plasma in the AMY formalism, suitable for an anisotropic collision kernel. The method extends previous works by decomposing the additional angular information into Fourier modes, resulting in a significantly larger system of differential equations to solve numerically. It is then tested by calculating the rates for a simple anisotropic model for the collision kernel, which is compared to a thermal system. Remarkably, the obtained rates can be well-approximated by the rates calculated from an angular-averaged collision kernel, while still deviating significantly from equilibrium. An isotropic model for the collision kernel that is commonly used in QCD kinetic theory simulations, and which relies on the infrared temperature $T_*$ and an effective Debye mass, leads to rates that significantly deviate from the nonequilibrium rate, particularly at smaller parton energies."
+    },
+    {
+      "title": "On pseudo-gauge ambiguity in the distributions of energy density, pressure, and shear force inside the nucleon",
+      "link": "https://arxiv.org/abs/2509.10223",
+      "authors": "Kenji Fukushima, Tomoya Uji",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2509.10223v1 Announce Type: cross \nAbstract: We study the spatial distributions of pressure, energy density, and shear forces inside the nucleon within the two-flavor Skyrme model including vector mesons. This framework has the advantage that nucleon configurations can be stabilized without the Skyrme term. In contrast to the model without vector mesons, however, we realize that the energy-momentum tensor (EMT) becomes pseudo-gauge dependent. We explicitly demonstrate that all these distributions differ between the canonical and Belinfante forms of the EMTs. We identify the pseudo-gauge ambiguity as originating from nonvanishing surface terms associated with spin currents generated by the vector-meson field strength tensors. Furthermore, we show that the pressure and shear-force distributions in the canonical EMT develop singularities at the nucleon center, whereas the corresponding Belinfante distributions remain finite. Finally, we discuss the implications of pseudo-gauge dependence for extracting the confining force and for constructing the equation of state inside the nucleon."
+    },
+    {
+      "title": "Inner crust of neutron stars: Polymorphism and superconductivity in the liquid drop model",
+      "link": "https://arxiv.org/abs/2411.17303",
+      "authors": "Dmitry Kobyakov, Xavier Vi\\~nas",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2411.17303v2 Announce Type: replace \nAbstract: Within the liquid drop model built up with the nuclear interaction parametrization Sk$\\chi$450, which is based on the chiral effective field theory, we calculate numerically the internal energy density for each of nuclear pasta phases and for the uniform nuclear matter. We provide quantitative arguments in favor of coexistence of various nuclear matter phases at a significant range of total pressure within the inner crust of neutron stars, a concept known as crystal polymorphism. Specifically, we find that differences of the internal energy per baryon for various phases are typically less than the thermal energy per a freedom degree at temperature about $10^8$--$10^9$ K, which sets the energetic scale for thermal fluctuations of state of Fermi liquid from the ground state. The nuclear energy contributions are described using the same parametrization Sk$\\chi$450 for the bulk, plain surface and curvature terms. We find that the introduction of the curvature correction changes the ground state in a relevant way. This may be understood as a consequence of the corresponding change in size of the nucleus, which significantly modifies the phase transition densities. Using the calculated structural parameters from liquid drop model, we explore the physical consequences of the expected Cooper pairing of protons in lasagna phase. In this case, we find a crossover between the discreet layered and the three-dimensional anisotropic regimes of superconductivity. Additionally, we study the magnetic stress in lasagna accounting for a rotational lag between superfluid neutrons and the crystal lattice, which is believed to develop naturally in pulsars and magnetars. Our results offer a preliminary insight into rich magnetic properties of the inner crust of neutron stars."
+    },
+    {
+      "title": "Decoding Dark Matter Admixed Neutron Stars: From Static Structure to Rotational Deformation",
+      "link": "https://arxiv.org/abs/2409.02131",
+      "authors": "Pinku Routaray, Abirbhav Chakrawarty, N. K. Patra, Bharat Kumar",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2409.02131v2 Announce Type: replace-cross \nAbstract: In this study, we investigate the impacts of dark matter (DM) on the properties of both static and rotating neutron stars utilizing a self-interacting DM model, motivated by the neutron decay anomaly. DM-admixed NSs are modeled by assuming chemical equilibrium between ordinary matter and the dark sector, treating a single-fluid Tolman-Oppenheimer-Volkoff (TOV) framework. By treating the DM interaction strength ($G$) as a free parameter, we explore its influence on NS properties, considering a broad range of equations of state (EoSs). Using the mass-radius constraints from NICER pulsar measurements, we constrain the DM interaction strength for each EoS via a likelihood analysis. Extending this model to rotating NSs, we analyze how centrifugal forces associated with increasing angular velocity ($\\Omega$) enhance both mass and radius, causing deformation. We assess the impact of DM on rotational deformation by calculating the eccentricity, highlighting the interplay between DM and rotational forces. Since both DM and rotation simultaneously influence NS properties, we compute the relative changes in mass and radius across varying $G$ and $\\Omega$ values to quantify their combined effects."
+    },
+    {
+      "title": "A Universal Bound on QCD Axions from Supernovae",
+      "link": "https://arxiv.org/abs/2410.19902",
+      "authors": "Konstantin Springmann, Michael Stadlbauer, Stefan Stelzl, Andreas Weiler",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2410.19902v2 Announce Type: replace-cross \nAbstract: We identify a new production channel for QCD axions in supernova environments that contributes to axion emissivity for all models solving the strong CP problem. This channel arises at tree-level from a shift-symmetry-breaking operator constructed at next-to-leading order in Chiral Perturbation Theory. In scenarios where model-dependent derivative couplings to nucleons are absent, this sets the strongest model-independent constraint on the axion mass, improving on existing bounds by two orders of magnitude."
+    },
+    {
+      "title": "Confronting perturbative QCD with kaon electromagnetic form factors",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269325006458?dgcid=rss_sd_all",
       "authors": "Unknown",
       "source": "Physics Letters B",
-      "summary": "Publication date: Available online 14 September 2025Source: Physics Letters BAuthor(s): Stefano Di Noi, Ramona Gröber"
+      "summary": "Publication date: Available online 14 September 2025Source: Physics Letters BAuthor(s): Long-Bin Chen, Wen Chen, Feng Feng, Yu Jia"
+    },
+    {
+      "title": "Dipole and Quadruple Oscillator Strengths for Hydrogen Atom Under Dense Plasma Modelled by MGECSC Potential",
+      "link": "https://link.springer.com/article/10.1007/s00601-025-02006-7",
+      "authors": "Unknown",
+      "source": "Few-Body Systems",
+      "summary": "The dipole and quadruple Oscillator strengths for Hydrogen atom are computed under the effect of More General Exponential Cosine Screened Coulomb (MGECSC) potential which describes Debye as well as quantum plasma as its special cases. The wavefunctions are computed through numerical simulation using the accurate Numerov method. The variation of the oscillator strengths for different transitions in plasma embedded Hydrogen with respect to different parameters of the modelling potential are investigated. As per the present calculations, the dipole oscillator strengths for Debye plasma, decrease as the parameter $$\\upmu $$ increases. In contrast, for quantum plasma, the dipole oscillator strength values increase as the parameters $$\\upmu $$, b, and c of the potential increase. For quadruple oscillator strengths, few deviations are observed due to combined effect of three parameters of potential."
     }
   ]
 }
