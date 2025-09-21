@@ -1,201 +1,33 @@
 {
-  "lastUpdated": "2025-09-20T02:13:50.305643",
+  "lastUpdated": "2025-09-21T02:26:17.801242",
   "papers": [
     {
-      "title": "Evidence of a doublet wobbling excitation mode in $^{105}\\mathrm{Pd}$",
-      "link": "http://link.aps.org/doi/10.1103/46gk-nqsh",
-      "authors": "A. Karmakar, P. Datta, N. Rather, S. Pal, R. Palit, A. Goswami, G. H. Bhat, J. A. Sheikh, S. Jehangir, S. Chattopadhyay, and S. Frauendorf",
-      "source": "Physical Review C",
-      "summary": "Author(s): A. Karmakar, P. Datta, N. Rather, S. Pal, R. Palit, A. Goswami, G. H. Bhat, J. A. Sheikh, S. Jehangir, S. Chattopadhyay, and S. FrauendorfAn experimental investigation of $^{105}\\mathrm{Pd}$ has revealed, for the first time, the existence of two wobbling bands, both having one phonon configuration and originating from excitation, which is the wobbling from the yrast band with the ${h}_{11/2}$ quasineutron fully aligned with the short …[Phys. Rev. C 112, 034323] Published Fri Sep 19, 2025"
-    },
-    {
-      "title": "Influence of transport coefficients on fission dynamics in the five-dimensional Langevin approach",
-      "link": "http://link.aps.org/doi/10.1103/dkjs-5fty",
-      "authors": "K. Okada, T. Wada, and N. Carjan",
-      "source": "Physical Review C",
-      "summary": "Author(s): K. Okada, T. Wada, and N. CarjanTransport coefficients in the Langevin equation are essential for the dynamical analysis of nuclear fission. Two primary methods for calculating these coefficients exist: macroscopic and microscopic. Here we study the fission of $^{236}\\mathrm{U}$ using a five-dimensional Langevin equation with a Ca…[Phys. Rev. C 112, 034613] Published Fri Sep 19, 2025"
-    },
-    {
-      "title": "High-energy neutron emission and short-range nucleon-nucleon correlations",
-      "link": "http://link.aps.org/doi/10.1103/xp79-xmsd",
-      "authors": "R. Wada, Q. Hu, G. Y. Tian, X. Q. Liu, W. P. Lin, J. H. Tan, and H. Zheng",
-      "source": "Physical Review C",
-      "summary": "Author(s): R. Wada, Q. Hu, G. Y. Tian, X. Q. Liu, W. P. Lin, J. H. Tan, and H. ZhengHigh-energy neutron emission from the reactions of $^{40}\\mathrm{Ar}$ and $^{20}\\mathrm{Ne}$ on a natural copper target at ${E}_{\\mathrm{inc}}/A=400$ to 600 MeV is studied, examining a possible signature of nucleon-nucleon short-range correlations (SRCs) in the high-energy/high-momentum tails in the…[Phys. Rev. C 112, 034614] Published Fri Sep 19, 2025"
-    },
-    {
-      "title": "Production of $_{\\mathrm{Λ}}^{3}\\mathrm{H},$ $_{\\mathrm{Λ}}^{4}\\mathrm{H},$ and $_{\\mathrm{Λ}}^{4}\\mathrm{He}$ in different coalescence channels in Au-Au collisions at $\\sqrt{{s}_{NN}}=3 \\mathrm{GeV}$",
-      "link": "http://link.aps.org/doi/10.1103/l2xr-6ql7",
-      "authors": "Rui-Qin Wang, Jun Song, Mao-Yan Wu, Huai-Tong Xue, and Feng-Lan Shao",
-      "source": "Physical Review C",
-      "summary": "Author(s): Rui-Qin Wang, Jun Song, Mao-Yan Wu, Huai-Tong Xue, and Feng-Lan ShaoWe study the productions of $\\mathrm{Λ}$-hypernuclei $_{\\mathrm{Λ}}^{3}\\mathrm{H}$, $_{\\mathrm{Λ}}^{4}\\mathrm{H}$, and $_{\\mathrm{Λ}}^{4}\\mathrm{He}$ in the coalescence mechanism in Au-Au collisions at $\\sqrt{{s}_{NN}}=3$ GeV. Considering the abundance and great importance of baryons and light (hype…[Phys. Rev. C 112, 034908] Published Fri Sep 19, 2025"
-    },
-    {
-      "title": "Effect of transverse momentum conservation and flow on symmetric cumulants $\\mathit{sc}{}_{2,3}${4} and $\\mathit{sc}{}_{2,3,4}${6}",
-      "link": "http://link.aps.org/doi/10.1103/3w99-wcts",
-      "authors": "Jia-Lin Pei (裴家琳), Guo-Liang Ma (马国亮), and Adam Bzdak",
-      "source": "Physical Review C",
-      "summary": "Author(s): Jia-Lin Pei (裴家琳), Guo-Liang Ma (马国亮), and Adam BzdakSymmetric cumulants can improve our understanding of the joint probability distribution function $P({v}_{m},{v}_{n},{v}_{k},⋯,{\\mathrm{Ψ}}_{m},{\\mathrm{Ψ}}_{n},{\\mathrm{Ψ}}_{k},⋯)$, potentially offering new insights into the nature of the fluctuations of the quark-gluon plasma produced in relativist…[Phys. Rev. C 112, 034909] Published Fri Sep 19, 2025"
-    },
-    {
-      "title": "Relativistic mean-field predictions for the dense-matter equation of state and application to neutron stars",
-      "link": "http://link.aps.org/doi/10.1103/7qs4-wb95",
-      "authors": "Luca Passarella, Jérôme Margueron, and Giuseppe Pagliara",
-      "source": "Physical Review C",
-      "summary": "Author(s): Luca Passarella, Jérôme Margueron, and Giuseppe PagliaraRelativistic mean-field models (RMF) based on the exchange of $σ,ω$, and $ρ$ mesons including nonlinear nucleon-$σ$ couplings and density-dependent $ρ$ coupling, are considered. A large set of models is generated using the Markov chain Monte Carlo approach and Bayesian statistics to reproduce nuclea…[Phys. Rev. C 112, 035805] Published Fri Sep 19, 2025"
-    },
-    {
-      "title": "An improved formula for Wigner function and spin polarization in a decoupling relativistic fluid at local thermodynamic equilibrium",
-      "link": "https://arxiv.org/abs/2509.14301",
-      "authors": "Xin-Li Sheng, Francesco Becattini, Daniele Roselli",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2509.14301v1 Announce Type: new \nAbstract: We present an upgraded formula for Wigner function and spin polarization of fermions emitted by a relativistic fluid at local thermodynamic equilibrium at the decoupling which improves the one obtained in refs. [1, 2] and used in numerical simulations of relativistic nuclear collisions. By using a new expansion method, applicable to decoupling hypersurfaces with arbitrary geometry, we reproduce the known term proportional to thermal vorticity and obtain an upgraded form of the spin-shear term which captures the dependence on the geometry. The new method also includes additional contributions whose physical nature is to be assessed. The new expression also naturally excludes contributions from space-time gradients in the normal direction of the hypersurface, providing a theoretical justification for the isothermal condition previously imposed a priori. This framework can be extended to particles with arbitrary spin."
-    },
-    {
-      "title": "Secondary bow with ripples in $^{12}$C+$^{12}$C rainbow scattering",
-      "link": "https://arxiv.org/abs/2509.14535",
-      "authors": "S. Ohkubo, Y. Hirabayashi",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2509.14535v1 Announce Type: new \nAbstract: We report, {for the first time, the emergence of} a secondary bow with ripples in $^{12}$C+$^{12}$C nuclear rainbow scattering. This finding was achieved by studying the experimental angular distributions in $^{12}$C+$^{12}$C scattering at incident energies $E_L$= 240 and 300 MeV, utilizing an extended double-folding model. This model accurately describes all diagonal and off-diagonal coupling potentials derived from the microscopic wave functions for $^{12}$C. Although the observed angular distributions of rainbow scattering at large angles (approaching $90^\\circ$) are complicated by the symmetrization of two identical bosonic nuclei, the Airy minimum, associated with a dynamically generated secondary bow with ripples, is clearly identified at approximately 77$^\\circ$ for 240 MeV in the fall-off region of the primary nuclear rainbow. This {finding}, along with previous findings in the $^{16}$O+$^{12}$C and $^{13}$C+$^{12}$C systems, {reinforces} the concept of a secondary bow in nuclear rainbow scattering."
-    },
-    {
-      "title": "Systematic Bayesian Evaluation of Resonance Parameters in 19Ne for the 15O(alpha,gamma)19Ne and 18F(p,alpha)15O Reactions",
-      "link": "https://arxiv.org/abs/2509.14570",
-      "authors": "S. H. Kim, K. Y. Chae, C. H. Kim, C. D. Nesaraja, M. S. Smith",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2509.14570v1 Announce Type: new \nAbstract: We present a comprehensive evaluation of the nuclear structure properties of 19Ne using a novel and rigorous Bayesian statistical framework. Precise characterization of 19Ne resonance parameters is critical for accurately determining reaction rates of the astrophysically significant 15O(alpha, gamma)19Ne and 18F(p, alpha)15O reactions, which govern breakout from the hot CNO cycle in X-ray bursts and influence gamma-ray emission in novae, respectively. By reconstructing likelihood functions from published experimental data, including asymmetric uncertainties and upper or lower limits, we derive posterior distributions for resonance energies, decay widths, and branching ratios. Our Bayesian approach systematically incorporates previously reported discrepancies among measurements, providing a statistically robust and consistent treatment of these uncertainties. The evaluated resonance parameters and associated uncertainties provide crucial input for stellar nucleosynthesis modeling, contributing to a refined understanding of explosive astrophysical phenomena."
-    },
-    {
-      "title": "Learning Informed Prior Distributions with Normalizing Flows for Bayesian Analysis",
-      "link": "https://arxiv.org/abs/2509.14911",
-      "authors": "Hendrik Roch, Chun Shen",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2509.14911v1 Announce Type: new \nAbstract: We investigate the use of normalizing flow (NF) models as flexible priors in Bayesian inference with Markov Chain Monte Carlo (MCMC) sampling. Trained on posteriors from previous analyses, these models can be used as informative priors, capturing non-trivial distributions and correlations, in subsequent inference tasks. We compare different training strategies and loss functions, finding that training based on Kullback-Leibler (KL) divergence and unsupervised learning consistently yield the most accurate reproductions of reference distributions. Applied in sequential Bayesian workflows, MCMC with the NF-based priors reproduces the results of one-shot joint inferences well, provided the target distributions are unimodal. In cases with pronounced multi-modality or dataset tension, distortions may arise, underscoring the need for caution in multi-stage Bayesian inference. A comparison between the pocoMC MCMC sampler and the standard emcee sampler further demonstrates the importance of advanced and robust algorithms for exploring the posterior space. Overall, our results establish NF-based priors as a practical and efficient tool for sequential Bayesian inference in high-dimensional parameter spaces."
-    },
-    {
-      "title": "Refining the deep sub-barrier 12C+12C excitation function with STELLA",
-      "link": "https://arxiv.org/abs/2509.14717",
-      "authors": "J. Nippert, S. Courtin, M. Heine, D. G. Jenkins, P. Adsley, A. Bonhomme, R. Canavan, D. Curien, T. Dumont, E. Gregor, G. Harmant, E. Monpribat, L. Morrison, M. Moukaddam, M. Richer, M. Rudigier, J. G. Vega Romero, W. N. Catford, P. Cotte, S. Della Negra, G. Haefner, F. Hammache, J. Lesrel, S. Pascu, Zs. Podoly\\'ak, P. H. Regan, I. Ribaud, N. de S\\'er\\'eville, C. Stodel, J. Vesi\\'c",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2509.14717v1 Announce Type: cross \nAbstract: Purpose: We have investigated the cross section around the lowest direct coincident gamma-particle measurements, where previously only limits could be established with the aim of obtaining a detailed description of the excitation function. We have furthermore analysed the ratio of extreme decay branching into the first excited state of daughter nuclei with alpha or proton emission at relative kinetic energies where previous measurements are in disagreement with each other. Conclusions: Our findings in the astrophysics RoI support reaction-rate models with a lower average S-factor trend, that deviates significantly from standard extrapolations between 2.2 MeV and 2.6 MeV, for stellar carbon burning simulations of up to 25 Msol stars. Based on our data, an overall increase of the S-factor at deep subbarrier energy cannot be confirmed. The extremely low ratio of the branching into the first excited state with proton over alpha emission of ~ 2% at 3.23 MeV might indicate the presence of alpha cluster compound states in 24Mg. This highly favours {\\alpha} emission with fundamental consequences in possible stellar carbon burning sites."
-    },
-    {
-      "title": "Study of Heavy Quarkonia Melting in QGP Using Deep Neural Networks",
-      "link": "https://arxiv.org/abs/2509.14970",
-      "authors": "Mohammad Yousuf Jamal, Fu-Peng Li, Long-Gang Pang, Guang-You Qin",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2509.14970v1 Announce Type: cross \nAbstract: Machine learning techniques have emerged as powerful tools for tackling non-perturbative challenges in quantum chromodynamics. In this study, we introduce a data-driven framework employing deep neural networks to systematically predict the temperature-dependent behavior of the screening mass $m_D(T)$ and the strong coupling constant $\\alpha_s(T)$ within a quark-gluon plasma medium. These medium-sensitive quantities are subsequently employed to compute the thermal widths $\\Gamma_{\\text{n}}(T)$ and binding energies $E_B(T)$ of heavy quarkonia states, specifically charmonia and bottomonia, by numerically solving the Schr\\\"odinger equation with medium-modified heavy quark potentials. To estimate the dissociation temperatures $T_d$ of various quarkonia states, we employ two complementary dissociation criteria: the conventional one, where $2E_B(T_d) = \\Gamma_{\\text{n}}(T_d)$, and an additional lower bound criterion defined by $E_B(T) = 3T$. This dual-criterion approach provides a more constrained and physically motivated estimate of the temperature range over which quarkonia states dissolve in the QGP environment. Our machine learning-enhanced predictions show excellent agreement with available lattice QCD results, especially for the ground states $\\Upsilon(1S)$ and $J/\\psi$, and offer new perspectives on the sequential suppression pattern detected in relativistic heavy-ion collision experiments. Overall, this work advances the quantitative description of quarkonium suppression and demonstrates the prospect of modern machine learning methods to bridge theoretical predictions and experimental observations, thereby contributing significantly to QGP tomography."
-    },
-    {
-      "title": "Quantum Computing Universal Thermalization Dynamics in a (2+1)D Lattice Gauge Theory",
-      "link": "https://arxiv.org/abs/2408.00069",
-      "authors": "Niklas Mueller, Tianyi Wang, Or Katz, Zohreh Davoudi, Marko Cetina",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2408.00069v2 Announce Type: replace-cross \nAbstract: Simulating non-equilibrium phenomena in strongly-interacting quantum many-body systems, including thermalization, is a promising application of near-term and future quantum computation. By performing experiments on a digital quantum computer consisting of fully-connected optically-controlled trapped ions, we study the role of entanglement in the thermalization dynamics of a $Z_2$ lattice gauge theory in 2+1 spacetime dimensions. Using randomized-measurement protocols, we efficiently learn a classical approximation of non-equilibrium states that yields the gap-ratio distribution and the spectral form factor of the entanglement Hamiltonian. These observables exhibit universal early-time signals for quantum chaos, a prerequisite for thermalization. Our work, therefore, establishes quantum computers as robust tools for studying universal features of thermalization in complex many-body systems, including in gauge theories."
-    },
-    {
-      "title": "Precise measurement of the <math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si10.svg\" class=\"math\"><mi>γ</mi></math>-decay probability of the Hoyle state with a new triple coincidence-detection method",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269325006525?dgcid=rss_sd_all",
+      "title": "The recoil corrections, correlation functions and possible double-strange hadronic molecules",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269325006550?dgcid=rss_sd_all",
       "authors": "Unknown",
       "source": "Physics Letters B",
-      "summary": "Publication date: Available online 18 September 2025Source: Physics Letters BAuthor(s): K. Sakanashi, T. Kawabata, S. Adachi, H. Akimune, S. Aogaki, D.L. Balabanski, S.R. Ban, R. Borcea, S Calinescu, C. Clisu-Stan, R. Corbu, C. Costache, A. Covali, M. Cuciuc, A. Dhal, I. Dinescu, N. Florea, T. Furuno, I. Gheorghe, A. Ionescu"
+      "summary": "Publication date: Available online 20 September 2025Source: Physics Letters BAuthor(s): Xiao-Mei Tang, Li-Cheng Sheng, Qi Huang, Rui Chen"
     },
     {
-      "title": "Photoneutron Emission Process on Nuclei around A = 200 for Giant Dipole Resonance energies based on Neutron Energy and Angular Distribution",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269325006598?dgcid=rss_sd_all",
+      "title": "Interaction of Exact Gravitational Waves with Matter",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269325006562?dgcid=rss_sd_all",
       "authors": "Unknown",
       "source": "Physics Letters B",
-      "summary": "Publication date: Available online 18 September 2025Source: Physics Letters BAuthor(s): Nguyen Thi Hong Thuong, Toshiya Sanami, Hirohito Yamazaki, Nobuyuki Iwamoto, Toshiro Itoga, Yoichi Kirihara, Eunji Lee, Kenta Sugihara, Shuji Miyamoto, Satoshi Hashimoto, Yoshihiro Asano"
+      "summary": "Publication date: Available online 19 September 2025Source: Physics Letters BAuthor(s): Morteza Mohseni, Saurya Das"
     },
     {
-      "title": "Quantum corrections in general relativity explored through a GUP-inspired maximal acceleration analysis",
-      "link": "https://www.sciencedirect.com/science/article/pii/S037026932500646X?dgcid=rss_sd_all",
+      "title": "Probing the Weak Gravity Conjecture: Novel Aschenbach Signatures in Superextremal Non-Linear Charged AdS Black Holes",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269325006616?dgcid=rss_sd_all",
       "authors": "Unknown",
       "source": "Physics Letters B",
-      "summary": "Publication date: Available online 18 September 2025Source: Physics Letters BAuthor(s): Christian Corda, Carlo Cafaro, Newshaw Bahreyni"
+      "summary": "Publication date: Available online 19 September 2025Source: Physics Letters BAuthor(s): Mohammad Reza Alipour, Mohammad Ali S Afshar, Saeed Noori Gashti, Behnam Pourhassan, Jafar Sadeghi"
     },
     {
-      "title": "Exploring nuclear structure with multiparticle azimuthal correlations at the LHC",
-      "link": "https://www.sciencedirect.com/science/article/pii/S037026932500615X?dgcid=rss_sd_all",
+      "title": "Theoretical predictions of the decay rate change of the <math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si1.svg\" class=\"math\"><mrow><msup><mrow></mrow><mn>40</mn></msup><mrow><mi mathvariant=\"normal\">K</mi></mrow></mrow></math> nucleus",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0375947425002301?dgcid=rss_sd_all",
       "authors": "Unknown",
-      "source": "Physics Letters B",
-      "summary": "Publication date: Available online 1 September 2025Source: Physics Letters BAuthor(s): ALICE Collaboration"
-    },
-    {
-      "title": "Three-Body Recombination of Cold Helium and Hydrogen Atoms",
-      "link": "https://link.springer.com/article/10.1007/s00601-025-02009-4",
-      "authors": "Unknown",
-      "source": "Few-Body Systems",
-      "summary": "We investigate three-body recombination of helium and hydrogen atoms at cold collision energies, adopting the hyperspherical adiabatic formulation. By taking into account non-rotating ($$J=0$$) and rotating ($$J&gt;0$$) states, we calculate the rates for the recombination processes $$^4$$He+$$^4$$He+X$$\\rightarrow ^4$$He$$_2$$+X (X=$$^1$$H, $$^2$$H, $$^3$$H and $$^3$$He), up to 0.1 Kelvin. In addition, we compute the collision induced dissociation rates for the same three-body systems."
-    },
-    {
-      "title": "Double-folding analysis of elastic and inelastic 3He-nucleus scattering at 60 MeV",
-      "link": "http://iopscience.iop.org/article/10.1088/1674-1137/ade1cb",
-      "authors": "A. F. Hamza and N. A. El-Nohy",
-      "source": "Chinese Physics C",
-      "summary": "This study investigated the elastic and inelastic scattering of 3He particles from 12C, 16O, 24Mg, and 28Si nuclei at 60 MeV using a double-folding approach with four newly derived effective nucleon-nucleon (NN) interactions (R3Y(HS), R3Y(L1), R3Y(W), and R3Y(Z)) derived from the relativistic mean-field theory. The four derived effective NN interactions exhibited strong sensitivity to the choice of exchange potential. Regularizing the NN interactions improved the agreement between calculated folded potentials and experimental data. Normalization constants for the R3Y(HS) interaction suggested its superiority over the R3Y(L1) and R3Y(W) interactions within the double-folding framework. Transition potentials based on two models, deformed potential and double folding potential, were used to describe inelastic scattering. Physically consistent deformation parameters were obtained. The deformed potential model yielded better results for 12C and 16O, whereas the double folding model performed better for 24Mg and 28Si, suggesting that the advantage of the double folding model is limited to lighter targets. The Bohr-Mottelson transition density effectively described 2+ states; however, it was less suitable for the 3− state of 16O, for which a Tassie-like transition density provided improved agreement."
-    },
-    {
-      "title": "Stable circular orbits and greybody factor of Hayward-Letelier-AdS black holes*",
-      "link": "http://iopscience.iop.org/article/10.1088/1674-1137/ade4a7",
-      "authors": "Allah Ditta, Sulaman Shaukat, Faisal Javed, Abdelmalek Bouzenada, G. Mustafa and Bander Almutairi",
-      "source": "Chinese Physics C",
-      "summary": "This paper explores the dynamical feature of Hayward-Letelier black holes in AdS spacetime, emphasizing the effects of the Hayward parameter g, mass M, cosmological constant L, and modification parameter α on their geometry, thermodynamics, and observational features. By utilizing an effective potential method, we investigate the paths of particles, innermost stable circular orbit, and behavior of photon spheres, which connects them to the appearance of black hole shadows. Thermodynamic features such as Hawking temperature and entropy are studied for investigating the effect of L and thermal fluctuations on the stability of black holes. These discoveries connect theoretical ideas with observational astrophysics, which enhances our comprehension of ordinary black holes in AdS models. In this study, we analytically compute the greybody factor for a massless scalar field propagating in the vicinity of a black hole under the assumption of weak coupling to gravity. We investigate the behavior of the effective potential concerning the black hole's mass and charge, revealing that it reaches its maximum at lower values of the cloud of strings parameter. Our results indicate that the radial absorption rate of the scalar field exhibits significant fluctuations, which is influenced by the charge of the black hole and clouds of string, with implications for the dynamics of scalar fields in strong gravitational fields."
-    },
-    {
-      "title": "Squeezing effect on three-dimensional Hanbury Brown-Twiss radii*",
-      "link": "http://iopscience.iop.org/article/10.1088/1674-1137/ade4a8",
-      "authors": "Yong Zhang, 勇 张, Peng Ru and 芃 茹",
-      "source": "Chinese Physics C",
-      "summary": "This study examines the impact of the squeezing effect caused by the in-medium mass modification of particles on the three-dimensional Hanbury Brown-Twiss (HBT) radii. An analysis is conducted on how the squeezing effect impacts the three-dimensional HBT radii of , , and . The squeezing effect suppresses the impact of transverse flow on the transverse source distribution and broadens the space-time rapidity distribution of the particle-emitting source, leading to an increase in the HBT radii, particularly in the out and longitudinal directions. This phenomenon becomes more significant for higher transverse pair momentum, resulting in a non-monotonic decrease in the HBT radii with increasing transverse pair momentum. The impact of the squeezing effect on the HBT radii is more pronounced for than for . Furthermore, this effect is also more significant for ϕϕ than for . The findings presented in this paper could offer fresh perspectives on investigating the squeezing effect."
-    },
-    {
-      "title": "Thermodynamic phase transition and Joule-Thomson expansion of a quantum corrected black hole in AdS spacetime",
-      "link": "http://iopscience.iop.org/article/10.1088/1674-1137/ade4a9",
-      "authors": "Rui-Bo Wang, 睿博 王, Lei You, 磊 游, Shi-Jie Ma, 仕杰 马, Jian-Bo Deng, 剑波 邓, Xian-Ru Hu and 显茹 胡",
-      "source": "Chinese Physics C",
-      "summary": "The thermodynamics in the extended phase space of a quantum corrected black hole (BH) proposed recently is presented in this paper. Our study shows that the phase transition behavior of the BH is analogous to that of a conventional Schwarzschild BH in anti-de Sitter (AdS) space; however, a critical temperature exists such that, when the BH temperature exceeds this critical value, the small and large BH phases become separated, and no phase transition occurs. Owing to the introduction of the quantum parameter ξ, the BH equation of state splits into two branches. One branch reduces to the Schwarzschild-AdS case as , with its phase transition pressure lower than the critical pressure; the phase transition pressure in the other branch is greater than the critical pressure. This study shows that the phase transition and heat capacity of the recently proposed BH are similar to those of the Schwarzschild-AdS BH. The Joule-Thomson expansion is divided into two stages: in the earlier stage, the BH pressure increases until it reaches a maximum; in the later stage, the pressure gradually decreases. In each stage, the BH may undergo an inversion point, resulting in an inversion curve with two branches. In addition, each stage has a minimum inversion mass, below which any BH (in each respective stage) has no inversion point."
-    },
-    {
-      "title": "Universality of thermodynamic relation with corrections in Einstein-Bel-Robinson gravity black holes*",
-      "link": "http://iopscience.iop.org/article/10.1088/1674-1137/ade6d3",
-      "authors": "Hai-Long Zhen, 海龙 甄, Huai-Fan Li, 怀繁 李, Yu-Bo Ma and 宇波 马",
-      "source": "Chinese Physics C",
-      "summary": "The generalized thermodynamic extremum relation, as proposed by Goon and Penco, establishes a novel theoretical framework for studying spacetime thermodynamics. However, previous investigations generally assumed that the black hole state parameter is solely a first-order function of the perturbation parameter when exploring the Goon-Penco relation in diverse spacetime contexts. An analytic expression for the perturbation parameter as a function of the black hole entropy can be expressed by treating the black hole mass as constant. The present study addresses this limitation and provides insight into the universal Goon-Penco relation when multiple thermodynamic state parameters behave as higher order functions of the perturbation parameters. Notably, we have not only established a universal relational formula for multiple state variables, but more importantly, we have proposed an innovative conjecture that reveals the existence of a universal relation between displaced thermodynamic quantities in spacetime in the context of an arbitrary black hole. These theoretical breakthroughs are expected to enable new exploration directions for quantum gravity research."
-    },
-    {
-      "title": "1+1 dimensional relativistic viscous non-resistive magnetohydrodynamics with longitudinal boost invariance*",
-      "link": "http://iopscience.iop.org/article/10.1088/1674-1137/ade6d4",
-      "authors": "Ze-Fang Jiang, 泽方 江, Shuo-Yan Liu, 硕研 刘, Tian-Yu Hu, 天宇 胡, Huang-Jing Zheng, 煌靖 郑, Duan She and 端 佘",
-      "source": "Chinese Physics C",
-      "summary": "We study 1+1 dimensional relativistic non-resistive magnetohydrodynamics (MHD) with longitudinal boost invariance and a shear stress tensor. Several analytical solutions describing the fluid temperature evolution under a given equation of state (EoS) are derived. Extending the Victor-Bjorken ideal MHD flow to include non-zero shear viscosity, we first obtain two perturbative analytical solutions for the first-order (Navier-Stokes) approximation. For small, power-law evolving external magnetic fields, our stable solutions show that both magnetic field and shear viscosity cause fluid heating with an early temperature peak, consistent with numerical results. In the second-order (Israel-Stewart) theory, our numerical results show that the combined presence of magnetic field and shear viscosity leads to a slow cooling rate of fluid temperature, with initial shear stress significantly influencing temperature evolution of the medium."
-    },
-    {
-      "title": "Model-independent reconstruction of f (T ) gravity using genetic algorithms*",
-      "link": "http://iopscience.iop.org/article/10.1088/1674-1137/ade6d6",
-      "authors": "Redouane El Ouardi, Amine Bouali, Imad El Bojaddaini, Ahmed Errahmani and Taoufik Ouali",
-      "source": "Chinese Physics C",
-      "summary": "In this paper, we use genetic algorithms, a specific machine learning technique, to achieve a model-independent reconstruction of gravity. By using data derived from cosmic chronometers and the radial Baryon Acoustic Oscillation method, including the latest Dark Energy Spectroscopic Instrument (DESI) data, we reconstruct the Hubble rate, which is the basis parameter for reconstructing gravity without any assumptions. In this reconstruction process, we use the current value of the Hubble rate, , derived by genetic algorithms. The reconstructed function is consistent with the standard ΛCDM cosmology within the 1 confidence level across a broad temporal range. The mean curve, adopting a quadratic form, prompts us to parametrize it using a second-degree polynomial. This quadratic deviation from the ΛCDM scenario is mildly favored by the data."
-    },
-    {
-      "title": "Role and contribution of the resonance effect for the decay process of *",
-      "link": "http://iopscience.iop.org/article/10.1088/1674-1137/ade6d8",
-      "authors": "Xi-Liang Yuan, 喜亮 原, Chao Wang, 超 王, Zhuang-Dong Bai, 壮东 白, Gang Lü and 刚 吕",
-      "source": "Chinese Physics C",
-      "summary": "The magnitude of the direct CP asymmetry generated during the weak decay of hadrons is attributed to the weak phase and certain strong phases. The weak phase originates from the CKM matrix, while a strong phase may result from the resonance effect produced by the mixing of vector mesons to meson pairs. can decay directly into meson pairs; both and can also decay into meson pairs, with a small contribution from isospin symmetry breaking. The main contribution for the middle state vector meson interference is the mix of , , and . We calculated the CP asymmetry and decay branching ratio for within the framework of QCD factorization and compared them with previous studies. We also analyzed the decay process. The results show that the CP asymmetry of these four decay processes is significantly enhanced, especially for the decay process. Moreover, the decay branching ratio also changes under the resonance effect. These results might provide support for the experimental analysis of the meson."
-    },
-    {
-      "title": "Improvement of nuclear semi-empirical mass formula by including shell effect*",
-      "link": "http://iopscience.iop.org/article/10.1088/1674-1137/ade954",
-      "authors": "Qing Wu, 庆 武, Wei-Feng Li, 伟峰 李, Zhong-Ming Niu, 中明 牛, Hao-Zhao Liang, 豪兆 梁, Min Shi and 敏 仕",
-      "source": "Chinese Physics C",
-      "summary": "Shell effect plays an important role in nuclear mass predictions, especially for the nuclei around the magic numbers. In this study, a new semi-empirical shell correction term is constructed to improve the mass description of the Bethe-Weizsäcker (BW) formula. For nuclei with , the root mean square (rms) deviation of the newly proposed formula with respect to the latest nuclear mass evaluation dataset AME2020 is 0.887 MeV, inducing a 72.23% reduction compared to the rms deviation of 3.194 MeV for the BW formula. The deviations between the theoretical predictions and experimental data are within 1.5 MeV for 91.90% of the nuclei. In addition, the new mass formula significantly improves the predictions of the binding energies for magic nuclei. The rms deviation of our formula for the binding energy of magic nuclei is only 1.065 MeV, which is a 80.80 reduction compared with that of the BW formula."
-    },
-    {
-      "title": "Configuration requirements for 21-cm forest background quasar searches with Moon-based interferometer*",
-      "link": "http://iopscience.iop.org/article/10.1088/1674-1137/ade957",
-      "authors": "Siyuan Zhang, 思源 张, Qi Niu, 琦 牛, Yichao Li, 毅超 李, Xin Zhang and 鑫 张",
-      "source": "Chinese Physics C",
-      "summary": "The 21-cm forest offers a powerful cosmological probe of the thermal history and small-scale structure of the intergalactic medium during the Epoch of Reionization (EoR). However, its success critically depends on the availability of high-redshift radio-loud quasars (HzRLQs) as background sources. In this work, we investigate the configuration requirements for a Moon-based low-frequency radio interferometer aimed at maximizing the detection of HzRLQs for future 21-cm forest studies. Building upon a previously developed quasar luminosity function (QLF), we forecast HzRLQ abundances under various array configurations. Assuming a total survey area of and 1 year of observation, we compare continuum surveys with 10 MHz bandwidth and 21-cm forest surveys with 5 kHz resolution. Our results show that a minimum collecting area of ~6500 m2 enables detection at , while SKA-like arrays ( ) extend the detection limit to for 21-cm forest surveys and for continuum surveys. Larger arrays with can reach in 21-cm forest mode. We also explore configurations that maintain fixed collecting areas while increasing the number to enhance survey efficiency. This boosts source detection but significantly increases the data volume and computational demands. These results underscore the importance of optimizing array design for different survey goals and balancing sensitivity, spectral resolution, and data management. A well-designed Moon-based array could open a new observational window to reionization and early cosmic structure formation."
+      "source": "Nuclear Physics A",
+      "summary": "Publication date: Available online 19 September 2025Source: Nuclear Physics AAuthor(s): Farshid Gholamian, Mohammad Mehdi Firoozabadi"
     }
   ]
 }
