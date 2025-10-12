@@ -1,180 +1,47 @@
 {
-  "lastUpdated": "2025-10-11T02:14:06.197448",
+  "lastUpdated": "2025-10-12T02:21:56.670314",
   "papers": [
     {
-      "title": "Mapped $spdf$ interacting boson model for quadrupole-octupole collective states in nuclei",
-      "link": "http://link.aps.org/doi/10.1103/7q8g-23wf",
-      "authors": "K. Nomura",
-      "source": "Physical Review C",
-      "summary": "Author(s): K. NomuraDipole bosons are introduced in the interacting boson model (IBM) by means of the self-consistent mean-field method. The constrained mean-field calculations employing a given nuclear energy density functional yield the potential energy surfaces in terms of the axially symmetric quadrupole-octupole, …[Phys. Rev. C 112, 044307] Published Fri Oct 10, 2025"
-    },
-    {
-      "title": "$^{28}\\mathrm{Al}$ half-life measurement and the negative mirror asymmetry between the $^{28}\\mathrm{Al}({β}^{−})^{28m}\\mathrm{Si}$ and $^{28}\\mathrm{P}({β}^{+})^{28m}\\mathrm{Si}$ decays",
-      "link": "http://link.aps.org/doi/10.1103/wyxw-hbgd",
-      "authors": "B. Liu, M. Brodeur, D. W. Bardayan, F. D. Becchetti, C. Boomershine, D. P. Burdette, L. Caves, O. Olivas-Gomez, S. L. Henderson, J. J. Kolata, J. Long, A. D. Nelson, P. D. O'Malley, A. Pardo, and R. Zite",
-      "source": "Physical Review C",
-      "summary": "Author(s): B. Liu, M. Brodeur, D. W. Bardayan, F. D. Becchetti, C. Boomershine, D. P. Burdette, L. Caves, O. Olivas-Gomez, S. L. Henderson, J. J. Kolata, J. Long, A. D. Nelson, P. D. O'Malley, A. Pardo, and R. ZiteIn the past, the mirror asymmetry parameter has been proposed as a probing mechanism for the presence of beyond the standard model second-class currents in nuclear beta decay transitions. However, this was hindered by large uncertainties in the required nuclear structure correction terms. Recently, …[Phys. Rev. C 112, 045504] Published Fri Oct 10, 2025"
-    },
-    {
-      "title": "Impact of dineutrons on nuclear compositions of a core-collapse supernova",
-      "link": "http://link.aps.org/doi/10.1103/733q-k218",
-      "authors": "Tatsuya Matsuki, Shun Furusawa, and Katsuhiko Suzuki",
-      "source": "Physical Review C",
-      "summary": "Author(s): Tatsuya Matsuki, Shun Furusawa, and Katsuhiko SuzukiWe study the nuclear compositions in the central region of a core-collapse supernova, assuming the existence of dineutrons ($^{2}n$) and tetraneutrons ($^{4}n$). At 100 ms after core bounce, $^{2}n$ and $^{4}n$ are more abundant than deuterons within radii of approximately 100  and 50 km, respective…[Phys. Rev. C 112, 045805] Published Fri Oct 10, 2025"
-    },
-    {
-      "title": "Dynamical scheme for computing the mass parameter of a system in a medium",
-      "link": "http://link.aps.org/doi/10.1103/tz7k-8shj",
-      "authors": "Agata Zdanowicz, Daniel Pęcak, Piotr Magierski, and Gabriel Wlazłowski",
-      "source": "Physical Review C",
-      "summary": "Author(s): Agata Zdanowicz, Daniel Pęcak, Piotr Magierski, and Gabriel WlazłowskiWe present a new method for extracting a mass parameter using time-dependent density functional theory for an arbitrary physical system, provided the adiabatic limit is achievable. This approach works for collective variables also in the presence of a medium, in particular for the nuclei interacting…[Phys. Rev. C 112, 045804] Published Thu Oct 09, 2025"
-    },
-    {
-      "title": "A novel way of recasting the Bardeen-Cooper-Schrieffer gap equations",
-      "link": "https://arxiv.org/abs/2510.07384",
-      "authors": "Georgios Palkanoglou, Alexandros Gezerlis",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2510.07384v1 Announce Type: new \nAbstract: The gap equations lie at the core of the Bardeen-Cooper-Schrieffer (BCS) theory, a standard tool in the description of superfluidity. As a set of non-linear integral equations, the gap equations' inherent difficulties oftentimes hinder even the crudest descriptions of superfluid states. Hard-core potentials, high-density superfluids, and coupled-channel pairing are all reasons that have historically required one to provide special treatment to the gap equations to get a solution. In this paper we present a new method for solving the gap equations that holds the promise of being an efficient universal solver that requires the minimum amount of \\textit{a priori} knowledge of the targeted solutions. With theoretical evidence of exotic nuclear superfluidity posing new questions to our understanding of this fundamental property of nuclear systems, the presented method can be a valuable tool when exploring new pairing states, finite-temperature properties, or the development of sophisticated descriptions of nuclear superfludity."
-    },
-    {
-      "title": "Gamow shell model study of the 17Ne(p, p) reaction and of isospin symmetry breaking in 18Na",
-      "link": "https://arxiv.org/abs/2510.07693",
-      "authors": "N. Chen, J. G. Li, K. H. Li, N. Michel, P. Y. Wang, W. Zuo",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2510.07693v1 Announce Type: new \nAbstract: The unbound nucleus 18Na, acting as an intermediate nucleus in the sequential decay of 19Mg, is situated beyond the proton drip line. We employ the coupled-channel Gamow shell model (GSM-CC) to investigate the properties of 18Na, as well as the 17Ne(p, p) cross section. GSM-CC treats the nucleus as an open quantum system and provides a unified framework for studying both nuclear structure and reaction cross sections. Our calculations reproduce the energies and partial decay widths of low-lying states in 18Na, as well as the 17Ne(p, p) cross section. Additionally, the mirror nucleus 18N is also described. The isospin symmetry breaking induced by the Coulomb interaction and continuum coupling is clearly obtained in our description of 18Na and 18N properties, arising from the extended s1/2 partial wave. The isospin symmetry breaking in the 18Na/18N pair is compared to that occurring in the mirror pair 16F/16N, whereby similarities and differences are analyzed."
-    },
-    {
-      "title": "Gamow shell model calculations for the Thomas-Ehrman shift in new isotopes 21Al",
-      "link": "https://arxiv.org/abs/2510.07701",
-      "authors": "K. H. Li, N. Chen, J. G. Li, H. H. Li, M. R. Xie, C. W. Ma, W. Zuo",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2510.07701v1 Announce Type: new \nAbstract: Proton-rich nuclei beyond the proton drip line exhibit unique phenomena, such as the Thomas-Ehrman shift (TES), providing valuable insights into nuclear stability and isospin symmetry breaking. The discovery of the lightest new isotope, 21Al, situated beyond the proton drip line, was recently reported in the experiment. In this study, we employ the Gamow shell model (GSM) to explore the TES in mirror pairs 21Al/21O, focusing on how this phenomenon affects the energy levels of these nuclei. Our calculations describe the ground state energies and reveal significant TES with large mirror energy differences in the excited mirror 1/2+ states in 21Al/21O. The large mirror energy difference is primarily due to the significant occupation of weakly bound or unbound s1/2 orbitals, resulting in the extended radial density distributions, and variations in Coulomb energy and nuclear interaction contributions between the mirror states. Additionally, the low-lying states of 21Al are also calculated with the GSM in coupled-channel (GSM-CC) representation, Furthermore, we also predict the cross-section of 20Mg(p, p) scattering, which serves as another candidate approach to study the unbound structure of 21Al in the experiment, offering a theoretical framework for studying the structure and reaction dynamics of 21Al in future experiments."
-    },
-    {
-      "title": "Large scale shell model calculation for collectivity in nuclei beyond 78Ni",
-      "link": "https://arxiv.org/abs/2510.07711",
-      "authors": "N. Chen, J. G. Li, H. H. Li",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2510.07711v1 Announce Type: new \nAbstract: A shell model effective interaction for nuclei beyond the double magic nucleus 78Ni is constructed. First, the single-particle evolutions for valence neutrons above the double magic 78Ni are systematically explored in the N = 51 isotones using the large scale shell model (LSSM) calculations based on the constructed effective interaction. Subsequently, we calculate the excitation energies of 2+1 states and reduced electric quadrupole transition probabilities B(E2; 2+ to 0+) for N = 52 isotones. Notably, our calculation gives the result most consistent with the trend of the B(E2) values observed in the N = 52 isotones, especially for 84Ge, a result that poses a serious challenge to the theoretical model. Furthermore, the collectivity in N = 52 isotones, as well as the roles of pseudo-SU(3) symmetry, are investigated via the calculated primary configurations of their ground states and the first excited states. Additionally, the low-lying structures and band characteristics of neutron-rich Ge and Se isotopes are investigated. The ground state and the {\\gamma}-soft band are constructed in our LSSM calculations, aligning well with available experimental evidence. Finally, we present the calculated evolutions of low-lying states in neutron-rich Ge and Se isotopes. The predictions for the as-yet unobserved low-lying states in these nuclei provide a comprehensive dataset to guide and inform future experimental efforts to decipher the evolution of shell structures and collectivity."
-    },
-    {
-      "title": "Probing the Neutron Skin with Extreme Collision Geometries in Heavy-Ion Collisions",
-      "link": "https://arxiv.org/abs/2510.07816",
-      "authors": "Hui Zhang, Alex Akridge, Charles J. Horowitz, Jinfeng Liao, Hongxi Xing",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2510.07816v1 Announce Type: new \nAbstract: Understanding how protons and neutrons are located differently in an atomic nucleus can provide fundamental information on nuclear structure and have far-reaching implications for astrophysics. A precise determination of this important difference, often quantified by the so-called neutron skin thickness, is challenging both theoretically and experimentally. Here we show how one can use a new category of observables in heavy ion collisions to probe the neutron skin thickness of nuclei like $^{208}$Pb and $^{48}$Ca, by utilizing the asymmetry between neutrons and protons of spectator nucleons in super-central collisions as well as that of participant nucleons in peripheral collisions. Using quantitative simulations, we demonstrate their sensitivity and great potential in constraining neutron skin thickness for both $^{208}$Pb and $^{48}$Ca nuclei in these extreme event geometries. Furthermore, we propose the asymmetric collisions between $^{48}$Ca and $^{40}$Ca nuclei as a unique and powerful way to nail down the neutron skin thickness."
-    },
-    {
-      "title": "Elliptic flow of deuterons from simulations with hybrid model",
-      "link": "https://arxiv.org/abs/2510.07897",
-      "authors": "Tomas Polednicek, Radka Vozabova, Boris Tomasik",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2510.07897v1 Announce Type: new \nAbstract: Elliptic flow of deuterons is measured on simulated collisions events of Pb+Pb at CMS energy of 2.76 TeV per colliding nucleon pair. We use hybrid model that includes hydrodynamics for the deconfined phase and hadron transport as an afterburner. For deuterons, two production mechanisms are examined: coalescence, and direct thermal production during hadronisation and subsequent transport through the hadronic phase. Differential elliptic flow of deuterons in different centrality bins is evaluated for both implemented production models. In this approach, coalescence describes the experimental data better than direct deuteron production."
-    },
-    {
-      "title": "Collectivity and isomers in the Pb isotopes",
-      "link": "https://arxiv.org/abs/2510.08019",
-      "authors": "Praveen C. Srivastava, Sakshi Shukla",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2510.08019v1 Announce Type: new \nAbstract: In the present work, we aim to study collectivity in the Pb isotopes in the framework of nuclear shell model. We have performed shell-model calculations using KHH7B effective interaction. The model space of KHH7B interaction consists of 14 orbitals. We have reported results for even-even $^{196-206}$Pb isotopes for spectra and electromagnetic properties. The shell model results for isomeric states are also reported. Our results will be useful to compare upcoming experimental data."
-    },
-    {
-      "title": "Determining the \\Xi-Nucleus Potential from the Measured Binding Energies of ^15_\\Xi^C",
-      "link": "https://arxiv.org/abs/2510.08077",
-      "authors": "Paing Thit Nyein, Kyaw Kyaw Naing, Htun Htun Oo, M. Yamaguchi, Hiroyuki Kamada",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2510.08077v1 Announce Type: new \nAbstract: The recent observation of the deeply bound \\Xi - hypernucleus ^15_\\Xi^-C through the IRRAWADDY and KINKA events provided a crucial benchmark for determining the \\Xi-nucleus interaction. This work aims to constrain the depth of this potential by calculating the binding energy B_\\Xi of the ^15_\\Xi C system, which forms a \\Xi^- -^14 N bound state. We achieve this by numerically solving the Schroedinger equation for a \\Xi hyperon within a phenomenological Woods-Saxon potential, using the stable Numerov method, incorporating the Coulomb interaction. For a potential well depth V_0 = 12 MeV, our calculations yield a 0^+_1 state binding energy of 6.35 MeV and a 1^-_1 state energy of 0.87 MeV. These results are in excellent agreement with the IRRAWADDY event (B_\\Xi = 6.27 \\pm 0.27 MeV) and the shallower 1^-_1 states (KISO/IBUKI events, B_\\Xi \\approx 1 MeV), respectively. Assuming \\Xi^0 instead of \\Xi^-, we predict the ground state 0^+ of _{\\Xi^0}^{15}N with (B_{\\Xi^0} = 2.636 MeV) by omitting the Coulomb interaction as a first approximation."
-    },
-    {
-      "title": "Probing Strange Dark Matter through $f$-mode Oscillations of Neutron Stars with Hyperons and Quark Matter",
-      "link": "https://arxiv.org/abs/2510.08115",
-      "authors": "Mahboubeh Shahrbaf, Prashant Thakur, Davood Rafiei Karkevandi",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2510.08115v1 Announce Type: new \nAbstract: We investigate the impact of a hypothetical bosonic dark matter (DM) candidate, the sexaquark, on the fundamental ($f$-mode) oscillations of neutron stars (NSs). By varying the DM particle mass and considering different core compositions including hypernuclear matter, sexaquark DM, and deconfined quark matter (QM), we construct hybrid equations of state (EOS) with a smooth hadron--quark crossover that remain consistent with current astrophysical constraints on mass, radius, and tidal deformability. Our analysis shows that the presence of these exotic components systematically alters quasi-universal $f$-mode relations. In particular, relations involving $f$--$\\sqrt{M/R^{3}}$, $(R^{4}/M^{3}\\tau)(C)$, $\\omega M(C)$, require higher-order polynomial fits compared to standard studies. Quadratic forms remain sufficient for $f$--$\\sqrt{M/R^{3}}$ and $\\omega M(C)$, while damping-time relations such as $(R^{4}/M^{3}\\tau)(C)$ demand higher-order corrections to capture their curvature. For $f(\\Lambda)$, a cubic fit provides a satisfactory description. Within this extended framework the relations remain tight and effectively composition independent. These results suggest that precise $f$-mode measurements with future gravitational-wave detectors could provide clear signatures of DM and other exotic matter in NS interiors."
-    },
-    {
-      "title": "Charge state regulation of nuclear excitation by electron capture in $^{229}$Th ions",
-      "link": "https://arxiv.org/abs/2510.08212",
-      "authors": "Yang-Yang Xu, Qiong Xiao, Jun-Hao Cheng, Wen-Yu Zhang, Tong-Pu Yu",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2510.08212v1 Announce Type: new \nAbstract: Nuclear excitation by electron capture (NEEC) in $^{229}$Th holds significant potential for precise nuclear state manipulation. In this study, we thoroughly investigate NEEC in $^{229}\\text{Th}^{q+}$ ions by integrating quantum numbers ($n, l, j$) effects and analyzing key parameters (e.g., resonance energy $E_r$, cross section $\\sigma$, resonance strength $S$, and NEEC transition width $\\Gamma_{\\text{NEEC}}$) influences across charge state from $q=1^+$ to $90^+$. Especially, we focus on the charge-state regulation of the isomeric state (IS, 8.36 eV) and second-excited state (SE, 29.19 keV). Our calculations uncover critical charge-state-dependent behaviors of NEEC in $^{229}\\text{Th}$ ions: (1) For the IS, valid NEEC channels exhibit threshold migration, where the dominant principal quantum number $n$ increases linearly with $q$ following the relation $n \\approx 1.28q + 4.23$; meanwhile, single-$n$-channel $S$ stabilizes between $10^{-2}$ to $10^0$ barn eV via compensatory nucleus-electron coupling, ensuring the total resonance $S$ constant. (2) For the SE, its excitation energy far exceeds nearly all electron binding energies, leading to negligible channel screening and causing the total $S$ to increase monotonically with $q$. This research clarifies the intrinsic mechanisms of charge-state-driven nuclear-electronic interactions in $^{229}\\text{Th}^{q+}$ NEEC and provides a critical reference for future experimental efforts to manipulate $^{229}\\text{Th}$ nuclear states, particularly via indirect regulation of the SE."
-    },
-    {
-      "title": "On fluctuation properties of MACS",
-      "link": "https://arxiv.org/abs/2510.08237",
-      "authors": "Milan Krticka, Aaron Couture",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2510.08237v1 Announce Type: new \nAbstract: The Maxwellian Average Cross Section (MACS) is usually calculated with help of the statistical codes that do not take into account fluctuations of individual resonance parameters. The actual MACS can substantially deviate from its expectation value. This work focuses on description of various sources and aspects of these fluctuations. Simulated resonance sequences considering all the fluctuations involved in the statistical model are used for this purpose. Contribution of various sources of the fluctuations and neutrons with different orbital momenta are thoroughly investigated and described. Impact of available cross section data at low neutron energies is also checked. Based on this analysis simple empirical formulae for estimating relative fluctuations of MACS using solely $s$-wave resonance spacing $D_0$ and the temperature of the stellar environment are derived. It is shown that real nuclei follow the proposed formula well. The expected MACS fluctuations increase with $D_0$ and can be significant. While for isotopes with $D_0$ in eV range the possible deviation from calculated values are small, for nuclei with $D_0$ in the keV range the full-width half-maximum of the expected distribution is larger than about 25\\% and 10\\% for astrophysically relevant temperatures of $kT=8$ and 30 keV. At least for these nuclei the predictions from statistical codes must be taken with caution."
-    },
-    {
-      "title": "Hartree-Fock emulators for nuclei: Application to charge radii of $^{48,52}$Ca",
-      "link": "https://arxiv.org/abs/2510.08362",
-      "authors": "Margarida Companys Franzke, Alexander Tichai, Kai Hebeler, Achim Schwenk",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2510.08362v1 Announce Type: new \nAbstract: Understanding the emergence of complex structures of nuclei from chiral effective field theory (EFT) is a central challenge. The large number of low-energy couplings (LECs) in the EFT expansion and the significant cost of $\\textit{ab initio}$ many-body calculations render large-scale sensitivity studies of many-body observables computationally prohibitive, necessitating the use of emulators as low-cost surrogates. In this work, we study a Hartree-Fock emulator based on eigenvector continuation to investigate trends in nuclear charge radii of neutron-rich calcium isotopes. We systematically vary the five LECs entering the leading three-nucleon (3N) interactions, and demonstrate the precision of the emulator through cross-validation over a wide parameter space. Our findings indicate that large charge radius increase from $^{48}$Ca to $^{52}$Ca is likely not explained by variations of the leading 3N couplings. This suggests that other effects, such as sensitivities to chiral two-nucleon interactions or neglected many-body effects, e.g., associated with nuclear collectivity, play an important role."
-    },
-    {
-      "title": "Superfluidity in Fermi systems within the framework of Density Functional Theory",
-      "link": "https://arxiv.org/abs/2510.07410",
-      "authors": "Piotr Magierski",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2510.07410v1 Announce Type: cross \nAbstract: This review is based on lectures given by the author at the Enrico Fermi Summer School in Varenna. It presents the basics of Density Functional Theory (DFT) for Fermi superfluids, with particular emphasis on nuclear systems. Special attention is given to the foundations of both DFT and time-dependent DFT (TDDFT). The review explores the advantages and challenges involved in the practical application of TDDFT to superfluid systems, as well as the typical approximations employed. Various applications of the TDDFT framework to the description of phenomena related to nonequilibrium superfluidity in atomic nuclei, neutron stars, and ultracold atoms are discussed."
-    },
-    {
-      "title": "Charged scalar bosons under rotation and acceleration",
-      "link": "https://arxiv.org/abs/2510.07438",
-      "authors": "M. Bordag, D. N. Voskresensky",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2510.07438v1 Announce Type: cross \nAbstract: Creation of charged spinless bosons from vacuum in the rigidly rotating frame is studied in presence of the external static electromagnetic fields, being formed either in the resting, or in the general rotating or in the local-flat frames. It is shown that the description remains the same in the resting and the local-flat frames. More specifically, the case of a solenoid (magnetic flux tube) embedded into the rotating empty cylinder (rotation frame) is studied in presence or absence of a static square electric potential well $eA_0$. A supervortex of a spinless-boson field can be created from vacuum when the rotation frequency exceeds a critical value $\\Omega_c$. It is shown that $\\Omega_c$ is smaller provided the solenoid rests in the resting frame. Then the case is considered when the rotating frame additionally moves with acceleration $\\vec{w}(\\vec{r})\\neq 0$. A specific case $w(r)=G/r$ for $G=const$ is treated explicitly. It is shown that for $G<0$ the charged spinless-boson vortex can be created in rapidly rotating system even in the limit when the magnetic and electric fields tend to zero."
-    },
-    {
-      "title": "GPU-Accelerated X-ray Pulse Profile Modeling",
-      "link": "https://arxiv.org/abs/2510.07764",
-      "authors": "Tianzhe Zhou, Chun Huang",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2510.07764v1 Announce Type: cross \nAbstract: Pulse-profile modeling (PPM) of thermal X-ray emission from rotation-powered millisecond pulsars enables simultaneous constraints on the mass $M$, radius $R$, and hence the equation of state of cold, dense matter. However, Bayesian PPM has faced a hard accuracy-speed bottleneck: current production resolutions used to keep inference tractable can under-resolve extreme hotspot geometries and bias the waveform computation, whereas the higher resolutions that remove this bias push forward models to minutes per evaluation, making inference impractical. We break this trade-off with, to our knowledge, the first public GPU-accelerated X-ray PPM framework that matches established benchmarks to within $\\sim10^{-3}$ relative accuracy even for extreme geometries, while collapsing minutes-long high-fidelity computations to $2$--$5$ ms on an RTX 4080 ($10^{3}$--$10^{4}\\times$ speedups), enabling posterior exploration at resolutions and complexities previously out of reach. We further uncover a bias near the interpolation boundaries of atmosphere lookup tables, demonstrate it with two diagnostic tests, and counter it with a mixed-order interpolator. Together, these advances enlarge the feasible hotspot model space and reduce key systematics in PPM, strengthening inferences for current and future X-ray missions."
-    },
-    {
-      "title": "Recent advances in perturbative QCD at high density",
-      "link": "https://arxiv.org/abs/2510.08215",
-      "authors": "Pablo Navarrete, Aleksi Vuorinen",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2510.08215v1 Announce Type: cross \nAbstract: In these conference proceedings, we discuss recent progress in high-order perturbative studies of the thermodynamic and transport properties of dense quark matter. Special emphasis is placed on the introduction of a promising new computational tool, thermal Loop Tree Duality, which enables pushing the existing weak-coupling calculations to higher perturbative orders."
-    },
-    {
-      "title": "Gluon splitting at small $x$: a unified derivation for the JIMWLK, DGLAP and CSS equations",
-      "link": "https://arxiv.org/abs/2510.08454",
-      "authors": "Paul Caucal, Edmond Iancu, Farid Salazar, Feng Yuan",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2510.08454v1 Announce Type: cross \nAbstract: We revisit the calculation of the next-to-leading order (NLO) corrections to dijet production in electron-ion collisions at small $x$. We focus on the back-to-back configuration where the relative transverse momentum $P_\\perp$ of the measured jets is much larger than both their momentum imbalance $K_\\perp$ and the target saturation momentum $Q_s(x,A)$. In this regime, we present for the first time a complete calculation of the real NLO corrections at leading power in $1/P_\\perp$. Our result exhibits TMD factorisation, with the same hard factor as at tree-level and a NLO correction to the Weisz\\\"acker-Williams (WW) gluon transverse momentum dependent (TMD) distribution which involves four Wilson-line operators. By studying different kinematical regimes for $K_\\perp$ and for the radiated gluon, we recover all the quantum evolutions that were previously identified for this process at NLO: the B-JIMWLK high-energy evolution and the CSS evolution of the gluon WW TMD, and the DGLAP evolution of the gluon PDF. When both $K_\\perp$ and the transverse momentum transferred by the target are large compared to $Q_s$, all the Wilson-line operators boil down to the unintegrated gluon distribution and our NLO result for the gluon TMD can be used to isolate the transverse-momentum dependent gluon splitting function."
-    },
-    {
-      "title": "Gamma-Ray Spectra of $R$-Process Nuclei",
-      "link": "https://arxiv.org/abs/2510.08560",
-      "authors": "Axel Gross, Samuel Cupp, Matthew R Mumpower",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2510.08560v1 Announce Type: cross \nAbstract: The radioactive decay of unstable nuclei created in the rapid neutron capture process release a large amount of $\\gamma$-rays. When the ejecta is optically thick, these $\\gamma$-rays may contribute to an associated kilonova. Once transparent, prominent spectral features will be directly observable in current and future $\\gamma$-ray detectors. In this work, we study and compare the $\\gamma$-ray spectra of a limited, weak, strong, and extended $r$-process across a broad timescale, identifying the nuclei which significantly contribute. We discuss these findings in the context of observability, noting that there are several practical challenges to connecting observed signatures to specific nuclei. However, if these challenges can be overcome, direct observation of $\\gamma$-rays from $r$-process sites can provide insight into the fundamental physics underpinning the $r$-process."
-    },
-    {
-      "title": "Mass Varying Neutrino Oscillation in Scalar-Gauss-Bonnet Gravity",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269325007002?dgcid=rss_sd_all",
+      "title": "Discovery Potential of Future Electron-Positron Colliders for a 95 GeV Scalar",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269325007117?dgcid=rss_sd_all",
       "authors": "Unknown",
       "source": "Physics Letters B",
-      "summary": "Publication date: Available online 10 October 2025Source: Physics Letters BAuthor(s): H. Mohseni Sadjadi, H. Yazdani Ahmadabadi"
+      "summary": "Publication date: Available online 11 October 2025Source: Physics Letters BAuthor(s): Pramod Sharma, Anza-Tshilidzi Mulaudzi, Karabo Mosala, Thuso Mathaha, Mukesh Kumar, Bruce Mellado, Andreas Crivellin, Maxim Titov, Manqi Ruan, Yaquan Fang"
     },
     {
-      "title": "Helically twisted spacetime: study of geometric and wave optics, and physical analysis",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269325007026?dgcid=rss_sd_all",
+      "title": "ACT inflation and its influence on reheating era in Einstein-Gauss-Bonnet gravity",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269325006884?dgcid=rss_sd_all",
       "authors": "Unknown",
       "source": "Physics Letters B",
-      "summary": "Publication date: Available online 10 October 2025Source: Physics Letters BAuthor(s): Edilberto O. Silva, Frankbelson dos S. Azevedo, Faizuddin Ahmed"
+      "summary": "Publication date: Available online 10 October 2025Source: Physics Letters BAuthor(s): Sergei D. Odintsov, Tanmoy Paul"
     },
     {
-      "title": "Primordial black holes as cosmic expansion accelerators",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269325007063?dgcid=rss_sd_all",
+      "title": "GUP Effective Metric Without GUP: Implications for the Sign of GUP Parameter and Quantum Bounce",
+      "link": "https://www.sciencedirect.com/science/article/pii/S037026932500694X?dgcid=rss_sd_all",
       "authors": "Unknown",
       "source": "Physics Letters B",
-      "summary": "Publication date: Available online 10 October 2025Source: Physics Letters BAuthor(s): Konstantinos Dialektopoulos, Theodoros Papanikolaou, Vasilios Zarikas"
+      "summary": "Publication date: Available online 10 October 2025Source: Physics Letters BAuthor(s): Yen Chin Ong"
+    },
+    {
+      "title": "Employing shadow radius to constrain extra dimensions in black string space-time with dark matter halo",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269325007087?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: Available online 10 October 2025Source: Physics Letters BAuthor(s): Zening Yan"
+    },
+    {
+      "title": "Jet momentum reconstruction in the QGP background with machine learning",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269325006987?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: Available online 10 October 2025Source: Physics Letters BAuthor(s): Ran Li, Yi-Lun Du, Shanshan Cao"
+    },
+    {
+      "title": "Inclusive and exclusive breakup studies in <math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si5.svg\" class=\"math\"><msup><mrow></mrow><mn>10</mn></msup></math>B+<math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si6.svg\" class=\"math\"><msup><mrow></mrow><mn>209</mn></msup></math>Bi system",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0375947425002507?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Nuclear Physics A",
+      "summary": "Publication date: Available online 11 October 2025Source: Nuclear Physics AAuthor(s): Prabhat Mishra, V.V. Parkar, S.K. Pandit, Satbir Kaur, Arati Chavan, K. Mahata, A. Shrivastava, K. Ramachandran, Vineet Kumar, Sangeeta Dhuri, M. Prasanna, S. Rathi"
     }
   ]
 }
