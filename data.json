@@ -1,117 +1,26 @@
 {
-  "lastUpdated": "2025-10-18T02:14:52.987361",
+  "lastUpdated": "2025-10-19T02:42:21.855736",
   "papers": [
     {
-      "title": "Effects of Subnucleonic Fluctuations on the Longitudinal Dynamics of Heavy-Ion Collisions",
-      "link": "https://arxiv.org/abs/2510.14118",
-      "authors": "Oscar Garcia-Montero, S\\\"oren Schlichting, Jie Zhu",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2510.14118v1 Announce Type: new \nAbstract: It is well understood that subnuclear fluctuations in the initial state of heavy-ion collisions have an important impact on the creation of long-range correlations in the transverse plane. This is also true for the creation of particle correlations along the beam direction, which can be measured in particle detectors, e.g. through longitudinal decorrelation observables. In this work, we study the emergence of long-range rapidity structures in Pb+Pb collisions using a hybrid model connecting the 3D resolved {\\Dipper} initial state model to a (3+1)D viscous hydrodynamics framework CLVisc. We include different sources of fluctuations at the (sub-)nucleon level and present the effects of their inclusion on the longitudinal structure of relevant observables, focusing in this proceedings paper on charged hadron multiplicities, baryon stopping, directed flow and flow decorrelation. We find remarkable agreement to the experimental data regarding directed flow and the rapidity resolved charge particle multiplicity."
+      "title": "Probing $ϕN$ interaction through bound states of the $ϕN\\text{−}α$ system",
+      "link": "http://link.aps.org/doi/10.1103/p93c-zk34",
+      "authors": "Faisal Etminan",
+      "source": "Physical Review C",
+      "summary": "Author(s): Faisal EtminanThe possible bound state of the $ϕN\\text{−}α$ system is explored within the framework of the three-body cluster model. The calculations are done by employing the state-of-the-art $ϕN$ interactions obtained from the analysis of the pure elastic scattering and the coupled-channel in the $ϕp$ correlati…[Phys. Rev. C 112, 044003] Published Fri Oct 17, 2025"
     },
     {
-      "title": "Model Independence of Effective Field Theory",
-      "link": "https://arxiv.org/abs/2510.14275",
-      "authors": "Anthony W. Thomas",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2510.14275v1 Announce Type: new \nAbstract: The use of effective field theory offers a systematic way to improve calculations of nuclear reactions and the properties of atomic nuclei. Its successes have led to the widespread belief that the predictions of this approach are model independent. We explain why this is definitely not the case."
+      "title": "Quantum complexity fluctuations from nuclear and hypernuclear forces",
+      "link": "http://link.aps.org/doi/10.1103/r8rq-y9tb",
+      "authors": "Caroline E. P. Robin and Martin J. Savage",
+      "source": "Physical Review C",
+      "summary": "Author(s): Caroline E. P. Robin and Martin J. SavageToward an improved understanding of the role of quantum information in nuclei and exotic matter, we examine the quantum magic (nonstabilizerness) in low-energy strong interaction processes. As stabilizer states can be prepared efficiently using classical computers, and include classes of entangled s…[Phys. Rev. C 112, 044004] Published Fri Oct 17, 2025"
     },
     {
-      "title": "Hydrodynamization and thermalization in heavy-ion collisions: a kinetic theory perspective",
-      "link": "https://arxiv.org/abs/2510.14547",
-      "authors": "Caio V. P. de Brito, Gabriel S. Denicol",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2510.14547v1 Announce Type: new \nAbstract: Understanding the applicability of fluid-dynamical models to describe the hot and dense matter produced in the early stages of hadronic collisions is a fundamental problem in the field. In particular, it is not clear to what degree this hydrodynamization process requires proximity to a local equilibrium state. In this contribution, we study this problem in kinetic theory considering an ultrarelativistic gas undergoing strong longitudinal expansion, assuming Bjorken flow. We solve the Boltzmann equation and verify that the system displays considerable deviations from local equilibrium, even though the energy-momentum tensor is well described by fluid dynamics. We further quantify this effect computing the emission of photons in the quark-gluon plasma and verify whether this deviation from equilibrium can be observed."
-    },
-    {
-      "title": "Effect of Isolation Criteria on Prompt Photon Production in Relativistic Nuclear Collisions",
-      "link": "https://arxiv.org/abs/2510.14633",
-      "authors": "Sinjini Chandra, Rupa Chatterjee, Zubayer Ahammed",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2510.14633v1 Announce Type: new \nAbstract: Prompt photon measurements in relativistic nuclear collisions serve as an essential comparative basis for heavy ion studies enabling the separation of medium induced effects. However, the identification of prompt photons is experimentally challenging due to substantial backgrounds from photons produced in hadron decays and jet fragmentation. Appropriate isolation criteria are applied to suppress these background contributions. We analyze prompt photon spectra using the JETPHOX framework to quantify the relative contributions of fragmentation and direct production mechanisms to the total photon yield. We perform a systematic study of the impact of isolation criteria on prompt photon production in relativistic nuclear collisions with emphasis on their dependence on beam energy and photon transverse momentum. The fragmentation contribution is found to be substantially large particularly for $p_T < 15$ GeV and the isolation criterion plays a crucial role in the analysis of prompt photons in that $p_T$ region. A dynamical isolation criterion suppresses the fragmentation component more effectively than a fixed one in this region. Furthermore, the isolation criterion shows a stronger dependence on beam energy and photon $p_T$ than on system size. These observations emphasize the importance of employing carefully selected and consistent isolation criteria when comparing experimental data with theoretical calculations especially for observables sensitive to fragmentation."
-    },
-    {
-      "title": "Efficiency correction of particle-averaged quantities",
-      "link": "https://arxiv.org/abs/2510.13838",
-      "authors": "Masakiyo Kitazawa, ShinIchi Esumi, Takafumi Niida, Toshihiro Nonaka",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2510.13838v1 Announce Type: cross \nAbstract: We derive analytic formulas to reconstruct particle-averaged quantities from experimental results that suffer from the efficiency loss of particle measurements. These formulas are derived under the assumption that the probabilities of observing individual particles are independent. The formulas do not agree with the conventionally used intuitive formulas."
-    },
-    {
-      "title": "Studying hard probe dynamics in QGP using effective field theory",
-      "link": "https://arxiv.org/abs/2510.13942",
-      "authors": "Andreas Kirchner, Berndt Mueller, Jyotirmoy Roy, Chathuranga Sirimanna",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2510.13942v1 Announce Type: cross \nAbstract: An effective field theory framework is developed to study the interaction of heavy quarks in strongly coupled quark-gluon plasma (QGP). The latter is treated as a relativistic non-dissipative colorless fluid which can be studied using a derivatively coupled effective field theory based on previous work. Coupling this to heavy quarks provides systematic way to obtain the interaction between the heavy quark and phonons, excitations of the fluid. In particular we calculate the decay width of heavy quark to phonon and phonon-heavy quark scattering in a thermal medium."
-    },
-    {
-      "title": "Light new physics and the $\\boldsymbol{\\tau}$ lepton dipole moments: prospects at Belle II",
-      "link": "https://arxiv.org/abs/2510.13966",
-      "authors": "Martin Hoferichter, Gabriele Levati",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2510.13966v1 Announce Type: cross \nAbstract: While electron and muon dipole moments are well-established precision probes of physics beyond the Standard Model, it is notoriously challenging to test realistic New-Physics (NP) scenarios for the $\\tau$ lepton. Constructing suitable asymmetries in $e^+e^-\\to\\tau^+\\tau^-$ has emerged as a promising such avenue, providing access to the electric and magnetic dipole moment once a polarized electron beam is available, e.g., with the proposed polarization upgrade of the SuperKEKB $e^+e^-$ collider. However, this interpretation relies on an effective-field-theory (EFT) argument that only applies if the NP scale is large compared to the center-of-mass energy. In this Letter we address the consequences of the asymmetry measurements in the case of light NP, using light spin-0 and spin-1 bosons as test cases, to show how results can again be interpreted as constraints on dipole moments, albeit in a model-dependent manner, and how the decoupling to the EFT limit proceeds in these cases. In particular, we observe that the imaginary parts generated by light new particles can yield non-vanishing asymmetries even without electron polarization, presenting opportunities for NP searches that can be realized already with present data at Belle II."
-    },
-    {
-      "title": "Surrogate Models for Linear Response",
-      "link": "https://arxiv.org/abs/2510.13989",
-      "authors": "L. Jin, A. Ravli\\'c, P. Giuliani, K. Godbey, W. Nazarewicz",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2510.13989v1 Announce Type: cross \nAbstract: Linear response theory is a well-established method in physics and chemistry for exploring excitations of many-body systems. In particular, the quasiparticle random-phase approximation (QRPA) provides a powerful microscopic framework by building excitations on top of the mean-field vacuum; however, its high computational cost limits model calibration and uncertainty quantification studies. Here, we present two complementary QRPA surrogate models and apply them to study response functions of finite nuclei. One is a reduced-order model that exploits the underlying QRPA structure, while the other utilizes the recently developed parametric matrix model algorithm to construct a map between the system's Hamiltonian and observables. Our benchmark applications, the calculation of the electric dipole polarizability of ${}^{180}$Yb and the $\\beta$-decay half-life of ${}^{80}$Ni, show that both emulators can achieve 0.1\\%--1\\% accuracy while offering a six to seven orders of magnitude speedup compared to state-of-the-art QRPA solvers. These results demonstrate that the developed QRPA emulators are well-positioned to enable Bayesian calibration and large-scale studies of computationally expensive physics models describing the properties of many-body systems."
-    },
-    {
-      "title": "Chiral spin symmetry",
-      "link": "https://arxiv.org/abs/2510.14084",
-      "authors": "L. Ya. Glozman",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2510.14084v1 Announce Type: cross \nAbstract: We review the chiral spin symmetry, which is a symmetry of the color charge and of the confining electric part of QCD. Observation of this symmetry in the vacuum upon truncation of the near-zero modes of the Dirac operator implies that the hadron mass in the light quark sector is not due to the quark condensate of the vacuum and that confinement and chiral symmetry breaking are not directly related. Observation of this symmetry above the chiral symmetry restoration crossover suggests that QCD is still in the confining regime with chirally symmetric quarks bound into the color-singlets by the confining electric field. This regime of QCD was called a stringy fluid. At a temperature T_d that is essentially above T_ch the chiral spin symmetry smoothly disappears suggesting that the confining electric field gets screened and one observes a very smooth crossover to the quark-gluon plasma. The three-regimes picture has been further substantiated by the analysis of the N_c scaling of the energy density, the pressure and the entropy density. In the hadron gas they scale as N_c^0, in the stringy fluid as N_c^1 and in the quark-gluon plasma as N_c^2. We have analyzed the fluctuations of conserved charges that scale as N_c^1 above T_ch thus indicating a transition from the hadron gas to the stringy fluid. When N_c gets sufficiently large the three-regimes picture transforms into the three-phases phase diagram. Finally we discuss a confining and chirally symmetric model in 3+1 dimensions. This model demonstrates the chiral symmetry restoration in the confining regime and a delocalization of the color-singlet quark-antiquark systems that become very large at T > T_ch. Consequently the stringy fluid matter is a very dense highly collective system of the overlapping very large color-singlet quark-antiquark \"mesons\" with a very small mean free path."
-    },
-    {
-      "title": "High-energy $\\eta^{(\\prime)}\\pi$ photoproduction and the nature of exotic waves",
-      "link": "https://arxiv.org/abs/2510.14549",
-      "authors": "Gloria Monta\\~na, Vincent Mathieu, Vanamali Shastry, {\\L}ukasz Bibrzycki, C\\'esar Fern\\'andez-Ram\\'irez, Nadine Hammoud, Robert J. Perry, Alessandro Pilloni, Arkaitz Rodas, Wyatt A. Smith, Adam P. Szczepaniak, Daniel Winney",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2510.14549v1 Announce Type: cross \nAbstract: The observation of hybrid mesons in photoproduction experiments can provide essential insight into the inner workings of quantum chromodynamics in the strong coupling regime. In particular, the study of final $\\eta^{(\\prime)}\\pi$ states is of great interest due to the presence of the lowest lying hybrid candidate with manifestly exotic quantum numbers, the $\\pi_1(1600)$. In this work, a double-vector exchange model with Reggeized $\\rho$ and $\\omega$ trajectories is developed to describe the photoproduction of $\\eta^{(\\prime)}\\pi$ in the high-mass region. Results are presented for the differential cross sections and forward-backward asymmetries in the energy region of interest to the GlueX experiment. The model contains no free parameters, and reproduces the magnitude and $t$-dependence of existing CLAS data at $E_\\gamma=5$\\gev. The model predicts a stronger asymmetry in the $\\eta^\\prime \\pi$ channel than in the $\\eta \\pi$ channel, consistent with what has previously been observed in pion beam experiments. This suggests that the sizeable production of exotic odd waves in $\\eta'\\pi$ is not necessarily related to the presence of gluon-rich environments. Confirmation of these predicted asymmetries from forthcoming GlueX data would enable further predictions of the low-energy spectrum."
-    },
-    {
-      "title": "Nucleon Electric Dipole Moments in Paramagnetic Molecules through Effective Field Theory",
-      "link": "https://arxiv.org/abs/2510.14933",
-      "authors": "Wouter Dekens, Jordy de Vries, Lemonia Gialidi, Javier Men\\'endez, Heleen Mulder, Beatriz Romeo",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2510.14933v1 Announce Type: cross \nAbstract: Electric dipole moment (EDM) measurements using paramagnetic molecules have significantly advanced over the last decade. Traditionally, these experiments have been analyzed in terms of the electron EDM. However, paramagnetic molecules are also sensitive to hadronic sources of charge-parity (CP) violation, highlighting the need for a new framework to interpret the experimental results. In this Letter, we introduce an effective field theory framework to relate molecular EDMs to the EDMs of neutrons and protons. We identify the dominant contributions through power counting and pinpoint the necessary nuclear matrix elements. As a practical application, we employ the nuclear shell model to calculate these nuclear matrix elements for the polar molecule BaF. Finally, we estimate the limits on the nucleon EDMs set by current molecular EDM experiments."
-    },
-    {
-      "title": "Strangeness in the proton from W+charm production and SIDIS data",
-      "link": "https://arxiv.org/abs/2501.00665",
-      "authors": "Trey Anderson, W. Melnitchouk, N. Sato",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2501.00665v3 Announce Type: replace-cross \nAbstract: We perform a global QCD analysis of unpolarized parton distribution functions (PDFs) in the proton, including new $W +$\\,charm production data from $pp$ collisions at the LHC and semi-inclusive pion and kaon production data in lepton-nucleon deep-inelastic scattering, both of which have been suggested for constraining the strange quark PDF. Compared with a baseline global fit that does not include these datasets, the new analysis reduces the uncertainty on the strange quark distribution over the range $0.01 < x < 0.3$, and provides a consistent description of processes sensitive to strangeness in the proton. Including the new datasets, the ratio of strange to nonstrange sea quark distributions is $R_s = (s+\\bar s)/(\\bar u+\\bar d) = \\{0.72^{+0.52}_{-0.34},\\, 0.46^{+0.30}_{-0.20},\\, 0.32^{+0.23}_{-0.15}\\}$ for $x = \\{ 0.01, 0.04, 0.1 \\}$ at $Q^2 = 4$~GeV$^2$. The data place more stringent constraints on the strange asymmetry $s-\\bar s$, which is found to be consistent with zero in this range."
-    },
-    {
-      "title": "Carpet-3 300 TeV Photon Event as an Evidence for Lorentz Violation",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269325007178?dgcid=rss_sd_all",
+      "title": "Femtoscopic study of the proton-proton and proton-deuteron systems in heavy-ion collisions at the LHC",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269325006793?dgcid=rss_sd_all",
       "authors": "Unknown",
       "source": "Physics Letters B",
-      "summary": "Publication date: Available online 16 October 2025Source: Physics Letters BAuthor(s): Hanlin Song, Bo-Qiang Ma"
-    },
-    {
-      "title": "Decays of <math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si19.svg\" class=\"math\"><mrow><mstyle mathvariant=\"normal\"><mi>Υ</mi></mstyle><mo>(</mo><mn>10860</mn><mo>)</mo></mrow></math> and <math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si16.svg\" class=\"math\"><mrow><mstyle mathvariant=\"normal\"><mi>Υ</mi></mstyle><mo>(</mo><mn>10753</mn><mo>)</mo></mrow></math> into <math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si3.svg\" class=\"math\"><mrow><mi>ω</mi><msub><mi>χ</mi><mrow><mi>b</mi><mi>J</mi></mrow></msub></mrow></math>",
-      "link": "https://www.sciencedirect.com/science/article/pii/S037026932500718X?dgcid=rss_sd_all",
-      "authors": "Unknown",
-      "source": "Physics Letters B",
-      "summary": "Publication date: Available online 16 October 2025Source: Physics Letters BAuthor(s): Zheng-Li Luo, Yi-Lin Song, Feng-Kun Guo"
-    },
-    {
-      "title": "From singular to regular: revisiting thermodynamics of Bardeen-AdS black holes",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269325007191?dgcid=rss_sd_all",
-      "authors": "Unknown",
-      "source": "Physics Letters B",
-      "summary": "Publication date: Available online 16 October 2025Source: Physics Letters BAuthor(s): Meng-Sen Ma, Yun He, Xiao-Ming Wang, Huai-Fan Li"
-    },
-    {
-      "title": "Einstein-Gauss-Bonnet black holes seeded by cosmic voids",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269325007208?dgcid=rss_sd_all",
-      "authors": "Unknown",
-      "source": "Physics Letters B",
-      "summary": "Publication date: Available online 16 October 2025Source: Physics Letters BAuthor(s): A. Errehymy, S. Hansraj, Y. Myrzakulov"
+      "summary": "Publication date: Available online 17 October 2025Source: Physics Letters BAuthor(s): ALICE Collaboration, S. Acharya, G. Aglieri Rinella, L. Aglietta, M. Agnello, N. Agrawal, Z. Ahammed, S. Ahmad, S.U. Ahn, I. Ahuja, Zul Akbar, A. Akindinov, V. Akishina, M. Al-Turany, D. Aleksandrov, B. Alessandro, H.M. Alfanda, R. Alfaro Molina, B. Ali, A. Alici, N. Alizadehvandchali"
     }
   ]
 }
