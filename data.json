@@ -1,89 +1,103 @@
 {
-  "lastUpdated": "2025-10-20T02:30:09.968087",
+  "lastUpdated": "2025-10-21T02:24:03.579972",
   "papers": [
     {
-      "title": "Measurement of differential and total cross sections for scattering of 14.1 MeV neutrons on 12$$^{12}$$C nuclei",
-      "link": "https://epja.epj.org/10.1140/epja/s10050-025-01703-5",
-      "authors": "D. N. Grozdanov, P. S. Prusachenko, N. A. Fedorov, Yu. N. Kopatch, T. Yu. Tretyakova, G. V. Pampushik, A. V. Andreev, V. R. Skoy, C. Hramco, P. G. Filonchik, P. I. Kharlamov, A. L. Barabanov",
-      "source": "European Physical Journal A",
-      "summary": "Authors: D. N. Grozdanov, P. S. Prusachenko, N. A. Fedorov, Yu. N. Kopatch, T. Yu. Tretyakova, G. V. Pampushik, A. V. Andreev, V. R. Skoy, C. Hramco, P. G. Filonchik, P. I. Kharlamov, A. L. Barabanov and  .The European Physical Journal A Vol. 61 , page 224Published online: 6/10/2025"
+      "title": "Ab initio symmetry-adapted approaches to nuclear reactions",
+      "link": "https://arxiv.org/abs/2510.15171",
+      "authors": "Kristina D Launey, Grigor H. Sargsyan, Alexis Mercenne, Jutta E. Escher, Darin C. Mumma",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2510.15171v1 Announce Type: new \nAbstract: In this review, we discuss recent applications of the ab initio symmetry-adapted no-core shell-model (SA-NCSM) theory for study and prediction of structure and reactions of stable and unstable nuclei from light to medium mass range. We explore structure properties of neutron-rich He, Mg, and Li isotopes, with a focus on nuclear collectivity, clustering, and spectroscopic factors, as well as multi-particle excitations of utmost significance in the proximity of the drip lines. In addition, we present extensions of the SA-NCSM with continuum for determining the microscopic structure of reaction fragments, which enables calculations of reaction cross sections for targets from the lightest $^{4,6}$He to $^{40}$Ca, rooted in first principles. We illustrate this for neutron and proton elastic scattering, deuteron and alpha capture reactions, and alpha knock-out reactions. Furthermore, we discuss microscopic optical potentials with uncertainty quantification, a critical ingredient in many reaction models, and reaction observables with uncertainties that stem from the underlying chiral potential. We also discuss the impact of alpha clustering on reactions of significance to nuclear astrophysics, as well as on beta decays and beyond-the-standard-model physics."
     },
     {
-      "title": "Ultra-cold neutron simulation framework for the free neutron lifetime experiment τ$$\\tau $$SPECT",
-      "link": "https://epja.epj.org/10.1140/epja/s10050-025-01673-8",
-      "authors": "J. Auler, U. Bajpai, M. Engler, V. Ermuth, M. Fertl, K. Franz, W. Heil, S. Kaufmann, B. Lauss, N. Pfeifer, D. Ries, S. Vanneste, N. Yazdandoost",
-      "source": "European Physical Journal A",
-      "summary": "Authors: J. Auler, U. Bajpai, M. Engler, V. Ermuth, M. Fertl, K. Franz, W. Heil, S. Kaufmann, B. Lauss, N. Pfeifer, D. Ries, S. Vanneste and N. Yazdandoost.The European Physical Journal A Vol. 61 , page 223Published online: 6/10/2025"
+      "title": "Universal Relation for the Neutron Star Maximum Mass within Relativistic Mean-Field Theories",
+      "link": "https://arxiv.org/abs/2510.15356",
+      "authors": "Gihwan Nam, Yeunhwan Lim, Jeremy W. Holt",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2510.15356v1 Announce Type: new \nAbstract: We obtain a universal relation for the neutron star maximum mass arising from a particular combination of the saturation density ($n_0$), the effective mass ($m^*$), and (when present) the vector meson self-coupling constant ($\\zeta$) within the relativistic mean-field model framework. Observations of massive neutron stars heavier than $\\sim 2M_{\\odot}$ have eliminated the softest equation of state from consideration and impose strong constraints on nuclear interactions used to model dense nuclear matter. To date there have been numerous attempts to refine relativistic mean-field models by including the presence of additional mesons, such as the delta meson, and couplings. We show that current RMF models, including our own constructions, exhibit a maximum neutron star mass that is primarily determined by the combination of the saturation density, the effective mass at saturation, and the vector meson self-coupling constant. When constraining the pure neutron matter equation of state using chiral effective field theory (ChEFT) at low densities, 250 parameter sets were generated to derive an empirical formula for the maximum mass of neutron stars and apply the formula with the present relativistic mean field models."
     },
     {
-      "title": "Universal mass equation for equal-quantum excited-states sets II",
-      "link": "https://epja.epj.org/10.1140/epja/s10050-025-01696-1",
-      "authors": "L. David Roper, Igor Strakovsky",
-      "source": "European Physical Journal A",
-      "summary": "Authors: L. David Roper and Igor Strakovsky.The European Physical Journal A Vol. 61 , page 225Published online: 6/10/2025"
+      "title": "New Elementary Operator for Kaon Photoproduction on the Nucleon and Nuclei",
+      "link": "https://arxiv.org/abs/2510.15482",
+      "authors": "Terry Mart, Jovan Alfian Djaja",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2510.15482v1 Announce Type: new \nAbstract: A new elementary operator for kaon photoproduction on the nucleon and nuclei has been developed within a Feynman diagrammatic framework. By fitting the unknown coupling strengths at the electromagnetic and hadronic vertices of the baryon resonances to all available experimental data across the six isospin channels, the model achieves excellent agreement with the data. The operator includes 26 nucleon resonances in the $K\\Lambda$ channels and 17 additional $\\Delta$ resonances in the $K\\Sigma$ channels. For applications to nuclear reactions, such as hypernuclear photoproduction, the operator is formulated in Pauli space, allowing a straightforward implementation of the nonrelativistic approximation. Several alternative forms for expressing the operator output are proposed. In one of them, the spin operators and photon polarization vectors are separated from the operator, since both are frame dependent, thereby enhancing its versatility in nuclear applications."
     },
     {
-      "title": "Exclusion of a diquark–anti-diquark structure for the lightest positive-parity charmed mesons",
-      "link": "https://epja.epj.org/10.1140/epja/s10050-025-01665-8",
-      "authors": "Eric B. Gregory, Feng-Kun Guo, Christoph Hanhart, Stefan Krieg, Thomas Luu",
-      "source": "European Physical Journal A",
-      "summary": "Authors: Eric B. Gregory, Feng-Kun Guo, Christoph Hanhart, Stefan Krieg and Thomas Luu.The European Physical Journal A Vol. 61 , page 226Published online: 7/10/2025"
+      "title": "Antikaon condensation in magnetized neutron star matter within the framework of the $\\sigma$-cut scheme",
+      "link": "https://arxiv.org/abs/2510.15521",
+      "authors": "Fei Wu, Chen Wu",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2510.15521v1 Announce Type: new \nAbstract: This study investigates the effects of strong magnetic fields on antikaon condensation in neutron star matter using the extended FSUGold model model. It is found that the presence of strong magnetic fields alters the threshold density of antikaon condensation significantly, which means the threshold density of antikaon condensation is shifted to higher density compared with the magnetic field-free case. In the presence of strong magnetic fields, the equation of state (EoS) becomes stiffer than that of the zero field case. The effects of the $\\sigma$-cut scheme on the EoS are also researched when the appearance of antikaon condensation is occurred. Through careful choice of the parameter of the $\\sigma$-cut scheme, we are able to produce a maximum mass neutron star heavier than 2$M_{sun}$."
     },
     {
-      "title": "Publisher Erratum: η$$\\eta $$, η′$$\\eta ^\\prime $$ mesons from lattice QCD in fully physical conditions",
-      "link": "https://epja.epj.org/10.1140/epja/s10050-025-01700-8",
-      "authors": "Konstantin Ottnad, Simone Bacchio, Jacob Finkenrath, Bartosz Kostrzewa, Marcus Petschlies, Ferenc Pittler, Carsten Urbach, Urs Wenger",
-      "source": "European Physical Journal A",
-      "summary": "Authors: Konstantin Ottnad, Simone Bacchio, Jacob Finkenrath, Bartosz Kostrzewa, Marcus Petschlies, Ferenc Pittler, Carsten Urbach and Urs Wenger.The European Physical Journal A Vol. 61 , page 227Published online: 7/10/2025"
+      "title": "Faddeev-type calculation of nonelastic breakup in deuteron-nucleus scattering",
+      "link": "https://arxiv.org/abs/2510.15619",
+      "authors": "A. Deltuva",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2510.15619v1 Announce Type: new \nAbstract: The nonelastic breakup (NEB), one of channels in $(d,p)$ inclusive reactions, is studied using the Faddeev-type scattering theory. The NEB differential cross section is obtained in terms of the imaginary part of the neutron-nucleus optical potential sandwiched between the Alt-Grassberger-Sandhas three-body transition operators. The momentum-space calculations including the Coulomb force are extended to higher charge numbers. Well converged numerical results are obtained for the energy distribution of the NEB cross section, being roughly consistent with previous works. The spin-dependent interaction terms do not play a significant role. The optical potential nonlocality effect shows up at higher proton energies, but is comparable to local potential uncertainties."
     },
     {
-      "title": "Charge symmetry breaking effects of ω$$\\omega $$-ρ0$$\\rho ^0$$ mixing in relativistic mean-field model",
-      "link": "https://epja.epj.org/10.1140/epja/s10050-025-01699-y",
-      "authors": "Yusuke Tanimura, Tomoya Naito, Hiroyuki Sagawa, Myung-Ki Cheoun",
-      "source": "European Physical Journal A",
-      "summary": "Authors: Yusuke Tanimura, Tomoya Naito, Hiroyuki Sagawa and Myung-Ki Cheoun.The European Physical Journal A Vol. 61 , page 229Published online: 8/10/2025"
+      "title": "Reexamining the perturbative renormalizability of the coupled triplets",
+      "link": "https://arxiv.org/abs/2510.15789",
+      "authors": "Manuel Pavon Valderrama",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2510.15789v1 Announce Type: new \nAbstract: I reexamine the perturbative renormalizability of chiral two-pion exchange in two-nucleon scattering for coupled triplets when one-pion exchange has been fully iterated at leading order. Improving over previous works, it is shown that only two counterterms are required to obtain cutoff independent results, which is one less than in naive dimensional analysis. The explanation for this reduction is the existence of an attractive and repulsive eigenchannel in the one-pion exchange potential for the coupled triplets: the attractive eigenchannel can be renormalized like a regular attractive uncoupled triplet, while the repulsive eigenchannel is always finite regardless of whether there are counterterms or not. I discuss the implications of this finding for the power counting of the $^3S_1$-$^3D_1$ and $^3P_2$-$^3F_2$ partial waves."
     },
     {
-      "title": "Stellar processes driven by the rise of nuclear collectivity",
-      "link": "https://epja.epj.org/10.1140/epja/s10050-025-01704-4",
-      "authors": "José Nicolás Orce",
-      "source": "European Physical Journal A",
-      "summary": "Authors: José Nicolás Orce.The European Physical Journal A Vol. 61 , page 228Published online: 8/10/2025\n       Keywords:"
+      "title": "Quantum Monte Carlo Calculations of Light Nuclei with Fully Propagated Theoretical Uncertainties",
+      "link": "https://arxiv.org/abs/2510.15860",
+      "authors": "Ryan Curry, Kai Hebeler, Stefano Gandolfi, Alexandros Gezerlis, Achim Schwenk, Rahul Somasundaram, Ingo Tews",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2510.15860v1 Announce Type: new \nAbstract: We report on the first quantum Monte Carlo calculations of helium isotopes with fully propagated theoretical uncertainties from the interaction to the many-body observables. To achieve this, we build emulators for solutions to the Faddeev equations for the binding energy and Gamow-Teller matrix element of $^3\\text{H}$, as well as for auxiliary-field diffusion Monte Carlo calculations of the $^4\\text{He}$ charge radius, employing local two- and three-body interactions up to next-to-next-to-leading order in chiral effective field theory. We use these emulators to determine the posterior distributions for all low-energy couplings that appear in the interaction up to this order using Bayesian inference while accounting for theoretical uncertainties. We then build emulators for auxiliary-field diffusion Monte Carlo for helium isotopes and propagate the full posterior distributions to these systems. Our approach serves as a framework for $\\textit{ab initio}$ studies of atomic nuclei with consistently treated and correlated theoretical uncertainties."
     },
     {
-      "title": "Method to search for the triple-neutron state in an electron scattering experiment",
-      "link": "https://epja.epj.org/10.1140/epja/s10050-025-01709-z",
-      "authors": "Tianhao Shao, Jinhui Chen, Yu-Gang Ma, Josef Pochodzalla",
-      "source": "European Physical Journal A",
-      "summary": "Authors: Tianhao Shao, Jinhui Chen, Yu-Gang Ma and Josef Pochodzalla.The European Physical Journal A Vol. 61 , page 230Published online: 9/10/2025\n       Keywords:"
+      "title": "Adiabatic hydrodynamization and quasinormal modes of nonthermal attractors",
+      "link": "https://arxiv.org/abs/2510.15016",
+      "authors": "Matisse De Lescluze, Michal P. Heller, Aleksas Mazeliauskas, Bruno Scheihing-Hitschfeld, Clemens Werthmann",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2510.15016v1 Announce Type: cross \nAbstract: Nonthermal attractors characterize the emergent self-similar evolution of far-from-equilibrium quantum systems, from nuclear collisions to cold-atom experiments. Within the adiabatic hydrodynamization framework, the approach to the nonthermal attractor can be understood as the decay of excited states of an effective Hamiltonian. We use an exactly solvable case of the Boltzmann equation -- the longitudinally expanding overoccupied gluon plasma dominated by small-angle elastic collisions -- to map the eigenmodes in adiabatic hydrodynamization to the quasinormal mode spectrum of the nonthermal attractor. If generalized, this equivalence may be used as a discovery tool for new phenomena in out-of-equilibrium systems. A byproduct of our analysis is the analytic prescaling solutions for systems undergoing strong longitudinal expansion."
     },
     {
-      "title": "Valence densities and Chebyshev polynomials: nonsinglet structure function up to N3$$\\hbox {N}^{3}$$LO accuracy and related sum rules",
-      "link": "https://epja.epj.org/10.1140/epja/s10050-025-01706-2",
-      "authors": "H. Nematollahi, M. M. Yazdanpanah, A. Mirjalili, S. Atashbar Tehrani",
-      "source": "European Physical Journal A",
-      "summary": "Authors: H. Nematollahi, M. M. Yazdanpanah, A. Mirjalili and S. Atashbar Tehrani.The European Physical Journal A Vol. 61 , page 231Published online: 13/10/2025"
+      "title": "Universal Relations for Elastic Hybrid Stars and Quark Stars",
+      "link": "https://arxiv.org/abs/2510.15149",
+      "authors": "Chun-Ming Yip, Shu Yan Lau, Kent Yagi",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2510.15149v1 Announce Type: cross \nAbstract: Some compact stars may contain deconfined quark matter, forming hybrid stars or quark stars. If the quark matter forms an inhomogeneous condensate in the crystalline color superconducting phase, its rigidity may be high enough to noticeably alter the stellar properties. In this paper, we investigate whether these elastic stars follow the universal relations, i.e., relations insensitive to equations of state, that have been well established for fluid stars. We improve upon previous studies by allowing quark matter in the background, static, and spherically symmetric configuration to be sheared. Such background shear can be treated in the form of an effective pressure anisotropy. We then calculate the moment of inertia $I$, tidal deformability ${\\lambda}_2$, and spin-induced quadrupole moment $Q$ of these models with pressure anisotropy. The $I$-${\\lambda}_2$-$Q$ universal relations for the elastic hybrid (quark) star models are valid up to a variation of $\\approx2\\,(3)\\%$, larger than that for typical fluid star models, when the maximal magnitude of quark matter shear modulus is considered in the crystalline color superconducting phase from realistic calculations. The uncertainty in universal relations related to the stellar compactness for these elastic star models, on the other hand, remain comparable to those for typical fluid star models. Our results demonstrate the validity of universal relations for hybrid stars and quark stars with a realistic degree of pressure anisotropy due to the crystalline color superconducting quark matter."
     },
     {
-      "title": "Investigation of (γ,xpxn)-reactions on barium and neodum isotopes",
-      "link": "https://epja.epj.org/10.1140/epja/s10050-025-01702-6",
-      "authors": "V. O. Zheltonozhsky, A. M. Savrasov, V. I. Slisenko, D. E. Myznikov, O. A. Fedorovich",
-      "source": "European Physical Journal A",
-      "summary": "Authors: V. O. Zheltonozhsky, A. M. Savrasov, V. I. Slisenko, D. E. Myznikov and O. A. Fedorovich.The European Physical Journal A Vol. 61 , page 232Published online: 14/10/2025"
+      "title": "Probing Composite Structure and Spin-Orbit Coupling with GPDs in ${}^{4}$He",
+      "link": "https://arxiv.org/abs/2510.15838",
+      "authors": "Antonio Garcia Vallejo, Matthew D. Sievert",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2510.15838v1 Announce Type: cross \nAbstract: In this work, we derive a relation between the generalized parton distributions (GPDs) of a spin-0 composite hadron and the GPDs of its spin-$\\tfrac{1}{2}$ constituents. The method decomposes matrix elements of the composite parent into matrix elements of its constituents, weighted by the Wigner distributions of the constituents inside the composite parent. Exploiting the boost invariance of the light-front Wigner distributions, we derive the dictionary between rest-frame and boosted-frame kinematics and use it to perform a Pauli matrix decomposition of the spin degree of freedom. The constraints of unbroken rotational, parity, and time-reversal invariance lead to a master integral for the quark GPDs of the spin-0 composite target. We also identify a novel $\\Delta\\vec{L}\\cdot\\vec{S}$ form of spin-orbit coupling responsible for GPD mixing in composite hadrons which is absent in the case of transverse momentum dependent parton distributions (TMDs) of composite hadrons. We then apply the framework to a composite ${}^{4}$He target with simple phenomenological models to identify possible experimental signatures of composite-structure effects in light nuclei. The framework we have constructed here can be readily extended to the case of generalized TMDs (GTMDs), while the phenomenological framework is applicable both to analyses of light nucleus data and as training input for AI-assisted applications."
     },
     {
-      "title": "Cross-section measurements of the 19F(n,n′γ$$n,n'\\gamma $$) reaction",
-      "link": "https://epja.epj.org/10.1140/epja/s10050-025-01705-3",
-      "authors": "J. K. Knijpstra, M. Boromiza, A. Coman, A. Farzanehpoor Alwars, N. Kalantar-Nayestanaki, M. Kavatsyuk, A. Negret, M. Nyman, A. Oprea, C. Paradela, A. J. M. Plompen",
-      "source": "European Physical Journal A",
-      "summary": "Authors: J. K. Knijpstra, M. Boromiza, A. Coman, A. Farzanehpoor Alwars, N. Kalantar-Nayestanaki, M. Kavatsyuk, A. Negret, M. Nyman, A. Oprea, C. Paradela and A. J. M. Plompen.The European Physical Journal A Vol. 61 , page 233Published online: 15/10/2025\n       Keywords:"
+      "title": "Cabibbo-Kobayashi-Maskawa unitarity deficit reduction via finite nuclear size",
+      "link": "https://arxiv.org/abs/2502.17070",
+      "authors": "M Gorchtein, V Katyal, B Ohayon, B K Sahoo, CY Seng",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2502.17070v2 Announce Type: replace \nAbstract: We revisit the extraction of the $|V_{ud}|$ CKM matrix element from the superallowed transition decay rate of $^{26m}$Al$\\rightarrow$$^{26}$Mg, focusing on finite nuclear size effects. The decay rate dependence on the $^{26m}$Al charge radius is found to be four times higher than previously believed, necessitating precise determination. However, for a short-lived isotope of an odd $Z$ element such as $^{26m}$Al, radius extraction relies on challenging many-body atomic calculations. We performed the needed calculations, finding an excellent agreement with previous ones, which used a different methodology. This sets a new standard for the reliability of isotope shift factor calculations in many-electron systems. The $\\mathcal{F}t$ value obtained from our analysis is lower by $2.2\\,\\sigma$ than the corresponding value in the previous critical survey, resulting in an increase in $|V_{ud}|^2$ by $0.9\\,\\sigma$. Adopting $|V_{ud}|$ from this decay alone reduces the CKM unitarity deficit by one standard deviation, irrespective of the choice of $|V_{us}|$."
     },
     {
-      "title": "Glitch noise classification in KAGRA O3GK observing data using unsupervised machine learning",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269325006963?dgcid=rss_sd_all",
+      "title": "Description of nucleon transfer reactions at intermediate energies within the impulse picture",
+      "link": "https://arxiv.org/abs/2503.01259",
+      "authors": "Sang-In Shim, Yoshiki Chazono, Kazuki Yoshida, Tomohiro Uesaka, Kazuyuki Ogata",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2503.01259v2 Announce Type: replace \nAbstract: Background:\n  At intermediate energies, transfer reactions are suppressed because the momentum-matching condition is difficult to satisfy. In the standard distorted wave Born approximation (DWBA), a high momentum component of the transferred particle is required to match the large momentum transfer.\n  Purpose:\n  We investigate the applicability of the distorted wave impulse approximation (DWIA) for describing ($p,d$) transfer reactions at intermediate energies by performing a comparative study with the standard DWBA. DWIA, which has been successful for knockout reactions, is expected to provide an alternative reaction mechanism at this energy region.\n  Methods:\n  Both DWBA and DWIA formalisms are applied to the $^{16}$O($p,d$){}$^{15}$O reaction at 200~MeV. In DWBA, the reaction is described as a neutron pickup, while in DWIA, it is treated as a quasi-elastic scattering from a preformed deuteron cluster in the target.\n  Results:\n  The DWBA calculation is in good agreement with the experimental data, reproducing both the angular distribution and the absolute magnitude of the cross section with a reasonable spectroscopic factor. In contrast, the DWIA calculation, while qualitatively reproducing the trend of the angular distribution, severely underestimates the cross section by about two orders of magnitude.\n  Conclusions:\n  Our findings suggest that conventional DWBA provides a more suitable description for the $^{16}$O($p,d$){}$^{15}$O reaction at 200~MeV. The failure of DWIA in this case, unlike its success in knockout reactions, raises open questions about its applicability to transfer reactions. This motivates the need for systematic investigations to delineate the applicability of both reaction mechanisms under various conditions."
+    },
+    {
+      "title": "Unlocking the initial neutron density distribution from the two-pion HBT correlation function in heavy-ion collisions",
+      "link": "https://www.sciencedirect.com/science/article/pii/S037026932500721X?dgcid=rss_sd_all",
       "authors": "Unknown",
       "source": "Physics Letters B",
-      "summary": "Publication date: Available online 19 October 2025Source: Physics Letters BAuthor(s): Shoichi Oshino, Yusuke Sakai, Marco Meyer-Conde, Takashi Uchiyama, Yousuke Itoh, Yutaka Shikano, Yoshikazu Terada, Hirotaka Takahashi"
+      "summary": "Publication date: Available online 20 October 2025Source: Physics Letters BAuthor(s): Pengcheng Li, Manzi Nan, Haojie Zhang, Junhuai Xu, Xilong Xiang, Yijie Wang, Yongjia Wang, Gaochan Yong, Tadaaki Isobe, Zhigang Xiao, Qingfeng Li"
+    },
+    {
+      "title": "Radiative-Corrected Higgs Inflation in Light of the Latest ACT Observations",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269325007166?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: Available online 19 October 2025Source: Physics Letters BAuthor(s): Jureeporn Yuennan, Farruh Atamurotov, Phongpichit Channuie"
     }
   ]
 }
