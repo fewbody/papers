@@ -1,96 +1,19 @@
 {
-  "lastUpdated": "2025-10-26T02:27:41.482346",
+  "lastUpdated": "2025-10-27T02:44:47.735804",
   "papers": [
     {
-      "title": "Reconciliation between Neutron Skin Thickness from PREX-2 Experiment and Neutron-Star Tidal Polarizability from GW170817 Event: The Key Role of Symmetry Energy Curvature",
-      "link": "http://link.aps.org/doi/10.1103/6m4p-wmv3",
-      "authors": "Z. Y. Guan (管中原) and Y. F. Niu (牛一斐)",
-      "source": "Physical Review Letter",
-      "summary": "Author(s): Z. Y. Guan (管中原) and Y. F. Niu (牛一斐)A tension between the tidal deformability inferred from neutron star merger GW170818 and the neutron skin measurement of 208Pb by the PREX-2 experiment has been resolved.[Phys. Rev. Lett. 135, 172701] Published Fri Oct 24, 2025"
-    },
-    {
-      "title": "$^{3}\\mathrm{He}+α$ resonances in $^{7}\\mathrm{Be}$",
-      "link": "http://link.aps.org/doi/10.1103/lwmk-r1jz",
-      "authors": "R. J. Charity and L. G. Sobotka",
-      "source": "Physical Review C",
-      "summary": "Author(s): R. J. Charity and L. G. SobotkaResonances in $^{7}\\mathrm{Be}$ which decay into the $^{3}\\mathrm{He}+α$ exit channel have been measured with improved precision using preexisting data sets. The energy and width of the ${J}^{π}=7/{2}^{−}$ state have been extracted from an invariant-mass study of projectile-breakup products originat…[Phys. Rev. C 112, 044320] Published Fri Oct 24, 2025"
-    },
-    {
-      "title": "Forbidden nonunique ${β}^{−}$ transitions and ${g}_{A}$-sensitive $β$ spectral shapes",
-      "link": "http://link.aps.org/doi/10.1103/6nhl-8tl5",
-      "authors": "Archana Saxena and Praveen C. Srivastava",
-      "source": "Physical Review C",
-      "summary": "Author(s): Archana Saxena and Praveen C. SrivastavaIn the present work, we have done a systematic study of β-decay properties such as electron spectral shapes, shape factors, and $\\text{log}ft$ values for the higher forbidden nonunique ${β}^{−}$ transitions in the mass region $A=85–123$. We have performed the nuclear shell model calculations to expl…[Phys. Rev. C 112, 044321] Published Fri Oct 24, 2025"
-    },
-    {
-      "title": "Extended momentum-dependent interaction for transport models and neutron stars",
-      "link": "http://link.aps.org/doi/10.1103/v21s-d9dt",
-      "authors": "Si-Pei Wang and Lie-Wen Chen",
-      "source": "Physical Review C",
-      "summary": "Author(s): Si-Pei Wang and Lie-Wen ChenThe momentum-dependent interaction (MDI) model, which has been widely used in microscopic transport models for heavy-ion collisions (HICs), is extended to include three different momentum-dependent (MD) terms and three zero-range density-dependent (DD) terms, and is dubbed the MDI3Y model. Compared …[Phys. Rev. C 112, 044612] Published Fri Oct 24, 2025"
-    },
-    {
-      "title": "New Skyrme parametrizations to describe finite nuclei and neutron star matter with realistic effective masses. II. Adjusting the spin-dependent terms",
-      "link": "http://link.aps.org/doi/10.1103/zrtg-2gs5",
-      "authors": "Mingya Duan and Michael Urban",
-      "source": "Physical Review C",
-      "summary": "Author(s): Mingya Duan and Michael UrbanMany common Skyrme functionals present ferromagnetic instabilities or unrealistic density dependence of the spin-dependent Landau parameters. To solve these problems, we consider the Skyrme interaction as a density-functional rather than a density-dependent two-body force. This allows us to adjust t…[Phys. Rev. C 112, 045808] Published Fri Oct 24, 2025"
-    },
-    {
-      "title": "Erratum: Band crossing and shape evolution in $^{73}\\mathrm{Ge}$ [Phys. Rev. C <b>92</b>, 054302 (2015)]",
-      "link": "http://link.aps.org/doi/10.1103/91vr-h5dt",
-      "authors": "J. J. Sun (孙君杰) <em>et al.</em>",
-      "source": "Physical Review C",
-      "summary": "Author(s): J. J. Sun (孙君杰) et al.[Phys. Rev. C 112, 049901] Published Fri Oct 24, 2025"
-    },
-    {
-      "title": "Detector characterization for a new 12C+12C reaction study at LUNA",
-      "link": "http://iopscience.iop.org/article/10.1088/1361-6471/ade0dc",
-      "authors": "R M Gesuè, S Turkat, J Skowronski, M Aliotta, L Barbieri, F Barile, D Bemmerer, A Best, A Boeltzig, C Broggini, C G Bruno, A Caciolli, M Campostrini, F Casaburo, F Cavanna, T Chillery, G F Ciani, P Colombetti, A Compagnucci, P Corvisiero, L Csedreki, T Davinson, D Dell’Aquila, R Depalo, A Di Leva, Z Elekes, F Ferraro, A Formicola, Zs Fülöp, G Gervino, G Gosta, A Guglielmetti, C Gustavino, Gy Gyürky, G Imbriani, M Junker, M Lugaro, P Marigo, J Marsh, E Masha, R Menegazzo, D Mercogliano, V Paticchio, D Piatti, P Prati, D Rapagnani, V Rigato, D Robb, L Russell, R S Sidhu, B Spadavecchia, O Straniero, T Szücs, S Zavatarelli and (LUNA collaboration)",
-      "source": "Journal of Physics G: Nuclear and Particle Physics",
-      "summary": "The 12C+12C fusion reaction plays a crucial role in stellar evolution, including the occurrence of supernova explosions, and in the synthesis of the chemical elements. However, our understanding of its cross section remains severely deficient, particularly below Ecm = 2.5 MeV, the energy range of interest for astrophysics. To address these unresolved issues, the LUNA collaboration will conduct a dedicated study of the 12C+12C reaction at the Bellotti Ion Beam Facility (Bellotti IBF) located deep underground within the Gran Sasso National Laboratory (LNGS) in Italy. Based on the combination of passive and active shields, this campaign aims to achieve unprecedented sensitivity in measuring the cross sections of the two key reaction channels, 12C(12C, α)20Ne and 12C(12C, p)23Na in the low-energy regime via γ-ray detection. Here, we report on a sensitivity study for the upcoming campaign with a focus on the characterization of two detectors, namely a HPGe detector and a NaI(Tl) array. Furthermore, their intrinsic contamination is thoroughly investigated since this could potentially influence the overall sensitivity. Assuming typical beam intensities of the Bellotti IBF, we will be able to investigate reaction rates significantly below 100 counts per day. In case of the 12C+12C reaction we therefore expect to acquire experimental data well below the current limit of Ecm = 2.1 MeV. The results are supported by simulations to highlight the advantageous low-background environment, essential for high-precision nuclear astrophysics studies."
-    },
-    {
-      "title": "No evidence of a reduction in the dipole polarisability at shell closures",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269325007397?dgcid=rss_sd_all",
+      "title": "Chaotic Dynamics and Bound Violation in 4D EGB-AdS Black Holes with Massive Gravitons",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269325007233?dgcid=rss_sd_all",
       "authors": "Unknown",
       "source": "Physics Letters B",
-      "summary": "Publication date: Available online 25 October 2025Source: Physics Letters BAuthor(s): Aaron Salinas, Philip Adsley, Lindsay Michelle Donaldson, Diana Carrasco Rojas, John Anton Santucci, Benjamin Shemiah Wellons"
+      "summary": "Publication date: Available online 26 October 2025Source: Physics Letters BAuthor(s): Anum Fayyaz, G. Abbas, Mona Bin-Asfour, Deyou Chen"
     },
     {
-      "title": "Anti-de Sitter, plane waves and quantum field theory",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269325007373?dgcid=rss_sd_all",
+      "title": "Planckian bound on IR/UV mixing from cold-atom interferometry",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269325007464?dgcid=rss_sd_all",
       "authors": "Unknown",
       "source": "Physics Letters B",
-      "summary": "Publication date: Available online 25 October 2025Source: Physics Letters BAuthor(s): Ugo Moschella"
-    },
-    {
-      "title": "Directed and elliptic flow observations in Sn+Sn collisions with radioactive beams at 270 MeV/u",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269325007282?dgcid=rss_sd_all",
-      "authors": "Unknown",
-      "source": "Physics Letters B",
-      "summary": "Publication date: Available online 25 October 2025Source: Physics Letters BAuthor(s): M. Kurata-Nishimura, M. Kaneko, T. Isobe, T. Murakami, A. Ono, N. Ikeno, C.Y. Tsang, J. Barney, J. Estee, G. Jhang, J.W. Lee, W.G. Lynch, M.B. Tsang, R. Wang, D.S. Ahn, L. Atar, T. Aumann, H. Baba, K. Boretzky, J. Brzychczyk"
-    },
-    {
-      "title": "Lorentz Covariance of the <math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si1.svg\" class=\"math\"><mrow><mn>4</mn><mi>d</mi></mrow></math> Nonlinear Higher-Spin Equations via BRST",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269325007270?dgcid=rss_sd_all",
-      "authors": "Unknown",
-      "source": "Physics Letters B",
-      "summary": "Publication date: Available online 24 October 2025Source: Physics Letters BAuthor(s): O.A. Gelfond, M.A. Vasiliev"
-    },
-    {
-      "title": "Strong Gravity Effects on <math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si1.svg\" class=\"math\"><msup><mi mathvariant=\"script\">R</mi><mn>2</mn></msup></math>-corrected Single Scalar Field Inflation and Compatibility with the ACT Data",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269325007300?dgcid=rss_sd_all",
-      "authors": "Unknown",
-      "source": "Physics Letters B",
-      "summary": "Publication date: Available online 24 October 2025Source: Physics Letters BAuthor(s): V.K. Oikonomou"
-    },
-    {
-      "title": "Investigating the role of nuclear parameters in Neutron Star oscillations: a model comparison",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0375947425002532?dgcid=rss_sd_all",
-      "authors": "Unknown",
-      "source": "Nuclear Physics A",
-      "summary": "Publication date: Available online 24 October 2025Source: Nuclear Physics AAuthor(s): Rajesh Maiti, Debarati Chatterjee"
+      "summary": "Publication date: Available online 26 October 2025Source: Physics Letters BAuthor(s): G. Amelino-Camelia, G. Fabiano, D. Frattulillo, F. Mercati"
     }
   ]
 }
