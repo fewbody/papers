@@ -1,89 +1,26 @@
 {
-  "lastUpdated": "2025-11-08T02:20:10.344809",
+  "lastUpdated": "2025-11-09T02:29:49.112034",
   "papers": [
     {
-      "title": "Predictions of baryon directed flow in heavy-ion collisions at high baryon density",
-      "link": "https://arxiv.org/abs/2511.04204",
-      "authors": "Yuri B. Ivanov",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2511.04204v1 Announce Type: new \nAbstract: Predictions of the proton directed flow ($v_1$) in semicentral Au+Au collisions in the energy range between 4.5 and 7.7 GeV are done. The calculations are performed within the model of three-fluid dynamics with crossover equation of state, which well reproduces the proton $v_1$ both below 4.5 GeV and above 7.7 GeV, as well as bulk observables in the energy range of interest. It is predicted that the proton flow evolves non-monotonously. At the energy of 7.2 GeV it exhibits antiflow (i.e. negative slope of $v_1(y)$) in the midrapidity. At 7.7 GeV, the flow returns to the normal pattern in accordance with the STAR data. The midrapidity $v_1$-slope excitation functions within the first-order phase and crossover transitions to quark-gluon phase (QGP) turn out to be qualitatively similar, but the amplitude of the wiggle in the crossover scenario is much smaller than that in the strong first-order phase transition. Therefore, the change of sign followed by minimum at 7.2 GeV in the $v_1$-slope excitation function indicates onset of (weak phase or crossover) transition to QGP. The second change of the sign at 11.5 GeV apparently results from interplay between incomplete baryon stopping and transverse expansion of the system."
+      "title": "Unconventional $^{67}\\mathrm{Cu}$ production using high-energy bremsstrahlung and cross section evaluation",
+      "link": "http://link.aps.org/doi/10.1103/954z-cn34",
+      "authors": "M. Eslami, D. G. Jenkins, and M. Bashkanov",
+      "source": "Physical Review C",
+      "summary": "Author(s): M. Eslami, D. G. Jenkins, and M. BashkanovPhotons in high-energy probe beams that pass through their intended target can be “reused” for making promising nuclides in nuclear medicine, new experiments show.[Phys. Rev. C 112, 054603] Published Fri Nov 07, 2025"
     },
     {
-      "title": "Chiral-scale effective field theory for dense and thermal systems",
-      "link": "https://arxiv.org/abs/2511.04353",
-      "authors": "Jia-Ying Xiong, Yao Ma, Bing-Kai Sheng, Yong-Liang Ma",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2511.04353v1 Announce Type: new \nAbstract: We established a new power counting scheme, chiral-scale density counting (CSDC) rules, for the application of the chiral-scale effective field theory to nuclear matter at finite densities and temperatures. Within this framework, the free fermion gas is at the leading order, while one-boson-exchange interactions appear at the next-to-leading order, and the multi-meson couplings are at higher orders. Then, we applied the CSDC rules to study the nuclear matter properties, and estimated the valid regions of the CSDC rules. It was found that the zero temperature symmetric nuclear matter properties around saturation density and the critical temperature of liquid-gas phase transition can be captured by an appropriate choice of CSDC orders, and the results beyond these regions are align with the chiral nuclear force. Moreover, the evolution of scale symmetry was found to be consistent with previous studies. The results of this work indicate that the quantum corrections may be crucial in the studies of nuclear matter in a wide density region."
-    },
-    {
-      "title": "The size of the quark-gluon plasma in ultracentral collisions: impact of initial density fluctuations on the average transverse momentum",
-      "link": "https://arxiv.org/abs/2511.04605",
-      "authors": "Fabian Zhou, Giuliano Giacalone, Jean-Yves Ollitrault",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2511.04605v1 Announce Type: new \nAbstract: Recent experiments have shown that the mean transverse momentum $\\langle p_T\\rangle$ of outgoing particles increases as a function of the particle multiplicity in ultracentral nucleus-nucleus collisions at collider energies. This increase was originally predicted on the basis of simulations where the multiplicity increase occurred at constant volume, so that it implied a larger density and temperature. However, recent state-of-the-art simulations have shown that, for some models of initial condition, the volume may vary with the multiplicity in ultracentral collisions. We elucidate this effect by analytically relating the variation of the volume to the radial distribution of the one- and two-point functions of the fluctuating density field. We show that the volume variation is small if the total entropy of the ultracentral collisions scales with the mass number of the colliding isotopes. We argue that probing detailed transverse distributions of initial-state fluctuations through the ultracentral $\\langle p_T\\rangle$ has nontrivial implications for models of nuclear structure and of the pre-equilibrium stages."
-    },
-    {
-      "title": "Electromagnetic and Exotic Moments in Nuclear DFT",
-      "link": "https://arxiv.org/abs/2511.04632",
-      "authors": "J. Dobaczewski, B. C. Backes, R. P. de Groote, A. Restrepo-Giraldo, X. Sun, H. Wibowo",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2511.04632v1 Announce Type: new \nAbstract: Electromagnetic interactions are important probes for studying and testing our understanding of the atomic nucleus, as they reflect emergent properties across the nuclear chart. We examine their corresponding observables, which relate to charge and current distributions in nuclei expressed through their multipole components. We focus on theoretical results obtained within nuclear density functional theory (DFT) to derive self-consistent, symmetry-restored nuclear wave functions along with their spectroscopic multipole moments. We show how these compare with experimental data. We also discuss possible improvements in the formulation of magnetic dipole operators by including two-body meson-exchange contributions. Discussions of exotic symmetry-breaking moments emphasise their importance for understanding fine details of fundamental nuclear interactions. Detailed derivations are delegated to the accompanying Supplemental Material."
-    },
-    {
-      "title": "Light new physics and the $\\tau$ lepton dipole moments",
-      "link": "https://arxiv.org/abs/2511.03786",
-      "authors": "Martin Hoferichter, Gabriele Levati",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2511.03786v1 Announce Type: cross \nAbstract: Testing New-Physics (NP) scenarios that couple predominantly to the third generation is notoriously difficult experimentally, as exemplified by comparing limits for the $\\tau$ lepton dipole moments to those of electron and muon. In this case, extracting limits from processes such as $e^+e^-\\to\\tau^+\\tau^-$ often relies on effective-field-theory (EFT) arguments, which allows for model-independent statements, but only applies if the NP scale is sufficiently large compared to the center-of-mass energy. In this work we offer a comprehensive analysis of light NP contributions to the $\\tau$ dipole moments, providing a detailed account of the interpretation of asymmetry measurements in $e^+e^-\\to\\tau^+\\tau^-$ that are tailored towards the extraction of dipole moments, for the test cases of new light spin-$0$ and spin-$1$ bosons. Moreover, we study the decoupling to the EFT limit in these scenarios and discuss the complementarity to constraints from other related processes, such as production in $e^+e^-$ reactions. While covering a wide range of light NP scenarios, as specific case study we present a detailed discussion of a tauphilic gauge vector boson at Belle II."
-    },
-    {
-      "title": "Characterizing the initial state of hydrodynamics in pp and pA collisions",
-      "link": "https://arxiv.org/abs/2511.03851",
-      "authors": "Gabriel Rabelo-Soares, Gojko Vujanovic, Giorgio Torrieri",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2511.03851v1 Announce Type: cross \nAbstract: The observation of seeming hydrodynamic-like behavior in proton-proton and proton-nucleus collisions presents us with the conceptual problem of how the initial state of such a hydrodynamic evolution should be characterized. This is an issue because, while nuclei can reasonably be approximated as ``large'' systems w.r.t. the characteristic Fermi momentum of their constituents, this is no longer true for nucleons. Hence, one would need to match a ``quantum'' theory, whose observables are described via highly non-commuting operators, to a ``classical'' hydrodynamics. Operationally assuming a ``fast'' thermalization, we survey what kind of object is best suited to such a matching condition. We show that it cannot be any of the objects usually associated with ``the 3D structure of the nucleon'' but rather a measure associated with entanglement entropy."
-    },
-    {
-      "title": "Exclusive photoproduction of a di-meson pair with large invariant mass",
-      "link": "https://arxiv.org/abs/2511.04315",
-      "authors": "Saad Nabeebaccus, David Perez, Lech Szymanowski, Samuel Wallon",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2511.04315v1 Announce Type: cross \nAbstract: We consider the exclusive photoproduction of a di-meson pair with large invariant mass, $\\gamma N \\rightarrow N' M_1M_2$, in the framework of collinear factorisation. The mesons considered $M_1$ and $M_2$ are either pions or rho mesons, charged or neutral. We consider the kinematic regime characterised by a large invariant mass of the two-meson system, and a small deflection of the nucleon in the centre-of-mass frame. In this kinematic domain, the amplitude factorises into a perturbative hard part and non-perturbative parts described by Generalised Parton Distributions (GPDs) and Distribution Amplitudes (DAs). We automate the calculation of the fully differential cross section at leading twist and leading order, and we present some numerical results at JLab 12 GeV kinematics. This class of processes provides yet more exclusive $2 \\to 3$ channels that can be used to extract GPDs."
-    },
-    {
-      "title": "Emergence of kaonium as a sharp resonance in photon-photon to meson-meson cross-sections",
-      "link": "https://arxiv.org/abs/2511.04392",
-      "authors": "Alireza Beygi, S. P. Klevansky, R. H. Lemmer",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2511.04392v1 Announce Type: cross \nAbstract: We calculate the binding energies of the hypothetical mesonic atom, $K^+ K^-$ (kaonium), using the $K^+ K^- \\to K^+ K^-$ elastic scattering amplitude. Our findings are in line with previously reported results, which involve solving an eigenvalue equation of the Kudryavtsev-Popov type. Using chiral perturbation theory, we show that kaonium manifests itself as a sharp resonance around 992 MeV accompanying $f_0 (980)$ or $a_0 (980)$ in cross-sections for processes $\\gamma \\gamma \\to \\pi^0 \\pi^0$ or $\\gamma \\gamma \\to \\pi^0 \\eta$. The latter process is particularly striking: the peak at the kaonium resonance energy is highly pronounced, with the ratio of the cross-sections $\\sigma (\\gamma \\gamma \\to \\pi^0 \\eta) / \\sigma (\\gamma \\gamma \\to \\pi^0 \\pi^0) \\approx 9$. Due to the short lifetime of kaonium ($\\sim 10^{-18}$ s) and its small decay width ($\\sim 0.4$ keV), direct detection of this exotic atom poses a significant challenge and requires high experimental resolution. However, we show that once the formation of kaonium is considered in the cross-section, a better fit to the available experimental data is obtained."
-    },
-    {
-      "title": "BIGSTICK: A flexible configuration-interaction shell-model code (updated)",
-      "link": "https://arxiv.org/abs/1801.08432",
-      "authors": "Calvin W. Johnson, W. Erich Ormand, Kenneth S. McElvain, Ryan Zbikowski, Hongzhang Shan",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:1801.08432v2 Announce Type: replace-cross \nAbstract: We present BIGSTICK, a flexible configuration-interaction open-source shell-model code for the many-fermion problem. Written mostly in Fortran 90 with some later extensions, BIGSTICK utilizes a factorized on-the-fly algorithm for computing many-body matrix elements, and has both MPI (distributed memory) and OpenMP (shared memory) parallelization, and can run on platforms ranging from laptops to the largest parallel supercomputers. It uses a flexible yet efficient many-body truncation scheme, and reads input files in multiple formats, allowing one to tackle both phenomenological (major valence shell space) and ab initio (the so-called no-core shell model) calculations. BIGSTICK can generate energy spectra, static and transition one-body densities, and expectation values of scalar operators. Using the built-in Lanczos algorithm one can compute transition probability distributions and decompose wave functions into components defined by group theory.\n  This manual provides a general guide to compiling and running BIGSTICK, which comes with numerous sample input files, as well as some of the basic theory underlying the code. Updated November 2025 to version 8.0.0"
-    },
-    {
-      "title": "The mechanism of pair transfer in multinucleon transfer reactions with a Ni beam",
-      "link": "http://iopscience.iop.org/article/10.1088/1361-6471/ae16c2",
-      "authors": "Yue-Long Zhang, Jia-Le Cao, Gen Zhang, Xiao-Ye Zhang, Zi-Long Wang, Rui Zhu and Feng-Shou Zhang",
-      "source": "Journal of Physics G: Nuclear and Particle Physics",
-      "summary": "The neutron pair transfer and proton pair transfer have been incorporated into the master equation of the dinuclear system model for the first time. The calculated isotopic cross sections with pair transfer reproduce the experimental data well in the reactions 64Ni+130Te and 64Ni+208Pb. The cross sections of the fragments increase obviously on the neutron-deficient side, but decrease slightly on the neutron-rich side considering N-pair transfer, indicating that the production of neutron-deficient nuclei is related to N-pair transfer. The mass distributions of the fragments with AP < A < AT are enhanced involving pair transfer, and the neutron pair transfer has more obvious effects than proton pair transfer on the mass distributions in the reaction 64Ni+198Pt. Comparing the mass distributions at different incident energies, the effect of pair transfer is more significant at low energies in the reaction 64Ni+94Zr."
-    },
-    {
-      "title": "A possible correction of the Saha curve for non-equilibrium states",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269325007695?dgcid=rss_sd_all",
+      "title": "Measurement of substructure-dependent suppression of large-radius jets with charged particles in Pb+Pb collisions with ATLAS",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269325006872?dgcid=rss_sd_all",
       "authors": "Unknown",
       "source": "Physics Letters B",
-      "summary": "Publication date: Available online 7 November 2025Source: Physics Letters BAuthor(s): L.L. Sales, F.C. Carvalho, H. T C M Souza"
+      "summary": "Publication date: Available online 7 November 2025Source: Physics Letters BAuthor(s): The ATLAS Collaboration, G. Aad, E. Aakvaag, B. Abbott, S. Abdelhameed, K. Abeling, N.J. Abicht, S.H. Abidi, M. Aboelela, A. Aboulhorma, H. Abramowicz, Y. Abulaiti, B.S. Acharya, A. Ackermann, C. Adam Bourdarios, L. Adamczyk, S.V. Addepalli, M.J. Addison, J. Adelman, A. Adiguzel, T. Adye"
     },
     {
-      "title": "Marginal IR running of gravity as a natural explanation for Dark Matter",
-      "link": "https://www.sciencedirect.com/science/article/pii/S037026932500766X?dgcid=rss_sd_all",
+      "title": "Electromagnetic moments of <math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si1.svg\" class=\"math\"><msup><mrow></mrow><mrow><mn>215</mn><mo>,</mo><mn>217</mn></mrow></msup></math>Bi: Probing shell evolution beyond <math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si15.svg\" class=\"math\"><mrow><mi>N</mi><mo linebreak=\"goodbreak\">=</mo><mn>126</mn></mrow></math>",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269325007713?dgcid=rss_sd_all",
       "authors": "Unknown",
       "source": "Physics Letters B",
-      "summary": "Publication date: Available online 6 November 2025Source: Physics Letters BAuthor(s): Naman Kumar"
+      "summary": "Publication date: Available online 7 November 2025Source: Physics Letters BAuthor(s): A.N. Andreyev, A. Barzakh, M.D. Seliverstov, Z. Yue, Menglan Liu, Cenxi Yuan, A. Algora, B. Andel, S. Antalic, M. Al Monthery, D. Atanasov, J. Benito, G. Benzoni, T. Berry, M.L. Bissell, K. Blaum, M. J G Borge, K. Chrysalidis, C. Clisu, T.E. Cocolios"
     }
   ]
 }
