@@ -1,26 +1,96 @@
 {
-  "lastUpdated": "2025-11-10T02:44:01.973754",
+  "lastUpdated": "2025-11-11T02:28:50.635666",
   "papers": [
     {
-      "title": "SymTFTs for Continuous non-Abelian Symmetries",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269325007683?dgcid=rss_sd_all",
-      "authors": "Unknown",
-      "source": "Physics Letters B",
-      "summary": "Publication date: Available online 9 November 2025Source: Physics Letters BAuthor(s): Federico Bonetti, Michele Del Zotto, Ruben Minasian"
+      "title": "Relativistic Green's function in complex momentum representation for one-proton emission",
+      "link": "http://link.aps.org/doi/10.1103/67kw-n15q",
+      "authors": "Zhe Wang, Shu-Yuan Zhai, Jian-You Guo, and Quan Liu",
+      "source": "Physical Review C",
+      "summary": "Author(s): Zhe Wang, Shu-Yuan Zhai, Jian-You Guo, and Quan LiuWe present a novel relativistic Green's function approach formulated in the complex momentum representation (CGF), implemented within three theoretical frameworks: the Dirac equation, the relativistic point-coupling (RMFpc) model, and the relativistic mean-field (RMF) theory. The method provides rig…[Phys. Rev. C 112, 054306] Published Mon Nov 10, 2025"
     },
     {
-      "title": "Cornering Natural SUSY at a Tera-<math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si19.svg\" class=\"math\"><mi>Z</mi></math> Factory",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269325007671?dgcid=rss_sd_all",
-      "authors": "Unknown",
-      "source": "Physics Letters B",
-      "summary": "Publication date: Available online 8 November 2025Source: Physics Letters BAuthor(s): Admir Greljo, Ben A. Stefanek, Alessandro Valenti"
+      "title": "Genetic-algorithm-based inverse potentials for resonant states of $α\\text{−}^{12}\\mathrm{C}$ using the variable phase approach",
+      "link": "http://link.aps.org/doi/10.1103/zfbk-tn8m",
+      "authors": "Ayushi Awasthi, Arushi Sharma, Barbie, Ishwar Kant, and O. S. K. S. Sastri",
+      "source": "Physical Review C",
+      "summary": "Author(s): Ayushi Awasthi, Arushi Sharma, Barbie, Ishwar Kant, and O. S. K. S. SastriElastic scattering between $α$ particles and $^{12}\\mathrm{C}$ nuclei plays a crucial role in understanding resonance phenomena in light nuclear systems. In this work, we construct inverse potentials for resonant states in $α\\text{−}^{12}\\mathrm{C}$ elastic scattering using the variable phase approa…[Phys. Rev. C 112, 054604] Published Mon Nov 10, 2025"
     },
     {
-      "title": "Isomeric yield ratios and mass spectrometry of Y and Nb isotopes in the neutron-rich N=60 region: the unusual case of <sup>98</sup>Y",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269325007701?dgcid=rss_sd_all",
+      "title": "Role of a universal function of the nuclear proximity potential: A systematic study of $α$ decay of heavy and superheavy nuclei and $α$-induced reactions",
+      "link": "http://link.aps.org/doi/10.1103/x48g-zd24",
+      "authors": "S. Mohammadi, R. Gharaei, and S. A. Alavi",
+      "source": "Physical Review C",
+      "summary": "Author(s): S. Mohammadi, R. Gharaei, and S. A. AlaviThe idea of the universal function is a fundamental advantage of the proximity potential model. In recent years, several formulas for this function have been given in the framework of the original proximity potential of 1977 (Prox 77). We present a systematic study of the role of the universal funct…[Phys. Rev. C 112, 054605] Published Mon Nov 10, 2025"
+    },
+    {
+      "title": "Spin polarization of $\\mathrm{Λ}$ hyperons from dissipative spin hydrodynamics",
+      "link": "http://link.aps.org/doi/10.1103/1s6g-fs8w",
+      "authors": "Sapna, Sushant K. Singh, and David Wagner",
+      "source": "Physical Review C",
+      "summary": "Author(s): Sapna, Sushant K. Singh, and David WagnerWe present a framework for spin dynamics in the quark-gluon plasma created in relativistic heavy-ion collisions. Under the approximation of small polarization, macroscopic spin degrees of freedom decouple from the background, and their evolution equations and transport coefficients have been compute…[Phys. Rev. C 112, 054902] Published Mon Nov 10, 2025"
+    },
+    {
+      "title": "Extrapolation to infinite model space of no-core shell model calculations using machine learning",
+      "link": "https://arxiv.org/abs/2511.05061",
+      "authors": "Aleksandr Mazur, Roman Sharypov, Andrey Shirokov",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2511.05061v1 Announce Type: new \nAbstract: An ensemble of neural networks is employed to extrapolate no-core shell model (NCSM) results to infinite model space for light nuclei. We present a review of our neural network extrapolations of the NCSM results obtained with the Daejeon16 NN interaction in different model spaces and with different values of the NCSM basis parameter $\\hbar\\Omega$ for energies of nuclear states and root-mean-square (rms) radii of proton, neutron and matter distributions in light nuclei. The method yields convergent predictions with quantifiable uncertainties. Ground-state energies for $^{6}$Li, $^{6}$He, and the unbound $^{6}$Be, as well as the excited $(3^{+},0)$ and $(0^{+},1)$ states of $^{6}$Li, are obtained within a few hundred keV of experiment. The extrapolated radii of bound states converge well. In contrast, radii of unbound states in $^{6}$Be and $^{6}$Li do not stabilize."
+    },
+    {
+      "title": "Effective Field Theories for Neutron Stars Physics",
+      "link": "https://arxiv.org/abs/2511.04737",
+      "authors": "J. M. Alarc\\'on, E. Lope-Oter, Y. Cano",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2511.04737v1 Announce Type: cross \nAbstract: There is an increasing interest in the community for the Neutron Stars and what we can learn from them. In this review we show how chiral effective field theory, combined with many-body methods, can provide important results that connect Neutron Star properties at zero temperature to nuclear physics and allows to use these compact objects as laboratories of new physics."
+    },
+    {
+      "title": "Neutrino-Nucleus Scattering Cross Sections at Medium Energies",
+      "link": "https://arxiv.org/abs/2511.05413",
+      "authors": "Vishvas Pandey",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2511.05413v1 Announce Type: cross \nAbstract: The weak interactions of neutrinos with other Standard Model particles are well described within the Standard Model of particle physics. However, modern accelerator-based neutrino experiments employ nuclei as targets, where neutrinos interact with bound nucleons, turning a seemingly simple electroweak process into a complex many-body problem in nuclear physics. At the time of writing this Encyclopedia of Particle Physics chapter, neutrino-nucleus interactions remain one of the leading sources of systematic uncertainty in accelerator-based neutrino oscillation measurements.\n  This chapter provides a pedagogical overview of neutrino interactions with nuclei in the medium-energy regime, spanning a few hundred MeV to several GeV. It introduces the fundamental electroweak formalism, outlines the dominant interaction mechanisms - including quasielastic scattering, resonance production, and deep inelastic scattering - and discusses how nuclear effects such as Fermi motion, nucleon-nucleon correlations, meson-exchange currents, and final-state interactions modify observable cross sections. The chapter also presents a brief survey of the foundational and most widely used theoretical models for neutrino-nucleus cross sections, together with an overview of current and upcoming accelerator-based neutrino oscillation experiments that are shaping the field.\n  Rather than targeting experts, this chapter serves as a primer for advanced undergraduates, graduate students, and early-career researchers entering the field. It provides a concise foundation for understanding neutrino-nucleus scattering, its relevance to oscillation experiments, and its broader connections to both particle and nuclear physics."
+    },
+    {
+      "title": "The $Z\\alpha^2$ correction to superallowed beta decays in effective field theory and implications for $|V_{ud}|$",
+      "link": "https://arxiv.org/abs/2511.05446",
+      "authors": "Zehua Cao, Richard J. Hill, Ryan Plestid, Peter Vander Griend",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2511.05446v1 Announce Type: cross \nAbstract: Superallowed ($0^+\\rightarrow0^+$) beta decays currently provide the most precise extraction of quark mixing in the Standard Model. Their interpretation as a measurement of $|V_{ud}|$ relies on a reliable first-principles computation of QED radiative corrections expressed as a series in $Z\\alpha$ and $\\alpha$. In this work, we provide the first model-independent result for two-loop, $O(Z\\alpha^2)$, long-distance radiative corrections where the nuclei are treated as heavy point-like particles.\n  We use renormalization group analysis to obtain new results at $O(Z\\alpha^3)$ for the coefficient of double-logarithms in the ratio of the maximal beta energy to the inverse nuclear size, $\\Em/R^{-1}$. We use the Kinoshita-Lee-Nauenberg theorem to obtain new results at $O(Z^2\\alpha^3)$ for the coefficient of logarithms in the ratio of maximal beta energy to the electron mass, $\\log(2\\Em/\\me)$. We identify a structure-dependent, and therefore short-distance, contribution to the traditional $Z\\alpha^2$ correction that should be revisited.. We provide the first comprehensive update to the long-distance corrections in almost forty years and comment on the impact of our findings for extractions of $|V_{ud}|$. We find that shifts in the long-distance corrections are $2.5\\times$ larger than past estimates of their uncertainty, $1.5\\times$ larger than the statistical uncertainty from the combined fit of superallowed decays, and about $1/2$ the size of estimated systematic error, which stems dominantly from nuclear structure effects."
+    },
+    {
+      "title": "Radiative corrections to superallowed beta decays at $\\mathcal O(\\alpha^2 Z)$",
+      "link": "https://arxiv.org/abs/2511.05481",
+      "authors": "\\`Oscar L. Crosas, Emanuele Mereghetti",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2511.05481v1 Announce Type: cross \nAbstract: We compute $\\mathcal O(\\alpha^2 Z)$ radiative corrections to superallowed $\\beta$ decays with a heavy-particle effective field theory that systematically describes the interactions of low-energy ultrasoft photons with nuclei. We calculate two-loop virtual and one-loop real-virtual amplitudes by reducing the Feynman integrals to a set of master integrals, which we solve analytically using a variety of techniques. These techniques can be applied to other phenomenologically interesting observables. The ultrasoft corrections can then be combined with contributions arising from the exchange of potential photons to obtain the complete $\\mathcal O(\\alpha^2 Z)$ correction to the decay rate, with resummation of large logarithms of the electron energy times the nuclear radius. We find that $\\mathcal O(\\alpha^2 Z)$ ultrasoft loops induce a relative correction to the decay rate that ranges from $0.7 \\cdot 10^{-3}$ in the decay of $^{10}$C to $3.6 \\cdot 10^{-3}$ in the decay of $^{54}$Co, and will thus impact the extraction of $V_{ud}$ at the permille level. We show that the inclusion of these corrections reduces the residual renormalization scale dependence of the decay rate to a negligible level, making missing ultrasoft perturbative corrections a subdominant source of theoretical error."
+    },
+    {
+      "title": "Probing Nucleon-<math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si43.svg\" class=\"math\"><msub><mstyle mathvariant=\"normal\"><mi>Ω</mi></mstyle><mrow><mrow><mi mathvariant=\"normal\">c</mi></mrow><mi>c</mi><mi>c</mi></mrow></msub></math> Interaction via Lattice QCD at Physical Quark Masses",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269325007567?dgcid=rss_sd_all",
       "authors": "Unknown",
       "source": "Physics Letters B",
-      "summary": "Publication date: Available online 8 November 2025Source: Physics Letters BAuthor(s): Simone Cannarozzo, Stephan Pomp, Anu Kankainen, Iain Moore, Marek Stryjczyk, Ali Al-Adili, Andreas Solders, Ville Virtanen, Tommi Eronen, Zhihao Gao, Zhuang Ge, Arthur Jaries, Mattias Lantz, Maxime Mougeot, Heikki Penttil, Andrea Raggio, Jouni Ruotsalainen"
+      "summary": "Publication date: Available online 9 November 2025Source: Physics Letters BAuthor(s): Liang Zhang, Takumi Doi, Yan Lyu, Tetsuo Hatsuda, Yu-Gang Ma"
+    },
+    {
+      "title": "The role of torsion in holographic conductivity",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269325007762?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: Available online 9 November 2025Source: Physics Letters BAuthor(s): Dušan Đorđević, Ivana Đorđević, Aleksandra Gočanin, Dragoljub Gočanin"
+    },
+    {
+      "title": "Melting down a tetraquark: <math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si11.svg\" class=\"math\"><mrow><msup><mi>D</mi><mo>*</mo></msup><msup><mi>D</mi><mrow><mo>(</mo><mo>*</mo><mo>)</mo></mrow></msup></mrow></math> interactions and <math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si12.svg\" class=\"math\"><mrow><msub><mi>T</mi><mrow><mi>c</mi><mi>c</mi></mrow></msub><msup><mrow><mo>(</mo><mn>3875</mn><mo>)</mo></mrow><mo>+</mo></msup></mrow></math> in a hot environment",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269325007786?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: Available online 9 November 2025Source: Physics Letters BAuthor(s): V. Montesinos, G. Montana, M. Albaladejo, J. Nieves, L. Tolos"
+    },
+    {
+      "title": "Spectroscopic investigation of states in 136Ba via the 137Ba(3He,a) reaction",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0375947425002581?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Nuclear Physics A",
+      "summary": "Publication date: Available online 10 November 2025Source: Nuclear Physics AAuthor(s): M. Kamil, S. Triambak, G.C. Ball, V. Bildstein, C. Burbadge, A. Diaz Varela, T. Faestermann, P.E. Garrett, R. Hertenberger, K.G. Leach, F. Ghazi Moradi, N.J. Mukwevho, B.M. Rebeiro, M. Scheck, H.-F. Wirth"
     }
   ]
 }
