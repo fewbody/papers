@@ -1,180 +1,26 @@
 {
-  "lastUpdated": "2025-11-15T02:24:11.655744",
+  "lastUpdated": "2025-11-16T02:44:09.147043",
   "papers": [
     {
-      "title": "Dirac-Brueckner-Hartree-Fock approach for proton radioactivity of spherical proton emitters",
-      "link": "http://link.aps.org/doi/10.1103/w56q-x6dp",
-      "authors": "Yin Fan, Xiao-Dong Sun, Leng-Jun Liao, Xiao Liu, Dong-Meng Zhang, Xiao-Hua Li, and Ming Li",
-      "source": "Physical Review C",
-      "summary": "Author(s): Yin Fan, Xiao-Dong Sun, Leng-Jun Liao, Xiao Liu, Dong-Meng Zhang, Xiao-Hua Li, and Ming LiIn this study, based on the two-potential approach (TPA), we systematically investigate the proton radioactivity half-lives of 32 spherical nuclei with $69≤Z≤81$ from the ground and/or isomeric state. While the nuclear potential of the emitted proton-daughter nucleus is obtained by using the Dirac-B…[Phys. Rev. C 112, 054311] Published Fri Nov 14, 2025"
-    },
-    {
-      "title": "Weak-charge radius of $^{40}\\mathrm{Ar}$: From CREX constraints to $\\mathrm{CE}ν\\mathrm{NS}$ sensitivity",
-      "link": "http://link.aps.org/doi/10.1103/9kfd-9zk6",
-      "authors": "J. Piekarewicz",
-      "source": "Physical Review C",
-      "summary": "Author(s): J. PiekarewiczDespite significant theoretical efforts, the CREX-PREX dilemma remains unresolved, preventing the reliable prediction of neutron (or weak-charge) radii that, besides their intrinsic nuclear-structure interest, often serve to quantify the impact of nuclear uncertainties in searches for new physics. C…[Phys. Rev. C 112, 054312] Published Fri Nov 14, 2025"
-    },
-    {
-      "title": "Production cross section and mass excess of rare fragments produced in $^{238}\\mathrm{U}$ in-flight fission by ${Q}_{g}$ systematics",
-      "link": "http://link.aps.org/doi/10.1103/cnz6-98yt",
-      "authors": "Xiao-Bao Wei, Tian-Ren Zhuo, Hui-Ling Wei, Chun-Yuan Qiao, Ya-Fei Guo, Jie Pu, Kai-Xuan Cheng, Yu-Ting Wang, Ge Ren, Wen-Ruo Wu, Yi-Bo Hao, Jiang-Bo Zhao, Zeng-Xiang Wang, and Chun-Wang Ma",
-      "source": "Physical Review C",
-      "summary": "Author(s): Xiao-Bao Wei, Tian-Ren Zhuo, Hui-Ling Wei, Chun-Yuan Qiao, Ya-Fei Guo, Jie Pu, Kai-Xuan Cheng, Yu-Ting Wang, Ge Ren, Wen-Ruo Wu, Yi-Bo Hao, Jiang-Bo Zhao, Zeng-Xiang Wang, and Chun-Wang MaThe accurate prediction of rare isotopes produced in in-flight fission of a heavy nucleus is a key question to search for new neutron-rich isotopes in the new generation of radioactive ion beam factories. Assuming that the empirical ${Q}_{g}$ scaling discovered in the projectile fragmentation reacti…[Phys. Rev. C 112, 054608] Published Fri Nov 14, 2025"
-    },
-    {
-      "title": "Systematic study of the validity of the eikonal model including uncertainties",
-      "link": "http://link.aps.org/doi/10.1103/xhgl-d14x",
-      "authors": "D. Shiu, C. Hebborn, and F. M. Nunes",
-      "source": "Physical Review C",
-      "summary": "Author(s): D. Shiu, C. Hebborn, and F. M. NunesBackground: Nuclear reactions at intermediate beam energies are often interpreted using the eikonal model. In the analysis of complex reaction probes, where few-body reaction methods are needed, the eikonal method may be used as an efficient way for describing the fragment-target reaction process.\n  Pu…\n[Phys. Rev. C 112, 054609] Published Fri Nov 14, 2025"
-    },
-    {
-      "title": "Refined shell-model calculations of the ${δ}_{C}$ correction to superallowed ${0}^{+}→{0}^{+}$ nuclear $β$ decay and standard-model implications",
-      "link": "http://link.aps.org/doi/10.1103/pwl4-7y27",
-      "authors": "L. Xayavong, N. A. Smirnova, and F. Nowacki",
-      "source": "Physical Review C",
-      "summary": "Author(s): L. Xayavong, N. A. Smirnova, and F. NowackiRefined calculations of the radial mismatch correction, ${δ}_{C2}$, to superallowed ${0}^{+}→{0}^{+}$ nuclear $β$ decay are performed using the shell model with realistic Woods-Saxon radial wave functions. Two important improvements are introduced: (i) charge radii used to constrain the length param…[Phys. Rev. C 112, 055503] Published Fri Nov 14, 2025"
-    },
-    {
-      "title": "Radii of proton emitters",
-      "link": "https://arxiv.org/abs/2511.10238",
-      "authors": "Y. R. Lin, S. M. Wang, W. Nazarewicz",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2511.10238v1 Announce Type: new \nAbstract: Nuclear radius is a fundamental structural observable that informs many properties of atomic nuclei and nuclear matter. Experimental studies of radii in dripline nuclei are in the forefront of research with radioactive ion beams. Of particular interest are charge radii of proton-unbound nuclei that will soon be approached in laser spectroscopy. In this paper, using the complex-energy approach and direct time propagation, we investigate the radius of the proton resonance whose size is ill-defined in the standard stationary quantum-mechanical description. An early-time plateau is identified during which the radius of the Gamow resonance coincides with the real-energy radius accessible experimentally. We demonstrate a non-monotonic dependence of the complex radius on decay energy and a local increase of the charge radius across the threshold (a proton halo effect)."
-    },
-    {
-      "title": "Shedding Light on (Anti-)nuclei Production with Pion-Nucleus Femtoscopy",
-      "link": "https://arxiv.org/abs/2511.10298",
-      "authors": "Li-Yuan Zhang, Che Ming Ko, Yu-Gang Ma, Qi-Ye Shou, Kai-Jia Sun, Rui Wang, Song Zhang",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2511.10298v1 Announce Type: new \nAbstract: High-energy nuclear collisions provide a unique environment for synthesizing both nuclei and antinuclei (such as $\\bar{d}$ and $\\overline{^4\\text{He}}$) at temperatures ($k_BT\\sim100$ MeV) nearly two orders of magnitude above their binding energies of a few MeV. The underlying production mechanism, whether through statistical hadronization, nucleon coalescence, or dynamical regeneration and disintegration, remains unsettled. By solving relativistic kinetic equations for pion-catalyzed reactions for deuteron regeneration and disintegration ($\\pi NN \\leftrightarrow \\pi d$) in $pp$ collisions at $\\sqrt{s}=13$ TeV, we find pronounced peaks in the femtoscopic momentum correlations of both $\\pi^+-p$ and $\\pi^+-d$ pairs. These peak structures originate from the formation of intermediate $\\Delta$ (1232) resonances, and their magnitudes agree with recent ALICE measurements when a downward in-medium $\\Delta$ mass shift of about 70 MeV/$c^2$ is included. In contrast, the nucleon coalescence model reproduces only about half of the observed peak strength, and the statistical hadronization model predicts no resonance feature. These findings from pion-nucleus femtoscopy provide compelling evidence that pion-catalyzed reactions play a dominant role in the production of light (anti-)nuclei in high-energy nuclear collisions and cosmic rays."
-    },
-    {
-      "title": "Emulation of Proton-Deuteron Scattering via the Reduced Basis Method and Active Learning: Detailed Description",
-      "link": "https://arxiv.org/abs/2511.10420",
-      "authors": "Alex Gnech, Xilin Zhang, Christian Drischler, R. J. Furnstahl, Alessandro Grassi, Alejandro Kievsky, Laura E. Marcucci, Michele Viviani",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2511.10420v1 Announce Type: new \nAbstract: Nucleon-deuteron ($Nd$) scattering can be used to constrain three-nucleon forces in chiral effective field theory ($\\chi$EFT). However, high-fidelity calculations, such as the Hyperspherical Harmonic (HH) method, are computationally expensive, making it difficult or even prohibitive to explore the vast parameter space of $\\chi$EFT\\xspace. To address this challenge, specifically for proton-deuteron ($pd$) scattering below the deuteron breakup threshold, we developed model-driven emulators based on the Reduced Basis Method (RBM) and active learning techniques, as presented in \\href{https://arxiv.org/abs/2511.01844}{arXiv:2511.01844}. The method exploits the similarities between solutions at different parameter points to significantly reduce computational costs. In this companion paper, we provide a comprehensive description of our HH-based high-fidelity calculations and implementation of both variational-method-based and Galerkin-projection-based scattering emulators. We demonstrate the effectiveness of active learning in the form of greedy algorithms for selecting optimal training points in the parameter space, and the high accuracy and speed of the emulators, for two different nucleon forces and two scattering channels (${1/2}^+$ and ${1/2}^-$). For example, in a two-dimensional parameter space, the relative emulation errors can be reduced to $10^{-7}$ with fewer than 10 training points. Our work paves the way for the efficient calibration of $\\chi$EFT\\xspace nucleon interactions using Bayesian statistics, and the methodology can be applied to other nuclear scattering processes (including neutron-deuteron scattering), as well as other finite quantum systems."
-    },
-    {
-      "title": "Friction terms in multi-fluid description of heavy-ion collisions",
-      "link": "https://arxiv.org/abs/2511.10487",
-      "authors": "Clemens Werthmann, Iurii Karpenko, Pasi Huovinen",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2511.10487v1 Announce Type: new \nAbstract: In multi-fluid description of heavy-ion collisions, the primary scatterings and particle production are described in terms of interaction between fluids, so called friction. These friction terms can be derived from kinetic theory, but they are not unique. We compare different approaches to derive the friction terms, introduce a new ``charge transfer\" friction, which allows to move charge to the midrapidity fireball, and implement them in the MUFFIN model. The charge transfer friction is more consistent with the assumption of three fluids clearly separated in momentum space, and allows better comparisons of the experimental data and underlying equation of state. It also leaves room for entropy generation due to dissipation in individual fluids, and we present the first results obtained using viscous multi-fluid dynamics."
-    },
-    {
-      "title": "Non-Resonant Alpha-Induced Neutron-Emission: A Multi- Method Comparison Of Nuclear Reaction Rates",
-      "link": "https://arxiv.org/abs/2511.10536",
-      "authors": "Bhavay Luthra, N. J. Upadhyay",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2511.10536v1 Announce Type: new \nAbstract: The precise calculation of alpha-induced neutron-emission ($\\alpha$,n) reaction rates is fundamental to understanding nucleosynthesis in diverse stellar environments. This study investigates the nuclear reaction rates for various non-resonant alpha-induced neutron-emission reactions by employing analytical, theoretical, and computational methods. We have adopted analytical expressions from existing literature, and for the computational approach, we have implemented the Monte Carlo method. To better understand the functionality and validate the established open-source Monte Carlo scripts, we also developed our own computational code and used it to test various aspects of the method. A comprehensive comparison of the reaction rates from each method is presented by plotting their dependency on temperature."
-    },
-    {
-      "title": "The Non-thermal Energy Window for Laser-Driven Nuclear Reactions",
-      "link": "https://arxiv.org/abs/2511.06657",
-      "authors": "Eunseok Hwang, Heamin Ko, Myung-Ki Cheoun, Dukjae Jang",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2511.06657v1 Announce Type: cross \nAbstract: Astrophysical nuclear reaction rates in stellar environments are governed by the Gamow window, where Maxwell-Boltzmann distributions and quantum tunneling probabilities combine to produce effective reactivity. However, this conventional formulation is inadequate for the non-thermal ion distributions generated in ultra-intense laser-plasma interactions. Here, we introduce an analytical framework, based on a Target Normal Sheath Acceleration (TNSA) mechanism, to evaluate nuclear reaction rates under these non-equilibrium conditions. We identify a new effective energy window and analytical expression of the fusion reactivity distinct from the conventional Gamow window, providing a predictive tool for laboratory astrophysics experiments designed to replicate astrophysical nuclear processes using laser-driven nuclear reactions."
-    },
-    {
-      "title": "Gauged Soft Recursion: On-Shell Construction of Goldstone-Gauge Amplitudes",
-      "link": "https://arxiv.org/abs/2511.09403",
-      "authors": "Ian Low, Ming-Lei Xiao, Yu-Hui Zheng",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2511.09403v1 Announce Type: cross \nAbstract: We present a new on-shell recursion relation for scattering amplitudes involving Nambu-Goldstone bosons with a gauged unbroken symmetry. A central challenge is that gauge interactions break Adler's zero condition for charged scalars, invalidating the standard soft recursion. To overcome this, we introduce a ``gauged soft recursion'' that leverages the soft theorems of the gauge bosons themselves, combined with a novel decomposition of amplitudes into gauge-invariant components where Adler's zero is partially restored. The formalism, which also incorporates internal gauge bosons via angular momentum constraints, enables the systematic construction of tree-level amplitudes with arbitrary numbers of Goldstone bosons and gauge bosons in both Abelian and non-Abelian theories, as we demonstrate with explicit examples."
-    },
-    {
-      "title": "Geometry Induced Chiral Transport and Entanglement in $AdS_2$ Background",
-      "link": "https://arxiv.org/abs/2511.09714",
-      "authors": "Kazuki Ikeda, Yaron Oz",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2511.09714v1 Announce Type: cross \nAbstract: We study the real-time chiral dynamics of Dirac fermions in AdS$_2$ and AdS$_2$ black hole backgrounds. The spacetime curvature generates a spin connection term, acting as an effective magnetic field and a position-dependent chiral chemical potential. This leads to strongly asymmetric wave propagation, confined within an inhomogeneous Lieb-Robinson cone. The front velocities decrease with increasing fermion mass and horizon radius. Entanglement growth occurs inside the causal cone, and saturates through a string-breaking mechanism driven by screening excitations. In dipole-dipole scattering, the central bipartite entropy rises when the inward Lieb-Robinson fronts intersect, forming a bright ridge in the local entanglement profile. Charge and current correlators peak at the front arrival, providing a real-time diagnostic of chiral transport. These results establish a causality-respecting framework, linking curvature and horizons to transport and entanglement in (1+1)-dimensional fermionic matter."
-    },
-    {
-      "title": "CP violation",
-      "link": "https://arxiv.org/abs/2511.09739",
-      "authors": "Alexey A Petrov",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2511.09739v1 Announce Type: cross \nAbstract: CP violation, which involves breaking the combined charge-conjugation (C) and parity (P) symmetries, is essential for understanding the observed matter-antimatter asymmetry in the universe. It is a key feature of the Standard Model, originating from complex phases in the Cabibbo-Kobayashi-Maskawa quark mixing matrix. Despite the successes of the SM, the amount of CP violation it predicts is not enough to explain baryogenesis, prompting searches for new sources of CP violation in other areas of particle physics. This article offers a pedagogical introduction to the theoretical foundations of C, P, and T symmetries and their combinations. It also emphasizes the importance of CP violation in modern particle physics and how it can be used to explore New Physics."
-    },
-    {
-      "title": "Generalized Gross-Pitaevskii Equation for 2D Bosons with Attractive Interactions",
-      "link": "https://arxiv.org/abs/2511.10115",
-      "authors": "Micha{\\l} Suchorowski, Fabian Brauneis, Hans-Werner Hammer, Micha{\\l} Tomza, Artem G. Volosniev",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2511.10115v1 Announce Type: cross \nAbstract: We introduce and investigate a generalized Gross-Pitaevskii equation for two-dimensional (2D) attractive Bose systems. First, we demonstrate that it accurately captures key properties of universal bound states in free space commonly referred to as quantum droplets. We then apply the framework to predict the existence of universal excited states, including vortex configurations, which may be more accessible to experimental investigation than the ground state. Additionally, we investigate breathing modes and quench dynamics in trapped geometries. Our results establish a robust theoretical foundation for exploring both static and dynamical phenomena in finite 2D Bose systems, offering guidance for the design of future experimental protocols."
-    },
-    {
-      "title": "Possible $K \\bar{K}^*$ and $D \\bar{D}^*$ resonances by solving Schr\\\"odinger equation",
-      "link": "https://arxiv.org/abs/2511.10145",
-      "authors": "Bao-Xi Sun, Qin-Qin Cao, Ying-Tai Sun",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2511.10145v1 Announce Type: cross \nAbstract: The one-pion exchange interaction between the kaon and the vector antikaon is investigated by solving the Schr\\\"odinger equation in the S-wave approximation. In addition to the particle $f_1(1285)$, another bound state of $K \\bar{K}^*$ is obtained, which is approximately 9 MeV below the threshold of $K \\bar{K}^*$ and labeled $f_1(1378)$ for convenience in this manuscript. Under the outgoing wave condition, two resonance states of $K \\bar{K}^*$ are produced with different coupling constants fixed with the binding energies of $f_1(1285)$ and $f_1(1378)$, respectively. Both of the resonance states are located in the vicinity of 1400 MeV, and thus it is reasonable to assume that these two resonance states correspond to the $f_1(1420)$ particle in the review of the Particle Data Group simultaneously. This method is extended to study the $D \\bar{D}^*$ system analogously. When the particle $\\chi_{c1}(3872)$ is treated as a bound state of $D \\bar{D}^*$, the particles $T_{c\\bar{c}1}(3900)$, $T_{c \\bar{c}}(4020)$ and $X(3940)$ can be obtained as solutions of the Schr\\\"odinger equation under the outgoing wave condition, which implies the spin and parity of these particles are all $J^P=1^+$."
-    },
-    {
-      "title": "Non-Hermitian Quantum Mechanics Approach for Extracting and Emulating Continuum Physics Based on Bound-State-Like Calculations",
-      "link": "https://arxiv.org/abs/2408.03309",
-      "authors": "Xilin Zhang",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2408.03309v2 Announce Type: replace \nAbstract: This work introduces a unified emulation framework for studying continuum physics in finite quantum systems. Using a reduced basis method, we construct powerful emulators for the inhomogeneous Schr\\\"{o}dinger equation that operate in a combined parameter space of complex energy ($E$) and other inputs ($\\bm{\\theta}$). Within the space, the emulators simultaneously perform analytical continuation in $E$ -- extracting continuum physics from numerically simpler bound-state-like calculations -- and interpolate this entire process across $\\bm{\\theta}$. This yields a small, non-Hermitian system whose properties (e.g., resonances and scattering observables) can be rapidly predicted for any $\\bm{\\theta}$. Crucially, the complex-$E$ emulation provides a pathway to compute continuum observables for complex systems where advanced bound-state methods exist but direct continuum calculations are yet to be developed, while the $\\bm{\\theta}$-emulation enables rapid parameter-space exploration and can be adapted to accelerate other existing continuum calculations. Demonstrations with two- and three-body systems highlight the method's effectiveness and suggest its connection to (near-)optimal rational approximation. This Letter presents the key results, with further details reserved for a companion paper."
-    },
-    {
-      "title": "Non-Hermitian quantum mechanics approach for extracting and emulating continuum physics based on bound-state-like calculations: Detailed description",
-      "link": "https://arxiv.org/abs/2411.06712",
-      "authors": "Xilin Zhang",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2411.06712v2 Announce Type: replace \nAbstract: This work applies a reduced basis method to study the continuum physics of a finite quantum system -- either few or many-body. Specifically, I develop reduced-order models, or emulators, for the underlying inhomogeneous Schr\\\"{o}dinger equation and train the emulators against the equation's bound-state-like solutions at complex energies. The emulators rapidly and accurately interpolate and extrapolate the matrix elements of the Hamiltonian resolvent operator (Green's function) across a parameter space that includes both complex energy and other real-valued physical inputs in the Schr\\\"{o}dinger equation. The spectra, discretized and compressed as the result of emulation, and the associated resolvent matrix elements (or amplitudes), have the defining characteristics of non-Hermitian quantum mechanics calculations, featuring complex eigenenergies with negative imaginary parts and branch cuts moved below the real axis in the complex energy plane. Therefore, one now has a method that extracts continuum physics from bound-state-like calculations and emulates those extractions in the input parameter space. Building on a prior Letter [\\href{https://arxiv.org/abs/2408.03309}{[arXiv:2408.03309}], this article provides the full theoretical details, a comprehensive analysis of the method's performance, and a brief discussion of how it can be coupled with existing continuum approaches to perform emulations in their input parameter spaces."
-    },
-    {
-      "title": "Ab initio calculations of overlap integrals for $\\mu\\to e$ conversion in nuclei",
-      "link": "https://arxiv.org/abs/2412.04545",
-      "authors": "Matthias Heinz, Martin Hoferichter, Takayuki Miyagi, Frederic No\\\"el, Achim Schwenk",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2412.04545v2 Announce Type: replace \nAbstract: The rate for $\\mu\\to e$ conversion in nuclei is set to provide the most stringent test of lepton-flavor symmetry and a window into physics beyond the Standard Model. However, to disentangle new lepton-flavor-violating interactions, in combination with information from $\\mu\\to e\\gamma$ and $\\mu\\to 3e$, it is critical that uncertainties at each step of the analysis be controlled and fully quantified. In this regard, nuclear response functions related to the coupling to neutrons are notoriously problematic, since they are not directly constrained by experiment. We address these shortcomings by combining ab initio calculations with a recently improved determination of charge distributions from electron scattering by exploiting strong correlations among charge, point-proton, and point-neutron radii and densities. We present overlap integrals for $^{27}$Al, $^{48}$Ca, and $^{48}$Ti including full covariance matrices, allowing, for the first time, for a comprehensive consideration of nuclear structure uncertainties in the interpretation of $\\mu\\to e$ experiments."
-    },
-    {
-      "title": "Dissipative currents and transport coefficients in relativistic spin hydrodynamics",
-      "link": "https://arxiv.org/abs/2503.03713",
-      "authors": "Asaad Daher, Xin-Li Sheng, David Wagner, Francesco Becattini",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2503.03713v2 Announce Type: replace \nAbstract: We determine the form of dissipative currents at the first order in relativistic spin hydrodynamics with finite chemical potential including gradients of the spin potential. Taking advantage of isotropy in the hydrodynamic local rest frame, using a suitable matching condition for the flow velocity and enforcing the semi-positivity of entropy production, we find 23 dissipative transport coefficients relating dissipative currents to gradients of the thermo-hydrodynamic fields: 4 for the symmetric part of the energy-momentum tensor, 5 for the antisymmetric part, 3 for the conserved vector current, and 11 for the spin tensor. We compare our finding with previous results in literature."
-    },
-    {
-      "title": "Nuclear cross-section of the natEu(α, x) reactions up to 65 MeV: focus on the production of theranostic radioisotopes of terbium",
-      "link": "http://iopscience.iop.org/article/10.1088/1361-6471/ae1627",
-      "authors": "Michele Colucci, Etienne Nigron, Ferid Haddad, Arnaud Guertin, Eugenio Gibertini, Luca Magagnin, Flavia Maria Groppi Garlandini and Simone Manenti",
-      "source": "Journal of Physics G: Nuclear and Particle Physics",
-      "summary": "Terbium is considered a promising element for theranostic applications in nuclear medicine due to its four medically-relevant radioisotopes: 149Tb, 152Tb, 155Tb and 161Tb, each suited for different diagnostic or therapeutic uses. Despite its potential, the clinical adoption of terbium is hindered by the lack of large-scale production methods for these isotopes. This work presents the first comprehensive study of nuclear cross-sections for natEu(α, x) reactions, using europium oxide targets, in the energy range of 20–65 MeV for 155Tb production. Theoretical simulations using TALYS 1.96 were performed, highlighting the need for further model refinements. Additionally, we employed the Non-dominated Sorting Genetic algorithm II (NSGA-II) to optimize the production parameters for 155Tb on enriched 153Eu targets.These findings contribute to optimizing production routes for terbium isotopes, supporting future developments in nuclear medicine."
-    },
-    {
-      "title": "Thermodynamic relation on rotating charged black strings with arbitrary cosmological constant",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269325007749?dgcid=rss_sd_all",
+      "title": "Multifractal Analysis of Heavy-Ion Collisions at RHIC and LHC Energies",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269325007853?dgcid=rss_sd_all",
       "authors": "Unknown",
       "source": "Physics Letters B",
-      "summary": "Publication date: Available online 13 November 2025Source: Physics Letters BAuthor(s): Hai-Long Zhen, Meng-Sen Ma, Huai-Fan Li, Jian-Hua Shi, Yu-Bo Ma"
+      "summary": "Publication date: Available online 15 November 2025Source: Physics Letters BAuthor(s): Anuj Chandra, Ashwini Kumar, Sweta Singh, Shakeel Ahmad, B.K. Singh"
     },
     {
-      "title": "Long-lived quasinormal modes in the Euler-Heisenberg electrodynamics",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269325007841?dgcid=rss_sd_all",
+      "title": "Effects of (un)usual asymptotics on shadows and lensing of rotating black holes: numerical and perturbative treatments",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269325007877?dgcid=rss_sd_all",
       "authors": "Unknown",
       "source": "Physics Letters B",
-      "summary": "Publication date: Available online 13 November 2025Source: Physics Letters BAuthor(s): B.C. Lütfüoğlu"
+      "summary": "Publication date: Available online 14 November 2025Source: Physics Letters BAuthor(s): Yong Zhuang Li, Xiao-Mei Kuang"
     },
     {
-      "title": "The <em>α</em> cluster effect in the neutron-induced <em>α</em> emitting reactions of Zn nuclei",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269325007403?dgcid=rss_sd_all",
+      "title": "Effect of different density distributions and one-dimensional potential barrier for <sup>15</sup>C + <sup>12</sup>C fusion reactions at astrophysical energies",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0375947425002696?dgcid=rss_sd_all",
       "authors": "Unknown",
-      "source": "Physics Letters B",
-      "summary": "Publication date: Available online 13 November 2025Source: Physics Letters BAuthor(s): Jie Liu, Guohui Zhang, Yu M. Gledenov, Zengqi Cui, Yiwei Hu, Haofan Bai, Xichao Ruan, Jie Ren, Hanxiong Huang, Qiwen Fan, Yinlu Han, Cong Xia, Zepeng Wu, Wenkai Ren, Tieshuan Fan, Jinxiang Chen, Wentian Cao, E. Sansarbayar, G. Khuukhenkhuu, L. Krupa"
-    },
-    {
-      "title": "Quantum Improved Scale Factor Evolution and Realization of a Bouncing Universe",
-      "link": "https://www.sciencedirect.com/science/article/pii/S037026932500783X?dgcid=rss_sd_all",
-      "authors": "Unknown",
-      "source": "Physics Letters B",
-      "summary": "Publication date: Available online 13 November 2025Source: Physics Letters BAuthor(s): Anisur Rahaman"
+      "source": "Nuclear Physics A",
+      "summary": "Publication date: Available online 15 November 2025Source: Nuclear Physics AAuthor(s): Halil Basaran, Gokhan Kocak, Murat Aygun"
     }
   ]
 }
