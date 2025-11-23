@@ -1,82 +1,26 @@
 {
-  "lastUpdated": "2025-11-22T02:21:49.157645",
+  "lastUpdated": "2025-11-23T02:53:00.140138",
   "papers": [
     {
-      "title": "Constraining the Synthesis of the Lightest $p$ Nucleus $^{74}\\mathrm{Se}$",
-      "link": "http://link.aps.org/doi/10.1103/d7dr-h36j",
-      "authors": "A. Tsantiri <em>et al.</em>",
-      "source": "Physical Review Letter",
-      "summary": "Author(s): A. Tsantiri et al.We provide the first experimental cross section of the $^{73}\\mathrm{As}(p,γ)^{74}\\mathrm{Se}$ reaction to constrain one of the main destruction mechanisms of the $p$ nucleus $^{74}\\mathrm{Se}$ in explosive stellar environments. The measurement was done using a radioactive $^{73}\\mathrm{As}$ beam at…[Phys. Rev. Lett. 135, 212701] Published Thu Nov 20, 2025"
-    },
-    {
-      "title": "Ab initio calculations of monopole sum rules: From finite nuclei to infinite nuclear matter",
-      "link": "https://arxiv.org/abs/2511.15836",
-      "authors": "Francesca Bonaiti, Andrea Porro, Sonia Bacca, Achim Schwenk, Alexander Tichai",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2511.15836v1 Announce Type: new \nAbstract: We compute moments of the isoscalar monopole response of N = Z closed-shell nuclei based on chiral nucleon-nucleon plus three-nucleon interactions. We employ the random phase approximation (RPA) and two ab initio many-body approaches, the in-medium similarity renormalization group (IMSRG) and coupled-cluster theory (CC). In the IMSRG framework, the moments are obtained as ground-state expectation values, whereas in the CC approach, they are evaluated through excited-state calculations. We find good agreement between the IMSRG and CC results across all nuclei studied. RPA provides a reasonable approximation to the correlated methods if the interaction is soft. From the calculated moments, we extract average energies of the monopole response, compute finite-nucleus incompressibilities, and estimate the incompressibility of symmetric nuclear matter by a fit to a leptodermous expansion. Our extrapolated values are lower than those obtained in nuclear matter calculations with the same interactions, but the values are consistent with phenomenological ranges."
-    },
-    {
-      "title": "Post-Supernova Accretion of Light Elements onto a New-Born Neutron Star and NS 1987A",
-      "link": "https://arxiv.org/abs/2511.15913",
-      "authors": "Natalia de Jes\\'us Baz-P\\'erez, Dany Page, Simon Guichandut, Martin Nava-Callejas, Yuri Cavecchi, Andrew Cumming",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2511.15913v1 Announce Type: cross \nAbstract: We model early accretion of light elements, He, C, and O, onto a new-born neutron star using the public stellar evolution code MESA, simulating what may happen during the first few years of its life. We find that, under the appropriate conditions, significant amounts of these elements can be accreted up to densities of 10^9 g/cc without triggering a nuclear explosion that would convert them into heavy elements. These results help to understand observations that favor light elements in the atmospheres of young cooling neutron stars, as the one found in the supernova remnant Cassiopeia A, and also add support to the recent indications for the presence of a neutron star, NS 1987A, in the remnant of SN 1987A."
-    },
-    {
-      "title": "Neutron star heating vs. HST observations",
-      "link": "https://arxiv.org/abs/2511.16507",
-      "authors": "Luis E. Rodr\\'iguez, Andreas Reisenegger, Denis Gonz\\'alez-Caniulef, Crist\\'obal Petrovich, George Pavlov, S\\'ebastien Guillot, Oleg Kargaltsev, Blagoy Rangelov",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2511.16507v1 Announce Type: cross \nAbstract: Passively cooling neutron stars (NSs) should reach undetectably low surface temperatures $T_s<10^4$ K in less than $10^7$ yr. However, HST observations have revealed likely thermal UV emission from the Gyr-old millisecond pulsars PSR~J0437$-$4715 and PSR~J2124$-$3358, and from the $\\sim10^{7-8}$ yr-old classical pulsars PSR~B0950$+$08 and PSR~J0108$-$1431, implying $T_s\\sim10^5$ K and the need for heating mechanisms. We compute the thermal evolution of these NSs including rotochemical heating (RH) in the core with normal or Cooper-paired matter, vortex creep (VC) in the inner crust, and crustal heating through nuclear reactions, and compare the results with observations and with the upper limit for PSR~2144$-$3933. No single mechanism explains all sources. The high temperature of PSR~J0437$-$4715 can be reproduced by RH with a large Cooper pairing gap $\\Delta_i\\sim1.5$ MeV for either neutrons or protons, but this requires an unrealistically short initial period $P_0\\lesssim1.8$ ms to activate the same mechanism in PSR~B0950$+$08. Conversely, the latter can be explained by RH with modified Urca reactions in normal matter or by VC with an excess angular momentum $J\\sim3\\times10^{43}$ erg,s, but these models underpredict PSR~J0437$-$4715. A model combining RH with a large pairing gap and VC matches both pulsars and is consistent with the upper limits for the remaining three. It further predicts that their temperatures should lie close to these limits, suggesting that deeper or broader-wavelength observations would provide a strong test of this scenario."
-    },
-    {
-      "title": "16O + 16O fusion at sub-coulomb energies",
-      "link": "http://iopscience.iop.org/article/10.1088/1361-6471/ae1248",
-      "authors": "M Sujan Islam, M Freer, A C Merchant, Michael C Wiescher, Ian J Thompson, M Shamsuzzoha Basunia, M A Uddin, Shefael K Joarder, A S B Tariq and A K Basak",
-      "source": "Journal of Physics G: Nuclear and Particle Physics",
-      "summary": "A simple optical model (OPM) method using non-monotonic (NM) potentials characterized by a repulsive core from the microscopic theory of the Pauli-led energy-density functional (EDF) has been developed to investigate the 16O+16O fusion at sub-Coulomb energies relevant to the oxygen burning. The study involves the analysis of the experimental fusion cross-section (FCS) data in energy range 6.92 ≤ Ecm ≤ 13.83 MeV, which includes the Coulomb barrier region Ecm = 10.0–11.92 MeV. Apart from an excellent description of the existing FCS data in the studied energy range, the associated hindrance, characterized by the S-factor reaching a maximum and then gradually falling off at lower energies, so far suggested empirically for the system, is reproduced down to 4 MeV for the first time in the simple OPM. An S-factor maximum of S0 = 3.15 × 1025 MeV.b at E0 = 7.14 MeV is observed with T ≃ 2.6 GK, which conforms to the values reported for quiescent and explosive burning. Our reaction rate, deduced from the NM potential, compares well with the Caughlan and Fowler data. Dominant partial waves implicit in the observed maximum S-factor in the studied Gamow range are also explored. Our present findings, with the success of NM potentials, suggest that the nucleus–nucleus potential is non-monotonic."
-    },
-    {
-      "title": "Search for Lepton Flavor Violating Signals at the Future Electron-Proton Colliders",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269325008068?dgcid=rss_sd_all",
+      "title": "Probing symmetry energy slope with mirror nuclei: unmeasured charge radii of proton-rich nuclei from binding energies",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269325008044?dgcid=rss_sd_all",
       "authors": "Unknown",
       "source": "Physics Letters B",
-      "summary": "Publication date: Available online 21 November 2025Source: Physics Letters BAuthor(s): Anjan Kumar Barik, Atri Dey, Tousik Samui"
+      "summary": "Publication date: Available online 22 November 2025Source: Physics Letters BAuthor(s): X. Liu, W. Chen, H. He, H. Zheng, X. Xu, W. Lin, J. Han, Q. Guo, P. Ren, X. Zhang"
     },
     {
-      "title": "Ultra-relativistic journeys through compact astrophysical objects",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269325008032?dgcid=rss_sd_all",
+      "title": "Gravitational waves in minimal Maxwell <em>f</em>(<em>R</em>) gravity",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269325007968?dgcid=rss_sd_all",
       "authors": "Unknown",
       "source": "Physics Letters B",
-      "summary": "Publication date: Available online 21 November 2025Source: Physics Letters BAuthor(s): Shahar Hod"
+      "summary": "Publication date: Available online 21 November 2025Source: Physics Letters BAuthor(s): Salvatore Capozziello, Qingyu Gan"
     },
     {
-      "title": "Gamow shell model predictions for six-proton unbound nucleus <sup>20</sup>Si",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269325007889?dgcid=rss_sd_all",
-      "authors": "Unknown",
-      "source": "Physics Letters B",
-      "summary": "Publication date: Available online 21 November 2025Source: Physics Letters BAuthor(s): J.L. Wang, M.R. Xie, K.H. Li, P.Y. Wang, N. Michel, Q. Yuan, J.G. Li"
-    },
-    {
-      "title": "Effects of DESI and GW observations on <em>f</em>(<em>T</em>) gravitational baryogenesis",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269325007944?dgcid=rss_sd_all",
-      "authors": "Unknown",
-      "source": "Physics Letters B",
-      "summary": "Publication date: Available online 21 November 2025Source: Physics Letters BAuthor(s): Sai Swagat Mishra, N.S. Kavya, P.K Sahoo"
-    },
-    {
-      "title": "Renormalizable quantum field theory in curved spacetime with external two-form field",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269325007750?dgcid=rss_sd_all",
-      "authors": "Unknown",
-      "source": "Physics Letters B",
-      "summary": "Publication date: Available online 20 November 2025Source: Physics Letters BAuthor(s): Ioseph L. Buchbinder, Thomas M. Sangy, Ilya L. Shapiro"
-    },
-    {
-      "title": "The role of the screening potential in the deuteron-deuteron thermonuclear reaction rates",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0375947425002738?dgcid=rss_sd_all",
+      "title": "Investigating Entrance Channel effect through the measurement of neutron multiplicity in mass region A  ≈ 200",
+      "link": "https://www.sciencedirect.com/science/article/pii/S037594742500257X?dgcid=rss_sd_all",
       "authors": "Unknown",
       "source": "Nuclear Physics A",
-      "summary": "Publication date: Available online 20 November 2025Source: Nuclear Physics AAuthor(s): Faisal Etminan"
+      "summary": "Publication date: Available online 22 November 2025Source: Nuclear Physics AAuthor(s): Neha Dhanda, Ashok Kumar, Chetan Sharma, Amninderjeet Kaur, Basant Sura, Komal, Amit, Kiran, B.R. Behera, P. Sugathan, Akhil Jhinghan, N. Saneesh, K.S. Golda, Mohit Kumar, Rishabh Parjapati, Avitesh Agrawal, Ishika Sharma, H.P. Sharma, S.K. Chamoli, Swapna Balkrishnan"
     }
   ]
 }
