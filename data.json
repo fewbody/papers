@@ -1,12 +1,75 @@
 {
-  "lastUpdated": "2025-11-24T02:48:33.042194",
+  "lastUpdated": "2025-11-25T02:29:35.662652",
   "papers": [
     {
-      "title": "Probing maximal flavor changing $Z'$ in $U(1)_{L_\\mu-L_\\tau}$...ß at $\\mu$TRISTAN",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269325008056?dgcid=rss_sd_all",
+      "title": "Maris polarization in the ($p,pd$) reaction",
+      "link": "https://arxiv.org/abs/2511.16899",
+      "authors": "Yoshiki Chazono",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2511.16899v1 Announce Type: new \nAbstract: Proton-induced knockout reactions at intermediate energies provide a clean probe for nuclear clusters with relatively small theoretical uncertainties. The Maris polarization, which is the effective polarization of a particle inside a nucleus arising from nuclear absorption and spin-orbit coupling, has been used in proton knockout to determine the total angular momentum $j$ of the removed protons. However, its manifestation in cluster knockout remains unexplored. We theoretically demonstrate that the Maris polarization can be observed via the vector analyzing power $A_y$ of the proton-induced deuteron knockout ($p,pd$) reaction in imbalanced kinematics. We first compute the spin-correlation coefficient $C_{y,y}$ of $p$-$d$ elastic scattering, which is an elementary process, to identify suitable kinematics for the Maris polarization. We then calculate $A_y$ of the ($p,pd$) reaction at $250$~MeV in forward kinematics for deuteron-cluster orbits with $j = 1$, $2$, and $3$. The large positive $C_{y,y}$ values around $p$-$d$ scattering angles of $\\sim 40^\\circ$ are consistent with the experimental data. In the corresponding ($p,pd$) kinematics, the calculated $A_y$ is positive for $j = 3$ and negative for $j = 1$, indicating effective upward and downward polarizations of the deuterons in the nucleus, respectively. The calculated $A_y$ for $j = 2$ lies between these and is not yet fully understood. We theoretically demonstrate that the Maris polarization occurs in the ($p,pd$) reaction under imbalanced kinematics. This work will provide an indicator of the presence and orbital motion of deuteron clusters in nuclei, which have not yet been established. Further experimental and theoretical studies are required to improve the quantitative understanding of this effect, particularly for $j = 2$."
+    },
+    {
+      "title": "Scatter-Limited Hybrid Monte Carlo, Deterministic Transport with Quasi-Monte Carlo Sampling",
+      "link": "https://arxiv.org/abs/2511.16821",
+      "authors": "Johannes Krotz, Ryan G. McClarren",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2511.16821v1 Announce Type: cross \nAbstract: We present a hybrid method for time-dependent particle transport that combines Monte Carlo (MC) estimation with a deterministic discrete ordinates (\\(S_N\\)) solve, augmented by quasi-Monte Carlo (QMC) sampling. For spatial discretizations, the MC component computes a piecewise-constant (cell-averaged) solution, while the \\(S_N\\) stage employs bilinear discontinuous finite elements. By hybridizing the formulation, the MC subproblem after a prescribed scatter limit becomes scattering-free, yielding a simple and efficient streaming/attenuation procedure. Between time steps, a simple scatter-free MC step is run to relabel the $S_N$ solution as an MC solution.\n  A key feature of the approach is a tunable parameter \\(N_{s}\\) that controls how many material collisions are handled in the (Q)MC leg before handing off to the deterministic \\(S_N\\) solve; \\(N_s=0\\) recovers a purely uncollided MC leg, while \\(N_s>0\\) produces multi-scatter hybrids. QMC replaces pseudorandom draws with low-discrepancy points in the existing MC sampling maps, enabling a plug-in adoption within the standard MC code with modest, localized changes.\n  We observe significant accuracy and convergence rate improvements through the use of QMC and practically no additional computational cost, which are generally not seen in comparable non-hybrid solves. We believe the multi-scatter approach provides additional flexibility in terms of parallelization and the choice of deterministic solver."
+    },
+    {
+      "title": "Self-bound quark stars with a first-order two-to-three flavor phase transition",
+      "link": "https://arxiv.org/abs/2511.16874",
+      "authors": "G. Teruya, G. Lugones, A. G. Grunfeld",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2511.16874v1 Announce Type: cross \nAbstract: We investigate self-bound quark stars in a flavor-dependent quark-mass density-dependent (QMDD) model with an excluded-volume correction. We chart the parameter space at zero pressure to identify self-bound regimes, including cases with a first-order $ud \\to uds$ transition, and construct cold, $\\beta$-equilibrated stellar sequences via the Tolman-Oppenheimer-Volkoff equations. The excluded-volume parameter $\\kappa$ controls the stiffness of the equation of state and thus masses, radii, tidal deformabilities, and moments of inertia. Intermediate repulsion typically reconciles $M_{\\max} \\gtrsim 2\\,M_\\odot$ with current radius/tidal constraints, with hybrid self-bound objects more compatible than pure strange-quark stars. We identify three EOS-insensitive trends $-$ dimensionless moment of inertia vs. compactness, tidal deformability vs. compactness, and gravitational vs. baryonic compactness $-$ whose explicit $\\kappa$-dependence largely disappears in dimensionless form (the first two being notably tighter than the third). These results provide model-guided priors and tools for discriminating between hadronic and self-bound EOS families with multimessenger data."
+    },
+    {
+      "title": "Coulomb interacting Bose-Einstein correlations in Fourier space",
+      "link": "https://arxiv.org/abs/2501.17902",
+      "authors": "Aletta Purzsa",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2501.17902v2 Announce Type: replace \nAbstract: In high-energy heavy-ion physics experiments, a state of matter is created that existed in the early Universe: the quark-gluon plasma. This strongly interacting matter exists in today's experiments only within a range of a few femtometers and for a duration of a few femtometers per speed of light, making its resolution with optical tools impossible. However, there is a method that allows for a closer look into the structure of the quark-gluon plasma: femtoscopy. Initially used in astronomy, femtoscopy is based on the quantum mechanical indistinguishability of identical particles, which causes them to arrive at detectors in a correlated manner. The measurable correlation is related to the spacetime structure of the particle-emitting source, which in heavy-ion physics is the quark-gluon plasma created in collisions. For free particles, a relatively simple relationship exists between the source and the correlation (essentially a Fourier transform). However, this relationship becomes complex when accurately accounting for the repulsive Coulomb interaction between final-state electrically charged particles. Our paper presents a new method that is more precise than previously used ones, yet less computationally demanding, especially for the exotic source function shapes. Mathematically, the method is interesting because it exactly handles many emerging integrals and limits. Practically, it is ready for use in experimental analyses."
+    },
+    {
+      "title": "The Width of an Electron-Capture Neutrino Wave Packet",
+      "link": "https://arxiv.org/abs/2404.19746",
+      "authors": "B. J. P. Jones, E Marzec, J. Spitz",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2404.19746v2 Announce Type: replace-cross \nAbstract: We discuss the size of an electron neutrino wave packet emerging from an electron capture decay using the formalism of open quantum systems. This quantitative result is based on methodology that we have previously used to predict the width of an electron antineutrino wave packet from a beta-decaying nucleus, adapted for the different initial states in electron capture and beta decay. These predictions are now becoming relevant to experimental probes of the neutrino width, for example indirectly through precision spectroscopic studies of the nuclear recoil. We provide a translation between a recent Beryllium Electron capture in Superconducting Tunnel junctions Experiment (BeEST) measurement of the daughter nuclear recoil spectrum from $\\mathrm{^{7}Be}$ electron capture decay ($e^- + \\mathrm{^{7}Be}\\rightarrow\\mathrm{^{7}Li+\\nu_e}$) and a constraint on the outgoing neutrino width. According to our analysis, the direct limit on the neutrino wave packet width from electron capture decay using the recent BeEST result should map to $\\sigma_{\\nu,x}>6.2\\,\\mathrm{pm}$. We determine that a hard upper limit on the wave packet width exists at $\\sigma_{\\nu,x}\\sim2.7\\,\\mathrm{nm}$, based on the relative momentum between the electron and nucleus. However, we find that the localization is most likely driven by the embedding of the decaying atom in the tantalum crystal lattice resulting in a width scale of approximately $\\sigma_{\\nu,x}\\sim10$~pm, motivated by data from X-ray diffraction and M$\\ddot{\\mathrm{o}}$ssbauer spectroscopy, which lies intriguingly close to the current bound."
+    },
+    {
+      "title": "On the non-uniqueness of the energy-momentum and spin currents",
+      "link": "https://arxiv.org/abs/2406.02127",
+      "authors": "Rajeev Singh",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2406.02127v4 Announce Type: replace-cross \nAbstract: The macroscopic energy-momentum and spin densities of relativistic spin hydrodynamics are obtained from the ensemble average of their respective microscopic definitions (quantum operators). These microscopic definitions suffer from ambiguities, meaning that one may obtain different forms of symmetric energy-momentum tensor and spin tensor through pseudogauge transformations (or, in other words, Belinfante improvement procedure). However, this ambiguity may be fixed if we obtain these currents using Noether's second theorem instead of widely used Noether's first theorem. The second theorem fixes the super-potential determined by local symmetry, thereby selecting a unique physically consistent pseudogauge. In this article, we use Noether's second theorem to derive energy-momentum and spin currents without the need of pseudogauge transformations for free Dirac massive particles with spin one-half."
+    },
+    {
+      "title": "Mirror energy differences between <sup>43</sup>Ti and <sup>43</sup>Sc: a direct insight into the nuclear wave functions",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269325008135?dgcid=rss_sd_all",
       "authors": "Unknown",
       "source": "Physics Letters B",
-      "summary": "Publication date: Available online 22 November 2025Source: Physics Letters BAuthor(s): Fei Huang, Jin Sun"
+      "summary": "Publication date: Available online 24 November 2025Source: Physics Letters BAuthor(s): K. Rezynkina, A. Illana, S.M. Lenzi, F. Recchia, P. Ruotsalainen, P. Aguilera, K. Auranen, J. Benito, S. Carollo, M.L. Cortes, R. Escudeiro, T. Grahn, P.T. Greenlees, J. Ha, R. Julin, H. Joukainen, H. Jutila, M. Leino, J. Louko, M. Luoma"
+    },
+    {
+      "title": "Starobinsky potential and power suppression in hybrid Loop Quantum Cosmology",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269325008093?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: Available online 24 November 2025Source: Physics Letters BAuthor(s): Marceau Henry, Guillermo A. Mena Marugán, Antonio Vicente-Becerril"
+    },
+    {
+      "title": "Relativistic Covariance and Nonlinear Quantum Mechanics: Tomonaga-Schwinger Analysis",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269325008111?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: Available online 24 November 2025Source: Physics Letters BAuthor(s): Stephen Hsu"
+    },
+    {
+      "title": "Assessing lattice QCD charm space diffusion coefficient and thermalization time by mean of D meson observables at LHC",
+      "link": "https://www.sciencedirect.com/science/article/pii/S037026932500807X?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: Available online 24 November 2025Source: Physics Letters BAuthor(s): Maria Lucia Sambataro, Vincenzo Minissale, Salvatore Plumari, Vincenzo Greco"
     }
   ]
 }
