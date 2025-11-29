@@ -1,68 +1,47 @@
 {
-  "lastUpdated": "2025-11-28T02:26:37.817319",
+  "lastUpdated": "2025-11-29T02:26:28.995226",
   "papers": [
     {
-      "title": "Simultaneous Inference of Effective Range Parameters and EFT Truncation Uncertainty in $^{3}$He-$\\alpha$ Scattering",
-      "link": "https://arxiv.org/abs/2511.21069",
-      "authors": "Andrius Burnelis, Daniel R. Phillips",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2511.21069v1 Announce Type: new \nAbstract: We extend previous halo effective field theory analyses of low-energy elastic scattering of $^{3}$He-$^{4}$He, including the $\\frac{7}{2}^{-}$ $f$-wave resonance as an explicit degree of freedom. The presence of this resonance necessitates a changing power counting scheme depending on the kinematic region. Therefore, we construct a theory uncertainty model at the partial wave amplitude level, allowing us to generate a sophisticated theory covariance matrix that captures the way the theory error structure changes as energy increases. We then perform a Bayesian analysis and simultaneously estimate the joint posterior distributions of the effective range theory parameters and the parameters that characterize the effective field theory truncation uncertainty. We compare two different analyses: no $f$-wave interactions for data up to $E_{\\text{max}} = 2.6$ MeV, and including $f$-wave interactions for data up to $E_{\\text{max}} = 5.5$ MeV. The inferred breakdown scales in each analysis are consistent with previous work. We find that $f$-wave interactions are needed to describe data for $E_{lab} \\gtrapprox 3.6$ MeV."
+      "title": "Semi-classical and boson descriptions of scissors states",
+      "link": "http://iopscience.iop.org/article/10.1088/1361-6471/ae1852",
+      "authors": "A A Raduta, C M Raduta, Robert Poenaru and Al H Raduta",
+      "source": "Journal of Physics G: Nuclear and Particle Physics",
+      "summary": "A Hamiltonian with two interacting rotors is alternatively treated semi-classically and by a Dyson boson expansion method. The linearized equations of motion lead to a dispersion equation for the wobbling frequency. We define a ground band with energies consisting of a rotational part and one half of the vibrational wobbling energy. Adding to each state energy the corresponding wobbling quanta, one obtains the first excited band. Phonon amplitudes are used to calculate the reduced probability for the inter-band M1 transitions. The states exhibit a shears character. We point out a chiral symmetry that is broken by the interaction term, leading to a pair of twin chiral bands. Applications are made for 156Gd. We outline the ability of the two-rotor model to account for the wobbling and chiral motion in nuclei. Although the chosen trial function does not have a definite total angular momentum, for two particular ansatz of the pairs Ip, In, the average value of the total angular momentum approximates, to a certain accuracy, the partial angular momentum Ip. In this context, the rotational bands defined throughout this present paper could be labeled by the total I."
     },
     {
-      "title": "Deuteron yields near the QCD phase transition",
-      "link": "https://arxiv.org/abs/2511.21117",
-      "authors": "Sheng-nan Han, Jing Wu, Yong-rui Chen, Yi-zhen Huang, Feng Li, Wei-jie Fu",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2511.21117v1 Announce Type: new \nAbstract: We investigate the influence of QCD phase transition and critical fluctuations of the critical end point (CEP) on the deuteron yield within the functional renormalization group (fRG) approach, by using the nucleon coalescence model and a low energy effective field theory of quarks and mesons. It is found that the two-point baryon density correlation function is enhanced in a narrow region radiated from the CEP along the phase boundary. The deuteron yield arising from the two-point baryon correlation is small compared to the leading-order contribution, which is attributed to the fact that in the regime of low collision energy, i.e., the region of large baryon chemical potential, the freeze-out curves deviate from the critical region, resulting in that the enhancement of the deuteron yield stemming from the critical fluctuations near the CEP is mild."
-    },
-    {
-      "title": "A Bottom-Up EFT Approach To Superdense Baryonic Matter",
-      "link": "https://arxiv.org/abs/2511.21141",
-      "authors": "Mannque Rho",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2511.21141v1 Announce Type: new \nAbstract: How to arrive at the densest matter in massive compact stars starting from Walecka's linear $\\omega$-$\\sigma$ mean-field model is described in a series of arguments anchored on hidden local symmetry, hidden scale symmetry and emergent parity-doublet symmetry. I follow the bottom-up approach from chiral symmetry with pions, coupled to hidden local and scale symmetry degrees of freedom. Exploiting the renormalization-group treatment \\`a la Shankar and Polchinski of the fermionic interactions on the Fermi sphere, leading to Landau-Migdal Fermi-liquid, one obtains a sort of generalized ``Density Functional\" that allows via a topology change hadrons transform to quarks without phase changes at the center of massive stars. The highly dense matter is ``pseudo-conformal\" with the sound velocity $v_{pcs}^2/c^2\\approx 1/3$ but the trace of the energy-momentum tensor is not equal to zero, hence the matter is non-conformal."
-    },
-    {
-      "title": "Enhanced antineutrino emission from $\\beta$ decay in core-collapse supernovae with self-consistent weak decay rates",
-      "link": "https://arxiv.org/abs/2511.21567",
-      "authors": "T. Dasher, A. Ravli\\'c, S. Lalit, E. O'Connor, K. Godbey",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2511.21567v1 Announce Type: cross \nAbstract: Nuclear weak-interaction rates are known to exert a prominent effect in the late-stages of stellar collapse. Despite their importance, most studies to date on core-collapse supernovae (CCSNe) have focused primarily on the effects of electron captures, generally neglecting $\\beta$ decay contributions. In this Letter, we present the first CCSNe simulation incorporating global $\\beta$ decay rates from a microscopic theory. These are enabled by a large-scale evaluation of both electron capture and $\\beta$ decay rates, obtained self-consistently utilizing the relativistic energy density functional theory and finite-temperature quasiparticle random-phase approximation. We find a significant enhancement of antineutrino emissivity by more than 4 orders of magnitude due to the inclusion of $\\beta$ decay rates, as well as 3 orders of magnitude for antineutrino luminosity. It is expected that these new rates could help us constrain the model uncertainties related to weak-interaction processes, improving the prediction of antineutrino signal during the final stages of stellar death and potentially influencing the late-stage evolution of massive stars."
-    },
-    {
-      "title": "How Well Do We Know the Scalar-Induced Gravitational Waves?",
-      "link": "https://www.sciencedirect.com/science/article/pii/S037026932500797X?dgcid=rss_sd_all",
+      "title": "Evidence of coexistence of chiral, electric, magnetic, and anti-magnetic rotations as well as noncollective structure",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269325008020?dgcid=rss_sd_all",
       "authors": "Unknown",
       "source": "Physics Letters B",
-      "summary": "Publication date: Available online 27 November 2025Source: Physics Letters BAuthor(s): A.J. Iovino, S. Matarrese, G. Perna, A. Ricciardone, A. Riotto"
+      "summary": "Publication date: Available online 27 November 2025Source: Physics Letters BAuthor(s): S.Y. Wang, Y.M. Zhang, X.G. Wu, H. Jia, B. Qi, C. Liu, W.Z. Xu, Z.Q. Li, S. Wang, D.P. Sun, N.B. Zhang, R.J. Guo, Y. Zheng, C.B. Li, G.Y. Li"
     },
     {
-      "title": "Thermoelectric figure of merit and the deconfinement phase transition",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269325008184?dgcid=rss_sd_all",
+      "title": "Yang-Baxter deformations of the OSP(1|2) WZW model",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269325008202?dgcid=rss_sd_all",
       "authors": "Unknown",
       "source": "Physics Letters B",
-      "summary": "Publication date: Available online 26 November 2025Source: Physics Letters BAuthor(s): Kamaljeet Singh, Raghunath Sahoo"
+      "summary": "Publication date: Available online 27 November 2025Source: Physics Letters BAuthor(s): Ali Eghbali, Yaghoub Samadi, Adel Rezaei-Aghdam"
     },
     {
-      "title": "On the contribution from the light quarks to <em>H</em> → <em>γγ, γZ</em>",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269325008160?dgcid=rss_sd_all",
-      "authors": "Unknown",
-      "source": "Physics Letters B",
-      "summary": "Publication date: Available online 26 November 2025Source: Physics Letters BAuthor(s): Marc Knecht, Baiyi Qian"
-    },
-    {
-      "title": "Action-Angle Variables in Quantum Gravity",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269325008172?dgcid=rss_sd_all",
-      "authors": "Unknown",
-      "source": "Physics Letters B",
-      "summary": "Publication date: Available online 26 November 2025Source: Physics Letters BAuthor(s): Jarmo"
-    },
-    {
-      "title": "Isospin dependence of the nuclear temperature in the reactions <sup>78</sup>Kr+<sup>40</sup>Ca and <sup>86</sup>Kr+<sup>48</sup>Ca at 10 AMeV",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0375947425002787?dgcid=rss_sd_all",
+      "title": "Effect of collective enhancement of level density in the neutron emission from compound nuclei",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0375947425002751?dgcid=rss_sd_all",
       "authors": "Unknown",
       "source": "Nuclear Physics A",
-      "summary": "Publication date: Available online 26 November 2025Source: Nuclear Physics AAuthor(s): Brunilde Gnoffo, Sara Pirrone, Giuseppe Politi, Enrico De Filippo, Giuseppe Cardella, Elena Geraci, Concettina Maiolino, Nunzia Simona Martorana, Angelo Pagano, Emanuele Vincenzo Pagano, Massimo Papa, Fabio Risitano, Francesca Rizzo, Paolo Russotto, Marina Trimarchi, Cristina Zagami"
+      "summary": "Publication date: Available online 27 November 2025Source: Nuclear Physics AAuthor(s): B. Sidharth, M. Shareef"
+    },
+    {
+      "title": "New Types of Hydrogenlike Matter Composed of Electron(s) and Meson(s)",
+      "link": "https://link.springer.com/article/10.1007/s00601-025-02021-8",
+      "authors": "Unknown",
+      "source": "Few-Body Systems",
+      "summary": "In the present work, we predict the existence of new types of hydrogenlike matter, including hydrogenlike atoms ($$\\pi ^+e^-$$, $$K^+e^-$$, $$D^+e^-$$), hydrogenlike molecular ions ($$\\pi ^+\\pi ^+e^-$$, $$K^+K^+e^-$$, $$D^+D^+e^-$$) and hydrogenlike molecules ($$\\pi ^+\\pi ^+e^-e^-$$, $$K^+K^+e^-e^-$$, $$D^+D^+e^-e^-$$). By solving the Schrödinger equation, the binding energy of hydrogenlike atoms is obtained as $$E_n=-\\frac{1}{2n^2}$$. For hydrogenlike molecular ions and molecules, the variational method is employed to calculate the binding energies, i.e., $$E_+=-0.587$$ and $$E_0=-1.139$$ for hydrogenlike molecular ions and molecules, respectively. And the bond lengths for hydrogenlike molecular ions and molecules are also calculated, whose values are 2.003 and 1.414, respectively. Here all the quantities are in atomic units for convenience. In addition, the strong interaction between the two constituent mesons is considered in our calculations, where we find that its influence on the hydrogenlike molecular ions and molecules can be neglected. Comparisons of hydrogenlike molecular ion and molecule with the systems governed by the strong interaction are made, which suggests the possible existence of doubly heavy triquark, hidden heavy-flavor tetraquarks and doubly heavy tetraquarks. Hopefully, these types of matter would be observed in the future with the improvement of accuracy in the high energy physical experiments."
+    },
+    {
+      "title": "Dispersion Coefficients for Interactions Among Screened-Heliumlike Atoms",
+      "link": "https://link.springer.com/article/10.1007/s00601-025-02018-3",
+      "authors": "Unknown",
+      "source": "Few-Body Systems",
+      "summary": "We investigate the plasma sscreening effects on the van der Waals two-body dispersion coefficients, C$$_{\\textrm{6}}$$, for interactions among heliumlike atoms (Z$$=$$2-10), using highly accurate correlated exponential wave functions. Two different plasma models, namely, the Debye plasma model and quantum plasma model are considered. The Debye-Hückel potential is used to model the Debye plasma environment, and the exponential cosine screened Coulomb potential is used to model the quantum plasma environment. The dispersion coefficients C$$_{\\textrm{6}}$$for interactions among screened-heliumlike atoms (Z$$=$$2-10) in their ground states for different screening parameters, are reported for the first time in the literature."
     }
   ]
 }
