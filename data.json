@@ -1,222 +1,33 @@
 {
-  "lastUpdated": "2025-11-30T02:52:14.894930",
+  "lastUpdated": "2025-12-01T03:03:22.602391",
   "papers": [
     {
-      "title": "Particle-vibration coupling effects on the pair strength",
-      "link": "https://epja.epj.org/10.1140/epja/s10050-025-01731-1",
-      "authors": "Francisco Barranco, Enrico Vigezzi",
-      "source": "European Physical Journal A",
-      "summary": "Authors: Francisco Barranco and Enrico Vigezzi.The European Physical Journal A Vol. 61 , page 257Published online: 15/11/2025"
-    },
-    {
-      "title": "Neutron Poisons and neutron sources - from the nuclear point of view",
-      "link": "https://epja.epj.org/10.1140/epja/s10050-025-01741-z",
-      "authors": "Michael Wiescher, Richard James deBoer, Joachim Görres, Lothar Buchmann, Chris Ruiz",
-      "source": "European Physical Journal A",
-      "summary": "Authors: Michael Wiescher, Richard James deBoer, Joachim Görres, Lothar Buchmann and Chris Ruiz.The European Physical Journal A Vol. 61 , page 260Published online: 17/11/2025\n       Keywords:"
-    },
-    {
-      "title": "Improved unified formulas for α$$\\alpha $$-decay and cluster radioactivity in heavy and superheavy nuclei: effects of daughter-nucleus deformation",
-      "link": "https://epja.epj.org/10.1140/epja/s10050-025-01723-1",
-      "authors": "M. Ismail, A. Adel, Asmaa Ibrahim",
-      "source": "European Physical Journal A",
-      "summary": "Authors: M. Ismail, A. Adel and Asmaa Ibrahim.The European Physical Journal A Vol. 61 , page 259Published online: 17/11/2025"
-    },
-    {
-      "title": "Study on relativistic transformations for thermodynamic quantities: Boltzmann–Gibbs and Tsallis blast-wave models",
-      "link": "https://epja.epj.org/10.1140/epja/s10050-025-01742-y",
-      "authors": "A. S. Parvan",
-      "source": "European Physical Journal A",
-      "summary": "Authors: A. S. Parvan.The European Physical Journal A Vol. 61 , page 261Published online: 17/11/2025"
-    },
-    {
-      "title": "Event shape engineering and study of identified particle production in Oxygen–Oxygen collisions at sNN$$\\sqrt{s_{NN}}$$ = 7 TeV using AMPT",
-      "link": "https://epja.epj.org/10.1140/epja/s10050-025-01738-8",
-      "authors": "Thresia Michael, Hushnud Hushnud, R. Kanishka, Aditya Nath Mishra",
-      "source": "European Physical Journal A",
-      "summary": "Authors: Thresia Michael, Hushnud Hushnud, R. Kanishka and Aditya Nath Mishra.The European Physical Journal A Vol. 61 , page 258Published online: 17/11/2025"
-    },
-    {
-      "title": "Fragmentation patterns of nuclear response: low-spin giant resonances and soft modes",
-      "link": "https://epja.epj.org/10.1140/epja/s10050-025-01714-2",
-      "authors": "Elena Litvinova",
-      "source": "European Physical Journal A",
-      "summary": "Authors: Elena Litvinova.The European Physical Journal A Vol. 61 , page 262Published online: 19/11/2025"
-    },
-    {
-      "title": "Controlled gate networks: theory and application to eigenvalue estimation",
-      "link": "https://epja.epj.org/10.1140/epja/s10050-025-01750-y",
-      "authors": "Max Bee-Lindgren, Zhengrong Qian, Matthew DeCross, Natalie C. Brown, Christopher N. Gilbreth, Jacob Watkins, Xilin Zhang, Dean Lee",
-      "source": "European Physical Journal A",
-      "summary": "Authors: Max Bee-Lindgren, Zhengrong Qian, Matthew DeCross, Natalie C. Brown, Christopher N. Gilbreth, Jacob Watkins, Xilin Zhang and Dean Lee.The European Physical Journal A Vol. 61 , page 263Published online: 21/11/2025"
-    },
-    {
-      "title": "Emission intensities of gamma transitions in 235$$^{235}$$U alpha decay",
-      "link": "https://epja.epj.org/10.1140/epja/s10050-025-01746-8",
-      "authors": "F. A. Danevich, S. S. Drapey, D. V. Kasperovych, V. I. Kirischuk, V. V. Kobychev, V. I. Tretyak",
-      "source": "European Physical Journal A",
-      "summary": "Authors: F. A. Danevich, S. S. Drapey, D. V. Kasperovych, V. I. Kirischuk, V. V. Kobychev and V. I. Tretyak.The European Physical Journal A Vol. 61 , page 264Published online: 21/11/2025"
-    },
-    {
-      "title": "Comprehensive shell model study of β+$$\\beta ^+$$/EC-decay properties for f5/2pg9/2$$f_{5/2}pg_{9/2}$$ space nuclei",
-      "link": "https://epja.epj.org/10.1140/epja/s10050-025-01740-0",
-      "authors": "Surender, Jouni Suhonen, Vikas Kumar",
-      "source": "European Physical Journal A",
-      "summary": "Authors:  Surender, Jouni Suhonen and Vikas Kumar.The European Physical Journal A Vol. 61 , page 265Published online: 21/11/2025"
-    },
-    {
-      "title": "Nuclear giant resonances studied with quasiparticle-vibration coupling model and populated by vortex γ$$\\gamma $$-photons",
-      "link": "https://epja.epj.org/10.1140/epja/s10050-025-01739-7",
-      "authors": "Liang Guo, Zheng-Zheng Li, Fang-Qi Chen, Yi-Fei Niu, Gianluca Colò, Zhi-Wei Lu, Jian-Xing Li",
-      "source": "European Physical Journal A",
-      "summary": "Authors: Liang Guo, Zheng-Zheng Li, Fang-Qi Chen, Yi-Fei Niu, Gianluca Colò, Zhi-Wei Lu and Jian-Xing Li.The European Physical Journal A Vol. 61 , page 266Published online: 22/11/2025"
-    },
-    {
-      "title": "Energy distributions and absolute yields of the long-range alpha particles and the tritons emitted in thermal neutron induced ternary fission of 235U",
-      "link": "https://epja.epj.org/10.1140/epja/s10050-025-01743-x",
-      "authors": "Zepeng Wu, Jie Liu, Haofan Bai, Cong Xia, Wenkai Ren, Guohui Zhang, Quanlin Shi, Yu. M. Gledenov, E. Sansarbayar, G. Khuukhenkhuu, I. Chuprakov, Chunlei Su, Yihua Dai, Yonggang Zhangsun, Shuwei Guo",
-      "source": "European Physical Journal A",
-      "summary": "Authors: Zepeng Wu, Jie Liu, Haofan Bai, Cong Xia, Wenkai Ren, Guohui Zhang, Quanlin Shi, Yu. M. Gledenov, E. Sansarbayar, G. Khuukhenkhuu, I. Chuprakov, Chunlei Su, Yihua Dai, Yonggang Zhangsun and Shuwei Guo.The European Physical Journal A Vol. 61 , page 267Published online: 24/11/2025"
-    },
-    {
-      "title": "Modelling simultaneous detection of electrons and γ$$\\gamma $$ rays in-beam",
-      "link": "https://epja.epj.org/10.1140/epja/s10050-025-01745-9",
-      "authors": "D. M. Cox, P. Papadakis, A. D. Briscoe, A. M. Plaza, J. Ojala, J. Pakarinen",
-      "source": "European Physical Journal A",
-      "summary": "Authors: D. M. Cox, P. Papadakis, A. D. Briscoe, A. M. Plaza, J. Ojala and J. Pakarinen.The European Physical Journal A Vol. 61 , page 268Published online: 24/11/2025\n       Keywords:"
-    },
-    {
-      "title": "Stability of transuranic and transfermium isomers: single-particle structure implications and α$$\\alpha $$ decays",
-      "link": "https://epja.epj.org/10.1140/epja/s10050-025-01726-y",
-      "authors": "W. M. Seif, A. R. Abdulghany",
-      "source": "European Physical Journal A",
-      "summary": "Authors: W. M. Seif and A. R. Abdulghany.The European Physical Journal A Vol. 61 , page 269Published online: 24/11/2025"
-    },
-    {
-      "title": "Cluster phenomena using few-body and Lattice QCD theories",
-      "link": "https://epja.epj.org/10.1140/epja/s10050-025-01747-7",
-      "authors": "Emiko Hiyama, Takumi Doi",
-      "source": "European Physical Journal A",
-      "summary": "Authors: Emiko Hiyama and Takumi Doi.The European Physical Journal A Vol. 61 , page 270Published online: 26/11/2025"
-    },
-    {
-      "title": "First Nucleon Gluon PDF from Large Momentum Effective Theory",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269325008251?dgcid=rss_sd_all",
+      "title": "Observation of $W^{+}W^{-}\\\\gamma$ production in $pp$ collisions at $\\\\sqrt{s}$ = 13 TeV with the ATLAS detector and constraints on anomalous quartic gauge-boson couplings",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269325008081?dgcid=rss_sd_all",
       "authors": "Unknown",
       "source": "Physics Letters B",
-      "summary": "Publication date: Available online 29 November 2025Source: Physics Letters BAuthor(s): William Good, Fei Yao, Huey-Wen Lin"
+      "summary": "Publication date: Available online 29 November 2025Source: Physics Letters BAuthor(s): ATLAS Publications"
     },
     {
-      "title": "Understanding the correlation between elliptic and triangular flow",
-      "link": "https://www.sciencedirect.com/science/article/pii/S037026932500824X?dgcid=rss_sd_all",
-      "authors": "Unknown",
-      "source": "Physics Letters B",
-      "summary": "Publication date: Available online 29 November 2025Source: Physics Letters BAuthor(s): Mubarak Alqahtani, Jean-Yves Ollitrault"
-    },
-    {
-      "title": "Study of heavy-ion induced fission in actinide nuclei through fragment-neutron correlation measurements",
-      "link": "https://www.sciencedirect.com/science/article/pii/S037594742500288X?dgcid=rss_sd_all",
+      "title": "Editorial Board",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0375947425002829?dgcid=rss_sd_all",
       "authors": "Unknown",
       "source": "Nuclear Physics A",
-      "summary": "Publication date: Available online 29 November 2025Source: Nuclear Physics AAuthor(s): N. Saneesh, A. Jhingan, K.S. Golda, Mohit Kumar, A.M. Vinodkumar, P. Sugathan"
+      "summary": "Publication date: February 2026Source: Nuclear Physics A, Volume 1066Author(s): "
     },
     {
-      "title": "Feasibility study of measuring interaction cross sections of hypernuclei produced in projectile fragmentation reactions with WASA-FRS setup",
-      "link": "http://iopscience.iop.org/article/10.1088/1674-1137/adf4b2",
-      "authors": "Yiming Gao, 亦鸣 高, Yoshiki K. Tanaka, Vasyl Drozd, Hiroyuki Ekawa, Samuel Escrig, Yan He, 燕 何, Ayumi Kasagi, Enqiang Liu, 恩强 刘, Manami Nakagawa, Christophe Rappold, Takehiko R. Saito, Ryohei Sekiya, He Wang, 赫 王, Ayari Yanai, Xiaohong Zhou and 小红 周",
-      "source": "Chinese Physics C",
-      "summary": "A novel method is proposed to measure the interaction cross sections of short-lived hypernuclei with the WASA-FRS experimental setup at GSI and FAIR. The interaction cross sections of hypernuclei, produced in projectile fragmentation reactions at relativistic energies, can be determined from their production point distribution within a target. The feasibility of such a measurement is evaluated through detailed Monte Carlo simulations. The results indicate that an aimed uncertainty on the order of 10% can be achieved for the case of a hypertriton, demonstrating the potential of this method for studying matter radii and the possible hyperon halo structure of hypernuclei."
+      "title": "Measurement of Complete and Incomplete Fusion in <sup>12,13</sup>C + <sup>51</sup>V system at 5 MeV/A",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0375947425002763?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Nuclear Physics A",
+      "summary": "Publication date: Available online 30 November 2025Source: Nuclear Physics AAuthor(s): Shital Thakur, H. Kumawat, V.V. Parkar, A.S. Bennal"
     },
     {
-      "title": "Constraints on Lorentz invariance violation from GRB 221009A using the DisCan method*",
-      "link": "http://iopscience.iop.org/article/10.1088/1674-1137/adfa01",
-      "authors": "Yu Xi, 余 习, Fu-Wen Shu and 富文 舒",
-      "source": "Chinese Physics C",
-      "summary": "Lorentz symmetry is a cornerstone of modern physics, and testing its validity remains a critical endeavor. In this study, we analyze the photon time-of-flight and time-shift data from LHAASO observations of Gamma-Ray Burst GRB 221009A to search for signatures of Lorentz violation. We employ the DisCan (dispersion cancellation) method with various information entropies as cost functions, designating the results obtained with Shannon entropy as our representative outcome. This choice is attributed to the parameter-free statistical properties of Shannon entropy, which has demonstrated remarkable stability as we continually refine and enhance our methodology. In the absence of more detailed data and physical context, it provides more stable and reliable results. We constrain the energy scale associated with Lorentz invariance violation. Our results yield 95% confidence level lower limits of (subluminal) and (superluminal) for the linear case (n = 1), and (subluminal) and (superluminal) for the quadratic case (n = 2). Subsequently, we incorporate WCDA photons and the Knuth binning method to further optimize and complement our approach while also performing filtering using information entropies. Furthermore, we demonstrate that employing different information entropy measures as cost functions does not alter the order of magnitude of these constraints."
-    },
-    {
-      "title": "On the pole trajectory of the subthreshold negative parity nucleon with varying pion masses*",
-      "link": "http://iopscience.iop.org/article/10.1088/1674-1137/adfa02",
-      "authors": "Qu-Zhi Li, 衢智 李, Zhiguang Xiao, 志广 肖, Han-Qing Zheng and 汉青 郑",
-      "source": "Chinese Physics C",
-      "summary": "We study the pole trajectory of the recently established subthreshold negative-parity nucleon pole, namely the , with varying pion masses in the scheme of linear σ model with nucleons, using the unitarization method. We find that, as the pion mass increases, the pole moves toward the real axis. For larger pion masses, at tree level, the pole falls to a specific point on u-channel cut and crosses to the adjacent Riemann sheet defined by the logarithmic u-channel cut. At the one-loop level, the pole does not meet the u-cut up to GeV. We also re-examined the σ pole trajectory and found it to be in good agreement with the Roy equation analysis result."
-    },
-    {
-      "title": "Correspondence between grey-body factors and quasinormal modes for regular black holes with sub-Planckian curvature*",
-      "link": "http://iopscience.iop.org/article/10.1088/1674-1137/adfa74",
-      "authors": "Chen Tang, 晨 唐, Yi Ling, 意 凌, Qing-Quan Jiang and 青权 蒋",
-      "source": "Chinese Physics C",
-      "summary": "We investigate the quasi-normal modes (QNMs) under gravitational field perturbations and grey-body factors for a class of regular black holes with sub-Planckian curvature and Minkowski core. We compute the QNMs with the pseudospectral and WKB methods. The trajectory of the QNMs displays non-monotonic and spiral behavior with changes in the deviation parameter of the regular black hole. Subsequently, we compute the grey-body factors with the WKB method and compare them with the results obtained by the correspondence relation recently revealed in [R. A. Konoplya and A. Zhidenko, JCAP 09, 068 (2024)]. We find that the discrepancy exhibits minor errors, indicating that this relation is effective for computing the grey-body factors of such regular black holes."
-    },
-    {
-      "title": "Generation of axions and axion-like particles through mass parametric resonance induced by scalar perturbations in the early universe",
-      "link": "http://iopscience.iop.org/article/10.1088/1674-1137/adfa82",
-      "authors": "Ruifeng Zheng, 瑞丰 郑, Puxian Wei, 镨先 卫, Qiaoli Yang and 峤立 杨",
-      "source": "Chinese Physics C",
-      "summary": "Axions and axion-like particles can be generated in the early universe through mechanisms such as misalignment production, thermal processes, and the decay of topological defects. In this study, we show that scalar perturbations in the early universe can produce a significant amount of these particles primarily through mass parametric resonance effects. Scalar perturbations induce temperature fluctuations during the particle mass transition era, e.g., during the QCD phase transition. These temperature fluctuations modulate the particle mass, transferring energy into the field through parametric mass resonance, a nonlinear process. This mechanism exhibits substantially unstable regions that could lead to explosive particle production. Notably, it does not generate additional isocurvature perturbations."
-    },
-    {
-      "title": "Radiation properties of the accretion disk around a quantum-corrected black hole",
-      "link": "http://iopscience.iop.org/article/10.1088/1674-1137/adfa83",
-      "authors": "Mirjavoxir Mirkhaydarov, Mirzabek Alloqulov and Sanjar Shaymatov",
-      "source": "Chinese Physics C",
-      "summary": "In this work, we study the radiation properties of the quantum-corrected black hole (BH). For simplicity, we consider test particles around the quantum-corrected BH. With this aim, we define the important quantities of test particles around the quantum-corrected BH: the effective potential, energy, angular momentum, and innermost stable circular orbit (ISCO). In addition, we explore the radiation properties of the accretion disk around the quantum-corrected BH considering the Novikov-Thorne model. We find that the values of the flux of the electromagnetic radiation and the temperature of the disk increase slightly with the increase of the quantum correction parameter α. To obtain more information, we plot the temperature profile using a color map. Finally, we consider the spectral luminosity of the accretion disk under the influence of the quantum correction parameter α."
-    },
-    {
-      "title": "form factors and their applications to semi-leptonic and non-leptonic weak decays*",
-      "link": "http://iopscience.iop.org/article/10.1088/1674-1137/adfb5d",
-      "authors": "Hao Yang, 浩 杨, Zhi-Qing Zhang, 志清 张, You-Ya Yang, 幽雅 杨, Peng Li and 鹏 李",
-      "source": "Chinese Physics C",
-      "summary": "Similar to other heavy flavor mesons, the weak decays of mesons can provide a platform to verify the standard model, explore new physics, and understand the mechanisms of weak interactions. At present, the theoretical and experimental studies on mesons are relatively limited. In addition to the dominant electromagnetic decays, the weak decays should be feasible to explore the mesons. In this study, we used the covariant light-front quark model to study the form factors of the transitions , and then calculated the branching ratios of the semi-leptonic decays and the non-leptonic decays with , and . The channels and possess the largest branching ratios, which can reach an order of among these decays, and are most likely to be accessible in experiments at future high-luminosity colliders. Furthermore, we predict and discuss the longitudinal polarization fraction and the forward-backward asymmetry for the considered semi-leptonic decays."
-    },
-    {
-      "title": "Unveiling the inner structure of the Pion’s first excited state*",
-      "link": "http://iopscience.iop.org/article/10.1088/1674-1137/adfc34",
-      "authors": "Xiaobin Wang, 晓斌 王, Lei Chang and 雷 常",
-      "source": "Chinese Physics C",
-      "summary": "By capturing the characteristics of the Bethe-Salpeter amplitude for the pion excitation state, we construct an algebraic model to provide the overall features of the pion’s first excitation state parton distribution amplitude and distribution function. We find that, at the hadronic scale, the distribution amplitude of the excited state exhibits nodes, while the distribution function is unimodal, with a peak at and distinct concave and convex fluctuations in the valence region. These findings provide new insights into the partonic structure of excited mesons and contribute significantly to our understanding of hadronic excitations."
-    },
-    {
-      "title": "On possible implications of the exponential distribution of constituent quarks within proton at high energies*",
-      "link": "http://iopscience.iop.org/article/10.1088/1674-1137/adfc35",
-      "authors": "Wenchang Xiang, 文昌 向, Yuanyuan Hu, 元元 胡, Yanbing Cai, 燕兵 蔡, Mengliang Wang, 梦亮 王, Daicui Zhou and 代翠 周",
-      "source": "Chinese Physics C",
-      "summary": "The differential cross-section of diffractive vector meson production in electron-proton deep inelastic scattering is considered one of the most promising observables to probe the spatial structure of the proton and QCD dynamics in the high-energy limit. In this work, we investigate the dependence of the differential cross-section of vector meson production on the position distribution of the constituent quarks within the hot spot model. We consider two types of distribution functions, Gaussian and exponential, and include them in the dipole-proton scattering amplitude, which is a key ingredient of the vector meson production cross-section. We calculate the cross-sections for the production of mesons as a function of the center of mass energy (W) and momentum transfer ( ), respectively. At low ( ), the coherent cross-sections calculated with both Gaussian and exponential position distributions of the constituent quarks provide similarly good descriptions of the production data at HERA. However, we find that at relatively large ( ), the coherent cross-sections calculated with the Gaussian position distribution function cannot describe the HERA data, while the coherent cross-sections computed with the exponential position distribution function are in good agreement with the HERA data. This outcome indicates that the position of the constituent quarks in the proton may follow an exponential distribution, and the coherent process can serve as a probe to resolve the position distribution of the constituent quarks. Moreover, our calculations show that the description of the coherent cross-section of production remains robust when modeling the constituent quark positions with an exponential distribution, independent of the particular distribution function selected for the hot spot density profiles."
-    },
-    {
-      "title": "Study of χcJ (J = 0,1,2) decays to light meson pairs based on SU(3) flavor symmetry/breaking analysis*",
-      "link": "http://iopscience.iop.org/article/10.1088/1674-1137/adff00",
-      "authors": "Bo Lan, 波 兰, Qin-Ze Song, 沁泽 宋, Jin-Huan Sheng, 金环 盛, Yi Qiao, 怡 乔, Ru-Min Wang and 茹敏 王",
-      "source": "Chinese Physics C",
-      "summary": "Based on available experimental results on decays, we investigated the , , , and decays using the SU(3) flavor symmetry/breaking approach, where P, V, and T denote light pseudoscalar, vector, and tensor mesons, respectively. With the decay amplitude relations determined by SU(3) flavor symmetry/breaking, we present the branching ratios for all and modes, including those without experimental data. While theoretical considerations strongly suppress or even forbid most and decays, we also provide quantitative predictions constrained by existing experimental data. Our results are expected to be accessible in future experiments at BESIII and the planned Super Tau-Charm Facility."
-    },
-    {
-      "title": "Axial gravitational quasinormal modes of magnetically charged black holes*",
-      "link": "http://iopscience.iop.org/article/10.1088/1674-1137/adff01",
-      "authors": "De-Cheng Zou, 德成 邹, Xufen Zhang, 旭芬 张, Chao-Ming Zhang, 晁铭 张, Ming Zhang, 明 张, Rui-Hong Yue and 瑞宏 岳",
-      "source": "Chinese Physics C",
-      "summary": "In this study, we consider axial perturbations on the magnetically charged string-inspired Euler-Heisenberg black hole. As axial metric perturbation decouples from axial electromagnetic perturbation, we mainly focus on axial gravitational perturbation. By using the Wentzel–Kramers–Brillouin (WKB) approximation and asymptotic iteration method (AIM), we perform a detailed analysis of the gravitational quasinormal frequencies by varying the characteristic parameters of gravitational perturbation and black holes. The results obtained through the AIM are consistent with those obtained using the WKB method, including the results extracted from the time-domain profiles. The greybody factor is calculated using the WKB method. The effects of , ϵ, and multipole number l on the greybody factor are also studied."
-    },
-    {
-      "title": "Cross section measurement of the 6Li(n,t)4He reaction in the MeV neutron energy range*",
-      "link": "http://iopscience.iop.org/article/10.1088/1674-1137/ae0306",
-      "authors": "Yu. M. Gledenov, I. Chuprakov, Guohui Zhang, 国辉 张, G. Khuukhenkhuu, M. Odsuren, B. Usukhbayar, L. Krupa, E. Sansarbayar, Jie Liu, 杰 刘, Haofan Bai, 浩帆 白, Cong Xia, 聪 夏, Zepeng Wu, 泽鹏 邬, Wenkai Ren, 文凯 任, D. Berikov, G. Ahmadov, A. K. Bekbayev, B. Mukhametuly, E. S. Korshikov, N. T. Temerbulatova, E. B. Myrzabekova, O. Daulbayev and Y. Arynbek",
-      "source": "Chinese Physics C",
-      "summary": "Cross sections of the 6Li(n, t)4He reaction were measured in the fast neutron energy range from 3.3 to 5.3 MeV using a gridded ionization chamber (GIC) and well–calibrated experimental setup at the EG–5 Van de Graaff accelerator of the Frank Laboratory of Neutron Physics, Joint Institute for Nuclear Research (FLNP, JINR). Lithium fluoride (6LiF) samples with varying thicknesses and krypton–CO2 gas mixtures with different pressures were used to optimize the detection of both alpha particles and tritons. Neutron fluxes were monitored using two high–purity (99.999%) 238U3O8 samples placed inside the GIC, complemented by an externally calibrated 3He long counter. The measured 6Li(n, t)4He cross–section data were compared with existing results of measurements and evaluations from EXFOR and ENDF nuclear data libraries, and the results showed a good agreement in the measured neutron energy range. These new measurements provide reliable cross–section data that contribute to the refinement of evaluated nuclear data files and support applications in nuclear physics, tritium production, and reactor design."
-    },
-    {
-      "title": "Investigation of the α-decay half-lives for even-even nuclei within a deformed two-potential approach*",
-      "link": "http://iopscience.iop.org/article/10.1088/1674-1137/ae0430",
-      "authors": "Hong-Qiang You, 鸿强 游, Ren-Hang Wu, 仁行 吴, Shuang-Shuang Zhang, 双双 张, Xiao-Tao He and 晓涛 贺",
-      "source": "Chinese Physics C",
-      "summary": "In this study, we systematically investigate the α-decay half-lives of 195 even-even nuclei using a deformed two-potential approach (TPA). The cosh potential with fixed diffuseness parameter is adopted as the nuclear potential, for which deformation parameters are taken from the FRDM, WS4, and DRHBc models. The root mean square deviation (RMSD) decreases from 0.515 to 0.385, 0.401, and 0.436, respectively, indicating that incorporating nuclear deformations enables the deformed TPA to accurately reproduce experimental α-decay half-lives. Furthermore, by fitting the diffuseness parameter across various mass regions, the RMSD is further reduced, from 0.385 to 0.330, 0.401 to 0.343, and 0.436 to 0.363. Additionally, the deformed TPA, combined with the fitted diffuseness parameter, is extended to predict the α-decay half-lives of even-even nuclei with Z = 118 and 120. The results suggest that N = 184 may be the next neutron magic number, following N = 126."
-    },
-    {
-      "title": "Existence of quark stars in gravity's rainbow: the significance of strongly interacting quark matter*",
-      "link": "http://iopscience.iop.org/article/10.1088/1674-1137/ae0726",
-      "authors": "Ayan Banerjee, Indrani Karar, Javlon Rayimbaev, Inomjon Ibragimov, Sardor Murodov, Sokhibjan Muminov and Sardor Jumaniyozov",
-      "source": "Chinese Physics C",
-      "summary": "This study explores the internal composition and equation of state (EoS) of quark stars (QSs) characterized by pressure anisotropy, considering recent astrophysical findings within the framework of gravity's rainbow. By employing perturbative quantum chromodynamics corrections and the concept of color superconductivity, the EoS is formulated as a dimensionless function reliant on a single parameter, thereby offering an in-depth analysis of the effects of strong interactions. The study is further extended by rescaling the EoS and applying dimensionless variables, thus covering the range from non-interacting quark matter to extreme stiffness characterized by a parameter . We also show that including the fluid anisotropy permits a stiffer EoS, facilitating the modeling of configurations that adequately meet observational constraints. We then use the supposed EoSs to numerically solve the modified Tolman-Oppenheimer-Volkoff equations and examine the effects of anisotropy and rainbow parameters on star mass, radius, and compactness. The study also explores the static stability, adiabatic index, and sound velocity profiles, thoroughly explaining QS behavior. Overall, this study offers valuable insights into the characteristics of QSs and their consistency with observational data, providing a comprehensive analysis of their EoS and internal structure."
+      "title": "Systematics of Electric Dipole Excitations in Rare-Earth <sup>146−156</sup>Sm Nuclei",
+      "link": "https://www.sciencedirect.com/science/article/pii/S037594742500291X?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Nuclear Physics A",
+      "summary": "Publication date: Available online 29 November 2025Source: Nuclear Physics AAuthor(s): E. Guliyev, H. Quliyev, A.A. Kuliev, A. Jalili"
     }
   ]
 }
