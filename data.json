@@ -1,117 +1,40 @@
 {
-  "lastUpdated": "2025-12-06T02:25:41.983746",
+  "lastUpdated": "2025-12-07T02:52:51.005069",
   "papers": [
     {
-      "title": "Evidence for a universal trend in odd-even staggering in elemental fragmentation cross sections of sulfur isotopes",
-      "link": "http://link.aps.org/doi/10.1103/y1mk-5rbm",
-      "authors": "Xiu-Lin Wei (魏秀琳) <em>et al.</em>",
-      "source": "Physical Review C",
-      "summary": "Author(s): Xiu-Lin Wei (魏秀琳) et al.We present a measurement of elemental fragmentation cross sections (EFCSs) for $^{32−38}\\mathrm{S}$ on a carbon target at approximately 200 MeV/nucleon. Our measurement, together with existing data, reveals a universal trend toward unity in the odd-even staggering (OES) magnitude of the EFCSs with i…[Phys. Rev. C 112, 064604] Published Fri Dec 05, 2025"
-    },
-    {
-      "title": "Light and heavy $\\mathrm{Λ}$ hyperclusters in nuclear matter with relativistic mean-field models",
-      "link": "http://link.aps.org/doi/10.1103/nj2s-9yy8",
-      "authors": "Cheng-Jun Xia (夏铖君), Yu-Ting Rong (荣宇婷), and Ting-Ting Sun (孙亭亭)",
-      "source": "Physical Review C",
-      "summary": "Author(s): Cheng-Jun Xia (夏铖君), Yu-Ting Rong (荣宇婷), and Ting-Ting Sun (孙亭亭)In the framework of relativistic-mean-field (RMF) models, we investigate the properties of light and heavy $\\mathrm{Λ}$ hyperclusters emersed in nuclear matter at various densities ${n}_{\\mathrm{gas}}$ and proton fractions ${Y}_{p}$. In particular, the (hyper)clusters are fixed by solving the Dirac …[Phys. Rev. C 112, 064904] Published Fri Dec 05, 2025"
-    },
-    {
-      "title": "Nucleon Short-Range Correlations and High-Momentum Dynamics: Implications on the Equation of State of Dense Matter",
-      "link": "https://arxiv.org/abs/2512.04206",
-      "authors": "Bao-Jun Cai, Bao-An Li, Yu-Gang Ma",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2512.04206v1 Announce Type: new \nAbstract: Nucleon short-range correlations (SRCs) and their high-momentum tails (HMTs) encode key short-range dynamics in nuclei and dense matter. This review provides a concise overview of SRC features relevant to the Equation of State (EOS) of isospin-asymmetric nuclear matter. We summarize empirical and theoretical properties of the single-nucleon momentum distribution $n(k)$, emphasizing the role of the neutron--proton tensor force, the dominance of correlated np pairs, and the enhancement of minority-species HMTs. Links to nucleon effective E-masses, quasi-deuteron components, and orbital entanglement are briefly noted. We examine how SRC-induced HMTs modify kinetic and potential contributions to the EOS in both non-relativistic and relativistic frameworks, including the softening of the kinetic symmetry energy and departures from the isospin parabolic approximation of asymmetric nuclear EOS. Sensitivity to high-momentum components and generalizations to arbitrary dimensions are also highlighted. Implications for heavy-ion reactions are summarized, including effects on particle yields, collective flows, deeply sub-threshold particle production and hard photon emission, driven by modified initial nucleon momentum distributions and abundant high relative-momentum np pairs during the reaction. Finally, we outline SRC-HMT consequences for neutron-star matter, covering proton fractions, tidal deformabilities, $Z$-factors, cooling, and the core--crust transition, as well as possible connections to dark-matter interactions in dense environments."
-    },
-    {
-      "title": "Exploring the QCD phase diagram through correlations and fluctuations",
-      "link": "https://arxiv.org/abs/2512.04288",
-      "authors": "Volker Koch, Volodymyr Vovchenko",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2512.04288v1 Announce Type: new \nAbstract: The exploration of the Quantum Chromodynamics (QCD) phase diagram is a central goal of relativistic heavy-ion collision experiments. This review focuses on the role of fluctuations and correlations as sensitive probes of the phase structure. We discuss theoretical advancements and experimental methodologies employed to map the QCD phase diagram, highlighting constraints derived from both lattice QCD calculations and existing experimental data. Key observables such as cumulants and factorial cumulants of conserved charges (e.g., net-proton, net-charge) are explored as promising signatures of phase transitions and the QCD critical point. We discuss how these quantities are measured experimentally and compared with theoretical predictions, addressing challenges and best practices for meaningful comparisons. Special attention is given to predictions and current experimental results at high baryon density, including recent findings from the STAR collaboration at RHIC. Finally, we identify open issues and future directions for fluctuation and correlation studies at lower collision energies, relevant for future measurements, for example by the CBM experiment."
-    },
-    {
-      "title": "A Quarkyonic Quark-Meson Coupling Model for Nuclear and Neutron Matter",
-      "link": "https://arxiv.org/abs/2512.04505",
-      "authors": "Koichi Saito, Tsuyoshi Miyatsu, Myung-Ki Cheoun",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2512.04505v1 Announce Type: new \nAbstract: We unite the dual quarkyonic model with the quark-meson coupling (QMC) model to construct a novel nuclear model based on the quark degrees of freedom, which can cover a wide range of nuclear density from low density to the crossover region. In the model, the relativistic, gaussian quark wavefunction is used to describe the nucleon structure. We first evaluate the energy density, chemical potential, pressure and sound velocity within the ideal Fermi gas picture. In this case, those physical quantities are discontinuous or divergent at the quark saturation density, where quarkyonic phase emerges. To remove such singular behavior, we next introduce an infrared regulator, and combine the dual quarkyonic model and the QMC model to include the nuclear interaction -- we call it the quarkyonic quark-meson coupling (QQMC) model. We then find that the quark saturation density depends strongly on the nucleon size. For example, when $r_p = 0.6\\, (0.8)$ fm, where $r_p$ is the root-mean-square radius of proton, the quark saturation density is about $3.6\\,(1.5) \\times \\rho_0$ in symmetric nuclear matter, where $\\rho_0$ is the nuclear saturation density. It is notable that the nuclear interaction is quite important to consider physical quantities quantitatively. In fact, the QQMC model can produce the sound velocity which is consistent with that inferred from the observed data of several neutron stars. Furthermore, pressure in symmetric or pure neutron matter deduced from the experiments of heavy-ion collisions at high energy can be explained by the QQMC model as well. We discuss in detail the formulation for the QQMC model and the physical quantities calculated by the model."
-    },
-    {
-      "title": "Complex-energy eigenvector continuation for nuclear many-body broad resonances",
-      "link": "https://arxiv.org/abs/2512.04517",
-      "authors": "Rongzhe Hu, Nicolas Michel, Zhicheng Xu, Jianguo Li, Furong Xu",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2512.04517v1 Announce Type: new \nAbstract: Broad resonances are a unique phenomenon in nuclear many-body systems. Theoretical studies usually involve the continuum degree of freedom, which drastically increases the model space of calculations, and may lead to non-convergence or instability of computations. In this paper, we present the extension of the eigenvector continuation (EC) method to the complex-energy space to treat the broad resonances of open quantum systems of nuclei. EC provides an efficient method to predict the solution of a large-space many-body problem within a small subspace. Using only a few bound and narrow resonance solutions as input in EC, we can obtain the solution of a broad resonance. We have applied the complex-energy EC to the broad resonances of $^4$H, four-neutron $^4n$, $^6$He and $^7$He systems."
-    },
-    {
-      "title": "Static Fission Properties of Even-Even Actinides within the Warsaw Macroscopic-Microscopic Model Using Fourier-over-Spheroid Parameterization",
-      "link": "https://arxiv.org/abs/2512.04739",
-      "authors": "A. Augustyn, T. Cap, R. Capote, M. Kowal, K. Pomorski",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2512.04739v1 Announce Type: new \nAbstract: A systematic study of fission barrier heights and static properties of even-even actinide nuclei from Th to Cf has been performed within the Warsaw macroscopic-microscopic model using the five-dimensional Fourier-over-Spheroid (FoS) shape parameterization. The use of a large deformation grid, containing about $1.3\\times10^{8}$ points for each nucleus, allows for a refined and numerically complete exploration of the potential energy landscape without dividing the configuration space into subregions or applying interpolation. Barrier heights, extracted via the Immersion Water Flow method, show good agreement with empirical evaluations (including the new IAEA RIPL-4 dataset) with mean deviations below 1 MeV. Special attention is given to the long-debated third, hyperdeformed minimum. For Th isotopes, a shallow but distinct third well appears, whereas it's absent in heavier actinides (U, Pu)."
-    },
-    {
-      "title": "Thermodynamic and Transport properties of hot asymmetric nuclear matter within a chiral SU(3) model",
-      "link": "https://arxiv.org/abs/2512.04820",
-      "authors": "Amruta Mishra, J. Schaffner-Bielich",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2512.04820v1 Announce Type: new \nAbstract: We investigate the thermodynamic and transport properties in hot nuclear matter accounting for the medium modifications of the nucleons within a chiral SU(3) model including effects from isospin asymmetry. Using the relaxation time approximation, the transport coefficients of the shear viscosity and thermal conductivity are studied. The shear viscosity, $\\eta$, calculated within the chiral SU(3) model is observed to be smaller than the values calculated for free nucleon gas, whereas the thermal conductivity $\\kappa$ is appreciably larger as compared to the free nucleon gas. The shear viscosity coefficient to entropy density ratio, $\\eta/s$, drops with increasing baryon density which becomes more pronounced at higher temperatures in the chiral SU(3) model as compared to the case of a free nucleon gas. The effect due to isospin asymmetry on the coefficient of shear viscosity turns out to be marginal. However, in the chiral SU(3) model, in presence of isospin asymmetry, the coefficient of thermal conductivity has an appreciably higher value as compared to the one for symmetric nuclear matter. The present study of the thermodynamic as well as transport properties in hot nuclear matter is of relevance for relativistic heavy-ion collisions with different initial isospin asymmetry, in particular for the compressed baryonic matter (CBM) experiment at the FAIR facility at GSI."
-    },
-    {
-      "title": "Opacity estimation of OO collision from CoMBolt-ITA hybrid",
-      "link": "https://arxiv.org/abs/2512.05009",
-      "authors": "Seyed Farid Taghavi, Seyed Mohammad Ali Tabatabaee Mehr",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2512.05009v1 Announce Type: new \nAbstract: Understanding the effect of system size on the applicability of the hydrodynamic description in heavy-ion physics remains unclear. Recent measurements of OO collisions at the LHC offer a new opportunity to refine our understanding of collectivity because of their intermediate size relative to heavy-ion and small-system collisions, as well as the relatively good control over their initial state. We use the CoMBolt-ITA hybrid model to describe recent OO measurements at the LHC. The model employs TrENTo for the initial state. A combination of the pre-equilibration and hydrodynamized medium stages is modeled consistently by CoMBolt-ITA, which evolves the Boltzmann distribution of massless collective excitations. The afterburner stage is included by employing UrQMD. Using this approach, we test whether the system lies in the regime where its spatial size approaches the mean free path, corresponding to low opacity, or in the opposite limit, where its size exceeds the mean free path sufficiently to enter the fluid-like evolution regime with high opacity. We find that, in light of the data-model comparison and considering the current status of the model, OO collisions with centralities larger than $60\\%$ gradually leave the domain of fluid-like evolution."
-    },
-    {
-      "title": "Nucleon to Roper transition amplitudes and electromagnetic form factors",
-      "link": "https://arxiv.org/abs/2512.04493",
-      "authors": "G. Ramalho",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2512.04493v1 Announce Type: cross \nAbstract: The second excitation of the nucleon, the Roper, has properties differentiated from other low-lying nucleon resonances. Their properties challenge our understanding of the structure of the baryons in terms of the degrees of freedom from QCD. In the present work we discuss the properties of the Roper resonance and the nucleon to Roper electromagnetic transition, based on the quark degrees of freedom, that are expected to dominate for large square momentum transfer $Q^2$. We also discuss the analytic structure of the transition amplitudes in the low-$Q^2$ region, and how the contributions of baryon-meson states can help to describe the low and intermediate $Q^2$ data, and the nature of the Roper."
-    },
-    {
-      "title": "Internal superfluid response and torque evolution in the giant glitch of PSR J1718-3718",
-      "link": "https://arxiv.org/abs/2512.04972",
-      "authors": "Peng Liu, Zhonghao Tu, Jianping Yuan, Ang Li",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2512.04972v1 Announce Type: cross \nAbstract: We investigate the post-glitch rotational evolution of pulsars by analyzing the 2007 giant glitch of PSR J1718$-$3718 using a vortex creep model that incorporates both inward and outward nonlinear vortex motion, along with a time-varying external torque. A comprehensive fitting framework is developed, constrained by prior knowledge of moment of inertia participation from previous glitch studies. We apply a Markov Chain Monte Carlo approach to quantify uncertainties and parameter correlations. The model reproduces the observed timing data and yields physically consistent values for moment of inertia fractions and creep timescales. Our results indicate that inward creep and a long-term change in external torque dominate the observed increase in spin-down rate, pointing to structural changes within the star-likely triggered by a crustquake that initiated both vortex motion and a change in the moment of inertia. We estimate that the glitch involved approximately $2.4 \\times 10^{12}$ inward-moving vortices and $\\sim 142$ crustal plates with a typical size of $\\sim 0.03$ km. This study demonstrates that detailed post-glitch modeling of sparse timing data can simultaneously constrain internal superfluid dynamics and external torque evolution, providing a quantitative framework to probe the structural properties of neutron star interiors."
-    },
-    {
-      "title": "L\\'evy sources in UrQMD in Ar+Sc collisions at SPS energies",
-      "link": "https://arxiv.org/abs/2512.05019",
-      "authors": "Barnabas Porfy, Mate Csanad",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2512.05019v1 Announce Type: cross \nAbstract: Over the past few decades, progress in femtoscopy has been driven by the interplay between experimental measurements and theoretical calculations. Measurements provide data for the theory to understand it, while theoretical predictions guide new measurements. In the recent decade, several experiments have confirmed that the two-particle pion emitting source is well described by L\\'evy alpha-stable distributions. To enable theoretical interpretation, phenomenological simulations have been done at RHIC and LHC energies, using various available heavy-ion collision models. In this paper, we investigate three-dimensional two-pion pair source distributions from $^{40}$Ar+$^{45}$Sc central collisions at SPS energies, generated with the Ultra-Relativistic Quantum Molecular Dynamics Monte-Carlo event generator. We fit the pair source with L\\'evy-stable distributions, and discuss the extracted L\\'evy parameters describing the spatial scale, shape and strength of the source."
-    },
-    {
-      "title": "Investigating the competition between the deconfinement and chiral phase transitions in light of the multimessenger observations of neutron stars",
-      "link": "https://arxiv.org/abs/2408.05687",
-      "authors": "Wen-Li Yuan, Bikai Gao, Yan Yan, Bolin Li, Renxin Xu",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2408.05687v3 Announce Type: replace \nAbstract: We extend the parity doublet model for hadronic matter and study the possible presence of quark matter inside the cores of neutron stars with the Nambu-Jona-Lasinio (NJL) model. Considering the uncertainties of the QCD phase diagram and the location of the critical endpoint, we aim to explore the competition between the chiral phase transition and the deconfinement phase transition systematically, regulated by the vacuum pressure $-B$ in the NJL model. Employing a Maxwell construction, a sharp first-order deconfinement phase transition is implemented combining the parity doublet model for the hadronic phase and the NJL model for the high-energy quark phase. The position of the chiral phase transition is obtained from the NJL model self-consistently. We find stable neutron stars with a quark core within a specific parameter space that satisfies current astronomical observations. The observations suggest a relatively large chiral invariant mass $m_0=600$ MeV in the parity doublet model and a larger split between the chiral and deconfinement phase transitions while assuming the first-order deconfinement phase transition. The maximum mass of the hybrid star that we obtain is $\\sim 2.2 M_{\\odot}$."
-    },
-    {
-      "title": "Ab Initio Calculations of the Carbon and Oxygen Isotopes: Energies, Correlations, and Superfluid Pairing",
-      "link": "https://arxiv.org/abs/2502.18722",
-      "authors": "Young-Ho Song, Myungkuk Kim, Youngman Kim, Kihyeon Cho, Serdar Elhatisari, Dean Lee, Yuan-Zhuo Ma, Ulf-G. Mei{\\ss}ner",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2502.18722v2 Announce Type: replace \nAbstract: We perform \\textit{ab initio} nuclear lattice calculations of the neutron-rich carbon and oxygen isotopes using high-fidelity chiral interactions. We find good agreement with the observed binding energies and compute correlations associated with each two-nucleon interaction channel. For the isospin $T=1$ channels, we show that the dependence on $T_z$ provides a measure of the correlations among the extra neutrons in the neutron-rich nuclei. For the spin-singlet S-wave channel, we observe that any paired neutron interacts with the nuclear core as well as its neutron pair partner, while any unpaired neutron interacts primarily with only the nuclear core. For the other partial waves, the correlations among the extra neutrons grow more slowly and smoothly with the number of neutrons. These general patterns are observed in both the carbon and oxygen isotopes and may be universal features that appear in many neutron-rich nuclei."
-    },
-    {
-      "title": "Barnett effect as a new source of magnetic field in heavy-ion collisions",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269325008391?dgcid=rss_sd_all",
+      "title": "Measuring short-range correlations and quasi-elastic cross sections in A(e,e’) at <em>x</em> > 1 and modest Q<sup>2</sup>",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269325008457?dgcid=rss_sd_all",
       "authors": "Unknown",
       "source": "Physics Letters B",
-      "summary": "Publication date: Available online 5 December 2025Source: Physics Letters BAuthor(s): Dushmanta Sahu"
+      "summary": "Publication date: Available online 6 December 2025Source: Physics Letters BAuthor(s): Y.P. Zhang, Z.H. Ye, D. Nguyen, P. Aguilera, Z. Ahmed, H. Albataineh, K. Allada, B. Anderson, D. Anez, K. Aniol, J. Annand, J. Arrington, T. Averett, H. Baghdasaryan, X. Bai, A. Beck, S. Beck, V. Bellini, F. Benmokhtar, A. Camsonne"
     },
     {
-      "title": "Elastic Scattering of α-Particles from nα-Cluster Nuclei Using the High-Energy Approximation and São Paulo Potential",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0375947425002921?dgcid=rss_sd_all",
+      "title": "Vacuum Geometry of the Standard Model",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269325008512?dgcid=rss_sd_all",
       "authors": "Unknown",
-      "source": "Nuclear Physics A",
-      "summary": "Publication date: Available online 4 December 2025Source: Nuclear Physics AAuthor(s): Awad A Ibraheem, M.N. El-Hammamy, F. Algahatani, Rehab Yajzey, Sh. Hamada, A. Attia"
+      "source": "Physics Letters B",
+      "summary": "Publication date: Available online 6 December 2025Source: Physics Letters BAuthor(s): Yang-Hui He, Vishnu Jejjala, Brent D. Nelson, Hal Schenck, Michael Stillman"
+    },
+    {
+      "title": "Heat Capacity and the Violation of Scaling Laws in Gravitational System",
+      "link": "https://www.sciencedirect.com/science/article/pii/S037026932500841X?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: Available online 5 December 2025Source: Physics Letters BAuthor(s): Shi-Bei Kong"
+    },
+    {
+      "title": "Low-uncertainty measurement of the <sup>239</sup>Pu(n,f) cross section at n_TOF in a very broad energy range from 0.02 eV up to 10 MeV",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269325008287?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: Available online 5 December 2025Source: Physics Letters BAuthor(s): A. Sánchez-Caballero, D. Cano-Ott, E. Mendoza, V. Alcayne, J. Andrzejewski, R. Capote, T. Cardinaels, P. Dries, J. García Pérez, A. Gawlik-Ramięga, E. González-Romero, J. Heyse, G. Leinders, T. Martínez, G. Noguere, C. Paradela, A. Pérez De Rada Fiol, J. Perkowski, A. Plompen, P. Schillebeeckx"
+    },
+    {
+      "title": "Emergent spin polarization from <em>ρ</em> meson condensation in rotating hadronic matter",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269325008482?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: Available online 5 December 2025Source: Physics Letters BAuthor(s): Kshitish Kumar Pradhan, Dushmanta Sahu, Raghunath Sahoo"
     }
   ]
 }
