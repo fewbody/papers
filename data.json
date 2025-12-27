@@ -1,117 +1,68 @@
 {
-  "lastUpdated": "2025-12-26T02:49:16.836045",
+  "lastUpdated": "2025-12-27T02:46:27.399931",
   "papers": [
     {
-      "title": "Electron Hydrodynamics in Graphene : Experimental and Theoretical Status",
-      "link": "https://arxiv.org/abs/2509.11315",
-      "authors": "Subhalaxmi Nayak, Cho Win Aung, Thandar Zaw Win, Ashutosh Dwibedi, Sabyasachi Ghosh, Sesha Vempati",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2509.11315v1 Announce Type: cross \nAbstract: The present work comprehensively reviews electron hydrodynamics in graphene, highlighting both experimental observations and theoretical developments. Key experimental signatures such as negative vicinity resistance, Poiseuille flow, and significant violation of the Wiedemann-Franz (WF) law have been discussed, with special emphasis on Lorenz ratio measurements. In the theoretical direction, recent efforts have focused on developing hydrodynamic frameworks for calculating the thermodynamic and transport coefficients of electrons in graphene. The present work has briefly addressed the theoretical framework adopted by our group."
+      "title": "Experimental study of $^{53}\\mathrm{Cr}$ via the ($d,pγ$) reaction",
+      "link": "http://link.aps.org/doi/10.1103/wp85-rthk",
+      "authors": "M. Spieker <em>et al.</em>",
+      "source": "Physical Review C",
+      "summary": "Author(s): M. Spieker et al.Excited states in $^{53}\\mathrm{Cr}$ were studied via the $^{52}\\mathrm{Cr}(d,pγ)$ reaction up to the neutron-separation threshold. Proton-$γ$ angular correlations and $γ$ decay branching ratios were measured in particle-$γ$ coincidences between the Super-Enge Split-Pole Spectrograph (SE-SPS) and ${…[Phys. Rev. C 112, 064331] Published Fri Dec 26, 2025"
     },
     {
-      "title": "Isoscalar Giant Resonances in Highly-Deformed $^{172}$Yb",
-      "link": "https://arxiv.org/abs/2512.20694",
-      "authors": "K. Khokhar, S. Bagchi, Y. Niu, C. Chen, M. N. Harakeh, M. Abdullah, H. Akimune, D. Das, T. Doi, L. M. Donaldson, Y. Fujikawa, M. Fujiwara, T. Furuno, U. Garg, Y. K. Gupta, K. B. Howard, Y. Hijikata, K. Inaba, S. Ishida, M. Itoh, N. Kalantar-Nayestanaki, D. Kar, T. Kawabata, S. Kawashima, K. Kitamura, N. Kobayashi, Y. Matsuda, A. Nakagawa, S. Nakamura, K. Nosaka, S. Okamoto, S. Ota, S. Pal, S. Roy, S. Weyhmiller, Z. Yang, J. C. Zamora",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2512.20694v1 Announce Type: cross \nAbstract: To study the isoscalar giant resonances in a deformed case, background-free $\\alpha$-particle inelastic scattering measurements using a 386 MeV $\\alpha$ beam were performed on the highly-deformed $^{172}$Yb nucleus using the Grand Raiden spectrometer at the Research Center for Nuclear Physics (RCNP) at very forward angles, including $0^\\circ$. The strength distributions for the isoscalar giant resonances up to $L \\leq 3$ were obtained using multipole decomposition analysis. The isoscalar giant monopole resonance (ISGMR) strength exhibits a splitting into two components, interpreted as the coupling of the ISGMR with the $K=0$ component of the isoscalar giant quadrupole resonance (ISGQR). A \\textit{bimodal} structure is observed in the strength distribution of the isoscalar giant dipole resonance. The ISGQR strength shows an enhancement near 25 MeV, attributed to the excitation of an overtone mode, while the broadening of the main-tone peak is associated with nuclear deformation. The experimental results are well reproduced by theoretical strength distributions calculated using the quasiparticle finite amplitude method for $L \\leq 3$."
+      "title": "Low-mass vector-meson production at forward rapidity in $p+p$ and $\\mathrm{Au}+\\mathrm{Au}$ collisions at $\\sqrt{{s}_{{}_{NN}}}=200$ GeV",
+      "link": "http://link.aps.org/doi/10.1103/s25h-my1f",
+      "authors": "N. J. Abdulameer <em>et al.</em> (PHENIX Collaboration)",
+      "source": "Physical Review C",
+      "summary": "Author(s): N. J. Abdulameer et al. (PHENIX Collaboration)The PHENIX experiment at the Relativistic Heavy Ion Collider has measured low-mass vector-meson ($ω+ρ$ and $ϕ$) production through the dimuon decay channel at forward rapidity $(1.2&lt;|\\text{y}|&lt;2.2)$ in $p+p$ and $\\mathrm{Au}+\\mathrm{Au}$ collisions at $\\sqrt{{s}_{{}_{NN}}}=200$ GeV. The low-ma…[Phys. Rev. C 112, 064918] Published Fri Dec 26, 2025"
     },
     {
-      "title": "Formulation of Relativistic Dissipative Spin Hydrodynamics",
-      "link": "https://arxiv.org/abs/2512.20855",
-      "authors": "Asaad Daher",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2512.20855v1 Announce Type: cross \nAbstract: The primary objective of this thesis is to develop a consistent theoretical framework of dissipative hydrodynamics for a relativistic fluid with spin - hereafter referred to as relativistic dissipative spin hydrodynamics. In this framework, the dynamical description of a relativistic fluid requires a new macroscopic variable, the spin density, which is associated with a spin tensor. This tensor, defined as the expectation value of a rank-3 tensor operator in quantum field theory, contributes to the system's total angular momentum. The need for such a theory is motivated by recent measurements of spin polarization of hadrons produced in non-central relativistic heavy-ion collisions.\n  Two distinct formulation methods are employed. The first is grounded in covariant thermodynamics and extends the conventional Navier-Stokes and M\\\"uller-Israel-Stewart theories of relativistic hydrodynamics by incorporating a spin tensor. The second is based on principles of relativistic quantum statistical mechanics, building upon and generalizing the foundational Zubarev approach. Both formulations aim to construct a closed system of evolution equations for the macroscopic variables and, via an entropy-current analysis, to identify the dissipative currents and their associated transport coefficients.\n  These two approaches provide different perspectives for future applications focused on spin polarization measurements. Beyond its phenomenological relevance, the theory also opens several avenues for further theoretical developments. These include the verification of the thermodynamic relations employed in the first formulation method using microscopic frameworks, as well as a deeper understanding of the emerging transport coefficients - particularly those associated with the spin tensor - through microscopic modeling or data-driven parameter extraction."
+      "title": "Reconstructing jet azimuthal anisotropies with cumulants",
+      "link": "http://link.aps.org/doi/10.1103/k68z-z2xr",
+      "authors": "Tanner Mengel, Niseem Magdy, Ron Belmont, Anthony Timmins, and Christine Nattrass",
+      "source": "Physical Review C",
+      "summary": "Author(s): Tanner Mengel, Niseem Magdy, Ron Belmont, Anthony Timmins, and Christine NattrassIn relativistic heavy-ion collisions, where quark-gluon plasma forms, hadron production is anisotropic at both low and high transverse momentum, driven by flow dynamics and spatial anisotropies. To better understand these mechanisms, we use multiparticle correlations to reconstruct jet anisotropies.…[Phys. Rev. C 112, 064919] Published Fri Dec 26, 2025"
     },
     {
-      "title": "Universal relations between the quasinormal modes of neutron stars and magnetic tidal deformability",
-      "link": "https://arxiv.org/abs/2512.20867",
-      "authors": "Hajime Sotani",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2512.20867v1 Announce Type: cross \nAbstract: Tidal deformabilities are one of the observable quantities characterizing neutron stars, which are strongly associated with the stellar compactness, the ratio of the stellar mass to the radius. In addition to the tidal deformability, the quasinormal modes excited in a neutron star are also an important property for extracting information about the neutron star interior, adopting gravitational wave asteroseismology. In this study, we especially focus on the magnetic tidal deformability, which acts on the gravitational waveform from a neutron star binary merger as a higher-order effect than the electric tidal deformability, and derive the universal relations expressing the quasinormal modes, such as the fundamental ($f$-), 1st pressure ($p_1$-), and 1st spacetime ($w_1$-) modes, as a function of the magnetic tidal deformability. The universal relations derived in this study exhibit accuracy more or less comparable to those of the electric tidal deformability."
+      "title": "Hubble's law in heavy ion collisions",
+      "link": "http://link.aps.org/doi/10.1103/hwkq-9szq",
+      "authors": "N. V. Kolomoyets, O. V. Teryaev, and V. Voronyuk",
+      "source": "Physical Review C",
+      "summary": "Author(s): N. V. Kolomoyets, O. V. Teryaev, and V. VoronyukThe evolution of the “microscopic” Hubble parameter related to the expansion of matter born in heavy-ion collisions was obtained for nucleons and pions. The calculations were carried out within the parton-hadron-string dynamics (PHSD) transport model. $\\mathrm{Au}+\\mathrm{Au}$ collisions with $\\sqrt…[Phys. Rev. C 112, 064920] Published Fri Dec 26, 2025"
     },
     {
-      "title": "Study of SIDIS Unpolarized Cross Sections from a $^3$He Target with the Solenoidal Large Intensity Device at JLab",
-      "link": "https://arxiv.org/abs/2512.20897",
-      "authors": "Matteo Cerutti, Jian-Ping Chen, Umberto D'Alesio, Haiyan Gao, Shuo Jia, Vladimir Khachatryan, Alexei Prokudin, Lorenzo Rossi, Ye Tian, Zhiwen Zhao",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2512.20897v1 Announce Type: cross \nAbstract: In this paper we present a detailed impact study of semi-inclusive deep inelastic scattering unpolarized cross sections' measurements using the proposed SoLID apparatus at Jefferson Lab. This type of data, collected at large Bjorken $x_{bj}$, moderate values of $Q^2$ and small values of the transverse momentum of produced hadrons, $P_{hT}$, allows to study transverse momentum dependent (TMD) parton distribution and fragmentation functions in a still poorly explored region. We present the projected results for charged light mesons based on simulated data. For the azimuthal-angle integrated cross sections we adopt the TMD framework up to the next-to-next-to-next-to-leading-logarithmic (N3LL) accuracy, while a simpler TMD parton model is employed for the study of azimuthal angular dependencies."
+      "title": "Impact of spin polarization on transport and thermodynamic coefficients",
+      "link": "http://link.aps.org/doi/10.1103/6hx8-mbp5",
+      "authors": "De-Xian Wei",
+      "source": "Physical Review C",
+      "summary": "Author(s): De-Xian WeiThis work investigates the influence of parton spin polarization on effective transport and thermodynamic coefficients in noncentral light- and heavy-ion collisions. To model this influence, I consider two sources of spin polarization: thermal vorticity, induced by angular momentum, and thermal shea…[Phys. Rev. C 112, 064921] Published Fri Dec 26, 2025"
     },
     {
-      "title": "Electron spectral shape of the third-forbidden $\\beta$-decay of $^{87}$Rb measured using a Rb$_2$ZrCl$_6$ crystal scintillator",
-      "link": "https://arxiv.org/abs/2512.21082",
-      "authors": "P. Belli, R. Bernabei, F. Cappella, V. Caracciolo, R. Cerulli, A. Incicchitti, A. Leoncini, V. Merlo, S. S. Nagorny, V. V. Nahorna, S. Nisi, P. Wang, J. Suhonen, M. Ramalho, J. Kostensalo",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2512.21082v1 Announce Type: cross \nAbstract: In recent years, interest in experimental studies of $\\beta$-decay electron spectra -- often referred to as $\\beta$ spectra -- has been growing. This is particularly true for $\\beta$ transitions where the electron spectra are sensitive to the effective value of the weak axial coupling, $g_{\\rm A}$. Such measurements serve as important benchmarks for nuclear physics calculations and can also be used to characterize background in astroparticle physics experiments. In this work, a dedicated experiment has been carried out to investigate the spectral shape of the third-forbidden $^{87}$Rb $\\beta$-decays, with the goal of estimating the effective $g_{\\rm A}$ value for this transition and of deriving the T$_{1/2}$ value. This was done by comparing the experimental spectral shape with the estimates from various phenomenological models. The $^{87}$Rb source was embedded directly within the detector material of a new Rb$_2$ZrCl$_6$ crystal scintillator; the data taking was performed deep underground at Gran Sasso National Laboratory. The obtained experimental half-life value for the studied process is T$_{1/2} = 5.08(13) \\times$ 10$^{10}$ yr; while a $g_{\\rm A}$ value in the range 0.4 to 0.6 is obtained when accounting for uncertainties and depending on the model adopted as discussed in detail in the text."
-    },
-    {
-      "title": "Quantum entanglement between partons in a strongly coupled quantum field theory",
-      "link": "https://arxiv.org/abs/2512.21228",
-      "authors": "Wenyu Zhang, Wenyang Qian, Yiyu Zhou, Yang Li, Qun Wang",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2512.21228v1 Announce Type: cross \nAbstract: We perform a first-principles, non-perturbative investigation of quantum entanglement between partonic constituents in a strongly coupled 3+1-dimensional scalar Yukawa theory, using light-front Hamiltonian methods with controlled Fock-space truncations. By explicitly constructing reduced density matrices for (mock) nucleon, pion, and anti-nucleon subsystems from light-front wave functions, we compute key entanglement witnesses, including von Neumann entropy, mutual information, and linear entropy, in both quenched (no sea pairs) and unquenched frameworks. We find that the entanglement entropy is closely related to the Shannon entropy of the transverse momentum dependent distribution, establishing a link between quantum information and parton structure. In contrast, the unquenched theory reveals genuinely non-classical correlations: the entanglement entropy cannot be reduced to any Shannon entropy of normalized parton distributions, demonstrating that the full hadronic wave function encodes quantum information beyond classical probabilities. Our findings highlight the role of entanglement as a fundamental probe of non-perturbative dynamics in relativistic quantum field theory and lay the groundwork for extending these concepts to QCD and future collider phenomenology."
-    },
-    {
-      "title": "Quantum computation of mass gap in an asymptotically free theory",
-      "link": "https://arxiv.org/abs/2512.21282",
-      "authors": "Paulo F. Bedaque, Edison M. Murairi, Gautam Rupak, Valery S. Simonyan",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2512.21282v1 Announce Type: cross \nAbstract: In relativistic field theories, the mass spectrum is given by the difference between the energy of the vacuum and the excited states. Near the continuum limit, the cancellation between these two values leads to loss of precision. We propose a method to extract the mass gap directly using quantum computers and apply it to a particular version of the nonlinear $\\sigma$-model with the correct continuum limit and perform calculations in quantum hardware (at strong coupling) and simulation in classical computers (at weak coupling)."
-    },
-    {
-      "title": "Probing the delicate balance of the spontaneous fission instability in sub-<em>μ</em>s superheavy nucleus <sup>252</sup>Rf",
-      "link": "https://www.sciencedirect.com/science/article/pii/S037026932500886X?dgcid=rss_sd_all",
+      "title": "No hidden physics in resonance pole residue phase",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269325008925?dgcid=rss_sd_all",
       "authors": "Unknown",
       "source": "Physics Letters B",
-      "summary": "Publication date: Available online 25 December 2025Source: Physics Letters BAuthor(s): Zhen-Zhen Zhang, Hua-Lei Wang, Kui Xiao, Min-Liang Liu"
+      "summary": "Publication date: Available online 25 December 2025Source: Physics Letters BAuthor(s): S. Ceci, R. Omerović, H. Osmanović, M. Uroić, B. Zauner"
     },
     {
-      "title": "Momentum-fragmented hyperons in cold neutron stars",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269325008858?dgcid=rss_sd_all",
+      "title": "Evidence of medium response to hard probes using correlations of Z bosons with hadrons in heavy ion collisions",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269325008767?dgcid=rss_sd_all",
       "authors": "Unknown",
       "source": "Physics Letters B",
-      "summary": "Publication date: Available online 24 December 2025Source: Physics Letters BAuthor(s): Hristijan Kochankovski, Ángels Ramos, Laura Tolos"
+      "summary": "Publication date: Available online 25 December 2025Source: Physics Letters BAuthor(s): The Cms Collaboration"
     },
     {
-      "title": "Traversable ghost wormholes",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269325008792?dgcid=rss_sd_all",
+      "title": "Knudsen number and universal behavior of collective flows in conformal and non-conformal systems",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269325008780?dgcid=rss_sd_all",
       "authors": "Unknown",
       "source": "Physics Letters B",
-      "summary": "Publication date: Available online 24 December 2025Source: Physics Letters BAuthor(s): Alberto Guilabert, Ernesto Fuenmayor, Pedro Bargueño, E. Contreras"
+      "summary": "Publication date: Available online 25 December 2025Source: Physics Letters BAuthor(s): Vincenzo Nugara, Nicolas Borghini, Vincenzo Greco, Salvatore Plumari"
     },
     {
-      "title": "A gravitational spin-orbit interaction in Poincaré gauge theory",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269325008822?dgcid=rss_sd_all",
-      "authors": "Unknown",
-      "source": "Physics Letters B",
-      "summary": "Publication date: Available online 24 December 2025Source: Physics Letters BAuthor(s): Sebastian Bahamonde, Jorge Gigante Valcarcel"
-    },
-    {
-      "title": "Investigating <sup>238</sup>U Deformation via Dilepton Production in Relativistic Heavy-Ion Collisions",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269325008846?dgcid=rss_sd_all",
-      "authors": "Unknown",
-      "source": "Physics Letters B",
-      "summary": "Publication date: Available online 24 December 2025Source: Physics Letters BAuthor(s): Wen-Hao Zhou, Lu-Meng Liu, Che Ming Ko, Kai-Jia Sun, Jun Xu"
-    },
-    {
-      "title": "Leading order effective operators in quantum gravity",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269325008871?dgcid=rss_sd_all",
-      "authors": "Unknown",
-      "source": "Physics Letters B",
-      "summary": "Publication date: Available online 24 December 2025Source: Physics Letters BAuthor(s): Tommaso Antonelli, Xavier Calmet, Stephen D H Hsu"
-    },
-    {
-      "title": "Dynamics of <sup>6,7</sup> Li breakups on heavy target mass",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0375947425003033?dgcid=rss_sd_all",
+      "title": "Nuclear structure properties of <math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si4.svg\" class=\"math\"><msup><mrow></mrow><mrow><mn>184</mn><mo>−</mo><mn>194</mn></mrow></msup></math>Pb isotopes and isomers",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0375947425003069?dgcid=rss_sd_all",
       "authors": "Unknown",
       "source": "Nuclear Physics A",
-      "summary": "Publication date: Available online 24 December 2025Source: Nuclear Physics AAuthor(s): L.V. Ndala, M.L. Lekala"
-    },
-    {
-      "title": "Going Beyond the Two-Channel Model: Systematic Approach to Multi-Channel Momentum-Space Contact-Interactions Models",
-      "link": "https://link.springer.com/article/10.1007/s00601-025-02024-5",
-      "authors": "Unknown",
-      "source": "Few-Body Systems",
-      "summary": "Few-body scattering and loosely bound states in the vicinity of an isolated narrow Feshbach resonance are well described by a conceptually simple contact interaction two-channel model, where an open atomic continuum channel is coupled to a closed molecular channel. However, real systems are often characterized by the multiplicity of both continuum and molecular channels. Here we develop a systematic framework to deal with multi-channel problems within a contact interaction approximation. We demonstrate the differences and similarities of adding a molecular or atomic channel to the two-channel model. By means of direct comparison, we show that while an additional atomic channel makes loosely bound states shallower, an additional molecular channel makes them more deeply bound. This approach facilitates the study of the influence of multi-channel environments on few-body physics in a systematic manner by gradually increasing the level of complexity. Furthermore, we account for real atomic systems whose understanding can benefit from this study."
+      "summary": "Publication date: Available online 25 December 2025Source: Nuclear Physics AAuthor(s): Sakshi Shukla, Praveen C. Srivastava"
     }
   ]
 }
