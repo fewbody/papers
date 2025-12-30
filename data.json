@@ -1,40 +1,117 @@
 {
-  "lastUpdated": "2025-12-29T03:01:49.609987",
+  "lastUpdated": "2025-12-30T02:51:43.558012",
   "papers": [
     {
-      "title": "First operation of the FAMU experiment at the RIKEN-RAL high intensity muon beam facility",
-      "link": "https://epja.epj.org/10.1140/epja/s10050-025-01758-4",
-      "authors": "A. Adamczak, D. Bakalov, G. Baldazzi, M. Baruzzo, R. Benocci, R. Bertoni, M. Bonesini, S. Capra, D. Cirrincione, M. Clemenza, L. Colace, M. Danailov, P. Danev, A. de Bari, C. De Vecchi, D. Di Ferdinando, E. Fasci, R. Gaigher, L. Gianfrani, A. D. Hillier, K. Ishida, J. S. Lord, A. Menegolli, E. Mocchiutti, S. Monzani, L. Moretti, G. Morgante, C. Pizzolotto, A. Pullia, M. Pullia, R. Ramponi, H. E. Roman, M. Rossella, R. Rossini, A. Sbrizzi, M. Stoilov, J. J. Suárez-Vargas, G. Toci, L. Tortora, E. Vallazza, K. Yokoyama, A. Vacchi",
-      "source": "European Physical Journal A",
-      "summary": "Authors: A. Adamczak, D. Bakalov, G. Baldazzi, M. Baruzzo, R. Benocci, R. Bertoni, M. Bonesini, S. Capra, D. Cirrincione, M. Clemenza, L. Colace, M. Danailov, P. Danev, A. de Bari, C. De Vecchi, D. Di Ferdinando, E. Fasci, R. Gaigher, L. Gianfrani, A. D. Hillier, K. Ishida, J. S. Lord, A. Menegolli, E. Mocchiutti, S. Monzani, L. Moretti, G. Morgante, C. Pizzolotto, A. Pullia, M. Pullia, R. Ramponi, H. E. Roman, M. Rossella, R. Rossini, A. Sbrizzi, M. Stoilov, J. J. Suárez-Vargas, G. Toci, L. Tortora, E. Vallazza, K. Yokoyama and A. Vacchi.The European Physical Journal A Vol. 61 , page 284Published online: 24/12/2025\n       Keywords:"
+      "title": "Spontaneous fission half-lives for heavy and super-heavy nuclei from phenomenological models",
+      "link": "https://arxiv.org/abs/2512.21453",
+      "authors": "Yi Xie, Ning Wang, Zhongzhou Ren",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2512.21453v1 Announce Type: new \nAbstract: A phenomenological model is proposed for a systematic description of the spontaneous fission (SF) half-lives $T_{\\rm SF}$ of heavy and super-heavy nuclei. Based on the effective tunneling barrier (ETB), the proposed approach reproduces the SF half-lives of 79 known nuclei with an average deviation of 0.8, which is $17\\%$ smaller than that of the linear correlation approach recently proposed in [N. S. Moiseev, N. V. Antonenko and G. G. Adamian, Phys. Rev. C 112, 034607 (2025)]. For superheavy nuclei with $45\\leqslant N-Z \\leqslant 61$, the predicted SF half-lives from these two different phenomenological models are in good agreement with each other. The ETB calculations implies that the $\\beta$-decay energy affects the SF half-lives of nuclei far from the $\\beta$-stability line. For superheavy nuclei around the magic number $N=184$, the predicted $T_{\\rm SF}$ of $^{304}$120 is much shorter than that of $^{298}$Fl. With predicted values of about $10 \\sim 160$ ms for $T_{\\rm SF}$, the unmeasured SHN $^{293}119 $ could survive for long enough to reach the focal-plane detector in detection systems like the gas-filled recoil separator SHANS in Lanzhou."
     },
     {
-      "title": "A Beamdump facility at Jefferson Lab",
-      "link": "https://epja.epj.org/10.1140/epja/s10050-025-01748-6",
-      "authors": "Patrick Achenbach, Andrei Afanasev, Pawel Ambrozewicz, Adi Ashkenazi, Dipanwita Banerjee, Marco Battaglieri, Jay Benesch, Mariangela Bondí, Paul Brindza, Alexandre Camsonne, Eric M. Christy, Ethan W. Cline, Chris Cuevas, Jens Dilling, Luca Doria, Stuart Fegan, Marco Filippini, Antonino Fulci, Simona Giovannella, Stefano Grazzi, Heather Jackson, Douglas Higinbotham, Cynthia Keppel, Vladimir Khachatryan, Michael Kohl, Hanjie Liu, Zhen Liu, Camillo Mariani, Ralph Marinaro, Kevin McFarland, Claudio Montanari, Vishvas Pandey, Eduard Pozdeyev, Jianwei Qiu, Patrizia Rossi, Riccardo Rossini, Todd Satogata, Glenn Schrader, Adrian Signer, Daniel Snowden-Ifft, Marco Spreafico, Diktys Stratakis, Manjukrishna Suresh, Holly Szumila, Júlia Tena Vidal, Davide Terzani, Charlie Velasquez, Michael Wood, Takayuki Yamazaki, Yuhong Zhang",
-      "source": "European Physical Journal A",
-      "summary": "Authors: Patrick Achenbach, Andrei Afanasev, Pawel Ambrozewicz, Adi Ashkenazi, Dipanwita Banerjee, Marco Battaglieri, Jay Benesch, Mariangela Bondí, Paul Brindza, Alexandre Camsonne, Eric M. Christy, Ethan W. Cline, Chris Cuevas, Jens Dilling, Luca Doria, Stuart Fegan, Marco Filippini, Antonino Fulci, Simona Giovannella, Stefano Grazzi, Heather Jackson, Douglas Higinbotham, Cynthia Keppel, Vladimir Khachatryan, Michael Kohl, Hanjie Liu, Zhen Liu, Camillo Mariani, Ralph Marinaro, Kevin McFarland, Claudio Montanari, Vishvas Pandey, Eduard Pozdeyev, Jianwei Qiu, Patrizia Rossi, Riccardo Rossini, Todd Satogata, Glenn Schrader, Adrian Signer, Daniel Snowden-Ifft, Marco Spreafico, Diktys Stratakis, Manjukrishna Suresh, Holly Szumila, Júlia Tena Vidal, Davide Terzani, Charlie Velasquez, Michael Wood, Takayuki Yamazaki and Yuhong Zhang.The European Physical Journal A Vol. 61 , page 285Published online: 24/12/2025\n       Keywords:"
+      "title": "Model-Independent Bound on Neutrino Energy Reconstruction from Nuclear Targets",
+      "link": "https://arxiv.org/abs/2512.21505",
+      "authors": "Sanjeev Kumar Verma",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2512.21505v1 Announce Type: new \nAbstract: Neutrino energy reconstruction on nuclear targets underlies oscillation measurements and precision tests of weak interactions. Inclusive charged--current data have long exhibited degeneracies commonly attributed to axial-mass tuning, multinucleon dynamics, and final-state interactions. This work shows that, even in the idealized limit of perfect detectors and exact nuclear dynamics, inclusive lepton-only reconstruction admits no unique inverse. A strictly positive lower bound on neutrino energy resolution follows from the finite energy-transfer support of the inclusive nuclear axial response. The result identifies an irreducible contribution to reconstruction uncertainty that is independent of modeling assumptions and experimental resolution."
     },
     {
-      "title": "Density dependent <em>B</em>- parameter model of relativistic strange stars in the framework of <em>f</em>(<em>R, T</em>) gravity",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269325008950?dgcid=rss_sd_all",
+      "title": "Pre-Supernova (Anti)Neutrino Emission Due to Weak-Interaction Reactions with Hot Nuclei",
+      "link": "https://arxiv.org/abs/2512.21604",
+      "authors": "Alan A. Dzhioev, Andrey V. Yudin, Natalia V. Dunina-Barkovskaya, Andrey I. Vdovin",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2512.21604v1 Announce Type: new \nAbstract: Reliable predictions of (anti)neutrino spectra and luminosities are essential for assessing the feasibility of detecting pre-supernova neutrinos. Using the stellar evolution code MESA, we calculate the (anti)neutrino spectra and luminosities under realistic conditions of temperature, density, and electron fraction. Our study includes (anti)neutrinos produced by both thermal processes and nuclear weak-interaction reactions. By comparing the results of the thermal quasiparticle random-phase approximation with the standard technique based on the effective $Q$-value method, we investigate how thermal effects influence the spectra and luminosities of emitted (anti)neutrinos. Our findings show that a thermodynamically consistent treatment of Gamow--Teller transitions in hot nuclei enhances both the energy luminosity and the average energies of the emitted (anti)neutrinos."
+    },
+    {
+      "title": "Shell effects in quasifission toward $^{180} \\mathrm{Hg}$: insights into fission asymmetric modes",
+      "link": "https://arxiv.org/abs/2512.21619",
+      "authors": "Yingge Huang, Haozhao Liang, Jun Su",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2512.21619v1 Announce Type: new \nAbstract: Background: Experiment of $^{180}\\mathrm{Hg}$ fission revealed a possible ``new asymmetric fission mode'' in the preactinide region, posing challenges to current fission theory. Similarity on shell effects are observed between fission and quasifission, providing possibility for widely exploring the topography of fission potential-energy surface (PES). Purpose: We aim to investigate the shell effects in the quasifission forming $^{180}\\mathrm{Hg}$ and to explore their connection with the $^{180}\\mathrm{Hg}$ fission. Method: $^{68}\\mathrm{Zn}+^{112}\\mathrm{Sn}$, $^{74}\\mathrm{Se}+^{106}\\mathrm{Pd}$, and $^{80}\\mathrm{Kr}+^{100}\\mathrm{Ru}$ central collisions at different energies and projectile orientations are calculated using the Skyrme time-dependent Hartree-Fock approach. The static fission properties are calculated with the constrained Hartree-Fock-Bogoliubov method and compared with the quasifission results. Results: Shell effects are found to hinder mass equilibration between the prefragments, enhancing the production of fragments near the $80/100$ mass split. By comparing the quasifission trajectories with the PES in the $(Q_{20}, Q_{30})$ space, the role of PES ridge in forming fragments is identified. The presence of asymmetric valley causes the $ {^{68}\\mathrm{Zn}} + {^{112}\\mathrm{Sn}} $ quasifission exhibits prefragment mass equilibration process and scission-point configuration similar to those of fission. The elongated light fragment is found to be a key factor in reproducing the experimental fission total kinetic energies. Conclusions: By using quasifission dynamics as a probe of the fission pathway, the present calculations help clarify the specific influence of the PES topography. This highlights the importance of dynamical calculations for preactinide fission, where the manifestation of shell effects is not intuitively evident from the PES."
+    },
+    {
+      "title": "Nucleon momentum distributions of complex nuclei from inclusive electron scattering",
+      "link": "https://arxiv.org/abs/2512.21900",
+      "authors": "Tongqi Liang, Dong Bai, Zhongzhou Ren",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2512.21900v1 Announce Type: new \nAbstract: Nucleon momentum distributions (NMDs) reveal essential information about Fermi motion and short-range correlations (SRCs). In extracting NMDs from inclusive electron scattering data, theoretical analyses, such as the scaling analysis, are typically employed. For complex nuclei, consistently treating the excitation energy of the residual system is a complicated task, leading to discrepancies between existing extracted NMDs and ab initio calculations, particularly around the Fermi momentum $k_F$. To address this issue, we introduce an improved description of the excitation energy in the framework of the relativistic Fermi gas (RFG) model. With this treatment, the extracted NMDs of complex nuclei show better agreement with ab initio calculations across the low- and high-momentum range, especially around $k_F$, successfully reproducing both the behaviors of Fermi motion and SRCs. These results provide a new experimental perspective on the interplay between Fermi motion and SRCs in complex nuclei."
+    },
+    {
+      "title": "Multi-reference Trial State for Lattice Quantum Monte Carlo Simulations",
+      "link": "https://arxiv.org/abs/2512.21942",
+      "authors": "Teng Wang, Xu Feng, Bing-Nan Lu",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2512.21942v1 Announce Type: new \nAbstract: Nuclear lattice effective field theory (NLEFT) is an efficient \\textit{ab initio} tool for solving nuclear many-body systems using the imaginary-time projection technique, where the preparation of trial states is essential for substantially reducing the computational cost required to achieve the desired numerical precision. It has been challenging in forming optimal multi-reference trial states using multiple Slater determinants within auxiliary-field based quantum Monte Carlo frameworks like NLEFT. In this work, we develop a novel sampling method for efficiently incorporating such multi-reference trial states into NLEFT calculations. We applied the optimized trial state to $^7$Li and $^8$Li, finding overall improvements in calculated energies, electromagnetic properties, and transitions compared to results obtained without these optimizations. Our approach provides a reliable foundation for accurately simulating nuclear ground and low-lying excited states within the NLEFT framework."
+    },
+    {
+      "title": "Unified Royer law revision for alpha-decay half-lives: shell corrections, pairing,and orbital-angular-momentum",
+      "link": "https://arxiv.org/abs/2512.22057",
+      "authors": "Kai Ren, Pengfei Ma, Minghui Hu, Junlong Tian",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2512.22057v1 Announce Type: new \nAbstract: The Royer law is a widely used empirical relation for calculating alpha-decay half-lives; however, it requires 12 parity-dependent parameters.It exhibits systematic deviations near the shell closure. We propose an improved Royer law by adding a shell-correction term, an odd-even pairing indicator, and an orbital-angular-momentum contribution. This unified framework reduces the number of free parameters to just four, leading to significant improvements in accuracy. The root-mean-square deviation across 550 experimental data points decreases from 0.520 to 0.279, corresponding to a 66.7% reduction in parameters and 46.3% improvement in accuracy. Using this refined formalism, we predict alpha-decay half-lives for superheavy nuclei with atomic numbers."
+    },
+    {
+      "title": "Impact of a Reflecting Material on a Search for Neutron--Antineutron Oscillations using Ultracold Neutrons",
+      "link": "https://arxiv.org/abs/2508.17725",
+      "authors": "Hiroyuki Fujioka, Takashi Higuchi",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2508.17725v2 Announce Type: cross \nAbstract: We investigate neutron--antineutron oscillations of ultracold neutrons in a storage bottle represented by a one-dimensional potential. The experimental sensitivity is determined by the annihilation rate of antineutrons. Its dependence on the antineutron reflectivity and the relative phase shift between the neutron and the antineutron wavefunctions by a reflection from the wall is derived. Optimization of the antineutron pseudopotential was found crucial to maximize the sensitivity of the experiment. Furthermore, methods are discussed for determining the antineutron pseudopotential, which has only been studied indirectly thus far."
+    },
+    {
+      "title": "On the Cooling of Compact Stars in Light of the HESS J1731-347 Remnant",
+      "link": "https://arxiv.org/abs/2512.21406",
+      "authors": "D. Nanopoulos, P. Laskos-Patkos, Ch. C. Moustakidis",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2512.21406v1 Announce Type: cross \nAbstract: Recent analyses on the central compact object in the HESS J1731-347 supernova remnant reported not only surprising structural properties (mass $M$ and radius $R$), but also an interesting thermal evolution. More precisely, it has been estimated that $M=0.77^{+0.20}_{-0.17}M_\\odot$ and $R=10.4^{+0.86}_{-0.78}$ km (at the $1\\sigma$ level), while a redshited surface temperature of $153^{+4}_ {-2}$ keV at an age of 2-6 kyrs has been reported. In the present work, we conduct an in-depth investigation on the possible nature (hadronic, hybrid, quark) of this compact object by attempting to not only explain its mass and radius but also the corresponding estimations for its temperature and age. In the case of hybrid stars we also examine possible effects of the symmetry energy on the activation of different neutrino emitting process, and hence on the resulting cooling curves. We found that the reported temperature and age may be compatible to hadronic stellar configurations regardless of whether pairing effects are included. In the scenario of hybrid stars, we found that the strange quark matter core has to be in a superconducting state in order to reach an agreement with the observational constraints. In addition, the hadronic phase must be soft enough so that the direct Urca process is not activated. Furthermore, we have shown that the considered cooling constraints can be reconciled within the framework of strange stars. However, quark matter has to be in a superconducting state and the quark direct Urca process needs to be blocked."
+    },
+    {
+      "title": "Probing gluon saturation with forward di-hadron correlations in proton-nucleus collisions",
+      "link": "https://arxiv.org/abs/2512.21466",
+      "authors": "Paul Caucal, Zhong-Bo Kang, Piotr Korcyl, Farid Salazar, Bj\\\"orn Schenke, Tomasz Stebel, Raju Venugopalan, Wenbin Zhao",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2512.21466v1 Announce Type: cross \nAbstract: We present a detailed numerical investigation of semi-inclusive forward di-hadron production in proton-nucleus collisions employing the Color Glass Condensate effective theory. We focus on the regime where di-hadrons are produced nearly back-to-back in the transverse plane, thereby justifying a transverse-momentum-dependent factorization approach in terms of small-$x$ gluon distributions. Our computation integrates several key elements: i) non-linear rapidity evolution via the Balitsky-Kovchegov equation with running coupling, ii) both perturbative and non-perturbative Sudakov resummation, and iii) a phenomenologically constrained model for the initial conditions for small-$x$ gluon distributions. We compare this phenomenological framework to experimental data from the STAR Collaboration on azimuthal correlations in forward di-pion production in both proton-proton and proton-gold collisions. We analyze the systematic theoretical uncertainties associated with the saturation scales of nuclei at the initial scale for rapidity evolution and with those associated with the hadronization process. Finally, we make predictions for the kinematics anticipated to be covered by the ALICE Forward Calorimeter (FoCal) upgrade at the Large Hadron Collider."
+    },
+    {
+      "title": "Mass Spectra of $\\Lambda_Q\\bar{\\Sigma}_Q$ Bound States",
+      "link": "https://arxiv.org/abs/2512.22019",
+      "authors": "Xuan-Heng Zhang, Cong-Feng Qiao",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2512.22019v1 Announce Type: cross \nAbstract: Recently, the BESIII Collaboration indicate that no $\\Lambda_c\\bar{\\Sigma}_c$ bound-state with a mass near threshold in the range $4715$--$4735~\\mathrm{MeV}$ was observed. In order to determine the plausible mass region of the bound states in this structure, we calculate the mass spectrum of the $\\Lambda_c\\bar{\\Sigma}_c$ molecular configuration with the method of QCD sum rules. Two linearly independent interpolating currents are constructed, and contributions from nonperturbative condensates up to dimension 12 are included in the numerical results. Consequently, we obtain the masses of the candidate bound states with quantum numbers $J^P = 0^-,\\,0^+,\\,1^-,\\,1^+$. Our results show that the central values of the $\\Lambda_c\\bar{\\Sigma}_c$ bound-state masses lie around the $5.8~\\mathrm{GeV}$ region, consistent with the findings reported by the BESIII Collaboration. Furthermore, we compute the mass spectrum of the $\\Lambda_b\\bar{\\Sigma}_b$ bound states with quantum numbers $J^P = 0^-,\\,0^+,\\,1^-,\\,1^+$, which could be served as hidden-bottom candidates in the experimental detecting."
+    },
+    {
+      "title": "Fermionic domain-wall Skyrmions of QCD in a magnetic field",
+      "link": "https://arxiv.org/abs/2512.22023",
+      "authors": "Patrick Copinger, Minoru Eto, Muneto Nitta, Zebin Qiu",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2512.22023v1 Announce Type: cross \nAbstract: The ground state of low-energy QCD matter in strong magenetic fields is either a chiral soliton lattice (CSL), a periodic array of neutral pion domain walls (chiral solitons) perpendicular to the magnetic field, or domain-wall Skyrmion phase, in which Skyrmions are induced on top of the CSL. Previously found domain-wall Skyrmions are bosons with the baryon number two. In this paper, we show that the minimum domain-wall Skyrmions are fermions with the baryon number one; a bosonic domain-wall Skyrmion can be separated without cost of energy into two fermionic domain-wall Skyrmions attached on the opposite sides of a chiral soliton. The phase boundary between the CSL and domain-wall Skyrmion phases is unchanged. In the chiral limit, the CSL reduces to a linearly dependent neutral pion on the direction of the magnetic field, while fermionic domain-wall Skyrmions sit in an equal distance of a half period."
+    },
+    {
+      "title": "Does the Electron EDM Preclude Electroweak Baryogenesis ?",
+      "link": "https://arxiv.org/abs/2404.19197",
+      "authors": "Yuan-Zhen Li, Michael J. Ramsey-Musolf, Jiang-Hao Yu",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2404.19197v2 Announce Type: replace-cross \nAbstract: Electroweak baryogenesis (EWBG) constitutes a theoretically compelling and experimentally testable mechanism for explaining the origin of the baryon asymmetry of the universe (BAU). New results for the electric dipole moment (EDM) of the electron place significant constraints on the beyond Standard Model CP-violation needed for successful EWBG. Using a specific model illustration, we show how new developments in EWBG quantum transport theory that include CP-violating sources first order in gradients imply more relaxed EDM constraints -- and thereby greater EWBG viability -- than implied by previous approximation formulations. We also illustrate how these developments enable a more realistic treatment of CP-conserving interactions that can also have a decisive impact on the predicted BAU."
+    },
+    {
+      "title": "Thermal Evolution of Shape Coexistence in Mo and Ru Isotopes",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0375947425003070?dgcid=rss_sd_all",
       "authors": "Unknown",
-      "source": "Physics Letters B",
-      "summary": "Publication date: Available online 27 December 2025Source: Physics Letters BAuthor(s): Anirban Saha, Debadri Bhattacharjee, Koushik Ballav Goswami, Pradip Kumar Chattopadhyay"
+      "source": "Nuclear Physics A",
+      "summary": "Publication date: Available online 28 December 2025Source: Nuclear Physics AAuthor(s): Mamta Aggarwal, Pranali Parab, A. Jain, G. Saxena"
     },
     {
-      "title": "Effects of Lorentz Symmetry Breaking on Quantum Coherence in an Expanding Universe",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269325008895?dgcid=rss_sd_all",
+      "title": "Sub-barrier fusion dynamics in the reaction <sup>16</sup>O+<sup>138</sup>Ba: cross sections and barrier distribution studies",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0375947425003082?dgcid=rss_sd_all",
       "authors": "Unknown",
-      "source": "Physics Letters B",
-      "summary": "Publication date: Available online 27 December 2025Source: Physics Letters BAuthor(s): QiXiao, YanjunChen, TonghuaLiu"
+      "source": "Nuclear Physics A",
+      "summary": "Publication date: Available online 28 December 2025Source: Nuclear Physics AAuthor(s): K. Prameela, S. Ramakrishna Reddy, Anjali Merin, K.V. Varsha, K.V Jinu, Gonika J, Alankar Singh, Rishabh Kumar, J. Gehlot, S. Nath, E. Prasad, A.M. Vinodkumar, P.V. Madhusudhana Rao, S. Appannababu"
     },
     {
-      "title": "Exploring the Universe Expansion History with f(R,T) Gravity: Constraints on Cosmological Parameters",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269325008901?dgcid=rss_sd_all",
+      "title": "Calculation of Cross Sections for H-H Collision Using the Close-Coupling Method",
+      "link": "https://link.springer.com/article/10.1007/s00601-025-02023-6",
       "authors": "Unknown",
-      "source": "Physics Letters B",
-      "summary": "Publication date: Available online 27 December 2025Source: Physics Letters BAuthor(s): Mustapha Lamaaoune"
+      "source": "Few-Body Systems",
+      "summary": "We have treated the collision between two hydrogen atoms in the ground states using atomic-orbital close-coupling calculations within the impact parameter method. The cross sections for projectile excitation to 2s and 2p, $$\\hbox {H}^-$$ formation in the projectile, and projectile ionization are calculated with a larger basis set than previous calculations in the energy range of 1 to 30 keV. The excitation results do not agree with experimental data. The $$\\hbox {H}^-$$ formation results agree well with experimental data, and the ionization results are also acceptable."
     }
   ]
 }
