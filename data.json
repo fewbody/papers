@@ -1,89 +1,47 @@
 {
-  "lastUpdated": "2026-01-05T03:06:45.522208",
+  "lastUpdated": "2026-01-06T02:53:02.103287",
   "papers": [
     {
-      "title": "Charged wormholes in (anti-)de Sitter spacetime",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269325009013?dgcid=rss_sd_all",
-      "authors": "Unknown",
-      "source": "Physics Letters B",
-      "summary": "Publication date: Available online 4 January 2026Source: Physics Letters BAuthor(s): Hyeong-Chan Kim, Wonwoo Lee"
+      "title": "Revisiting p-$^{11}$B Fusion: Updated Cross-sections, Reactivity, and Energy Balance",
+      "link": "https://arxiv.org/abs/2601.00241",
+      "authors": "Hong-Yi Wang, Yu-Qi Li, Qian Wu, Zhu-Fang Cui",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2601.00241v1 Announce Type: new \nAbstract: Recent experimental progress has substantially improved the available cross-section data for the p-$^{11}$B fusion reaction, particularly in energy regions that previously lacked direct measurements. In this study, we develop a high-precision analytical parameterization of the p-$^{11}$B reaction cross-section over the 0--10 MeV energy range, incorporating the new experimental data into a continuous and numerically efficient representation. Using this parameterization, we evaluate the thermonuclear reactivity of the p-$^{11}$B reaction and examine the effects of the dominant resonance at 0.6 MeV and a newly observed resonance around 4.7 MeV. Furthermore, we assess the energy balance by analyzing the fusion power density and the electron bremsstrahlung power density. Our results indicate that p-$^{11}$B fusion is not precluded by bremsstrahlung constraints when contemporary cross-section data and self-consistent thermal modeling are employed."
     },
     {
-      "title": "Mass-to-Horizon Relation and Entropy Beyond the Bekenstein–Hawking Limit",
-      "link": "https://www.sciencedirect.com/science/article/pii/S037026932600002X?dgcid=rss_sd_all",
-      "authors": "Unknown",
-      "source": "Physics Letters B",
-      "summary": "Publication date: Available online 3 January 2026Source: Physics Letters BAuthor(s): Hussain Gohar"
+      "title": "Toward $\\textit{Ab Initio}$ Quantum Simulations of Atomic Nuclei Using Noisy Qubits",
+      "link": "https://arxiv.org/abs/2601.00315",
+      "authors": "Chongji Jiang, Junchen Pei, Rongzhe Hu, Shaoliang Jin, Haoyu Shang, Siqin Fan, Furong Xu",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2601.00315v1 Announce Type: new \nAbstract: Quantum computers are expected to provide a ultimate solver for quantum many-body systems, although it is a tremendous challenge to achieve that goal on current noisy quantum devices. This work illustrated quantum simulations of ab initio no-core shell model calculations of $^3$H with chiral two-nucleon and three-nucleon forces. The measurement costs are remarkably reduced by using the general commutativity measurement together with the asymptotic optimization. In addition, the noise causes serious contaminations of configurations with undesired particle numbers, and the accuracies are much improved by applying the particle number projected measurement. By tackling the efficiency and noise issues, this work demonstrated a substantial step toward ab initio quantum computing of atomic nuclei."
     },
     {
-      "title": "Breakup of 7Li in the field of 118,120Sn nuclei and its effect on the elastic scattering channel*",
-      "link": "https://iopscience.iop.org/article/10.1088/1674-1137/ae0999",
-      "authors": "N. Amangeldi, N. Burtebayev, G. Yergaliuly, Maulen Nassurlla, B. Balabekov, Abylay Tangirbergen, Awad A. Ibraheem, Mohamed A. Dewidar and Sh. Hamada",
-      "source": "Chinese Physics C",
-      "summary": "The breakup of weakly-bound projectiles has been shown to significantly influence scattering processes, including elastic scattering. In this context, we revisit the angular distributions (ADs) for the elastic scattering of 7Li from 118Sn and 120Sn targets. The study analyzes 7Li + 118Sn ADs over the energy range of 18.15–48 MeV and 7Li + 120Sn ADs from 20 to 44 MeV, utilizing various nuclear interaction models, including the São Paulo potential, CDM3Y6 potential (with and without the rearrangement term), and cluster folding model. The results indicate that the real component of the folded potentials must be scaled down by 40–65% to achieve an accurate fit to the experimental ADs, underscoring the prominent role of 7Li breakup effects. Interestingly, the conventional threshold anomaly observed in reactions involving tightly bound nuclei is not present. Further analysis using the continuum discretized coupled channels (CDCC) approach provides excellent agreement with the data, reinforcing these findings."
+      "title": "Comparison of Relativistic and Non-relativistic Faddeev calculations for Proton-Deuteron Elastic Scattering",
+      "link": "https://arxiv.org/abs/2601.00534",
+      "authors": "H. Kamada, A. Arslanaliev, Y. Kostylenko, A. V. Shebeko, J. Golak, R. Skibi\\'nski, K. Topolnicki, V. Chahar, D. F. Ram\\'irez Jim\\'enez, H. Wita{\\l}a, W. N. Polyzou",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2601.00534v1 Announce Type: new \nAbstract: This investigation compares non-relativistic and relativistic nucleon-nucleon (NN) potentials in the context of pd scattering. Conventional NN potentials (e.g., CDBonn, AV18) rely on the non-relativistic Schr\\\"odinger equation, whereas the Kharkiv potential is intrinsically relativistic. We employ the Coester-Pieper-Serduke (CPS) and Kamada-Gl\\\"ockle (KG) conversion methods to construct a Pseudo-Relativistic Potential (PRP) from a realistic NN potential, preserving the deuteron binding energy and phase shifts. Calculations of the differential cross section using the relativistic Faddeev equation show that relativistic effects particularly the deviation at the backward angle become pronounced at 135 MeV. The differences in the forward angle were attributed to the characteristics of the Kharkiv potential itself. The reverse transformation of the Kharkiv potential into a Pseudo-Non-Relativistic Potential (PNRP) confirms that the backward-angle relativistic effect increases with energy in the range from 100 MeV to 400 MeV. Comparisons of the polarization observables indicate that relativistic effects, as well as the discrepancy between the CPS and KG transformations, become significant above 300 MeV. Nevertheless, non-relativistic calculations using the PRP remain generally reliable for polarization observables below 300 MeV."
     },
     {
-      "title": "Impact of new measurements of light quarks at hadron colliders*",
-      "link": "https://iopscience.iop.org/article/10.1088/1674-1137/ae1186",
-      "authors": "Zihan Zhao, 梓含 赵, Minghui Liu, 明辉 刘, Liang Han and 良 韩",
-      "source": "Chinese Physics C",
-      "summary": "Recently, a series of new measurements with both the neutral and charge current Drell–Yan processes have been performed at hadron colliders, revealing deviations from the predictions of the current parton distribution functions (PDFs). In this article, the impact of these new measurements is studied by using their results to update the PDFs. Although these new measurements correspond to different boson propagators and colliding energies, they are found to have a similar impact to the light quark parton distributions with a momentum fraction x of approximately 0.1. The deviations are consistent with each other and favor a larger valence ratio than the modern PDF predictions. Further study indicates that such tension results dominantly from the deep inelastic scattering measurements of NMC and the fixed target experiments of NuSea, both of which play pivotal roles in detecting the relative u- and d-type quark contributions for modern PDFs. The conclusions of the impact study indicate that these new measurements should be included in the complete PDF global analysis in the future."
+      "title": "Implementing the three-neutron quantization condition",
+      "link": "https://arxiv.org/abs/2512.24508",
+      "authors": "Wilder Schaaf, Stephen R. Sharpe",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2512.24508v1 Announce Type: cross \nAbstract: We describe in detail the implementation of the relativistic three-neutron finite-volume quantization condition derived in Ref. [1]. In particular, we show how the complications due to Wigner rotations acting on spins are included, and present concrete formulas for the case when the angular momenta within pairs is restricted to be less than 2. We describe the symmetries of the matrices appearing in the quantization condition, and decompose solutions into irreducible representations of the appropriate doubled finite-volume symmetry groups. We present an implementation of the three-particle K matrix, keeping the two lowest-order terms in the threshold expansion. We provide numerical predictions for the finite-volume spectrum for a setup with nearly physical parameters, including two-particle interactions that are based on experimental results. This exploratory study shows the how lattice QCD calculations of the three-neutron spectrum with sufficient precision can provide detailed information on both two- and three-particle interactions."
     },
     {
-      "title": "Experimental overview on the charmed baryon decays*",
-      "link": "https://iopscience.iop.org/article/10.1088/1674-1137/ae1187",
-      "authors": "Pei-Rong Li, 培荣 李, Xiao-Rui Lyu, 晓睿 吕, Yangheng Zheng and 阳恒 郑",
-      "source": "Chinese Physics C",
-      "summary": "The charmed baryon was first observed experimentally in 1975, one year after the charm quark's confirmation via the discovery of the particle. Studying charmed baryon decays provides a pathway to investigate both strong and weak interactions, leveraging the weak decays of the embedded charm quark. However, for approximately three decades following its discovery, experimental knowledge of charmed baryons remained significantly limited compared to those of the hidden-charm ψ mesons and open-charm mesons. This situation changed markedly starting in 2014, when dedicated data collection for charmed baryons commenced at BESIII. In this article, we review the experimental progress achieved since 2014 in understanding the weak decays of the charmed baryons."
+      "title": "The Maximal Entanglement Limit in Statistical and High Energy Physics",
+      "link": "https://arxiv.org/abs/2601.00405",
+      "authors": "Dmitri E. Kharzeev",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2601.00405v1 Announce Type: cross \nAbstract: These lectures advocate the idea that quantum entanglement provides a unifying foundation for both statistical physics and high-energy interactions. I argue that, at sufficiently long times or high energies, most quantum systems approach a Maximal Entanglement Limit (MEL) in which phases of quantum states become unobservable, reduced density matrices acquire a thermal form, and probabilistic descriptions emerge without invoking ergodicity or classical randomness. Within this framework, the emergence of probabilistic parton model, thermalization in the break-up of confining strings and in high-energy collisions, and the universal small $x$ behavior of structure functions arise as direct consequences of entanglement and geometry of high-dimensional Hilbert space."
     },
     {
-      "title": "Neutron stars and pulsar timing arrays as axion giant gyroscopes*",
-      "link": "https://iopscience.iop.org/article/10.1088/1674-1137/ae1189",
-      "authors": "Jinneng Luo, 尽能 骆, Yiming Liu, 一鸣 刘, Sichun Sun and 斯纯 孙",
-      "source": "Chinese Physics C",
-      "summary": "We consider the three-dimensional rotating motions of neutron stars blown by ''axion wind.'' Neutron star precession and spin can change from the magnetic moment coupling to the oscillating axion background field, which is analogous to gyroscope motions with a driving force and the laboratory nuclear magnetic resonance detections of the axion. This effect modulates the pulse arrival time of pulsar timing arrays (PTAs) through changes in the pulsars' periods. It has appeared as a signal in the timing residual and two-point correlation function of recent Nanograv and PPTA data. Thus, the current measurement of PTAs can cast constraints on the axion-nucleon, for example, coupling as with an axion mass of approximately ."
-    },
-    {
-      "title": "Use of SU(3) flavor projection operators to construct baryon-meson scattering amplitudes in the 1/Nc expansion*",
-      "link": "https://iopscience.iop.org/article/10.1088/1674-1137/ae1197",
-      "authors": "Víctor Miguel Banda Guzmán, Rubén Flores-Mendieta and Johann Hernández",
-      "source": "Chinese Physics C",
-      "summary": "An SU(3) flavor projection operator technique is implemented to construct the baryon-meson scattering amplitude within the framework of the expansion of quantum chromodynamics (QCD), where represents the number of color charges. The operator technique is implemented to evaluate not only the lowest-order scattering amplitude but also effects from the first-order perturbative SU(3) flavor symmetry breaking and strong isospin breaking. The most general expression is obtained by explicitly accounting for the effects of the decuplet-octet baryon mass difference. At order , a large number of unknown operator coefficients appear, and therefore, there is little additional predictive power unless leading and subleading terms are retained. Although the resultant expression is sufficiently general that it can be applied to any incoming and outgoing baryons and pseudo scalar mesons, provided that the Gell-Mann--Nishijima scheme is respected, results for scattering processes are explicitly considered."
-    },
-    {
-      "title": "Predictions for the isospin-violating decays of *",
-      "link": "https://iopscience.iop.org/article/10.1088/1674-1137/ae1201",
-      "authors": "Jun Wang, 俊 王, Qiang Zhao and 强 赵",
-      "source": "Chinese Physics C",
-      "summary": "In this study, we investigate the isospin-violating decays of , which may provide additional information for the determination of the properties of , the first orbital excitation states of the meson. By assuming a dual relation between the U(1) anomaly soft-gluon coupling for and the intermediate meson loop transitions, we can quantify the isospin-violating decay effects for these four P-wave states. We observe that the partial decay width of is approximately three orders of magnitude larger than that for . This indicates that can be established in the decay channel as a single state. Meanwhile, the two axial-vector states can be possibly identified in with comparable strengths. Although these isospin-violating decays are observed to be small, the theoretical predictions should be useful for guiding future experimental efforts."
-    },
-    {
-      "title": "Stellar configurations in f(R, L m , T) gravity: probing anisotropy and stability via minimal geometric deformation",
-      "link": "https://iopscience.iop.org/article/10.1088/1674-1137/ae1202",
-      "authors": "M. Zubair, Hira Sohail, Saira Waheed, Amara Ilyas and Irfan Mahmood",
-      "source": "Chinese Physics C",
-      "summary": "This study uses a minimal geometric deformation scheme within the gravity paradigm to model anisotropic compact stars using class-1 embedding spacetime. We introduce the deformation of the radial component of the metric tensor, which decouples the Einstein field equations and introduces an additional gravitational source. The relevant constants are evaluated using observational data from seven realistic star candidates by matching the inner region with the outer Schwarzschild line element. A comprehensive graphical analysis of three compact stars is performed to examine the impact of the coupling parameter β and deformation parameter n, revealing positive, well-behaved energy densities and pressures that satisfy the energy conditions. The study found that negative values of the coupling parameter β allow greater mass accumulation while preserving key physical characteristics, such as stability under Herrera's cracking condition and the extended Tolman-Oppenheimer-Volkoff equation. This study highlights the significance of gravitational decoupling for determining mass, redshift, and compactness and provides important insights into the internal structure of stellar bodies within this new generalized gravity framework."
-    },
-    {
-      "title": "Contributions of ρ(770,1450)→ωπ to Cabibbo-favored D→hωπ decays*",
-      "link": "https://iopscience.iop.org/article/10.1088/1674-1137/ae120b",
-      "authors": "Wen-Fei Wang, 文飞 王, Jiao-Yuan Xu, 姣媛 徐, Si-Hong Zhou, 四红 周, Pan-Pan Shi and 盼盼 石",
-      "source": "Chinese Physics C",
-      "summary": "Recently, the BESIII Collaboration observed the three-body decays , , and . In this study, we investigate the contributions of the subprocesses in these Cabibbo-favored decays , with and , by introducing these subprocesses into the decay amplitudes of the relevant decay processes via the vector form factor , which has been measured in the related τ and processes. We provide the first theoretical predictions for the branching fractions of the quasi-two-body decays , , and . Our findings reveal that the contributions from the subprocess are significant in these observed three-body decays , , and , notwithstanding the contributions originating from the Breit-Wigner tail effect of . The numerical results of this study suggest that the dominant resonance contributions for the three-body decays and originate from the P-wave intermediate states , and their interference effects."
-    },
-    {
-      "title": "Interplay of 95 GeV diphoton excess and dark matter in supersymmetric triplet model*",
-      "link": "https://iopscience.iop.org/article/10.1088/1674-1137/ae1373",
-      "authors": "Zetian Li, 泽田 李, Ning Liu, 宁 刘, Bin Zhu and 斌 祝",
-      "source": "Chinese Physics C",
-      "summary": "The decay of the Higgs boson and the nature of dark matter remain fundamental challenges in particle physics. We investigate the 95 GeV diphoton excess and dark matter within the framework of the triplet-extended minimal supersymmetric standard model (TMSSM). In this model, an additional hypercharge , triplet superfield is introduced. Mixing between the triplet and doublet Higgs states enhances the diphoton signal strength of the 95 GeV Higgs boson, resulting in , which is consistent with experimental observations. This enhancement arises primarily from charged Higgs and chargino loop contributions, together with an LEP excess in the channel around the same mass within the range. Additionally, the model accommodates viable dark matter candidates in the form of a bino-dominated neutralino. The relic density is reduced to the observed value through resonance-enhanced annihilation via the Higgs portal or co-annihilation with the triplino or higgsino. This reduction remains consistent with constraints from direct and indirect detection experiments. A comprehensive parameter scan demonstrates that the TMSSM can simultaneously explain the 95 GeV diphoton excess, observed 125 GeV Higgs mass, and dark matter relic density, establishing a compelling and theoretically consistent framework."
-    },
-    {
-      "title": "Searching quantum entanglement in the pp → ZZ process*",
-      "link": "https://iopscience.iop.org/article/10.1088/1674-1137/ae1374",
-      "authors": "Alim Ruzi, ·肉孜 阿里木, Youpeng Wu, 友鹏 吴, Ran Ding, 然 丁, Qiang Li and 强 李",
-      "source": "Chinese Physics C",
-      "summary": "Recent studies have shown that observing entangled particle states at a particle collider, such as the Large Hadron Collider (LHC), and testing the violation of Bell inequality in them can open up new research areas for studying high energy physics. We examine the presence of quantum entanglement in the process at leading order. We apply a generally recognized method, quantum state tomography, to reconstruct the spin density matrix of the joint ZZ system, through which all the relevant observables can be obtained. The angular distribution of the final leptons is obtained from simulated events using a Monte-Carlo program, which is used to reconstruct the spin density matrix. A non-zero value of the lower bound of the concurrence is measured with the simulated data. The numerical analysis shows that, with the luminosity corresponding to LHC Run 2+3, entanglement can be probed at the 2 level and up to the 3.75 level for High-Luminosity LHC data (3ab-1), revealing the possibility of finding quantum entanglement in real collider experiments."
+      "title": "Effective field theory for dissipative photons from higher-form symmetries",
+      "link": "https://arxiv.org/abs/2601.00605",
+      "authors": "Genki Yoshimura (Department of Physics, The University of Osaka, 1-1 Machikaneyama, Toyonaka, Osaka 650-0043, Japan), Yukinao Akamatsu (Department of Physics, The University of Osaka, 1-1 Machikaneyama, Toyonaka, Osaka 650-0043, Japan), Yuji Hirono (Institute of Systems and Information Engineering, University of Tsukuba, 1-1-1 Tenn\\=odai, Tsukuba, Ibaraki 305-8573, Japan)",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2601.00605v1 Announce Type: cross \nAbstract: Recent developments in generalized symmetries have provided new insights into quantum field theories. Within this framework, photons can be understood as Nambu-Goldstone modes associated with a spontaneously broken higher-form symmetry. In this work, we develop an effective field theory that builds on this symmetry structure to describe the real-time dynamics of photons in insulating media at finite temperature. Combining the Schwinger-Keldysh formalism with the generalized coset construction, we formulate a symmetry-based effective action that incorporates both conservative and dissipative effects. The effective theory implements the dynamical Kubo-Martin-Schwinger symmetry, ensuring consistency with the fluctuation-dissipation relation and Onsager's reciprocal relations. Within this framework, we derive the entropy current associated with dissipative photon dynamics and demonstrate the non-negativity of its divergence, in accordance with the second law of thermodynamics. We also clarify the symmetry origin of the gauge redundancy in the unbroken phase within the Schwinger-Keldysh framework, relating it to strong and weak realizations of higher-form symmetries. Our results provide a model-independent effective description of photon dynamics in insulating media at finite temperature."
     }
   ]
 }
