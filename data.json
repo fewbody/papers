@@ -1,47 +1,19 @@
 {
-  "lastUpdated": "2026-01-11T03:04:17.000514",
+  "lastUpdated": "2026-01-12T03:01:29.410584",
   "papers": [
     {
-      "title": "Harnessing data-driven methods for precise model-independent event-shape estimation in relativistic heavy-ion collisions",
-      "link": "https://iopscience.iop.org/article/10.1088/1361-6471/ae2c0e",
-      "authors": "Dipankar Basak, H Hushnud and Kalyan Dey",
-      "source": "Journal of Physics G: Nuclear and Particle Physics",
-      "summary": "This study demonstrates the application of supervised machine learning (ML) techniques to distinguish between isotropic and jet-like event topologies in heavy-ion collisions via the spherocity observable. State-of-the-art ML algorithms, optimized through systematic hyperparameter tuning, are employed to predict both the traditional transverse spherocity S0 and the unweighted transverse spherocity directly from raw event data. Moreover, the results of this study demonstrate that our approach remains largely model-independent, underscoring its potential applicability in future experimental heavy-ion physics analyses."
-    },
-    {
-      "title": "Axion boson stars with wormhole topology",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326000079?dgcid=rss_sd_all",
+      "title": "Energy dependence of rescattering effect on vector mesons spin alignment at RHIC",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326000158?dgcid=rss_sd_all",
       "authors": "Unknown",
       "source": "Physics Letters B",
-      "summary": "Publication date: Available online 10 January 2026Source: Physics Letters BAuthor(s): Chen-Hao Hao, Yong-Qiang Wang, Jieci Wang"
+      "summary": "Publication date: Available online 10 January 2026Source: Physics Letters BAuthor(s): Zihan Liu, Ziyang Li, Wangmei Zha, Zebo Tang"
     },
     {
-      "title": "Weyl-invariant Einstein-Cartan gravity with a heavy ALP: Higgs Inflation and α-attractors",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326000055?dgcid=rss_sd_all",
+      "title": "Holographic Dark Energy as a Source for Wormholes in Modified Gravity",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326000134?dgcid=rss_sd_all",
       "authors": "Unknown",
       "source": "Physics Letters B",
-      "summary": "Publication date: Available online 9 January 2026Source: Physics Letters BAuthor(s): Georgios K. Karananas, Mikhail Shaposhnikov, Sebastian Zell"
-    },
-    {
-      "title": "Thermal Properties of the doubly magic <sup>56</sup><em>Ni</em> nucleus",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0375947426000060?dgcid=rss_sd_all",
-      "authors": "Unknown",
-      "source": "Nuclear Physics A",
-      "summary": "Publication date: Available online 10 January 2026Source: Nuclear Physics AAuthor(s): Mohammed Hassen Eid Abu-Seíleek, Saed J. Al Atawneh"
-    },
-    {
-      "title": "Measurement and analysis of excitation function for <math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si29.svg\" class=\"math\"><mrow><msup><mrow></mrow><mn>16</mn></msup><mi>O</mi><mspace width=\"0.16em\"></mspace><mo linebreak=\"goodbreak\">+</mo><msup><mspace width=\"0.16em\"></mspace><mn>89</mn></msup><mi>Y</mi></mrow></math> at energies 4-7 MeV/nucleon",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0375947426000047?dgcid=rss_sd_all",
-      "authors": "Unknown",
-      "source": "Nuclear Physics A",
-      "summary": "Publication date: Available online 10 January 2026Source: Nuclear Physics AAuthor(s): Mohd Faizan Khan, Avinash Agarwal, I.A. Rizvi, Anuj Kumar Jashwal, Harsh Vardhan, Munish Kumar, S. Ali, M. Gull, Satyam Gangwar, Kamal Kumar, S. Dutt, A.K. Chaubey"
-    },
-    {
-      "title": "Radiation Shielding Properties of Manganese(II) Oxide and Neodymium(III) Oxide-Doped Barium Phosphate Glasses: Analytical Evaluation and PHITS Simulations",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0375947426000023?dgcid=rss_sd_all",
-      "authors": "Unknown",
-      "source": "Nuclear Physics A",
-      "summary": "Publication date: Available online 9 January 2026Source: Nuclear Physics AAuthor(s): Devendra Raj Upadhyay, Uddab Bahadur Bhandari, Prakash Ghorasainee, Raju Khanal"
+      "summary": "Publication date: Available online 10 January 2026Source: Physics Letters BAuthor(s): G. G L Nashed, A. Eid"
     }
   ]
 }
