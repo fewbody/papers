@@ -1,19 +1,82 @@
 {
-  "lastUpdated": "2026-01-12T03:01:29.410584",
+  "lastUpdated": "2026-01-13T02:52:20.588091",
   "papers": [
     {
-      "title": "Energy dependence of rescattering effect on vector mesons spin alignment at RHIC",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326000158?dgcid=rss_sd_all",
-      "authors": "Unknown",
-      "source": "Physics Letters B",
-      "summary": "Publication date: Available online 10 January 2026Source: Physics Letters BAuthor(s): Zihan Liu, Ziyang Li, Wangmei Zha, Zebo Tang"
+      "title": "Skyrme-Hartree-Fock-Bogoliubov mass models on a 3D mesh: V. The N2LO extension of the Skyrme EDF",
+      "link": "https://arxiv.org/abs/2601.05968",
+      "authors": "G. Grams, W. Ryssens, A. S\\'anchez-Fern\\'andez, N. N. Shchechilin, L. Gonz\\'alez-Miret Zaragoza, P. Demol, N. Chamel, S. Goriely, M. Bender",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2601.05968v1 Announce Type: new \nAbstract: We present BSkG5, the latest entry in the Brussels-Skyrme-on-a-Grid (BSkG) series and the first large-scale nuclear structure model based on next-to-next-to-leading order (N2LO) Skyrme energy density functional (EDF). By extending the traditional Skyrme EDF ansatz with central terms containing up to four gradients, we are able to combine an excellent global description of nuclear ground state properties with a stiff equation of state for pure neutron matter that is consistent with all astronomical observations of neutron stars. More precisely, the new model matches the accuracy of earlier BSkG models but with two parameters less: we achieve root-mean-square deviations of 0.649 MeV for 2457 atomic masses, 0.0267 fm for 810 charge radii, and 0.43 MeV for 45 primary fission barriers of actinide nuclei. We demonstrate that the complexities of N2LO EDFs are not insurmountable, even for demanding many-body calculations."
     },
     {
-      "title": "Holographic Dark Energy as a Source for Wormholes in Modified Gravity",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326000134?dgcid=rss_sd_all",
+      "title": "Constraining Hamiltonians from chiral effective field theory with neutron-star data",
+      "link": "https://arxiv.org/abs/2601.05999",
+      "authors": "Cassandra L. Armstrong, Brendan T. Reed, Tate Plohr, Henrik Rose, Soumi De, Rahul Somasundaram, Ingo Tews",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2601.05999v1 Announce Type: new \nAbstract: Multi-messenger observations of neutron stars (NSs) and their mergers have placed strong constraints on the dense-matter equation of state (EOS). The EOS, in turn, depends on microscopic nuclear interactions that are described by nuclear Hamiltonians. These Hamiltonians are commonly derived within chiral effective field theory (EFT). Ideally, multi-messenger observations of NSs could be used to directly inform our understanding of EFT interactions, but such a direct inference necessitates millions of model evaluations. This is computationally prohibitive because each evaluation requires us to calculate the EOS from a Hamiltonian by solving the quantum many-body problem with methods such as auxiliary-field diffusion Monte Carlo (AFDMC), which provides very accurate and precise solutions but at a significant computational cost. Additionally, we need to solve the stellar structure equations for each EOS which further slows down each model evaluation by a few seconds. In this work, we combine emulators for AFDMC calculations of neutron matter, built using parametric matrix models, and for the stellar structure equations, built using multilayer perceptron neural networks, with the \\texttt{PyCBC} data-analysis framework to enable a direct inference of coupling constants in an EFT Hamiltonian using multi-messenger observations of NSs. We find that astrophysical data can provide informative constraints on two-nucleon couplings despite the high densities probed in NS interiors."
+    },
+    {
+      "title": "Near-threshold heavy quarkonium photoproduction in a light-front spectator model",
+      "link": "https://arxiv.org/abs/2601.05840",
+      "authors": "Amrita Sain, Bheemsehan Gurjar, Chandan Mondal",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2601.05840v1 Announce Type: cross \nAbstract: The near-threshold photo- and electroproduction of heavy vector quarkonia off the proton provides direct access to its gluonic structure. In particular, the cross section for $J/\\Psi$ photoproduction near threshold is governed by the proton's gluon gravitational form factors (GFFs). In this work, we employ the generalized parton distribution framework together with gluon GFFs calculated in a light-front gluon-spectator model inspired by soft-wall AdS/QCD to predict both the differential and total cross sections for near-threshold $J/\\Psi$ and $\\Upsilon$ photoproductions. Our results for $J/\\Psi$ photoproduction show good agreement with recent experimental data from the $J/\\Psi$-007 and GlueX Collaborations at Jefferson Lab, as well as with earlier measurements from SLAC and Cornell."
+    },
+    {
+      "title": "Gravitational Ionization by Schwarzschild Primordial Black Holes",
+      "link": "https://arxiv.org/abs/2601.05935",
+      "authors": "Alexandra P. Klipfel, David I. Kaiser",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2601.05935v1 Announce Type: cross \nAbstract: Primordial black holes (PBHs) are theorized to form from the collapse of overdensities in the very early Universe. PBHs in the asteroid-mass range $10^{17} \\, {\\rm g}\\lesssim M \\lesssim 10^{23} \\, {\\rm g}$ could serve as all or most of the dark matter today, but are particularly difficult to detect due to their modest rates of Hawking emission and sub-micron Schwarzschild radii. We consider whether the steep gradients of a PBH's gravitational field could generate tidal forces strong enough to disrupt atoms and nuclei. Such phenomena may yield new observables that could uniquely distinguish a PBH from a macroscopic object of the same mass. We first consider the gravitational ionization of ambient neutral hydrogen and evaluate prospects for detecting photon radiation from the recombination of ionized atoms. During the present epoch, this effect would be swamped by Hawking radiation -- which would itself be difficult to detect for PBHs at the upper end of the asteroid-mass window. We then consider the gravitational ionization and heating of neutral hydrogen immediately following recombination at $z\\simeq1090$, and identify a broad class of PBH distributions with typical mass $5\\times10^{21}\\,{\\rm g}\\lesssim M \\lesssim 10^{23}\\, {\\rm g}$ within which gravitational interactions would have been the dominant form of energy deposition to the medium. We also identify conditions under which tidal forces from a transiting PBH could overcome the strong nuclear force, either by dissociating deuterons, which would be relevant during big bang nucleosynthesis (BBN), or by inducing fission of heavy nuclei. We find that gravitational dissociation of deuterons dominates photodissociation rates due to Hawking radiation for PBHs with masses $10^{14}\\,{\\rm g}\\lesssim M \\lesssim 10^{16}\\,{\\rm g}$. We additionally identify the phenomenon of gravitationally induced fission of heavy nuclei via tidal deformation."
+    },
+    {
+      "title": "The study of 110$$^{110}$$Cd with the (n,n′γ)$$(n,n^{\\prime }\\gamma )$$ reaction revisited",
+      "link": "https://epja.epj.org/10.1140/epja/s10050-025-01754-8",
+      "authors": "P. E. Garrett, J. Bangay, J. Jolie, C. S. Sumithrarachchi, N. Warr, S. W. Yates",
+      "source": "European Physical Journal A",
+      "summary": "Authors: P. E. Garrett, J. Bangay, J. Jolie, C. S. Sumithrarachchi, N. Warr and S. W. Yates.The European Physical Journal A Vol. 62 , page 1Published online: 7/1/2026"
+    },
+    {
+      "title": "Erratum to: Quantum entanglement patterns in the structure of atomic nuclei within the nuclear shell model",
+      "link": "https://epja.epj.org/10.1140/epja/s10050-025-01771-7",
+      "authors": "A. Pérez-Obiol, S. Masot-Llima, A. M. Romero, J. Menéndez, A. Rios, A. García-Sáez, B. Juliá-Díaz",
+      "source": "European Physical Journal A",
+      "summary": "Authors: A. Pérez-Obiol, S. Masot-Llima, A. M. Romero, J. Menéndez, A. Rios, A. García-Sáez and B. Juliá-Díaz.The European Physical Journal A Vol. 62 , page 2Published online: 7/1/2026"
+    },
+    {
+      "title": "A method to measure the angular differential cross section of (n, α$$\\alpha $$) reactions using gridded ionization chamber and gas sample",
+      "link": "https://epja.epj.org/10.1140/epja/s10050-025-01775-3",
+      "authors": "Cong Xia, Yiwei Hu, Jie Liu, Zepeng Wu, Haofan Bai, Wenkai Ren, Yu. M. Gledenov, E. Sansarbayar, G. Khuukhenkhuu, L. Krupa, I. Chuprakov, Xichao Ruan, Hanxiong Huang, Jie Ren, Xiaofei Wang, Bin Shao, Li’ao Zhao, Wentian Cao, Tieshuan Fan, Guohui Zhang",
+      "source": "European Physical Journal A",
+      "summary": "Authors: Cong Xia, Yiwei Hu, Jie Liu, Zepeng Wu, Haofan Bai, Wenkai Ren, Yu. M. Gledenov, E. Sansarbayar, G. Khuukhenkhuu, L. Krupa, I. Chuprakov, Xichao Ruan, Hanxiong Huang, Jie Ren, Xiaofei Wang, Bin Shao, Li’ao Zhao, Wentian Cao, Tieshuan Fan and Guohui Zhang.The European Physical Journal A Vol. 62 , page 3Published online: 7/1/2026\n       Keywords:"
+    },
+    {
+      "title": "New spectrum of charm-strange meson with constituent quark model <math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si1.svg\" class=\"math\"><mrow><mi>c</mi><mover accent=\"true\"><mi>s</mi><mo>¯</mo></mover></mrow></math> contributions",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326000183?dgcid=rss_sd_all",
       "authors": "Unknown",
       "source": "Physics Letters B",
-      "summary": "Publication date: Available online 10 January 2026Source: Physics Letters BAuthor(s): G. G L Nashed, A. Eid"
+      "summary": "Publication date: Available online 11 January 2026Source: Physics Letters BAuthor(s): Liu-Lin Wang, Xing-Meng Zhao, Xiao-Hai Liu, Mao-Jun Yan"
+    },
+    {
+      "title": "Hidden-Heavy Pentaquarks and Where to Find Them",
+      "link": "https://www.sciencedirect.com/science/article/pii/S037026932600016X?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: Available online 11 January 2026Source: Physics Letters BAuthor(s): F. Alasiri, E. Braaten, R. Bruschini"
+    },
+    {
+      "title": "Neutrino-induced single-pion production off the nucleon in covariant chiral perturbation theory with explicit delta degrees of freedom",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0375947426000011?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Nuclear Physics A",
+      "summary": "Publication date: Available online 11 January 2026Source: Nuclear Physics AAuthor(s): N. Döpper, N. Kaiser"
+    },
+    {
+      "title": "Efficient Determination of Eigenenergies and Eigenstates of <i>N</i> ($$N=3$$–4) Identical 1D Bosons and Fermions Under External Harmonic Confinement",
+      "link": "https://link.springer.com/article/10.1007/s00601-025-02025-4",
+      "authors": "Unknown",
+      "source": "Few-Body Systems",
+      "summary": "Few-atom systems play an important role in understanding the transition from few- to many-body quantum behaviors. This work introduces a new approach for determining the energy spectra and eigenstates of small harmonically trapped single-component Bose and Fermi gases with additive two-body zero-range interactions in one spatial dimension. The interactions for bosons are the usual $$\\delta $$-function interactions while those for fermions are $$\\delta $$-function interactions that contain derivative operators. Details of the derivation and benchmarks of the numerical scheme are presented. Extensions to other systems are discussed."
     }
   ]
 }
