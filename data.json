@@ -1,103 +1,19 @@
 {
-  "lastUpdated": "2026-01-20T02:56:47.143240",
+  "lastUpdated": "2026-01-21T02:55:20.642295",
   "papers": [
     {
-      "title": "Fine-tunings in radiative $\\alpha$-particle capture on $^{12}$C at astrophysical energies",
-      "link": "https://arxiv.org/abs/2601.11180",
-      "authors": "Ulf-G. Mei{\\ss}ner, Bernard Ch. Metsch, Helen Meyer",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2601.11180v1 Announce Type: new \nAbstract: We investigate the fine-tuning of radiative alpha-particle capture on carbon, $\\alpha(^{12}{\\rm C},^{16}{\\rm O})\\gamma$, at astrophysical energies. Utilizing results from cluster effective field theory for this reaction, we find that the low-energy data of the astrophysical S-factor allow for only very small variations in the electromagnetic fine-structure constant $\\alpha$, namely $|\\delta \\alpha/\\alpha| \\leq 0.2\\,$ per mille, in both the $E1$ and the $E2$ radiative capture."
-    },
-    {
-      "title": "Elliptic flow of charm quarks produced in the early stage of pA collisions",
-      "link": "https://arxiv.org/abs/2601.11123",
-      "authors": "Gabriele Parisi, Fabrizio Murgana, Vincenzo Greco, Marco Ruggieri",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2601.11123v1 Announce Type: cross \nAbstract: We investigate the build-up of elliptic flow of charm quarks produced in the early pre-equilibrium stage of high-energy proton--nucleus collisions. The initial stage is modeled within the Color Glass Condensate framework as an evolving glasma, initialized through the McLerran--Venugopalan model. Subnucleonic fluctuations have been implemented as constituent-quark hotspots for both the proton and the nuclear participants. Charm quarks are propagated in the evolving non-Abelian background by solving the relativistic Wong equations for their coordinates, momenta, and color charges. First, we compute the nuclear modification factor of charm quarks, finding a slight migration towards higher $p_T$ states in agreement with previous results in the literature. Then, we focus on the azimuthal anisotropies acquired through the interaction with glasma fields. We find that glasma-induced momentum anisotropies are efficiently transmitted to heavy quarks within $\\tau \\sim 0.4~\\mathrm{fm/c}$, leading to a sizeable charm-quark $v_2$, with a magnitude that increases with the strength of the initial fields and with the number of nuclear participants. Remarkably, we show that the early-stage contribution alone can account for a significant fraction of the experimentally observed $J/\\psi$ elliptic flow in p-Pb collisions, indicating that pre-hydrodynamic dynamics can play a non-negligible role in the final-state heavy-flavor collectivity, especially in small systems."
-    },
-    {
-      "title": "From three-body resonances to bound states in a continuum: pole trajectories",
-      "link": "https://arxiv.org/abs/2601.11188",
-      "authors": "Lucas Happ",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2601.11188v1 Announce Type: cross \nAbstract: We investigate the formation of three-body bound states in the continuum by tracing pole trajectories in the complex energy plane under variation of system parameters. Using a one-dimensional model of two identical bosons and a distinguishable particle interacting via Gaussian potentials, we systematically vary the interaction strength, interaction range, and mass ratio. Our results confirm the parametric nature of few-body bound states in a continuum (BIC) and extend this characterization to a broader set of system parameters. Specifically, we find that variations of both interaction parameters and the mass ratio can lead to the formation of at least one three-body BIC. However, the exact shape of trajectories differs, and for the mass ratio variation we find a more regular pattern with multiple BIC locations. These results suggest that the mechanism of few-body BIC formation is more sensitive to the kinematic structure of the problem than to the specific details of the two-body interaction."
-    },
-    {
-      "title": "The unfinished picture of low-energy antineutron interactions: open issues and hints for future research possibilities",
-      "link": "https://arxiv.org/abs/2601.11390",
-      "authors": "A. Filippi (Istituto Nazionale di Fisica Nucleare, sezione di Torino, Italy)",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2601.11390v1 Announce Type: cross \nAbstract: This report examines the open questions that remain unsolved following the measurements with antineutrons ($\\bar n$) as probes conducted up to the 1990s at the LEAR facility at CERN. It also presents suggestions for possible new experiments at a future, upgraded AD complex, which can potentially provide access to new areas of physics."
-    },
-    {
-      "title": "Effect of anomalous <em>HHH</em> coupling on the decay <em>H</em> → <em>Z</em> <em>Z</em>* →  4 charged leptons",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326000304?dgcid=rss_sd_all",
+      "title": "Imprints of Topological Thermodynamics on Black Hole Dynamics",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326000468?dgcid=rss_sd_all",
       "authors": "Unknown",
       "source": "Physics Letters B",
-      "summary": "Publication date: Available online 18 January 2026Source: Physics Letters BAuthor(s): Pankaj Agrawal, Biswajit Das"
+      "summary": "Publication date: Available online 19 January 2026Source: Physics Letters BAuthor(s): Yue Chu, Chen-Hao Wu, Ya-Peng Hu"
     },
     {
-      "title": "Quantum coherence of continuous variables in the black hole quantum atmosphere",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326000390?dgcid=rss_sd_all",
+      "title": "Heavy Quark Decays in the Bilepton Model",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326000420?dgcid=rss_sd_all",
       "authors": "Unknown",
       "source": "Physics Letters B",
-      "summary": "Publication date: Available online 18 January 2026Source: Physics Letters BAuthor(s): Xiaofang Liu, Cuihong Wen, Jieci Wang"
-    },
-    {
-      "title": "Cutoff independence of the modified Lüscher formula for two-hadron system",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0375947426000151?dgcid=rss_sd_all",
-      "authors": "Unknown",
-      "source": "Nuclear Physics A",
-      "summary": "Publication date: Available online 18 January 2026Source: Nuclear Physics AAuthor(s): Jin-Yi Pang, Yuting Wang, Wanchen Lei"
-    },
-    {
-      "title": "Heavy tetraquarks in the hyperspherical approach to a four-body system",
-      "link": "https://www.sciencedirect.com/science/article/pii/S037594742600014X?dgcid=rss_sd_all",
-      "authors": "Unknown",
-      "source": "Nuclear Physics A",
-      "summary": "Publication date: Available online 18 January 2026Source: Nuclear Physics AAuthor(s): F.A. Martynenko, A.V. Eskin, A.P. Martynenko"
-    },
-    {
-      "title": "Stability of Equilibrium Points in Modified Elliptic Restricted Three-Body Problem with Various Perturbation Sources",
-      "link": "https://link.springer.com/article/10.1007/s00601-026-02026-x",
-      "authors": "Unknown",
-      "source": "Few-Body Systems",
-      "summary": "This study examines the dynamics of the third body in an elliptic restricted three-body problem (ERTBP) framework, taking into account perturbations from radiation pressure, oblateness, and elongation of the primary bodies, as well as disk-like structures. The objectives are to determine the positions and stability of the equilibrium points, assess how these points shift under the influence of perturbations, and evaluate the dependence of their stability on the orbital eccentricity and perturbation parameters. The ERTBP model is modified to include a radiating, oblate primary body and an elongated secondary body modeled as a finite straight segment, alongside perturbations from a surrounding disk. The system’s equations of motion are numerically solved using parameters from perturbed and classical cases. Equilibrium positions are computed over a range of eccentricities and perturbation values, and stability is analyzed using linearized equations and eigenvalue methods. In all cases, we have found three collinear ($$L_1$$, $$L_2$$, $$L_3$$) and two non-collinear ($$L_4$$, $$L_5$$) equilibrium points solutions. The inclusion of radiation, oblateness, elongation using a finite straight segment, and disk perturbation systematically displaces each equilibrium point from its classical location, with the magnitude and direction of the displacement varying with the perturbation parameter. Stability analysis confirms that the collinear points remain linearly unstable under all tested conditions. Meanwhile, non-collinear points are stable under a specific condition. We investigate the stability boundary of these points as a function of orbital eccentricity and we found there is a critical range of eccentricity values within which stability is preserved."
-    },
-    {
-      "title": "Shadow images of a rotating black hole in Kalb-Ramond gravity surrounded by the thin accretion disk*",
-      "link": "https://iopscience.iop.org/article/10.1088/1674-1137/ae1aff",
-      "authors": "Ke-Jian He, 柯腱 何, Chen-Yu Yang, 晨昱 杨, Xiao-Xiong Zeng, 晓雄 曾, Zheng-Xue Chang and 正雪 常",
-      "source": "Chinese Physics C",
-      "summary": "We investigate the shadow image of rotating black holes in Kalb-Ramond gravity using backward ray-tracing techniques. We consider two primary emission models: a spherical source and a optically and geometrically thin accretion disk. The results show that enhanced black hole rotation parameter a amplifies the shadow's departure from circular symmetry, whereas spontaneous Lorentz symmetry-breaking parameters and λ suppress the shadow radius. For accretion disk models, observer inclination angle predominantly governs the inner shadow morphology and photon ring brightness asymmetry, while a, , and λ primarily modulate the inner shadow scale. An increase in induces a morphological transition of the inner shadow from a circular to a D-shaped geometry, accompanied by enhanced brightness in a crescent-shaped region on the left side. Meanwhile, increasing the values of a, , or λ decrease the dimensions of the shadow. Furthermore, higher inclination angles further enhance spectral differentiation, that is, low inclination angles exhibit exclusively redshifted emission. Additionally, those at high inclination angles produce blueshifted components in both direct and lensed images. These characteristic signatures provide observational discriminators between rotating Kalb-Ramond black holes and alternative spacetime."
-    },
-    {
-      "title": "Interplay of Lyapunov exponents, phase transitions, and chaos bound in nonlinear electrodynamics black hole",
-      "link": "https://iopscience.iop.org/article/10.1088/1674-1137/ae210d",
-      "authors": "Chuanhong Gao, Chuang Yang, 创 杨, Tetvui Chong, Deyou Chen and 德友 陈",
-      "source": "Chinese Physics C",
-      "summary": "In this study, we investigate Lyapunov exponents of chaos for both massless and charged particles around a non-linear electrodynamics black hole and explore their relationships with a phase transition and chaos bound of this black hole. Our results indicate that these exponents can effectively reveal the phase transition. Specifically, during the phase transition, violation of the chaos bound occurs solely within a stable branch of a small black hole. Moreover, the violations are observed regardless of whether the phase transition takes place."
-    },
-    {
-      "title": "One texture zero for Dirac neutrinos in a diagonal charged lepton basis*",
-      "link": "https://iopscience.iop.org/article/10.1088/1674-1137/ae2b5c",
-      "authors": "Richard H. Benavides, Yessica Lenis, John D. Gómez and William A. Ponce",
-      "source": "Chinese Physics C",
-      "summary": "An analytical and numerical systematic study of the neutrino mass matrix with one texture zero is presented in a basis where the charged leptons are diagonal. Under the assumption that neutrinos are Dirac particles, the analysis is conducted in detail for the normal and inverted hierarchy mass spectra. Our study is performed without any approximations, first analytically and then numerically, using current neutrino oscillation data. The analysis constrains the parameter space in such a way that, among the six possible one-texture-zero patterns, only four are favored in the normal hierarchy and one in the inverted hierarchy by current oscillation data at the level. Phenomenological implications for the lepton CP-violating phase and neutrino masses are also explored."
-    },
-    {
-      "title": "Searches for heavy neutrinos at a 3 TeV CLIC in fat jet final states*",
-      "link": "https://iopscience.iop.org/article/10.1088/1674-1137/ae2d24",
-      "authors": "Yao-Bei Liu, 要北 刘, Jing-Wei Lian and 经伟 连",
-      "source": "Chinese Physics C",
-      "summary": "Heavy Majorana neutrinos (N) are predicted in many models of physics beyond the Standard Model. In this work, we explore the production and detection prospects of TeV-scale heavy neutrinos ( TeV) at a future 3 TeV Compact Linear Collider (CLIC). We focus on two distinct decay topologies: (i) with hadronic W boson decay, leading to a final state with one charged lepton and a hadronic fat jet ; and (ii) with subsequent Higgs decay , yielding a Higgs-tagged fat jet and . Based on comprehensive detector-level simulations and background analysis, we present both exclusion limits and discovery reaches in the – plane. We further extract 95% confidence level upper limits on the mixing parameter and perform a detailed comparison with existing constraints from direct searches at future colliders and indirect global fits. Our findings demonstrate that a 3 TeV CLIC can improve the sensitivity to by about two orders of magnitude compared with the projected reaches of future hadron colliders while remaining competitive with other CLIC search channels."
-    },
-    {
-      "title": "Search potential for direct slepton pair production at the CEPC with = 360 GeV*",
-      "link": "https://iopscience.iop.org/article/10.1088/1674-1137/ae2f4e",
-      "authors": "Feng Lyu, 峰 吕, Jiarong Yuan, 家荣 袁, Huajie Cheng, 华杰 程, Jianxiong Wang, 建雄 王, Rabia Hameed, Da Xu, 达 徐, Xuai Zhuang and 胥爱 庄",
-      "source": "Chinese Physics C",
-      "summary": "The Circular Electron Positron Collider (CEPC) is designed to operate at key center-of-mass energies: 91.2 GeV as a Z factory for precision Z boson studies, ≈ 160 GeV at the threshold for W boson pair production, and 240 GeV as a Higgs factory for copious Higgs boson production. It can be upgraded to 360 GeV (CEPC-360 GeV) for enabling top quark-antiquark ( ) pair production. Beyond enabling high-precision measurements of the Standard Model (SM), CEPC-360 GeV is uniquely positioned to perform searches for new physics beyond the SM (BSM), serving as a valuable complement to hadron colliders. This paper presents a sensitivity study on the direct pair production of staus and smuons at the CEPC with = 360 GeV, conducted via full Monte Carlo simulation. Under the assumptions of 1.0 ab−1 integrated luminosity and a flat 5% systematic uncertainty, CEPC-360 GeV could potentially discover the combined production of left-handed and right-handed staus up to a mass of 170 GeV (if they exist) or up to 169 for pure left-handed staus and 162 GeV for pure right-handed staus. For direct smuon production, the discovery potential reaches up to 178 GeV under the same conditions."
+      "summary": "Publication date: Available online 19 January 2026Source: Physics Letters BAuthor(s): Gennaro Corcella, Claudio Corian, Paul H. Frampton, Dario Melle"
     }
   ]
 }
