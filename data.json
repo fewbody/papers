@@ -1,103 +1,54 @@
 {
-  "lastUpdated": "2026-01-24T02:50:49.568683",
+  "lastUpdated": "2026-01-25T03:07:17.871811",
   "papers": [
     {
-      "title": "On computational schemes for the Magnus expansion of the in-medium similarity renormalization group",
-      "link": "https://arxiv.org/abs/2601.16133",
-      "authors": "Matthias Heinz",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2601.16133v1 Announce Type: new \nAbstract: The in-medium similarity renormalization group (IMSRG) is a popular many-body method used for computations of nuclei. It solves the many-body Schr\\\"odinger equation through a continuous unitary transformation of the many-body Hamiltonian. The IMSRG transformation is typically truncated at the normal-ordered two-body level, the IMSRG(2), but recently several approaches have been developed to capture the effects of normal-ordered three-body operators, the IMSRG(3). In particular, a factorized approximation to the IMSRG(3) proposes to capture the leading effects of three-body operators at the same computational cost as the IMSRG(2) approximation. This approach often employs an approximate scheme for solving the IMSRG equations, the so-called hunter-gatherer scheme. In this work, I study the uncertainty associated with this scheme. I find that the hunter-gatherer scheme differs by up to $7\\,\\mathrm{MeV}$ for ground-state energies and $0.5\\,\\mathrm{MeV}$ for excitation energies from standard IMSRG(2) approaches. These differences are in some cases comparable to the expected size of IMSRG(3) corrections."
+      "title": "Nuclear Responses with Neural-Network Quantum States",
+      "link": "http://link.aps.org/doi/10.1103/tlqz-nw28",
+      "authors": "Elad Parnes, Nir Barnea, Giuseppe Carleo, Alessandro Lovato, Noemi Rocco, and Xilin Zhang",
+      "source": "Physical Review Letter",
+      "summary": "Author(s): Elad Parnes, Nir Barnea, Giuseppe Carleo, Alessandro Lovato, Noemi Rocco, and Xilin ZhangWe introduce a variational Monte Carlo framework that combines neural-network quantum states with the Lorentz integral transform technique to compute the dynamical properties of self-bound quantum many-body systems in continuous Hilbert spaces. While broadly applicable to various quantum systems, in…[Phys. Rev. Lett. 136, 032501] Published Fri Jan 23, 2026"
     },
     {
-      "title": "\\textit{Ab initio} Gamow density matrix renormalization group for broad nuclear many-body resonances",
-      "link": "https://arxiv.org/abs/2601.16168",
-      "authors": "A. Sehovic, K. Fossez, H. Hergert",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2601.16168v1 Announce Type: new \nAbstract: \\textbf{Background} The reach of \\textit{ab initio} theory has greatly increased in recent decades. However, predicting the location of the drip lines remains challenging due to uncertainties in nuclear forces and difficulties in describing nuclei that behave as open quantum systems. \\textbf{Purpose} In this work, we extend the \\textit{ab initio} Gamow Density Matrix Renormalization Group (G-DMRG) approach to the regime of broad many-body resonances to pave the way for systematic tests of nuclear forces in light exotic nuclei. \\textbf{Methods} To stabilize calculations, we introduce a new truncation scheme in the reference space, and propose an orbital ordering based on entanglement considerations. We then show how continuum couplings increase entanglement in the many-body problem, and propose a new truncation scheme to stabilize the renormalization and accelerate calculations in extreme conditions. Finally, we demonstrate that natural orbitals can be used to efficiently describe broad resonances by introducing a new ordering scheme and by redefining the reference space based on occupations. \\textbf{Results} Leveraging our findings, we propose a recipe to converge \\textit{ab initio} G-DMRG calculations and apply it in low-lying states of \\isotope[5,6]{He} and \\isotope[4]{H}, demonstrating control of the renormalization and the emergence of convergence patterns. We also obtain the first direct \\textit{ab initio} calculation of the $J^\\pi = {1/2}^+$ ground state of \\isotope[5]{H}. \\textbf{Conclusions} We demonstrate that entanglement due to continuum couplings can be controlled in extreme conditions and successfully extend the G-DMRG approach in the regime of broad many-body resonances."
+      "title": "Search for the chiral magnetic effect through beam energy dependence of charge separation using event shape selection",
+      "link": "http://link.aps.org/doi/10.1103/pj7s-9ym7",
+      "authors": "B. E. Aboona <em>et al.</em> (STAR Collaboration)",
+      "source": "Physical Review C",
+      "summary": "Author(s): B. E. Aboona et al. (STAR Collaboration)High-energy, heavy-ion collisions can create local domains of chirality-imbalanced quarks, reflecting the topological features of quantum chromodynamics. The chiral magnetic effect (CME) predicts an electric charge separation of quarks in such topological domains along the magnetic field ($\\stackrel…[Phys. Rev. C 113, 014912] Published Fri Jan 23, 2026"
     },
     {
-      "title": "Decay Effect on Near-Threshold Mass Scaling with Complex and Coupled-Channel Potentials",
-      "link": "https://arxiv.org/abs/2601.15795",
-      "authors": "Erick Gushiken, Tetsuo Hyodo",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2601.15795v1 Announce Type: cross \nAbstract: We investigate the effect of decay channels on the near-threshold mass scaling by employing potential models. By varying the attractive strength of a square-well potential, we examine the pole trajectory associated with the transition of an $s$-wave bound state into a resonance state, incorporating decay-channel effects through both a single-channel complex potential model and a coupled-channel real potential model. As a result, we show that the pole of a quasibound state below the threshold is not continuously connected to that of a resonance state above the threshold. Furthermore, by comparing the results obtained from the single-channel and coupled-channel models, we clarify the correspondence between the pole trajectories in the two approaches."
-    },
-    {
-      "title": "String Breaking and Glueball Dynamics in $2+1$D Quantum Link Electrodynamics",
-      "link": "https://arxiv.org/abs/2601.16166",
-      "authors": "Jiahao Cao, Rohan Joshi, Yizhuo Tian, N. S. Srivatsa, Jad C. Halimeh",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2601.16166v1 Announce Type: cross \nAbstract: At the heart of quark confinement and hadronization, the physics of flux strings has recently become a focal point in the field of quantum simulation of high-energy physics (HEP). Despite considerable progress, a detailed understanding of the behavior of flux strings in quantum simulation-relevant lattice formulations of gauge theories has remained limited to the lowest truncations of the gauge field, which are severely limited in their ability to draw conclusions about the quantum field theory limit. Here, we employ tensor network simulations to investigate the behavior of flux strings in a quantum link formulation of $2+1$D quantum electrodynamics (QED) with a spin-$1$ representation of the gauge field. We first map out the ground-state phase diagram of this model in the presence of two spatially separated static charges, revealing distinct microscopic processes responsible for string breaking, including a two-stage breaking mechanism not possible in the spin-$\\frac{1}{2}$ formulation. Starting in different initial product state string configurations, we then explore far-from-equilibrium quench dynamics across various parameter regimes, demonstrating genuine $2+1$D real-time string breaking and glueball-like bound state formation, with the latter not possible in the spin-$\\frac{1}{2}$ formulation. In and out of equilibrium, we consider different values and placements of the static charges. Finally, we provide efficient qudit circuits for a quantum simulation experiment in which our results can be observed in state-of-the-art ion-trap setups. Our findings lay the groundwork for quantum simulations of flux strings towards the quantum field theory limit."
-    },
-    {
-      "title": "Reach of e^+e^- Higgs factory for light higgsinos via electroweak precision observables and comparison with other future facilities",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326000572?dgcid=rss_sd_all",
+      "title": "Smallness of neutrino masses and leptogenesis in 331 composite Higgs model",
+      "link": "https://www.sciencedirect.com/science/article/pii/S037026932600064X?dgcid=rss_sd_all",
       "authors": "Unknown",
       "source": "Physics Letters B",
-      "summary": "Publication date: Available online 23 January 2026Source: Physics Letters BAuthor(s): Howard Baer, Vernon Barger, Natsumi Nagata, Dibyashree Sengupta"
+      "summary": "Publication date: Available online 23 January 2026Source: Physics Letters BAuthor(s): Roman Nevzorov"
     },
     {
-      "title": "Boundary Freedom in Higher Spin Gravity",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326000626?dgcid=rss_sd_all",
+      "title": "Dark energy in light of DESI DR1 and Hubble tension",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326000341?dgcid=rss_sd_all",
       "authors": "Unknown",
       "source": "Physics Letters B",
-      "summary": "Publication date: Available online 23 January 2026Source: Physics Letters BAuthor(s): Arnaud Delfante"
+      "summary": "Publication date: Available online 23 January 2026Source: Physics Letters BAuthor(s): Hao Wang, Yun-Song Piao"
     },
     {
-      "title": "Resonance Contributions to Radiative Corrections in Charged-Current (Anti)Neutrino-Nucleon Elastic Scattering at GeV Energies",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326000535?dgcid=rss_sd_all",
+      "title": "Perfect spin hydrodynamics at all orders in spin polarization",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326000596?dgcid=rss_sd_all",
       "authors": "Unknown",
       "source": "Physics Letters B",
-      "summary": "Publication date: Available online 23 January 2026Source: Physics Letters BAuthor(s): Oleksandr Tomalak"
+      "summary": "Publication date: Available online 23 January 2026Source: Physics Letters BAuthor(s): Zbigniew Drogosz"
     },
     {
-      "title": "Tracing Cosmological Signature with Doppler Lensing: Insights from Cosmological Simulations",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326000511?dgcid=rss_sd_all",
+      "title": "<math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si1.svg\" class=\"math\"><mrow><mtext>SL</mtext><mo>(</mo><mn>2</mn><mi>N</mi><mo>,</mo><mi mathvariant=\"double-struck\">C</mi><mo>)</mo></mrow></math> Hyperunification: Dynamical Tetrads, Induced Gravity and Composite Families",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326000614?dgcid=rss_sd_all",
       "authors": "Unknown",
       "source": "Physics Letters B",
-      "summary": "Publication date: Available online 22 January 2026Source: Physics Letters BAuthor(s): Mubtasim Fuad, Sonia Akter Ema, Md Rasel Hossen"
+      "summary": "Publication date: Available online 23 January 2026Source: Physics Letters BAuthor(s): J.L. Chkareuli"
     },
     {
-      "title": "Testing Distinguishability and Determinism in Atoms",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326000638?dgcid=rss_sd_all",
-      "authors": "Unknown",
-      "source": "Physics Letters B",
-      "summary": "Publication date: Available online 22 January 2026Source: Physics Letters BAuthor(s): Mark G. Raizen"
-    },
-    {
-      "title": "Imaginary-time method for aan radiative capture reaction rates",
-      "link": "https://www.sciencedirect.com/science/article/pii/S037026932600050X?dgcid=rss_sd_all",
-      "authors": "Unknown",
-      "source": "Physics Letters B",
-      "summary": "Publication date: Available online 22 January 2026Source: Physics Letters BAuthor(s): Luanhong Pei, Jianfeng Zhu, Yasuro Funaki, Bo Zhou"
-    },
-    {
-      "title": "Lifetime measurements in the <em>A</em> ∼ 120 mass region",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0375947426000163?dgcid=rss_sd_all",
+      "title": "A comprehensive activation analysis of fusion-fission cross-sections for <sup>14</sup>N +<sup>175</sup>Lu system",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0375947426000199?dgcid=rss_sd_all",
       "authors": "Unknown",
       "source": "Nuclear Physics A",
-      "summary": "Publication date: Available online 22 January 2026Source: Nuclear Physics AAuthor(s): M. Efstathiou, P. Koseoglou, P. Vasileiou, T.J. Mertzimekis, A. Zyriliou, A. Karadimas, A. Chalil, C. Mihai, C. Costache, R. Licǎ, R.E. Mihai, R. Borcea, A. Turturica, N. Florea, N. Mǎrginean"
-    },
-    {
-      "title": "Searching for the toponium with the ...",
-      "link": "https://iopscience.iop.org/article/10.1088/1674-1137/ae18aa",
-      "authors": "Yueling Yang, 悦玲 杨, Bingbing Yang, 冰冰 杨, Jiazhi Li, 佳芝 李, Zhaojie Lü, 兆杰 吕, Junfeng Sun and 俊峰 孙",
-      "source": "Chinese Physics C",
-      "summary": "Inspired by the observation of the meson at the LHC and the promising prospect of the meson available at the approaching HL-LHC, branching ratios for the , , , , , , and decays are roughly estimated. It is found that tens of opposite-charge dilepton events from the decay and hundreds of events from the decay using the single boson tagging method are expected to be accessible. This estimation provides a reference for future experimental study on the meson."
-    },
-    {
-      "title": "Probing the Scotogenic Dirac Model with FIMP dark matter and ΔN eff *",
-      "link": "https://iopscience.iop.org/article/10.1088/1674-1137/ae1afd",
-      "authors": "Shu-Yuan Guo, 书源 郭, Man-Yu Zhao and 曼玉 赵",
-      "source": "Chinese Physics C",
-      "summary": "We study a feebly interacting massive particle realization of the Scotogenic Dirac Model in which the lightest neutral fermion serves as a dark matter (DM) candidate produced via the freeze-in or super-WIMP mechanism. The model generates Dirac neutrino masses at one loop, resulting in a rank-2 mass matrix that predicts one almost massless neutrino. We analyze the DM relic density for various next-to-lightest odd particles (NLOPs), finding that coannihilation effects and enhanced annihilation channels are crucial for achieving the correct thermal freeze-out abundance of the NLOP. We provide a detailed analysis of the model's implications for the effective number of relativistic species, , which receives contributions from both a thermal bath of right-handed neutrinos and non-thermal energy injection due to late NLOP decays. Through an extensive parameter scan, we identify the viable parameter space for all NLOP candidates that satisfies constraints from the DM relic density, lepton flavor violation, Big Bang nucleosynthesis, cosmic microwave background, and ."
-    },
-    {
-      "title": "Discovery prospects for a leptophilic gauge boson Zℓ at CEPC and ILC",
-      "link": "https://iopscience.iop.org/article/10.1088/1674-1137/ae1de4",
-      "authors": "S.O. Kara",
-      "source": "Chinese Physics C",
-      "summary": "We investigate the discovery prospects of a leptophilic gauge boson at future colliders, focusing on a comparative study of the Circular Electron–Positron Collider (CEPC) and the International Linear Collider (ILC). Such a state naturally arises from an additional gauge symmetry, under which quarks remain neutral while all leptons carry a universal charge, motivated by neutrino oscillations and scenarios of physics beyond the Standard Model. As a clean benchmark, we study the process , including realistic effects of initial-state radiation and beamstrahlung. Our results indicate that the CEPC, with its very high luminosity at GeV, can probe couplings down to for masses up to about 220 GeV. The ILC extends the sensitivity to heavier states in the multi-hundred GeV range through its higher stages. These findings demonstrate the strong complementarity of circular and linear colliders in exploring purely leptophilic interactions."
+      "summary": "Publication date: Available online 24 January 2026Source: Nuclear Physics AAuthor(s): Satyendra Kumar Gautam, Manoj Kumar Sharma, Sushant Arora, Mamta Sarswat, Aquib Siddique, M. Shariq Asnain, Mohd. Shuaib, Ishfaq Majeed, Abhishek Yadav, Puspendra P. Singh, B.P. Singh, R. Prasad"
     }
   ]
 }
