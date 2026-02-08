@@ -1,124 +1,54 @@
 {
-  "lastUpdated": "2026-02-07T03:19:20.930933",
+  "lastUpdated": "2026-02-08T03:50:11.354404",
   "papers": [
     {
-      "title": "Isomer Depletion of $^{93m}\\mathrm{Mo}$ Triggered by Inelastic Nuclear Scattering Rather than Nuclear Excitation by Electron Capture",
-      "link": "http://link.aps.org/doi/10.1103/kbf5-6fcl",
-      "authors": "B. Ding (丁兵) <em>et al.</em>",
-      "source": "Physical Review Letter",
-      "summary": "Author(s): B. Ding (丁兵) et al.A new experiment shows that isomer depletion can be effectively induced when the highly charged isomeric ions slow down in a solid media.[Phys. Rev. Lett. 136, 052502] Published Fri Feb 06, 2026"
-    },
-    {
-      "title": "Electromagnetic moments of ground and excited states calculated in heavy odd-$N$ open-shell nuclei",
-      "link": "http://link.aps.org/doi/10.1103/4q99-rv67",
-      "authors": "J. Dobaczewski, A. E. Stuchbery, G. Danneaux, A. Nagpal, P. L. Sassarini, and H. Wibowo",
+      "title": "Caloric curve and mechanism for emission of light charged particles in $\\mathrm{Xe}\\phantom{\\rule{0.16em}{0ex}}+\\phantom{\\rule{0.16em}{0ex}}\\mathrm{Sn}$ collisions at 50 MeV/u",
+      "link": "http://link.aps.org/doi/10.1103/7nrk-h93w",
+      "authors": "J. Tan (谭钧豪), G. Tian (田国玉), W. Lin (林炜平), R. Wada, X. Liu (刘星泉), H. Zheng (郑华), Y. Chen (陈焰), and A. Chbihi (INDRA Collaboration)",
       "source": "Physical Review C",
-      "summary": "Author(s): J. Dobaczewski, A. E. Stuchbery, G. Danneaux, A. Nagpal, P. L. Sassarini, and H. WibowoNuclear moments are fundamental nuclear characteristics such as whether an individual nuclear state is deformed, or whether the nucleus carries its angular momentum as a collective whole or as individual nucleons with contributions from both their orbital motion and their intrinsic spin. However, calculations of nuclear moments have long been carried out mostly for certain classes of nuclei rather than seamlessly across an entire region. The authors report comprehensive calculations of spectroscopic magnetic dipole and electric quadrupole moments in odd-N, even-Z nuclei with their code HFODD. The calculations cover gadolinium to osmium nuclei, ranging from near-spherical to well-deformed nuclei, within nuclear density functional theory with the Skyrme functional UNEDEF1. Comparison with experimental data for 82 states without parameter adjustment demonstrates that the study captures the main features of magnetic dipole and electric quadrupole moments. The holistic approach to an entire region of the nuclear chart provides valuable insight into the evolution of the underlying nuclear structure and will help guide future fine-tuning of the functionals.[Phys. Rev. C 113, 024306] Published Thu Feb 05, 2026"
+      "summary": "Author(s): J. Tan (谭钧豪), G. Tian (田国玉), W. Lin (林炜平), R. Wada, X. Liu (刘星泉), H. Zheng (郑华), Y. Chen (陈焰), and A. Chbihi (INDRA Collaboration)Caloric curve for quasiprojectile (QP) particles is investigated, using the INDRA data set of $\\mathrm{Xe}+\\mathrm{Sn}$ at 50 MeV/u. A constant pressure condition is applied, approximated by the isotropic expansion of the QP source with a constant velocity, but neither limiting temperature nor backb…[Phys. Rev. C 113, 024606] Published Fri Feb 06, 2026"
     },
     {
-      "title": "Lifetime measurements in $^{165}\\mathrm{W}$ and the spin evolution of $E2$ transition strength",
-      "link": "http://link.aps.org/doi/10.1103/2dtq-q465",
-      "authors": "T. Milanović <em>et al.</em>",
+      "title": "Baryons in the Nambu–Jona-Lasinio models",
+      "link": "http://link.aps.org/doi/10.1103/bhjg-5g86",
+      "authors": "Eric Blanquier",
       "source": "Physical Review C",
-      "summary": "Author(s): T. Milanović et al.Lifetimes of low-lying states in the yrast $ν{i}_{13/2}$ band in $^{165}\\mathrm{W}$ have been measured using the recoil distance Doppler-shift (RDDS) method. The excited states of interest were populated in the $^{92}\\mathrm{Mo}$($^{78}\\mathrm{Kr},4p1n$)$^{165}\\mathrm{W}$ fusion-evaporation reaction…[Phys. Rev. C 113, 024307] Published Thu Feb 05, 2026"
+      "summary": "Author(s): Eric BlanquierThe octet and decuplet $SU{(3)}_{f}$ baryons are studied with the Polyakov, Nambu, and Jona-Lasinio model, in a diquark-quark approach, via the resolution of the Bethe-Salpeter equation. This work includes estimations of their masses according to the temperature and the baryonic density, with or wit…[Phys. Rev. C 113, 025201] Published Fri Feb 06, 2026"
     },
     {
-      "title": "Probing nuclear symmetry energy via isoscaling analysis of spallation fragments with a Bayesian neural network",
-      "link": "http://link.aps.org/doi/10.1103/37mt-m922",
-      "authors": "Dan Peng and Chun Wang Ma",
-      "source": "Physical Review C",
-      "summary": "Author(s): Dan Peng and Chun Wang MaA Bayesian neural network (BNN) framework is established to probe the nuclear symmetry energy coefficient ${C}_{\\mathrm{sym}}$ through isoscaling analysis of spallation fragments produced in proton-induced reactions on Ca, Ni, and Xe isotopic targets. The reliability of BNN predictions is preliminar…[Phys. Rev. C 113, 024605] Published Thu Feb 05, 2026"
-    },
-    {
-      "title": "Strangeness production in $p\\mathrm{Pb}$ collisions at $\\sqrt{{s}_{NN}}=5.02$ TeV in the PACIAE model",
-      "link": "http://link.aps.org/doi/10.1103/8124-hg7h",
-      "authors": "Wei Lei, Qiang Wang, An-Ke Lei, Zhi-Lei She, Jia-Xin Gao, Dai-Mei Zhou, Yu-Liang Yan, Hua Zheng, Wen-Chao Zhang, and Ben-Hao Sa",
-      "source": "Physical Review C",
-      "summary": "Author(s): Wei Lei, Qiang Wang, An-Ke Lei, Zhi-Lei She, Jia-Xin Gao, Dai-Mei Zhou, Yu-Liang Yan, Hua Zheng, Wen-Chao Zhang, and Ben-Hao SaWe present a study of the single- and multistrange particle productions in $p\\mathrm{Pb}$ collisions at $\\sqrt{{s}_{NN}}=5.02$ TeV using the PACIAE 4.0 model. The effects of color reconnection (CR), rope hadronization (RH), as well as partonic and hadronic rescatterings (PRS and HRS) on their produc…[Phys. Rev. C 113, 024902] Published Thu Feb 05, 2026"
-    },
-    {
-      "title": "Neglecting correlations leads to misestimated model errors in EFT predictions",
-      "link": "https://arxiv.org/abs/2602.05086",
-      "authors": "Nathan L. Carter, Richard J. Furnstahl, Jordan A. Melendez, Daniel R. Phillips",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2602.05086v1 Announce Type: new \nAbstract: Bayesian analyses of the convergence pattern of Effective Field Theories (EFTs) enable estimation of the uncertainty induced by a truncated expansion. When an EFT that has been calibrated to data is used to make a prediction this truncation uncertainty enters the posterior predictive distribution twice: directly from the finite-order calculation of the predicted quantity and indirectly through the posterior probability distributions of the EFT low-energy constants (LECs) determined by the calibration. In this work, we focus on the interplay of these two sources of uncertainty. We do this in the context of a toy EFT that we fit to pseudodata and use to make predictions. Direct EFT truncation uncertainty and LEC uncertainty are correlated in predictions when the predicted quantity is correlated with the observables used to fit the LECs. Here this results in the overall theoretical uncertainty in the EFT prediction being smaller than either the uncertainty induced by the truncation error or that stemming from the LECs alone."
-    },
-    {
-      "title": "Decay of three-body resonances in a discrete basis",
-      "link": "https://arxiv.org/abs/2602.05422",
-      "authors": "J. Casal, J. G\\'omez-Camacho",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2602.05422v1 Announce Type: new \nAbstract: We present a theoretical framework for calculating the asymptotic properties and decay dynamics of three-body resonances described in a discrete basis. The method involves solving an inhomogeneous Schr\\\"odinger equation to determine the non-normalizable resonant state by identifying a normalizable source state, which captures the short-range internal structure. The long-range behavior is then calculated using the free three-body propagator, providing accurate asymptotic coefficients necessary for describing decay correlations. We apply this formalism to the two-neutron decay of the 0$^{+}$ ground-state and the 2$^{+}$ excited-state resonances of $^{16}\\text{Be}$ ($^{14}\\text{Be}+n+n$), working within the hyperspherical expansion method with an analytical transformed harmonic oscillator basis. Our results show that the decay is strongly dominated by the lowest hypermomentum components at large separations, reflecting effective three-body barrier penetration dynamics that shape the final state. The calculated relative-energy distributions exhibit clear neutron-neutron correlations for both states, arising from mixing between different asymptotic channels, and are consistent with a direct two-neutron emission mechanism, in agreement with recent experimental observations. This work provides a reliable tool for linking the internal structure of three-body resonances to their decay properties."
-    },
-    {
-      "title": "Three-body Effect in Short-range Correlations",
-      "link": "https://arxiv.org/abs/2602.05678",
-      "authors": "H. Y. Shang, R. Z. Hu, X. Y. Xu, Z. C. Xu, J. C. Pei, S. M. Wang",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2602.05678v1 Announce Type: new \nAbstract: Short-range correlations (SRCs) provide the link between low- and high-energy nuclear physics and can be quantified by two-nucleon densities. We present calculations of the two-nucleon densities using free-space similarity renormalization group (SRG)-evolved operators and in-medium SRG (IMSRG) ground states with softend chiral interaction. Our calculations benchmark well against no-core shell model (NCSM) results with unevolved oparetors and Hamiltonians in $^4\\mathrm{He}$. We explicitly include the induced three-body (3b) density operators for the first time which, together with the 3b Hamiltonians, provide the full 3b effects. We show pronounced 3b effects in the $^{16}\\mathrm{O}$ two-nucleon densities. Combined with valence-space IMSRG (VS-IMSRG) method, we extend the calculation to the oxygen isotopic chain. This approach enables a consistent \\textit{ab initio} description of low-energy properties and SRCs within one framework and offers predictions for the upcoming SRC measurements in unstable nuclei."
-    },
-    {
-      "title": "Mesoscopic chemical potentials across the (hyper)nuclear landscape",
-      "link": "https://arxiv.org/abs/2602.05824",
-      "authors": "Jacquelyn Noronha-Hostler",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2602.05824v1 Announce Type: new \nAbstract: Finite nuclei constrain the dense-matter equation of state (EOS), yet they are self-bound quantum droplets far from the thermodynamic limit. Motivated by an analogy to quantum dots, we show that the nuclear chart nevertheless defines a mesoscopic regime in which mesoscopic chemical-potential analogs $\\{\\mu_B,\\mu_Q,\\mu_S\\}$ can be extracted directly from nuclear and hypernuclear binding energies after consistent Coulomb subtraction. These are discrete finite-difference response functions -- local slopes of the strong-interaction energy landscape -- not equilibrium grand-canonical chemical potentials. The nuclear chart itself supplies an \"ensemble of nearby droplets\": finite differences across neighboring nuclei suppress shell- and pairing-scale oscillations while retaining the smooth bulk trend, producing robust slopes without a macroscopic limit. Thus, the data provide empirical local derivatives that any strangeness-enabled EOS must reproduce near saturation. Mapping the measured (hyper)nuclear landscape at $T\\simeq 0$, we find smooth, numerically stable responses, including a large, negative strangeness chemical-potential analog, and we identify specific hypernuclear measurements that can directly test and sharpen these EOS constraints."
-    },
-    {
-      "title": "Towards $2+1$D quantum electrodynamics on a cold-atom quantum simulator",
-      "link": "https://arxiv.org/abs/2602.04948",
-      "authors": "Peter Majcen, Jesse J. Osborne, Philipp Hauke, Bing Yang, Simone Montangero, Jad C. Halimeh",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2602.04948v1 Announce Type: cross \nAbstract: Cold atoms have become a powerful platform for quantum-simulating lattice gauge theories in higher spatial dimensions. However, such realizations have been restricted to the lowest possible truncations of the gauge field, which limit the connections one can make to lattice quantum electrodynamics. Here, we propose a feasible cold-atom quantum simulator of a $(2+1)$-dimensional U$(1)$ lattice gauge theory in a spin $S=1$ truncation, featuring dynamical matter and gauge fields. We derive a mapping of this theory onto a bosonic computational basis, stabilized by an emergent gauge-protection mechanism through quantum Zeno dynamics. The implementation is based on a single-species Bose--Hubbard model realized in a tilted optical superlattice. This approach requires only moderate experimental resources already available in current ultracold-atom platforms. Using infinite matrix product state simulations, we benchmark real-time dynamics under global quenches. The results demonstrate faithful evolution of the target gauge theory and robust preservation of the gauge constraints. Our work significantly advances the experimental prospects for simulating higher-dimensional lattice gauge theories using larger gauge-field truncations."
-    },
-    {
-      "title": "Influence of Non-extensivity on the drag and diffusion coefficients of hadronic matter",
-      "link": "https://arxiv.org/abs/2602.05478",
-      "authors": "Aditya Kumar Singh, Swatantra Kumar Tiwari",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2602.05478v1 Announce Type: cross \nAbstract: In this work, we investigate the drag and diffusion coefficients of various hadrons propagating through a hadronic thermal bath by employing the Fokker Planck equation within the framework of Tsallis nonextensive statistics. The nonextensive parameter $q$ accounts for the deviation from equilibrium and provides a more realistic description of the medium that is not perfectly thermalized. The hadronic bath, consisting of various mesonic and baryonic species, is characterized by different mass cutoffs that control the spectral composition of the medium. Our analysis shows that both the drag $F$ and momentum diffusion coefficients $\\Gamma$ increases exponentially with temperature and increases systematically with increasing $q$ and mass cutoff. The spatial diffusion coefficient $D_x$ exhibits a decreasing trend with temperature $T$, $q$ and mass cutoff which highlights the significant influence of nonequilibrium effects and hadronic composition on the transport behaviour of hadrons, offering valuable insights into the thermal and dynamical properties of the hadronic phase preceding freezeout in heavy ion collisions. Additionally, we have studied the relaxation time of heavy mesons such as $D_0$, $J/\\psi$ and $\\Upsilon$. We found that the heavier mesons relaxed later in comparison to the lighter mesons in the hadronic medium."
-    },
-    {
-      "title": "Violation of the Conformal Limit at Finite Density: Insights from Effective Models and Lattice QCD",
-      "link": "https://arxiv.org/abs/2602.05796",
-      "authors": "Francisco X. Azeredo, Arthur E. B. Pasqualotto, Bruno S. Lopes, Dyana C. Duarte, Ricardo L. S. Farias",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2602.05796v1 Announce Type: cross \nAbstract: In this work, we discuss recent results obtained with the application of the medium separation scheme (MSS) in different contexts where a clear violation of the conformal limit for the speed of sound at finite density has been observed in Quantum Chromodynamics (QCD). We analyze several scenarios, including QCD at finite isospin density, two-color QCD, and two-flavor color superconductivity. Whenever possible, we compare our findings with lattice QCD (LQCD) results, showing that the Nambu--Jona-Lasinio (NJL) model combined with the MSS provides a consistent description across different regimes of the QCD phase diagram. Our analysis highlights how effective models, when properly regularized, can capture essential nonperturbative features of dense QCD matter, offering complementary insights to lattice simulations."
-    },
-    {
-      "title": "Potential of constraining the Fifth Force Using the Earth as a Spin and Mass Source from space",
-      "link": "https://arxiv.org/abs/2410.12469",
-      "authors": "Zheng-Ting Lai, Jun-Xu Lu, Li-Sheng Geng, Kai Wei, Wei Ji",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2410.12469v2 Announce Type: replace-cross \nAbstract: We explore the potential of conducting an experiment in a low Earth orbit spacecraft and using the Earth a spin and mass source to constrain beyond-the-standard-model (BSM) long-range spin- and velocity-dependent interactions, which are mediated by the exchange of an ultralight $\\left(m_{Z^{\\prime}}<10^{-10}\\text{eV}\\right)$ or massless intermediate vector boson. The high speed of the low Earth orbit spacecraft can enhance the sensitivity to velocity-dependent interactions. The periodicity enables efficient extraction of signals from background noise, thereby improving the experiment's accuracy. Combining these advantages, we demonstrate theoretically that the novel Spacecraft-Earth model can improve existing bounds on these exotic interactions by up to three orders of magnitude, using the China Space Station (CSS) as a representative low-Earth-orbit carrier. Such a model, if successfully implemented, may provide an innovative strategy for detecting ultralight dark matter and yield tighter constraints on certain coupling constants of exotic interactions."
-    },
-    {
-      "title": "Neural networks for 3D characterisation of AGATA crystals",
-      "link": "https://epja.epj.org/10.1140/epja/s10050-026-01793-9",
-      "authors": "Mojahed Abushawish, Guillaume Baulieu, Jérémie Dudouet, Olivier Stézowski",
-      "source": "European Physical Journal A",
-      "summary": "Authors: Mojahed Abushawish, Guillaume Baulieu, Jérémie Dudouet and Olivier Stézowski.The European Physical Journal A Vol. 62 , page 27Published online: 4/2/2026"
-    },
-    {
-      "title": "Nonsinglet distribution functions using the neural network and genetic algorithm",
-      "link": "https://epja.epj.org/10.1140/epja/s10050-025-01768-2",
-      "authors": "E. Astaraki, G. R. Boroun",
-      "source": "European Physical Journal A",
-      "summary": "Authors: E. Astaraki and G. R. Boroun.The European Physical Journal A Vol. 62 , page 26Published online: 4/2/2026\n       Keywords:"
-    },
-    {
-      "title": "Nuclear cluster structure effect in <sup>16</sup>O+<sup>16</sup>O collisions at the top RHIC energy",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326001085?dgcid=rss_sd_all",
+      "title": "Multiloop spectra in general scalar EFTs and CFTs",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326000894?dgcid=rss_sd_all",
       "authors": "Unknown",
       "source": "Physics Letters B",
-      "summary": "Publication date: Available online 5 February 2026Source: Physics Letters BAuthor(s): Xin-Li Zhao, Zi-Wei Lin, You Zhou, Chao Zhang, Guo-Liang Ma"
+      "summary": "Publication date: Available online 7 February 2026Source: Physics Letters BAuthor(s): Johan Henriksson, Franz Herzog, Stefanos R. Kousvos, Jasper Roosmale Nepveu"
     },
     {
-      "title": "Clustering in hadrons and light nuclei from Lorentz boosted form factors",
-      "link": "https://www.sciencedirect.com/science/article/pii/S037594742600031X?dgcid=rss_sd_all",
+      "title": "Holographic dark energy in a coasting cosmology",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326001000?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: Available online 6 February 2026Source: Physics Letters BAuthor(s): Yunliang Ren, Xiaofeng Yang, Xuwei Zhang, Shuangnan Chen, Yangjun Shi, Cheng Cheng, Xiaolong He, Hoernisa Iminniyaz"
+    },
+    {
+      "title": "First Study of the Nuclear Response to Fast Hadrons via Angular Correlations between Pions and Slow Protons in Electron–Nucleus Scattering",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326001048?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: Available online 6 February 2026Source: Physics Letters BAuthor(s): S.J. Paul, M. Arratia, H. Hakobyan, W. Brooks, A. Acar, P. Achenbach, J.S. Alvarado, W.R. Armstrong, N.A. Baltzell, L. Barion, M. Bashkanov, M. Battaglieri, F. Benmokhtar, A. Bianconi, A.S. Biselli, F. Bossu, S. Boiarinov, K.-T Brinkmann, W.J. Briscoe, V. Burkert"
+    },
+    {
+      "title": "Sigma model renormalisation group flows, singularities and some remarks on cosmology",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326001097?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: Available online 6 February 2026Source: Physics Letters BAuthor(s): Georgios Papadopoulos"
+    },
+    {
+      "title": "Statistical Analysis of Quadrupole Transitions in Shape-Coexisting Nuclei: Bridging Theory and Experiment",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0375947426000357?dgcid=rss_sd_all",
       "authors": "Unknown",
       "source": "Nuclear Physics A",
-      "summary": "Publication date: Available online 5 February 2026Source: Nuclear Physics AAuthor(s): F.E. Rodríguez Barrera, N.G. Kelkar"
+      "summary": "Publication date: Available online 6 February 2026Source: Nuclear Physics AAuthor(s): Asgar Hosseinnezhad, Hadi Sabri"
     }
   ]
 }
