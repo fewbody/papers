@@ -1,152 +1,152 @@
 {
-  "lastUpdated": "2026-02-10T03:46:26.699571",
+  "lastUpdated": "2026-02-11T03:43:14.783181",
   "papers": [
     {
-      "title": "Robust extrapolation in nuclear mass predictions using domain-informed activation functions",
-      "link": "http://link.aps.org/doi/10.1103/mcxf-d32x",
-      "authors": "C. H. Kim, K. Y. Chae, and M. S. Smith",
-      "source": "Physical Review C",
-      "summary": "Author(s): C. H. Kim, K. Y. Chae, and M. S. SmithGiven the importance of nuclear mass predictions, numerous models have been developed to extrapolate the measured data into unknown regions. While neural networks—the core of modern artificial intelligence—have been recently suggested as powerful methods, showcasing high predictive power in the meas…[Phys. Rev. C 113, 024308] Published Mon Feb 09, 2026"
-    },
-    {
-      "title": "Microscopic study of the asymptotic behavior of the reduced width amplitude in $^{7}\\mathrm{Li}$ and $^{7}\\mathrm{Be}$",
-      "link": "http://link.aps.org/doi/10.1103/443m-svw9",
-      "authors": "H. J. Zhu, M. J. Lyu, Q. Zhao, Z. Cheng, J. Q. Tian, M. Kimura, T. Myo, H. Horiuchi, H. Toki, M. Isaka, H. Takemoto, Akinobu Doté, and N. Wan",
-      "source": "Physical Review C",
-      "summary": "Author(s): H. J. Zhu, M. J. Lyu, Q. Zhao, Z. Cheng, J. Q. Tian, M. Kimura, T. Myo, H. Horiuchi, H. Toki, M. Isaka, H. Takemoto, Akinobu Doté, and N. WanWe investigate the effects of different basis model spaces on the calculation of reduced width amplitude (RWA) and asymptotic normalization coefficient (ANC) for the $^{7}\\mathrm{Li}$ and $^{7}\\mathrm{Be}$ nuclei. The two-cluster model ($α+t/^{3}\\mathrm{He}$) and the three-cluster model ($α+np+n/p$)…[Phys. Rev. C 113, 024309] Published Mon Feb 09, 2026"
-    },
-    {
-      "title": "Decay study of the most neutron-deficient Zn isotopes with the Warsaw optical-readout TPC detector",
-      "link": "http://link.aps.org/doi/10.1103/p8lf-hc4y",
-      "authors": "A. Kubiela <em>et al.</em>",
-      "source": "Physical Review C",
-      "summary": "Author(s): A. Kubiela et al.Results of decay studies of nuclei in the vicinity of $^{54}\\mathrm{Zn}$, which is the most neutron-deficient isotope of zinc and undergoes ground-state two-proton radioactivity (2p), are presented. The measurements were performed with a gaseous time-projection chamber with optical readout, which al…[Phys. Rev. C 113, 024310] Published Mon Feb 09, 2026"
-    },
-    {
-      "title": "Insights into properties of nuclei in $α$-decay chains of $^{295–304}120$ using a self-consistent mean-field approach",
-      "link": "http://link.aps.org/doi/10.1103/t9fm-ppqp",
-      "authors": "A. Nasr, W. M. Seif, A. R. Abdulghany, G. G. Adamian, and N. V. Antonenko",
-      "source": "Physical Review C",
-      "summary": "Author(s): A. Nasr, W. M. Seif, A. R. Abdulghany, G. G. Adamian, and N. V. AntonenkoTo study the structure and stability of the isotopes $^{295–304}120$, the self-consistent Hartree-Fock-Bogoliubov calculations are performed using the Skyrme-SLy4 energy-density functional and a zero-range pairing interaction, regularized to avoid divergences. The ground-state deformation evolves fr…[Phys. Rev. C 113, 024311] Published Mon Feb 09, 2026"
-    },
-    {
-      "title": "Computing nuclear response functions with time-dependent coupled-cluster theory",
-      "link": "http://link.aps.org/doi/10.1103/scn2-dnyg",
-      "authors": "Francesca Bonaiti, Cody Balos, Kyle Godbey, Gaute Hagen, Thomas Papenbrock, and Carol S. Woodward",
-      "source": "Physical Review C",
-      "summary": "Author(s): Francesca Bonaiti, Cody Balos, Kyle Godbey, Gaute Hagen, Thomas Papenbrock, and Carol S. WoodwardWe compute nuclear response functions by solving the time-dependent $A$-body Schrödinger equation, recording the time-dependent transition moment and extracting spectral information via Fourier transforms. The solution of the time-dependent many-body problem accounts for correlations on top of the m…[Phys. Rev. C 113, 024312] Published Mon Feb 09, 2026"
-    },
-    {
-      "title": "Evolution of chirality from transverse wobbling in $^{135}\\mathrm{Pr}$",
-      "link": "http://link.aps.org/doi/10.1103/3g4p-ncjn",
-      "authors": "N. Sensharma, U. Garg, Q. B. Chen, S. Frauendorf, S. Zhu, J. Arroyo, A. D. Ayangeakaa, D. P. Burdette, M. P. Carpenter, P. Copp, J. L. Cozzi, S. S. Ghugre, D. J. Hartley, K. B. Howard, R. V. F. Janssens, F. G. Kondev, T. Lauritsen, J. Li, R. Palit, A. Saracino, D. Seweryniak, S. Weyhmiller, and J. Wu",
-      "source": "Physical Review C",
-      "summary": "Author(s): N. Sensharma, U. Garg, Q. B. Chen, S. Frauendorf, S. Zhu, J. Arroyo, A. D. Ayangeakaa, D. P. Burdette, M. P. Carpenter, P. Copp, J. L. Cozzi, S. S. Ghugre, D. J. Hartley, K. B. Howard, R. V. F. Janssens, F. G. Kondev, T. Lauritsen, J. Li, R. Palit, A. Saracino, D. Seweryniak, S. Weyhmiller, and J. WuChirality is a distinct signature that characterizes triaxial shapes in nuclei. We report the first observation of chirality in the nucleus $^{135}\\mathrm{Pr}$ using a high-statistics Gammasphere experiment with the $^{123}\\mathrm{Sb}(^{16}\\mathrm{O},4n)^{135}\\mathrm{Pr}$ reaction. Two chiral-partne…[Phys. Rev. C 113, 024313] Published Mon Feb 09, 2026"
-    },
-    {
-      "title": "Backscattering study of electrons from 0.1 to 3.4 MeV",
-      "link": "http://link.aps.org/doi/10.1103/g3x8-vtr2",
-      "authors": "M. Kanafani, X. Fléchard, O. Naviliat-Cuncic, R. Garreau, T. E. Haugen, L. Hayen, S. Leblond, E. Liénard, X. Mougeot, G. Quéméner, A. Rani, J.-C. Thomas, and S. Vanlangendonck",
-      "source": "Physical Review C",
-      "summary": "Author(s): M. Kanafani, X. Fléchard, O. Naviliat-Cuncic, R. Garreau, T. E. Haugen, L. Hayen, S. Leblond, E. Liénard, X. Mougeot, G. Quéméner, A. Rani, J.-C. Thomas, and S. VanlangendonckBenchmarking simulation codes for electron transport and scattering in matter is a crucial step for estimating uncertainties in precision measurements in β decay and other applications. This work reports the measurement and the quantitative analysis of backscattering probabilities of electrons in the energy range 0.1 to 3.4 MeV where experimental data are scarce. Using a setup for precise identification of backscattered events impinging on a YAP:Ce scintillator, the authors achieved meaningful agreement between simulations and experimental data covering a large range of energies and large incident angles. The results should help mitigate the usually large relative uncertainties considered for electron backscattering probabilities. Reaching an improved understanding of the systematic uncertainties at the percent level, compared to the previous 10% level, promises to be of high value to the community engaged in precision β spectroscopy.[Phys. Rev. C 113, 025501] Published Mon Feb 09, 2026"
-    },
-    {
-      "title": "Bayesian framework for the ${S}_{E1}$(300 keV) and ${S}_{E2}$(300 keV) factors for $^{12}\\mathrm{C}(α,γ)^{16}\\mathrm{O}$ from subthreshold and ground-state asymptotic normalization coefficients",
-      "link": "http://link.aps.org/doi/10.1103/gsm9-rgb7",
-      "authors": "A. M. Mukhamedzhanov",
-      "source": "Physical Review C",
-      "summary": "Author(s): A. M. MukhamedzhanovThe 12C(α,γ)16O reaction sets the carbon-to-oxygen ratio after core helium burning and strongly influences late stellar evolution. Because direct measurements near E≈300 keV are not available, this work combines existing experimental constraints in a Bayesian analysis to determine a well-defined range for the astrophysical factors SE1(300 keV) and SE2(300 keV). The resulting S(300 keV) range has important implications for the final outcomes of massive stars, including the formation of heavy black-hole remnants relevant to gravitational-wave observations.[Phys. Rev. C 113, 025803] Published Mon Feb 09, 2026"
-    },
-    {
-      "title": "\"Observations on the possible electromagnetic nature of nucleon interactions and pions\" -- historical manuscript from 1969 by B. W. Ninham and C. Pask",
-      "link": "https://arxiv.org/abs/2602.06058",
-      "authors": "Mathias Bostr\\\"om, Drew F. Parsons",
+      "title": "Correlations of Feed-down Hadrons in a Thermal Model",
+      "link": "https://arxiv.org/abs/2602.07099",
+      "authors": "Claude Pruneau, Victor Gonzalez, Oveis Sheibani, Chun Shen, Yash Patley, Basanta Nandi, Ana Marin",
       "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2602.06058v1 Announce Type: new \nAbstract: This manuscript presents an historical perspective prepared by Barry Ninham and Colin Pask in 1969 on the connection between quantum electrodynamics theory and nucleon interactions. A new theory of strong interactions based on electromagnetic considerations is proposed. Energy and force range magnitudes are correctly given. A new theory of the pion emerges and the pion mass and lifetime are calculated. No strong interaction coupling constant is required."
+      "summary": "arXiv:2602.07099v1 Announce Type: new \nAbstract: We examine the potential impact of strong decays on the magnitude of fluctuations of net quantum numbers and integrals of balance functions based on a thermal hadron gas model. The calculations are based on a comprehensive list of known hadrons with masses up to 2.5 GeV/$c^2$ and include all decays of these hadrons with known branching fractions. The calculations are performed at vanishing baryo-chemical potential for temperatures between 140 and 200 MeV. We show that the decays feed-down substantially impact the single yield of measurable ``stable particles\" as well as those of correlated densities of these species. Decays can then potentially have large and non-trivial impacts on measurements of net quantum number cumulants and balance functions. These observations are particularly important in the context of the search for the QCD critical point at the RHIC Beam Energy Scan as well as efforts to determine chemical susceptibilities near the phase transition at RHIC or LHC energies. Results obtained in this work also shed light on the importance of feed-down in measurements of balance functions in elementary p-p and nucleus-nucleus collisions."
     },
     {
-      "title": "Fixed-energy inverse scattering with radial basis function neural networks and its application to neutron-alpha interactions",
-      "link": "https://arxiv.org/abs/2602.06086",
-      "authors": "G\\'abor Balassa",
+      "title": "Comprehensive Table of Calculated Huff Factors",
+      "link": "https://arxiv.org/abs/2602.07501",
+      "authors": "Yuichi Uesaka, Tomoya Naito, Shuichiro Ebata, Megumi Niikura",
       "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2602.06086v1 Announce Type: new \nAbstract: This paper proposes a data-driven method to solve the fixed-energy inverse scattering problem for radially symmetric potentials using radial basis function (RBF) neural networks in an open-loop control system. The method estimates the scattering potentials in the Fourier domain by training an appropriate number of RBF networks, while the control step is carried out in the coordinate space by using the measured phase shifts as control parameters. The system is trained by both finite and singular input potentials and is capable of modeling a great variety of scattering events. The method is applied to neutron-alpha scattering at 10 MeV incident neutron energy, where the underlying central part of the potential is estimated by using the measured l = 0, 1, 2 phase shifts as inputs. The obtained potential is physically sensible, and the recalculated phase shifts are within a few percent relative error."
+      "summary": "arXiv:2602.07501v1 Announce Type: new \nAbstract: We present a systematic calculation of the Huff factor for nuclei with atomic numbers ($ Z $) in the range of $ 6 \\leq Z \\leq 94 $. The Huff factor quantifies the increase in the partial lifetime of the decay-in-orbit (DIO) of the muonic atom and serves as an essential correction factor for extracting the nuclear muon capture rate from the measured lifetimes of the muonic atom. However, previous calculations typically provided only the atomic number dependence and neglected isotope dependence -- an assumption whose reliability had not been examined, despite its importance for a comprehensive understanding of the nuclear muon capture rate. In this work, we calculate the Huff factor using nuclear charge distributions obtained from a fully self-consistent microscopic nuclear structure model that incorporates pairing and deformation effects. The resulting Huff factors exhibit a monotonic decrease with increasing $ Z $, while the isotope dependence is found to be small. Our results also show good agreement with previous calculations, supporting the reliability of the present framework. The comprehensive set of Huff factors presented here constitutes the first unified values currently available and will serve as a basis for future evaluations of muon nuclear data."
     },
     {
-      "title": "Bayesian Constraints on the Neutron Star Equation of State with a Smooth Hadron-Quark Crossover",
-      "link": "https://arxiv.org/abs/2602.06696",
-      "authors": "Xavier Grundler, Bao-An Li",
+      "title": "New solution to the hyperon puzzle of neutron stars: Quantum many-body effects",
+      "link": "https://arxiv.org/abs/2602.07939",
+      "authors": "Hao-Fu Zhu, Guo-Zhu Liu, Xufen Wu, Ye-Fei Yuan",
       "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2602.06696v1 Announce Type: new \nAbstract: We perform a Bayesian inference of the dense-matter equation of state (EOS) within a unified framework that incorporates hadronic matter, quark matter, and a smooth hadron--quark crossover. The EOS is constrained using physical consistency filters, gravitational-wave data from GW170817, NICER mass--radius measurements, and hypothetical future high-precision radius data. We find that current observations strongly constrain the density dependence of the nuclear symmetry energy, particularly its slope and curvature, while the highest-density hadronic parameters and quark-matter parameters remain only weakly constrained. The posterior distributions favor a crossover centered at an energy density $\\overline{\\varepsilon}\\sim(4$--$6)\\varepsilon_0$ with a width $\\Gamma\\sim(0.5$--$1.0)\\varepsilon_0$, where $\\varepsilon_0$ is the energy density of symmetric nuclear matter at saturation. The most probable radius of a canonical neutron star is $R_{1.4}\\simeq 11.5-13.0$ km, and the maximum mass is $M_{\\rm TOV}\\simeq 2.2\\,M_\\odot$. Overall, present data primarily probe the low-to-intermediate density EOS and provide limited direct sensitivity to quark matter and genuinely high-density physics, highlighting the need for next-generation precision radius measurements."
+      "summary": "arXiv:2602.07939v1 Announce Type: new \nAbstract: The hyperon puzzle refers to the challenge of reconciling the existence of hyperons in neutron star cores and the observed high masses of neutron stars. The recent discovery of PSR J0952-0607 ($2.35\\pm0.17 M_{\\odot}$) has intensified this challenge. Existing solutions fail to achieve such a high mass, and often predict unrealistically fast cooling that is at odds with observations. Here, we propose a novel solution to the hyperon puzzle. Using the Dyson-Schwinger equation approach, we incorporate the quantum many-body effects caused by strong baryon-meson interactions into the equation of state for cold baryonic matter and find it stiff enough to support a maximum hyperon-star mass of $M_{\\mathrm{max}} \\approx 2.59 M_{\\odot}$, which can explain all the observed high neutron-star masses. The resulting proton and hyperon fractions are remarkably low, thus the nucleonic and hyperonic direct Urca processes are significantly suppressed. As a result, fast cooling typically does not occur in ordinary neutron stars."
     },
     {
-      "title": "Many-body effects on dense matter with hyperons at finite temperature",
-      "link": "https://arxiv.org/abs/2602.06815",
-      "authors": "Rafael B\\'an Jacobsen, Ricardo Luciano Sonego Farias, Veronica Dexheimer",
+      "title": "Stochastic many-body perturbation theory for high-order calculations",
+      "link": "https://arxiv.org/abs/2602.08265",
+      "authors": "Xin Zhen, Rongzhe Hu, Junchen Pei, Furong Xu",
       "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2602.06815v1 Announce Type: new \nAbstract: In this work, we present the first extension of the Many-Body Forces (MBF) Model to finite temperature. The MBF Model describes nuclear matter in a relativistic quantum hadrodynamics formalism that takes many-body forces into account through a field dependence of the nuclear interaction coupling constants. Assuming nuclear matter to be charge neutral, beta-equilibrated, and populated by the baryon octet, electrons, and muons, we explore the parameters of the model, three different hyperon coupling schemes (also introduced here for the first time in MBF), and temperature effects to describe basic properties of nuclear matter, including the speed of sound, compressibility, and adiabatic index. We also investigate the mass-radius relation of compact stars by solving the Tolman-Oppenheimer-Volkoff equations at zero and finite temperature, including scenarios with fixed entropy per baryon. Our original results at finite temperature open the path to a new description of proto-neutron stars."
+      "summary": "arXiv:2602.08265v1 Announce Type: new \nAbstract: High-order perturbative $\\textit{ab initio}$ calculations are challenging due to the rapidly growing configuration space and the difficulty of assessing convergence. In this work, we introduce perturbation theory quantum Monte Carlo (PTQMC), a stochastic approach designed to compute high-order many-body perturbative corrections. By representing the perturbative wave function with random walkers in configuration space, PTQMC avoids the exponential scaling inherent to conventional constructions of high-rank excitation operators. Benchmark calculations for the Richardson pairing model demonstrate that PTQMC accurately reproduces exact many-body perturbation theory (MBPT) coefficients up to 16th order, even in strongly divergent regimes. We further show that combining PTQMC with series resummation techniques yields stable and precise energy estimates in cases where the straightforward perturbative series fails. Finally, we propose the effective number of configurations, $e^{S}$, as a global measure of perturbative wave-function complexity that can be directly extracted within PTQMC. We demonstrate that the saturation behavior of $e^{S}$ provides a more reliable indicator of the validity of perturbative expansions than energy convergence alone."
     },
     {
-      "title": "Holographic Charged Transport with Higher Derivatives",
-      "link": "https://arxiv.org/abs/2602.06144",
-      "authors": "Alex Buchel, Sera Cremonini, Mohammad Moezzi, George Tringas",
+      "title": "Probing $\\alpha$ clustering in $^{12}\\mathrm{C}$ at CSR energies using the Jet AA Microscopic Transport Model",
+      "link": "https://arxiv.org/abs/2602.08288",
+      "authors": "Subhash Singha",
       "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2602.06144v1 Announce Type: cross \nAbstract: We compute the first-order hydrodynamic transport coefficients (shear viscosity $\\eta$, bulk viscosity $\\zeta$, and charge conductivity $\\sigma$) for a broad class of strongly coupled, four-dimensional charged relativistic gauge theory plasma with holographic gravitational duals containing higher-derivative corrections. The landscape of our holographic models captures non-conformal gauge theories with an arbitrary number of relevant coupling constants and a general scalar potential in the gravitational dual, allowing for a systematic exploration of charged transport along generic holographic RG flows. The leading-order higher-derivative corrections probe gauge theories with non-equal central charges $c\\ne a$ at the ultraviolet fixed point, and enable the engineering of diverse temperature and charge density profiles for the viscosities and the conductivity. Our results establish the membrane paradigm in higher-derivative holographic models: all the transport coefficients are extracted from the black brane horizon values of the gravitational scalars, and various functions defining the gravitational holographic dual."
+      "summary": "arXiv:2602.08288v1 Announce Type: new \nAbstract: We investigate the sensitivity of low-energy nuclear collisions to intrinsic nuclear structure by studying the interplay between initial-state geometry and final-state observables in C+C and C+Pb collisions at $\\sqrt{s_{NN}}=2.36$~GeV, relevant for experiments at the Cooling Storage Ring (CSR) facility in Lanzhou and forthcoming experiments at the High Intensity heavy-ion Accelerator Facility (HIAF) in Huizhou. Calculations are performed within the Jet AA Microscopic Transport Model (JAM) using Woods--Saxon and triangular $\\alpha$-clustered configurations for the $^{12}C$ nucleus. The initial geometry is characterized in terms of transverse size, compactness, eccentricities, and their event-by-event fluctuations. We find that $\\alpha$ clustering leads to a more compact participant configuration than the Woods--Saxon case, while transverse-size and eccentricity fluctuations show only weak sensitivity to clustering. At this beam energy, radial observables remain sensitive to geometric compactness, with the proton mean transverse momentum $\\langle p_T \\rangle$ enhanced for $\\alpha$-clustered configurations, whereas pions show little sensitivity. The anisotropic response is examined using flow harmonic coefficients. We find an enhancement of the mean flow magnitudes, $\\langle v_n \\rangle = \\sqrt{\\langle v_n^2\\rangle}$, for $\\alpha$-clustered configurations at large $N_{part}$, while the event-by-event fluctuation strength of individual harmonics remains small. Symmetric cumulants of the initial-state eccentricities show sensitivity to clustering, whereas the corresponding correlations among final-state flow harmonics do not exhibit a comparably strong separation. These results indicate that radial observables and correlation-based flow measurements provide complementary probes of $\\alpha$ clustering in low-energy nuclear collisions."
     },
     {
-      "title": "How Neutron Star Observations Point Towards Exotic Matter: Existing Explanations and a Prospective Proposal",
-      "link": "https://arxiv.org/abs/2602.06170",
-      "authors": "Mauro Mariani, Ignacio F. Ranea-Sandoval",
+      "title": "Electromagnetic polarizabilities of the triplet hadrons in heavy hadron chiral perturbation theory",
+      "link": "https://arxiv.org/abs/2602.05502",
+      "authors": "Hao Dang, Liang-Zhen Wen, Yan-Ke Chen, Shi-Lin Zhu",
       "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2602.06170v1 Announce Type: cross \nAbstract: Multi-messenger astronomical observations of neutron stars, together with more precise calculations and constraints coming from dense matter microphysics, are generating tension with regard to equations of state models used to describe neutron star cores. Assuming an abrupt first-order phase transition with a slow conversion speed between phases, we propose different slow stable hybrid star configurations aiming to reconcile all current constraints simultaneously; within this framework, we also introduce a novel non-CSS parametrization to the quark matter equation of state and discuss its strengths and limitations. We analyze our model results in conjunction with a review of other relevant theoretical possibilities existing in the literature. We found that modern neutron star observations seem to favor the existence of some type of exotic matter in the neutron star cores; in particular, our slow stable hybrid star scenario remains a proposal capable of satisfying these constraints. However, due both to the existing skepticism regarding some of the adopted hypotheses in most extreme neutron star measurements and to the precise adjustment needed for the equation-of-state parameters, significant tension and open questions remain."
+      "summary": "arXiv:2602.05502v1 Announce Type: cross \nAbstract: We investigate the electromagnetic polarizabilities of singly heavy mesons and doubly heavy baryons within the framework of heavy hadron chiral perturbation theory up to $\\mathcal{O}(p^3)$. We estimate the low-energy constants using the non-relativistic constituent quark model. A striking prediction of our study is the giant electric polarizabilities of the $D^*$ mesons: $\\alpha_E(\\bar{D}^{*0}) \\approx 291.4 \\times 10^{-4} \\text{fm}^3$ and $\\alpha_E(D^{*-}) \\approx -0.4-64.4 i \\times 10^{-4} \\text{fm}^3$. These anomalously large values arise from the near-degenerate mass between $D^*$ and $D \\pi$, which are orders of magnitude larger than those of their bottom counterparts. This kinematic coincidence induces a pronounced cusp structure in the chiral loops, reflecting the long-range dynamics of a pion cloud. For doubly heavy baryons, polarizabilities depend strongly on heavy-flavor composition: the $bcq$ system differs markedly from $ccq$ and $bbq$ due to mixing with scalar heavy-diquark states. Using heavy diquark-antiquark symmetry (HDAS), we unify the chiral dynamics of singly heavy mesons and doubly heavy baryons in the heavy-quark limit. The pion-loop contributions dominate the electromagnetic structure of heavy hadrons and provide essential benchmarks for future lattice QCD simulations."
     },
     {
-      "title": "Quasi-elastic scattering for the nuclear ground state structure: An intriguing case of $^{30}$Si",
-      "link": "https://arxiv.org/abs/2602.06580",
-      "authors": "Y. K. Gupta, B. Maheshwari, G. K. Prajapati, A. K. Jain, K. Hagino, B. N. Joshi, A. Pal, N. Sirswal, Pawan Singh, S. Dubey, V. V. Desai, V. Ranga, V. B. Katariya, D. Patel, H. Vyas, S. Panwar, B. V. John, I. Mazumdar, B. K. Nayak, U. Garg",
+      "title": "Asymptotic Freedom and Vacuum Polarization Determine the Astrophysical End State of Relativistic Gravitational Collapse: Quark--Gluon Plasma Star Instead of Black Hole",
+      "link": "https://arxiv.org/abs/2602.07004",
+      "authors": "Herman J. Mosquera Cuesta, Fabi\\'an H. Zuluaga Giraldo, Wilmer D. Alfonso Pardo, Edgardo Marbello Santrich, Guillermo U. Avenda\\~no Franco, Rafael Fragozo Larrazabal",
       "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2602.06580v1 Announce Type: cross \nAbstract: Quasi-elastic (QEL) scattering measurements have been performed using the $^{28, 30}$Si projectiles off the $^{90}$Zr target at energies around the Coulomb barrier. Coupled-channels (CC) calculations were carried out in a large parameter space of quadrupole and hexadecapole deformations for the N=Z, $^{28}$Si and N=Z+2, $^{30}$Si nuclei. $^{28}$Si at the N=Z line is observed to be uniquely oblate shaped in its ground state. In contrast, for $^{30}$Si with just two additional neutrons -- oblate, prolate, and spherical CC descriptions are equally compatible with the measurements. To further investigate the nuclear structure evolution with varying neutron number, shell-model calculations were performed. These calculations reveal a sudden change in the nuclear structure aspects at $^{30}$Si in going from $^{28}$Si to $^{30}$Si. Combined reaction and structure analyses consistently indicate that $^{30}$Si does not possess a well-defined intrinsic shape, and it is a potential candidate for ``shape fluctuations\" in its ground state."
+      "summary": "arXiv:2602.07004v1 Announce Type: cross \nAbstract: A general relativistic model of an astrophysical hypermassive extremely magnetized ultra-compact self-bound quark--gluon plasma object that is supported against its ultimate gravitational implosion by the simultaneous action of the vacuum polarization driven by nonlinear electrodynamics (NLED: light-by-light scattering) and the quantum chromodynamics (QCD) asymptotic freedom, is presented. These QCD stars can be the final figures of the equilibrium of collapsing stellar cores. Post-supernova fallback material pushes the nascent remnant beyond its stability to collapse into a hybrid hypermassive neutron star (HHMNS). Hypercritical accretion can unbind the whole HHMNS's baryons to spontaneously break away color confinement, powering a first-order hadron-to-quark phase transition to a sea of ever-freer quarks and gluons. This core is hydro-stabilized by the steady, endlessly compression-admitting asymptotic freedom state, possibly via gluon-mediated enduring exchange of color charge among bound states. The nonlinear TOV equation indicates the occurrence of hypermassive QGP/QCD stars with a wide mass spectrum ($0\\lesssim$ M$^{\\rm{QGP}}_{\\rm{Star}}\\lesssim$\\,7\\,M$_\\odot$ and beyond), for star radii ($0\\lesssim R^{\\rm{QGP}}_{\\rm{Star}}\\lesssim 24$\\,km and beyond) with B-fields ($10^{14} \\leq$ B$^{\\rm{QGP}}_{\\rm{Star}} \\leq 10^{16}$\\,G and beyond). Such QCD stars can emulate what the true black holes are supposed to gravitationally do in most astrophysical settings. This color quark star could be found through a search for its eternal ``yo-yo'' state gravitational-wave emission, or via lensing phenomena like gravitational rainbows, as in this scenario it is expected that the light deflection angle, directly influenced by the larger effective mass/radius and magnetic field of the deflecting object, increases as the incidence angle decreases for impact parameter lower values."
     },
     {
-      "title": "Physics of strong electromagnetic fields in relativistic heavy-ion collisions",
-      "link": "https://arxiv.org/abs/2602.06697",
-      "authors": "Koichi Hattori",
+      "title": "Observation of a broad $p$-wave resonant state in $^{9}$He",
+      "link": "https://arxiv.org/abs/2602.07810",
+      "authors": "Y. L. Sun, A. Corsi, Y. Kubota, G. Authelet, H. Baba, C. Caesar, D. Calvet, A. Delbart, M. Dozono, J. Feng, F. Flavigny, J. -M. Gheller, J. Gibelin, A. Giganon, A. Gillibert, S. Giraud, K. Hasegawa, T. Isobe, Y. Kanaya, S. Kawakami, D. Kim, Y. Kiyokawa, M. Kobayashi, N. Kobayashi, T. Kobayashi, Y. Kondo, Z. Korkulu, S. Koyama, V. Lapoux, Y. Maeda, F. M. Marques, T. Miyazaki, T. Motobayashi, T. Nakamura, N. Nakatsuka, Y. Nishio, A. Obertelli, A. Ohkura, N. A. Orr, S. Ota, H. Otsu, T. Ozaki, V. Panin, S. Paschalis, E. C. Pollacco, S. Reichert, J. -Y. Rousse, A. T. Saito, S. Sakaguchi, M. Sako, C. Santamaria, M. Sasano, H. Sato, M. Shikata, Y. Shimizu, Y. Shindo, L. Stuhl, T. Sumikama, M. Tabata, Y. Togano, J. Tsubota, Z. H. Yang, J. Yasuda, K. Yoneda, J. Zenihiro, T. Uesaka",
       "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2602.06697v1 Announce Type: cross \nAbstract: I discuss several roles of the strong electromagnetic fields created by relativistic heavy-ion collisions. These phenomena call for theoretical and experimental developments to understand dynamics of quark-gluon plasma (QGP) as well as purely electromagnetic processes in the ultraperipheral collisions."
+      "summary": "arXiv:2602.07810v1 Announce Type: cross \nAbstract: We report on the two-body invariant-mass spectroscopy of $^{9}$He, populated via the 1$p$1$n$ knockout reaction from the two-neutron halo nucleus $^{11}$Li at $\\sim$250 MeV/nucleon. A broad $p$-wave resonant state of $^{9}$He was observed at 1.28(1) MeV with a width of 0.82(4) MeV."
     },
     {
-      "title": "Proton-Size Resolution of the Hyperfine Puzzle in Hydrogen",
-      "link": "https://arxiv.org/abs/2602.06929",
-      "authors": "Gerald A. Miller",
+      "title": "Shear viscosity of a massless quark-gluon gas in chemical equilibrium including all $2\\leftrightarrow 2$ cross sections",
+      "link": "https://arxiv.org/abs/2602.08155",
+      "authors": "Okey Ohanaka, Zi-Wei Lin",
       "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2602.06929v1 Announce Type: cross \nAbstract: Baym and Farrar (arXiv:2601.02300v1) have recently pointed out a puzzle in understanding the role of the hyperfine interaction in the ground state of a hydrogen atom. If one uses a variational wave function in which the Bohr radius, $a_0$ is replaced by a variational radius parameter, $R$, first-order perturbation theory can give a contribution to the energy proportional to $-1/R^3$. This raises the question of why the hyperfine interaction does not lead to collapse of hydrogen. I show that including the effects of the non-zero size of the proton leads to a resolution of the puzzle such that the variational procedure yields a value of $R$ that is indistinguishable from $a_0$."
+      "summary": "arXiv:2602.08155v1 Announce Type: cross \nAbstract: The analytical expressions of the shear viscosity of both one and two particle species with Boltzmann statistics and $2 \\rightarrow 2$ elastic scatterings are known from the Chapman-Enskog method and have been shown to be quite accurate. The expression for a multi-species hadronic gas under $2 \\rightarrow 2$ elastic scatterings is also known. Here we use the Chapman-Enskog method to derive the shear viscosity of a massless quark-gluon gas of $N_f$ quark flavors in chemical equilibrium subjected to all $2 \\rightarrow 2$ parton scatterings including for the first time inelastic scatterings. We then verify the relation in a general single-species limit, where the shear viscosity of the quark-gluon gas should reduce to the result for a single particle species. In addition, we show the explicit analytical result in terms of the seven independent cross sections for the special case of isotropic and energy-independent cross sections. The analytical relations derived here can be useful for determining the shear viscosity of parton transport models with any $2 \\rightarrow 2$ scattering cross sections. They can also be coupled with finite temperature QCD cross sections to help study the shear viscosity of the quark gluon plasma."
     },
     {
-      "title": "Investigating the role of nuclear parameters in Neutron Star oscillations: a model comparison",
-      "link": "https://arxiv.org/abs/2412.04373",
-      "authors": "Rajesh Maiti, Debarati Chatterjee",
+      "title": "Search for the QCD Critical Point in High Energy Nuclear Collisions: A Status Report",
+      "link": "https://arxiv.org/abs/2602.08356",
+      "authors": "Yu Zhang, Zhaohui Wang, Xiaofeng Luo, Nu Xu",
       "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2412.04373v3 Announce Type: replace-cross \nAbstract: Recent studies based on the relativistic mean field (RMF) model found certain nuclear empirical parameters, in particular the nucleon effective mass, to be strongly correlated with observable properties of Neutron Stars (NSs), such as the frequencies of $f-$mode oscillations. This shows the potential to constrain the values of effective mass from future observations of $f-$modes. One of our primary goals of this work is to investigate whether such correlations are physical or an artifact of the underlying nuclear model. To test this, we perform a comparative study of the correlations between NS astrophysical observables and nuclear physics parameters using two different equation of state models based on RMF theory and non-relativistic Meta-Modelling (MM) scheme. The nuclear meta-model does not assume any underlying nuclear model and therefore allows us to test the model dependence of the results. The calculations of the $f-$mode characteristics are performed within the relativistic Cowling approximation. We use state-of-the-art nuclear microscopic calculations at low density and multi-messenger astrophysical data at high-density within a Bayesian-inspired scheme to constrain the parameter space of the nuclear models. From the posterior distribution, we probe the underlying correlations among nuclear parameters and with NS observables. We find that the correlation between the symmetry energy and its slope is physical, while that of the nucleon effective mass with NS observables is model-dependent. The study shows that the effective mass governs the high density behaviour in RMF models, while in the MM it is controlled by the higher order saturation parameters, and hence probes the possibility of constraining them from future $f$-mode observations. The findings of this investigation are interesting both for astrophysics as well as nuclear physics communities."
+      "summary": "arXiv:2602.08356v1 Announce Type: cross \nAbstract: We review recent results of net-proton multiplicity fluctuations from STAR experiment, aiming to locate the QCD critical point in high-energy nuclear collisions at RHIC. We show net-proton number cumulant and proton number factorial cumulant ratios up to fourth order using experimental data from RHIC BES-II Au+Au collisions in collider mode and fixed-target mode. The comparison is made between experimental data and non-critical model calculations from Lattice QCD, HRG, hydrodynamic simulations and transport model UrQMD. In addition, we discuss initial volume fluctuation effect, which plays significant role in fixed-target energies. Finally, an outlook on experimental research on the QCD critical point in future experiments will be presented."
     },
     {
-      "title": "Constraining ultra-light fermionic dark matter with Milky Way observations",
-      "link": "https://iopscience.iop.org/article/10.1088/1361-6471/ae269c",
-      "authors": "J Barranco, Argelia Bernal and D Delepine",
-      "source": "Journal of Physics G: Nuclear and Particle Physics",
-      "summary": "The equation of state for a degenerate gas of fermions at zero temperature in the non-relativistic case is a polytrope, i.e. . If dark matter is modeled by such a non-interacting fermion, this dependence on the mass of the fermion mF explains why, if dark matter is very heavy, the effective pressure of dark matter is negligible. Nevertheless, if the mass of the dark matter is very low, the effective pressure can be very large, and thus a system of self-gravitating fermions can be formed. In this work we model the dark matter halo of the Milky Way by solving the Tolman–Oppenheimer–Volkoff equations, with the equation of state for a partially degenerate ultralight non-interacting fermion. We found that to fit the rotational velocity curve of the Milky Way, the mass of the fermion should be in the range 31.5 eV < mF < 35 eV at a 90% confidence level. Moreover, the central density is restricted to be in the range of 1.2 < ρ0 < 1.7 GeV cm–3 at a 90% confidence level. The fermionic dark matter halo has a very different profile from the standard Navarro–Frenk–White profile, thus the possible indirect signals for annihilating dark matter may change by orders of magnitude. We found bounds for the annihilation cross section in this case by using the Saggitarius A* spectral energy distribution."
+      "title": "Quantum-classical framework for many-fermion response and structure",
+      "link": "https://arxiv.org/abs/2602.08357",
+      "authors": "Weijie Du, Yangguang Yang, Zixin Liu, Chao Yang, James P. Vary",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2602.08357v1 Announce Type: cross \nAbstract: Response functions are key observables for probing the structure and dynamics of many-body systems. We introduce and demonstrate a quantum-classical framework for computing response functions of general many-fermion systems that also provides the full bound-state spectrum. The framework employs the Lorentz integral transform and a new Hamiltonian input scheme that enables practical and scalable circuit constructions for general many-fermion Hamiltonians. Within this framework, we develop a hybrid strategy to evaluate the Lorentz integral and propose three protocols to extract response functions and bound-state structural information. As a demonstration, we apply the method to \\({}^{19}\\mathrm{O}\\) with realistic internucleon interactions, computing both the bound-state spectrum and the response function. We envision that our approach will open new avenues for exploring the structure and dynamics of a broad class of many-body systems across diverse fields."
     },
     {
-      "title": "On the definition of the nucleon axial charge density",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326001176?dgcid=rss_sd_all",
+      "title": "Neutrinoless double beta decays of hyperons in covariant chiral perturbation theory",
+      "link": "https://arxiv.org/abs/2602.08453",
+      "authors": "Zi-Ying Zhao, Ze-Rui Liang, Feng-Kun Guo, Li-Ping He, De-Liang Yao",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2602.08453v1 Announce Type: cross \nAbstract: Neutrinoless double beta ($0\\nu\\beta\\beta$) decays of spin-1/2 hyperons are investigated in a covariant baryon chiral perturbation theory framework, extended by a $\\Delta L=2$ operator proportional to the Majorana neutrino mass, where $L$ denotes the lepton number. Within the light Majorana neutrino exchange mechanism, the decay amplitudes are found to emerge at the one-loop level, representing the long-range contribution. The extended-on-mass-shell scheme is employed to renormalize the one-loop amplitudes and restore consistent chiral power counting. Consequently, the differential decay rates for all accessible hyperon $0\\nu\\beta\\beta$ channels are predicted and the corresponding branching ratios are more than 20 orders of magnitude smaller than the current experimental upper bounds. Interestingly, it is found that the leading contribution to hyperon $0\\nu\\beta\\beta$ decay is actually from short-range counterterm operators, as required by the renormalization argument. Neutrinoless transition form factors are proposed to determine this leading contribution through future lattice QCD simulations."
+    },
+    {
+      "title": "First Extraction of the Matter Radius of $^{132}$Sn via Proton Elastic Scattering at 200 MeV/Nucleon",
+      "link": "https://arxiv.org/abs/2602.08455",
+      "authors": "Y. Hijikata, J. Zenihiro, S. Terashima, Y. Matsuda, H. Sakaguchi, P. Arthuis, T. Miyagi, S. Ota, H. Baba, S. Chebotaryov, M. Dozono, T. Furuno, T. Harada, C. Iwamoto, T. Kawabata, M. Kobayashi, A. J. Krasznahorkay, S. Leblond, T. Lokotko, Y. Maeda, S. Masuoka, M. Matsushita, S. Michimasa, E. Milman, T. Murakami, H. Nasu, J. Okamoto, S. Sakaguchi, M. Takaki, K. Taniue, H. Tokieda, M. Tsumura, O. Wieland, Y. Yamaguchi, Z. H. Yang, R. Yokoyama, T. Uesaka",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2602.08455v1 Announce Type: cross \nAbstract: The angular distribution of the differential cross sections for proton elastic scattering from $^{132}$Sn at 196-210 MeV/nucleon was successfully measured over a momentum transfer range of 0.80 to 2.1 fm$^{-1}$. Using a relativistic impulse approximation, the root-mean-square matter radius of $^{132}$Sn was extracted to be $4.758^{+0.023}_{-0.024}$ fm, which was compared with the state-of-the-art ab initio calculations. Combined with the charge radius measured at ISOLDE, there are no theoretical calculations consistent with both matter and charge radii within the experimental errors."
+    },
+    {
+      "title": "Non-Hermitian Renormalization Group from a Few-Body Perspective",
+      "link": "https://arxiv.org/abs/2602.08705",
+      "authors": "Hiroyuki Tajima, Masaya Nakagawa, Haozhao Liang, Masahito Ueda",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2602.08705v1 Announce Type: cross \nAbstract: Non-Hermiticity plays a fundamental role in open quantum systems and describes a wide variety of effects of interactions with environments, including quantum measurement. However, understanding its consequences in strongly interacting systems is still elusive due to the interplay between non-perturbative strong correlations and non-Hermiticity. While the Wilsonian renormalization group (RG) method has been applied to tackle this problem, its foundation, based on the existence of the partition function, is ill-defined. In this paper, we establish a microscopic foundation of the non-Hermitian RG method from a few-body perspective. We show that the invariance of the scattering amplitude under RG transformations enables us to rigorously derive the non-Hermitian RG equation, giving a physically transparent interpretation of RG flows. We discuss a detailed structure of such RG flows in a non-relativistic two-body system with inelastic two-body loss, and show its relation to a non-Hermitian quantum scale anomaly. Our analysis suggests that non-Hermitian complex potentials often used in high-energy physics can be interpreted as being caused by quantum measurement, where the detection of elastically scattered particles updates the observer's knowledge, resulting in a nonunitary state change of the system. We apply our formalism to nuclear physics, find the emergence of a critical semicircle, and show that several nuclei are located near the critical semicircle in the coherent neutron-nucleus scattering. We also propose that the localized dineutron in two-neutron halo nuclei can be interpreted as the quantum measurement effect on the imaginary potential associated with absorption into the core nucleus. Our result bridges different contexts of non-Hermitian systems in high-energy and atomic, molecular, and optical physics, opening an interdisciplinary playground of non-Hermitian few-body physics."
+    },
+    {
+      "title": "NuLattice: Ab initio computations of atomic nuclei on lattices",
+      "link": "https://epja.epj.org/10.1140/epja/s10050-025-01764-6",
+      "authors": "M. Rothman, B. Johnson-Toth, G. Hagen, M. Heinz, T. Papenbrock",
+      "source": "European Physical Journal A",
+      "summary": "Authors: M. Rothman, B. Johnson-Toth, G. Hagen, M. Heinz and T. Papenbrock.The European Physical Journal A Vol. 62 , page 28Published online: 6/2/2026"
+    },
+    {
+      "title": "Chaotic Dynamics in Extremal Black Holes: A Challenge to the Chaos Bound",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326001103?dgcid=rss_sd_all",
       "authors": "Unknown",
       "source": "Physics Letters B",
-      "summary": "Publication date: Available online 9 February 2026Source: Physics Letters BAuthor(s): J. Yu. Panteleeva, E. Epelbaum, J. Gegelia, U.-G Meißner"
+      "summary": "Publication date: Available online 9 February 2026Source: Physics Letters BAuthor(s): Surojit Dalui, Chiranjeeb Singha, Krishnakanta Bhattacharya"
     },
     {
-      "title": "The (higher) Hamiltonians of (generalized) trigonometric and rational Calogero-Sutherland models by MO <em>R</em>-matrix",
-      "link": "https://www.sciencedirect.com/science/article/pii/S037026932600119X?dgcid=rss_sd_all",
+      "title": "Algebra of operators for Q-Schur polynomials",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326001139?dgcid=rss_sd_all",
       "authors": "Unknown",
       "source": "Physics Letters B",
-      "summary": "Publication date: Available online 9 February 2026Source: Physics Letters BAuthor(s): Yue Li, Fan Liu, Rui Wang, Jie Yang"
+      "summary": "Publication date: Available online 9 February 2026Source: Physics Letters BAuthor(s): Nikita Tselousov"
+    },
+    {
+      "title": "Measurement of the p–<math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si1.svg\" class=\"math\"><msup><mstyle mathvariant=\"normal\"><mi>Σ</mi></mstyle><mo>+</mo></msup></math> correlation function in pp collisions at <math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si27.svg\" class=\"math\"><mrow><msqrt><mi mathvariant=\"italic\">s</mi></msqrt><mo linebreak=\"goodbreak\">=</mo><mn>13</mn></mrow></math> TeV",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326001061?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: Available online 9 February 2026Source: Physics Letters BAuthor(s): I.J. Abualrob, S. Acharya, G. Aglieri Rinella, L. Aglietta, M. Agnello, N. Agrawal, Z. Ahammed, S. Ahmad, I. Ahuja, ZUL. Akbar, A. Akindinov, V. Akishina, M. Al-Turany, D. Aleksandrov, B. Alessandro, R. Alfaro Molina, B. Ali, A. Alici, A. Alkin, J. Alme"
+    },
+    {
+      "title": "Multiplicity dependence of K<strong>*(892)<sup> ± </sup></strong> production in pp collisions at <math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si4.svg\" class=\"math\"><mrow><msqrt><mi mathvariant=\"bold\">s</mi></msqrt><mspace width=\"0.33em\"></mspace><mo linebreak=\"goodbreak\">=</mo><mspace width=\"0.33em\"></mspace><mn mathvariant=\"bold\">13</mn></mrow></math> TeV",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326001073?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: Available online 9 February 2026Source: Physics Letters BAuthor(s): I.J. Abualrob, S. Acharya, G. Aglieri Rinella, L. Aglietta, M. Agnello, N. Agrawal, Z. Ahammed, S. Ahmad, I. Ahuja, Zul Akbar, A. Akindinov, V. Akishina, M. Al-Turany, D. Aleksandrov, B. Alessandro, H.M. Alfanda, R. Alfaro Molina, B. Ali, A. Alici, A. Alkin"
+    },
+    {
+      "title": "Flavour from Fractal Mass Chains",
+      "link": "https://www.sciencedirect.com/science/article/pii/S037026932600122X?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: Available online 9 February 2026Source: Physics Letters BAuthor(s): Alejandro Ibarra, Aadarsh Singh, Sudhir K Vempati"
+    },
+    {
+      "title": "On BPS Equations of Generalized <em>SU</em>(2) Yang-Mills-Higgs Model with Scalars-Dependent Coupling <em>θ</em>-term",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326001218?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: Available online 9 February 2026Source: Physics Letters BAuthor(s): Mulyanto Mulyanto, Emir Syahreza Fadhilla, Ardian Nata Atmaja"
     }
   ]
 }
