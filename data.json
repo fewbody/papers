@@ -1,110 +1,75 @@
 {
-  "lastUpdated": "2026-02-21T03:16:54.307304",
+  "lastUpdated": "2026-02-22T03:32:11.385366",
   "papers": [
     {
-      "title": "Exploring bubble structure and shell evolution at magic nuclei via the relativistic point-coupling model with similarity renormalization group",
-      "link": "http://link.aps.org/doi/10.1103/6rwh-52y2",
-      "authors": "Xin-Xing Shi, Quan Liu, and Shou-Wan Chen",
+      "title": "Microscopic study of the low-energy enhancement in the $γ$-decay strength of $^{50}\\mathrm{V}$",
+      "link": "http://link.aps.org/doi/10.1103/csx6-6g5k",
+      "authors": "J. K. Dahl, A. C. Larsen, N. Shimizu, and Y. Utsuno",
       "source": "Physical Review C",
-      "summary": "Author(s): Xin-Xing Shi, Quan Liu, and Shou-Wan ChenWithin the relativistic point-coupling model in conjunction with the similarity renormalization group (SRG), we systematically investigate the correlations between relativistic symmetry and subshell evolution in nuclear systems. Guided by the concepts of pseudospin symmetry (PSS) and spin symmetry (…[Phys. Rev. C 113, 024326] Published Thu Feb 19, 2026"
+      "summary": "Author(s): J. K. Dahl, A. C. Larsen, N. Shimizu, and Y. UtsunoWe address the microscopic origin of the low-energy enhancement (LEE) in $^{50}\\mathrm{V}$ with large-scale shell-model calculations to obtain $E1$ and $M1$ transitions within the same theoretical framework. The valence space spans the three major shells $sd, pf$, and $sdg$ and is treated with the S…[Phys. Rev. C 113, 024328] Published Fri Feb 20, 2026"
     },
     {
-      "title": "Error analysis of the finite-range liquid-drop model",
-      "link": "http://link.aps.org/doi/10.1103/mc8q-59nn",
-      "authors": "C. Azam, D. Blondeau-Patissier, P. Tamagno, M. Frosini, and A. Pastore",
+      "title": "Deep learning for nuclear masses in deformed relativistic Hartree-Bogoliubov theory in continuum",
+      "link": "http://link.aps.org/doi/10.1103/8l6g-bgkw",
+      "authors": "Soonchul Choi, Kyungil Kim, Zhenyu He, Yongbeom Choi, Youngman Kim, and Toshitaka Kajino",
       "source": "Physical Review C",
-      "summary": "Author(s): C. Azam, D. Blondeau-Patissier, P. Tamagno, M. Frosini, and A. PastoreMacroscopic-microscopic models are a popular family of models used to accurately calculate various observables, such as masses or fission yields. In this article, we reexamine the well-known finite-range liquid-drop model using a new shape parametrization based on Fourier series. We present a new fi…[Phys. Rev. C 113, 024327] Published Thu Feb 19, 2026"
+      "summary": "Author(s): Soonchul Choi, Kyungil Kim, Zhenyu He, Yongbeom Choi, Youngman Kim, and Toshitaka KajinoMost nuclei are deformed, and these deformations play an important role in various nuclear and astrophysical phenomena. Microscopic nuclear-mass models have been developed based on covariant density-functional theory to explore exotic nuclear properties. Among these, we adopt mass models based on th…[Phys. Rev. C 113, 024329] Published Fri Feb 20, 2026"
     },
     {
-      "title": "Classification of the flavor dependence of the chiral magnetic effect with a deep neural network using multiple correlators",
-      "link": "http://link.aps.org/doi/10.1103/j7jm-wkcc",
-      "authors": "Somdeep Dey, Abhisek Saha, and Soma Sanyal",
+      "title": "Fission decay of $^{132}\\mathrm{Ce}$ with an improved stationary approach",
+      "link": "http://link.aps.org/doi/10.1103/b2bx-dn5y",
+      "authors": "P. A. Setaro, N. Carjan, A. Di Nitto, G. La Rana, E. Vardaci, and T. Banerjee",
       "source": "Physical Review C",
-      "summary": "Author(s): Somdeep Dey, Abhisek Saha, and Soma SanyalWe study the flavor dependence of the chiral magnetic effect by analyzing two key charge-separation correlators used to characterize the charge separation effect: the conventional $γ$ correlator and the recently proposed ${R}_{{ψ}_{2}}$. Using A Multi-Phase Transport model with an initial-state cent…[Phys. Rev. C 113, 024913] Published Thu Feb 19, 2026"
+      "summary": "Author(s): P. A. Setaro, N. Carjan, A. Di Nitto, G. La Rana, E. Vardaci, and T. BanerjeeFission fragment mass and total kinetic energy (TKE) distributions reported in [E. Vardaci  et al., Phys. Rev. C 92, 034610 (2015)] for the reaction $^{32}\\mathrm{S}{+}^{100}\\mathrm{Mo}$ leading to $^{132}\\mathrm{Ce}$ compound nucleus at the excitation energy ${E}_{x}=122\\phantom{\\rule{0.222222em}{0…[Phys. Rev. C 113, 024613] Published Fri Feb 20, 2026"
     },
     {
-      "title": "$J/ψ$ production in proton-proton collisions at Spin Physics Detector energies of the JINR Nuclotron-based Ion Collider fAcility",
-      "link": "http://link.aps.org/doi/10.1103/xj4d-yqn7",
-      "authors": "Shubham Sharma and Alexey Aparin",
+      "title": "Direct boundary matching : A bound-state technique for nuclear scattering with Lagrange-Legendre functions",
+      "link": "http://link.aps.org/doi/10.1103/ddcx-cslb",
+      "authors": "Jin Lei",
       "source": "Physical Review C",
-      "summary": "Author(s): Shubham Sharma and Alexey AparinWe investigate inclusive $J/ψ$ production in proton-proton collisions at tens of GeV $\\sqrt{s}$ energy, relevant for forthcoming measurements with the Spin Physics Detector (SPD) at NICA. Simulations are performed using the PEGASUS event generator with transverse-momentum-dependent (TMD) gluon densi…[Phys. Rev. C 113, L022201] Published Thu Feb 19, 2026"
+      "summary": "Author(s): Jin LeiI present a direct boundary matching method (DBMM) for solving nuclear scattering problems using Lagrange-Legendre basis functions. This approach belongs to the family of bound-state techniques for the continuum, reformulating scattering problems into a localized, square-integrable (${L}^{2}$) repre…[Phys. Rev. C 113, 024614] Published Fri Feb 20, 2026"
     },
     {
-      "title": "From $\\chi$EFT to Multi-Region Modeling: Neutron star structure with a polytropic extension of $\\chi$EFT and MUSES Calculation Engine multi-layer modeling",
-      "link": "https://arxiv.org/abs/2602.16786",
-      "authors": "Federico Nola",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2602.16786v1 Announce Type: new \nAbstract: Neutron stars provide a unique environment to probe the properties of dense nuclear matter. In this work, we present a comparative study between two approaches to modeling the neutron star structure: a Chiral Effective Field Theory based approach and the MUSES Calculation Engine framework, which uses three different approaches for the three density regions. We analyze the resulting mass-radius relations, discussing the respective advantages and limitations of the two methods."
+      "title": "Quark-meson coupling model in heavy-ion collision simulations",
+      "link": "http://link.aps.org/doi/10.1103/fqkq-hs7h",
+      "authors": "Dae Ik Kim, Chang-Hwan Lee, Kyungil Kim, Youngman Kim, Sangyong Jeon, and Kazuo Tsushima",
+      "source": "Physical Review C",
+      "summary": "Author(s): Dae Ik Kim, Chang-Hwan Lee, Kyungil Kim, Youngman Kim, Sangyong Jeon, and Kazuo TsushimaThe quark-meson coupling (QMC) model incorporates quark degrees of freedom into the relativistic mean-field (RMF) framework, distinguishing it from traditional quantum hadrodynamics (QHD), which treats nucleons as pointlike particles. In this work, we implement the QMC model within the DaeJeon Boltz…[Phys. Rev. C 113, 024615] Published Fri Feb 20, 2026"
     },
     {
-      "title": "Spectra and elliptic flow of light hadrons in an expanding fire-cylinder model for the RHIC Beam Energy Scan",
-      "link": "https://arxiv.org/abs/2602.17241",
-      "authors": "Anand Rai, Ashutosh Dwibedi, Sabyasachi Ghosh",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2602.17241v1 Announce Type: new \nAbstract: We investigate the transverse momentum spectra ($p_T$) and elliptic flow ($v_2$) of $\\pi^{\\pm}$, $K^{\\pm}$, $p$, and $\\bar{p}$ produced in peripheral Au+Au collisions at $\\sqrt{s_{\\rm NN}} = 7.7$, 11.5, 19.6, 27, and 39 GeV in the Beam Energy Scan (BES) Program at the Relativistic Heavy Ion Collider (RHIC). The analysis is carried out within an expanding elliptic fire-cylinder model that incorporates longitudinal expansion and anisotropic transverse flow. Particle production at kinetic freeze-out is obtained using a local equilibrium distribution function with a blast-wave-like fluid velocity profile derived from the expansion dynamics of the elliptic fire-cylinder. The model parameters governing the collective expansion are first constrained by fitting the midrapidity $p_T$ spectra of $\\pi^{\\pm}$ and are then applied, without further adjustment, to $K^{\\pm}$, $p$, and $\\bar{p}$. The model provides a consistent description of the $p_T$ spectra and reproduces the qualitative behavior of the elliptic flow for all considered particle species."
+      "title": "Deep learning for jet modification in the presence of the quark gluon plasma background",
+      "link": "http://link.aps.org/doi/10.1103/469v-zbdd",
+      "authors": "Ran Li, Yi-Lun Du, and Shanshan Cao",
+      "source": "Physical Review C",
+      "summary": "Author(s): Ran Li, Yi-Lun Du, and Shanshan CaoJet interactions with the color-deconfined quantum chromodynamics medium in relativistic heavy-ion collisions are conventionally assessed by measuring the modification of the distributions of jet observables with respect to their baselines in proton-proton collisions. Deep learning methods enable pe…[Phys. Rev. C 113, 024912] Published Fri Feb 20, 2026"
     },
     {
-      "title": "Model bias and parameter optimisation with the example of INCL/ABLA",
-      "link": "https://arxiv.org/abs/2602.17446",
-      "authors": "Jason Hirtz, Jean-Christophe David, Ingo Leya, Jos\\'e Lu\\'is Rodr\\'iguez S\\'anchez, Georg Schnabel",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2602.17446v1 Announce Type: new \nAbstract: The accuracy and precision of high-energy spallation models play a crucial role in the design and development of new applications and experiments, as well as in data analysis. We discuss the complementarity between parameter optimisation and model bias estimation approaches within a Bayesian framework. This is illustrated using the IntraNuclear Cascade model of Li\\`ege (INCL) together with the Ablation model (ABLA), for which these two approaches for model bias estimation have been applied independently in previous works."
+      "title": "Predictions of baryon directed flow in heavy-ion collisions at high baryon density",
+      "link": "http://link.aps.org/doi/10.1103/328d-17zw",
+      "authors": "Yuri B. Ivanov",
+      "source": "Physical Review C",
+      "summary": "Author(s): Yuri B. IvanovPredictions of the proton-directed flow ${v}_{1}$ in semicentral $\\mathrm{Au}+\\mathrm{Au}$ collisions in the energy range between 4.5 and 7.7 GeV are done. The calculations are performed within the model of three-fluid dynamics with crossover equation of state, which well reproduces the proton ${v}_…[Phys. Rev. C 113, 024914] Published Fri Feb 20, 2026"
     },
     {
-      "title": "Evidence for Multimodal Superfluidity of Neutrons",
-      "link": "https://arxiv.org/abs/2602.17611",
-      "authors": "Yuan-Zhuo Ma, Georgios Palkanoglou, Joseph Carlson, Stefano Gandolfi, Alexandros Gezerlis, Gabriel Given, Ashe Hicks, Dean Lee, Kevin E. Schmidt, Jiabin Yu",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2602.17611v1 Announce Type: new \nAbstract: We present theoretical and experimental evidence for a new phase of matter in neutron-rich systems that we call multimodal superfluidity. Using ab initio lattice calculations, we show that the condensate consists of coexisting s-wave pairs, p-wave pairs in entangled double pair combinations, and quartets composed of bound states of two s-wave pairs. We identify multimodal superfluidity as a general feature of single-flavor spin-1/2 fermionic systems with attractive s-wave and p-wave interactions, provided the system is stable against collapse into a dense droplet. Beyond neutrons at sub-saturation densities, we demonstrate that this phase appears in generalized attractive extended Hubbard models in one, two, and three dimensions. We elucidate the mechanism for this coexistence using self-consistent few-body Cooper models and compare with Bardeen-Cooper-Schrieffer theory. We also derive the form of the effective action and show that spin, rotational, and parity symmetries remain unbroken. Finally, we analyze experimental data to show that p-wave pair gaps and quartet gaps are present in atomic nuclei, and we discuss the consequences of this new phase for the structure and dynamics of neutron star crusts."
+      "title": "Measurement of the $^{92}\\mathrm{Mo}(p,γ)^{93}\\mathrm{Tc}$ reaction cross section for the $γ$-process nucleosynthesis",
+      "link": "http://link.aps.org/doi/10.1103/9fpt-k9k6",
+      "authors": "A. Simon, R. Kelmar, J. P. McDonaugh, J. O'Reilly, A. C. Dombos, A. Gula, J. Koros, M. Matney, O. Olivas-Gomez, D. Robertson, and E. Stech",
+      "source": "Physical Review C",
+      "summary": "Author(s): A. Simon, R. Kelmar, J. P. McDonaugh, J. O'Reilly, A. C. Dombos, A. Gula, J. Koros, M. Matney, O. Olivas-Gomez, D. Robertson, and E. StechThe $^{92}\\mathrm{Mo}(p,γ)^{93}\\mathrm{Tc}$ cross section was measured at the University of Notre Dame Nuclear Science Laboratory in the energy range ${E}_{\\mathrm{eff}}=1.45–4.29$ MeV. Data were collected using the High EffiCiency TOtal absorption spectrometeR (HECTOR) and analyzed using the $γ$-su…[Phys. Rev. C 113, 025807] Published Fri Feb 20, 2026"
     },
     {
-      "title": "Quarkonium in non-zero isospin chemical potential environment at $T \\simeq 0$",
-      "link": "https://arxiv.org/abs/2602.17232",
-      "authors": "Seyong Kim, Bastian B. Brandt, Gergely Endr\\H{o}di",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2602.17232v1 Announce Type: cross \nAbstract: We study how the isospin asymmetry affects quarkonium states in QCD at near zero temperature. Using lattice Non-Relativistic QCD formalism, we calculate bottom quark correlators in the gauge field ensembles generated with $N_f = 2 + 1$ flavors of dynamical staggered quarks whose dynamics include the isospin chemical potential effect and then construct $S-$ and $P-$ wave quarkonium state correlators. From these quarkonium correlators, we consider the ratios of quarkonium correlators at non-zero isospin chemical potential to that at $\\mu_I a = 0.000$. Here, the gauge field ensemble with $\\mu_I a = 0.000, 0.048, 0.053, 0.059, 0.066, 0.080, 0.092$ and $0.106$ on a $32^3 \\times 48$ lattice with non-zero isospin current strength $\\lambda a = 0.0010, 0.0018,$ and $0.0036$, where $m_\\pi = 135$ MeV and $a = 0.1535$ fm from \\cite{Brandt:2022hwy}, are used. Preliminary results suggest that for $\\mu_I a = 0.106$, the Upsilon mass gets heavier than the Upsilon mass in the vacuum and that below $\\mu_I a = 0.106$ the isospin asymmetry effect on the Upsilon mass is not monotonic."
-    },
-    {
-      "title": "Hartree shift and pairing gap in ultracold Fermi gases in the framework of low-momentum interactions",
-      "link": "https://arxiv.org/abs/2602.17420",
-      "authors": "Michael Urban, S. Ramanan",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2602.17420v1 Announce Type: cross \nAbstract: In this paper we consider a two-component gas of fermions on the BCS side of the BCS-BEC crossover at zero temperature. We use a momentum dependent interaction that reproduces the s-wave scattering phase shifts of a contact interaction up to a momentum cutoff that is scaled with the Fermi momentum. Using a diagrammatic formulation of Bogoliubov many-body perturbation theory, suitably augmented by self-consistency conditions, we obtain the Hartree shift and the pairing gap to third order. In the weak-coupling regime, our results are not only well-converged but also agree with the well-established Gor'kov-Melik-Barkhudarov corrections for the gap and the Galitskii result for the Hartree shift. Near the unitary regime, our results for the Nambu-Gor'kov self-energy are less converged, but there is still reasonable agreement with experiments as well as with quantum Monte-Carlo results. Perspectives for improvements and applications of this approach to neutron matter are discussed."
-    },
-    {
-      "title": "Chiral symmetry restoration effects onto the meson spectrum from a Dyson-Schwinger/Bethe-Salpeter approach",
-      "link": "https://arxiv.org/abs/2602.17456",
-      "authors": "Reinhard Alkofer, Christian S. Fischer, Fabian Zierler",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2602.17456v1 Announce Type: cross \nAbstract: Light meson spectra are studied in a Dyson-Schwinger/Bethe-Salpeter approach to QCD. By varying the interaction strength of three sets of models for the quark-antiquark interaction, the transition from the chiral symmetric to the chirally broken regime in the vacuum is studied. The simplest type of these models leads to degenerate meson spectra for a large domain of the strength parameter. The more sophisticated and thus more realistic models show significantly smaller parameter domains for which degenerate meson spectra are obtained. The underlying mechanism for obtaining and then lifting degeneracies is traced back to the location of the quark propagators' poles, in particular, whether they are beyond or within the domain of integration in the Bethe-Salpeter equation. In view of this mechanism the potential relation of the obtained degeneracies to the dynamical emergence of symmetries is discussed, adding thereby another point of view on the conjectured chiral spin symmetry of QCD in the temperature domain right above the crossover."
-    },
-    {
-      "title": "Hyperon longitudinal polarization and vector meson spin alignment in a thermal model for heavy-ion collisions",
-      "link": "https://arxiv.org/abs/2602.17500",
-      "authors": "Soham Banerjee, Samapan Bhadury, Wojciech Florkowski, Amaresh Jaiswal, Radoslaw Ryblewski",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2602.17500v1 Announce Type: cross \nAbstract: The concept of a common local spin equilibrium for both spin-1/2 and spin-1 particles is incorporated into a thermal model of particle production in heavy-ion collisions at the top RHIC energies. We show that an effective spin polarization tensor leading to a correct description of the longitudinal spin polarization of $\\Lambda$ hyperons simultaneously yields a positive alignment of vector mesons ($\\phi$ and $K^{*0}$) that grows monotonically with transverse momentum and centrality. Similar trends can be seen in the data, suggesting a possible common mechanism for longitudinal spin polarization and alignment. However, model calculations are insufficient to explain the data in a fully quantitative way. The correlation found between the magnitude of the $\\Lambda$ longitudinal polarization and vector meson alignment suggests further more elaborate investigations of this issue."
-    },
-    {
-      "title": "Hybrid Star Properties with NJL and MFTQCD Model: A Bayesian Approach",
-      "link": "https://arxiv.org/abs/2406.15337",
-      "authors": "Milena Albino, Tuhin Malik, M\\'arcio Ferreira, Constan\\c{c}a Provid\\^encia",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2406.15337v2 Announce Type: replace \nAbstract: The composition of the core of neutron stars (NS) is still under debate. One possibility is that because of the high densities reached in their cores, matter could be deconfined into quark matter. We investigate the existence of hybrid stars, using microscopic models to describe different phases of matter. Within the adopted microscopic models we calculate properties of NS and properties of matter. We want to probe the pQCD calculations influence and analyze properties that identify a transition to deconfined matter. Bayesian approach is applied to generate 8 sets of equations of state (EOS). A Maxwell construction is adopted to describe the deconfinement transition. For the hadron phase, we consider a stiff and a soft EOS obtained from the Relativistic Mean Field model with nonlinear meson terms. For the quark phase, we use 2 different models: the Nambu-Jona-Lasinio model with multiquark interactions and the Mean Field Theory of QCD, a model similar to the vector MIT bag model. Bayesian inference was applied to determine the model parameters that satisfy the X-ray observations from NICER and have phase transition at densities between 0.15 - 0.40 fm$^{-3}$. We also applied restrictions from the pQCD calculations to half of the sets. Hybrid stars are compatible with current observational data. The pQCD restrictions reduce the value of the $M_{max}$. However, even applying this restriction, the models were able to reach values of $2.1 - 2.3 M_\\odot$. The conformal limit was still not attained at the center of the most massive stars. The vector interactions are essential to describe hybrid stars with a mass above $2 M_\\odot$. The multiquark interactions introduced may affect the limits of some quantities considered as indicators of the presence of a deconfined phase. It is possible to find a set of EOS, that predict that inside NS the renormalized matter trace anomaly is always positive."
-    },
-    {
-      "title": "Intermediate particle-core coupling in reflection asymmetric odd mass nuclei",
-      "link": "https://epja.epj.org/10.1140/epja/s10050-026-01801-y",
-      "authors": "R. Budaca",
-      "source": "European Physical Journal A",
-      "summary": "Authors: R. Budaca.The European Physical Journal A Vol. 62 , page 32Published online: 18/2/2026"
-    },
-    {
-      "title": "Pseudodifferential calculus in Schwinger–DeWitt formalism: UV and IR parts",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326001450?dgcid=rss_sd_all",
+      "title": "Mesons, baryons and the confinement/deconfinement transition",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326001425?dgcid=rss_sd_all",
       "authors": "Unknown",
       "source": "Physics Letters B",
-      "summary": "Publication date: Available online 20 February 2026Source: Physics Letters BAuthor(s): A.O. Barvinsky, A.E. Kalugin, W. Wachowski"
+      "summary": "Publication date: Available online 20 February 2026Source: Physics Letters BAuthor(s): V. Tomas Mari Surkau, Urko Reinosa"
+    },
+    {
+      "title": "Harvesting entanglement from the Lorentz-violating quantum field vacuum in a dipolar Bose-Einstein condensate",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326001541?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: Available online 20 February 2026Source: Physics Letters BAuthor(s): Zehua Tian, Weiping Yao, Xiaobao Liu, Mengjie Wang, Jieci Wang, Jiliang Jing"
     }
   ]
 }
