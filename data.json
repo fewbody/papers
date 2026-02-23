@@ -1,75 +1,26 @@
 {
-  "lastUpdated": "2026-02-22T03:32:11.385366",
+  "lastUpdated": "2026-02-23T03:35:39.513718",
   "papers": [
     {
-      "title": "Microscopic study of the low-energy enhancement in the $γ$-decay strength of $^{50}\\mathrm{V}$",
-      "link": "http://link.aps.org/doi/10.1103/csx6-6g5k",
-      "authors": "J. K. Dahl, A. C. Larsen, N. Shimizu, and Y. Utsuno",
-      "source": "Physical Review C",
-      "summary": "Author(s): J. K. Dahl, A. C. Larsen, N. Shimizu, and Y. UtsunoWe address the microscopic origin of the low-energy enhancement (LEE) in $^{50}\\mathrm{V}$ with large-scale shell-model calculations to obtain $E1$ and $M1$ transitions within the same theoretical framework. The valence space spans the three major shells $sd, pf$, and $sdg$ and is treated with the S…[Phys. Rev. C 113, 024328] Published Fri Feb 20, 2026"
-    },
-    {
-      "title": "Deep learning for nuclear masses in deformed relativistic Hartree-Bogoliubov theory in continuum",
-      "link": "http://link.aps.org/doi/10.1103/8l6g-bgkw",
-      "authors": "Soonchul Choi, Kyungil Kim, Zhenyu He, Yongbeom Choi, Youngman Kim, and Toshitaka Kajino",
-      "source": "Physical Review C",
-      "summary": "Author(s): Soonchul Choi, Kyungil Kim, Zhenyu He, Yongbeom Choi, Youngman Kim, and Toshitaka KajinoMost nuclei are deformed, and these deformations play an important role in various nuclear and astrophysical phenomena. Microscopic nuclear-mass models have been developed based on covariant density-functional theory to explore exotic nuclear properties. Among these, we adopt mass models based on th…[Phys. Rev. C 113, 024329] Published Fri Feb 20, 2026"
-    },
-    {
-      "title": "Fission decay of $^{132}\\mathrm{Ce}$ with an improved stationary approach",
-      "link": "http://link.aps.org/doi/10.1103/b2bx-dn5y",
-      "authors": "P. A. Setaro, N. Carjan, A. Di Nitto, G. La Rana, E. Vardaci, and T. Banerjee",
-      "source": "Physical Review C",
-      "summary": "Author(s): P. A. Setaro, N. Carjan, A. Di Nitto, G. La Rana, E. Vardaci, and T. BanerjeeFission fragment mass and total kinetic energy (TKE) distributions reported in [E. Vardaci  et al., Phys. Rev. C 92, 034610 (2015)] for the reaction $^{32}\\mathrm{S}{+}^{100}\\mathrm{Mo}$ leading to $^{132}\\mathrm{Ce}$ compound nucleus at the excitation energy ${E}_{x}=122\\phantom{\\rule{0.222222em}{0…[Phys. Rev. C 113, 024613] Published Fri Feb 20, 2026"
-    },
-    {
-      "title": "Direct boundary matching : A bound-state technique for nuclear scattering with Lagrange-Legendre functions",
-      "link": "http://link.aps.org/doi/10.1103/ddcx-cslb",
-      "authors": "Jin Lei",
-      "source": "Physical Review C",
-      "summary": "Author(s): Jin LeiI present a direct boundary matching method (DBMM) for solving nuclear scattering problems using Lagrange-Legendre basis functions. This approach belongs to the family of bound-state techniques for the continuum, reformulating scattering problems into a localized, square-integrable (${L}^{2}$) repre…[Phys. Rev. C 113, 024614] Published Fri Feb 20, 2026"
-    },
-    {
-      "title": "Quark-meson coupling model in heavy-ion collision simulations",
-      "link": "http://link.aps.org/doi/10.1103/fqkq-hs7h",
-      "authors": "Dae Ik Kim, Chang-Hwan Lee, Kyungil Kim, Youngman Kim, Sangyong Jeon, and Kazuo Tsushima",
-      "source": "Physical Review C",
-      "summary": "Author(s): Dae Ik Kim, Chang-Hwan Lee, Kyungil Kim, Youngman Kim, Sangyong Jeon, and Kazuo TsushimaThe quark-meson coupling (QMC) model incorporates quark degrees of freedom into the relativistic mean-field (RMF) framework, distinguishing it from traditional quantum hadrodynamics (QHD), which treats nucleons as pointlike particles. In this work, we implement the QMC model within the DaeJeon Boltz…[Phys. Rev. C 113, 024615] Published Fri Feb 20, 2026"
-    },
-    {
-      "title": "Deep learning for jet modification in the presence of the quark gluon plasma background",
-      "link": "http://link.aps.org/doi/10.1103/469v-zbdd",
-      "authors": "Ran Li, Yi-Lun Du, and Shanshan Cao",
-      "source": "Physical Review C",
-      "summary": "Author(s): Ran Li, Yi-Lun Du, and Shanshan CaoJet interactions with the color-deconfined quantum chromodynamics medium in relativistic heavy-ion collisions are conventionally assessed by measuring the modification of the distributions of jet observables with respect to their baselines in proton-proton collisions. Deep learning methods enable pe…[Phys. Rev. C 113, 024912] Published Fri Feb 20, 2026"
-    },
-    {
-      "title": "Predictions of baryon directed flow in heavy-ion collisions at high baryon density",
-      "link": "http://link.aps.org/doi/10.1103/328d-17zw",
-      "authors": "Yuri B. Ivanov",
-      "source": "Physical Review C",
-      "summary": "Author(s): Yuri B. IvanovPredictions of the proton-directed flow ${v}_{1}$ in semicentral $\\mathrm{Au}+\\mathrm{Au}$ collisions in the energy range between 4.5 and 7.7 GeV are done. The calculations are performed within the model of three-fluid dynamics with crossover equation of state, which well reproduces the proton ${v}_…[Phys. Rev. C 113, 024914] Published Fri Feb 20, 2026"
-    },
-    {
-      "title": "Measurement of the $^{92}\\mathrm{Mo}(p,γ)^{93}\\mathrm{Tc}$ reaction cross section for the $γ$-process nucleosynthesis",
-      "link": "http://link.aps.org/doi/10.1103/9fpt-k9k6",
-      "authors": "A. Simon, R. Kelmar, J. P. McDonaugh, J. O'Reilly, A. C. Dombos, A. Gula, J. Koros, M. Matney, O. Olivas-Gomez, D. Robertson, and E. Stech",
-      "source": "Physical Review C",
-      "summary": "Author(s): A. Simon, R. Kelmar, J. P. McDonaugh, J. O'Reilly, A. C. Dombos, A. Gula, J. Koros, M. Matney, O. Olivas-Gomez, D. Robertson, and E. StechThe $^{92}\\mathrm{Mo}(p,γ)^{93}\\mathrm{Tc}$ cross section was measured at the University of Notre Dame Nuclear Science Laboratory in the energy range ${E}_{\\mathrm{eff}}=1.45–4.29$ MeV. Data were collected using the High EffiCiency TOtal absorption spectrometeR (HECTOR) and analyzed using the $γ$-su…[Phys. Rev. C 113, 025807] Published Fri Feb 20, 2026"
-    },
-    {
-      "title": "Mesons, baryons and the confinement/deconfinement transition",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326001425?dgcid=rss_sd_all",
+      "title": "Observation of renormalization group invariance in symmetry-restored nuclear lattice effective field theory",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326001577?dgcid=rss_sd_all",
       "authors": "Unknown",
       "source": "Physics Letters B",
-      "summary": "Publication date: Available online 20 February 2026Source: Physics Letters BAuthor(s): V. Tomas Mari Surkau, Urko Reinosa"
+      "summary": "Publication date: Available online 21 February 2026Source: Physics Letters BAuthor(s): Jia-Ai Shi, Chen-Can Wang, Bing-Nan Lu"
     },
     {
-      "title": "Harvesting entanglement from the Lorentz-violating quantum field vacuum in a dipolar Bose-Einstein condensate",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326001541?dgcid=rss_sd_all",
+      "title": "Generalized relative locality and causal sets",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326001553?dgcid=rss_sd_all",
       "authors": "Unknown",
       "source": "Physics Letters B",
-      "summary": "Publication date: Available online 20 February 2026Source: Physics Letters BAuthor(s): Zehua Tian, Weiping Yao, Xiaobao Liu, Mengjie Wang, Jieci Wang, Jiliang Jing"
+      "summary": "Publication date: Available online 21 February 2026Source: Physics Letters BAuthor(s): Andrea Bevilacqua, Alice Boldrin"
+    },
+    {
+      "title": "Viability of <em>A</em><sub>4</sub>, <em>S</em><sub>4</sub> and <em>A</em><sub>5</sub> Flavour Symmetries in Light of the First JUNO Result",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326001498?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: Available online 21 February 2026Source: Physics Letters BAuthor(s): S.T. Petcov, A.V. Titov"
     }
   ]
 }
