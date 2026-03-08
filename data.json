@@ -1,180 +1,54 @@
 {
-  "lastUpdated": "2026-03-07T03:10:35.966175",
+  "lastUpdated": "2026-03-08T03:26:34.401581",
   "papers": [
     {
-      "title": "Learning informed prior distributions with normalizing flows for Bayesian analysis",
-      "link": "http://link.aps.org/doi/10.1103/wms4-m4cb",
-      "authors": "Hendrik Roch and Chun Shen",
-      "source": "Physical Review C",
-      "summary": "Author(s): Hendrik Roch and Chun ShenWe investigate the use of normalizing flow (NF) models as flexible priors in Bayesian inference via Markov chain Monte Carlo (MCMC) sampling for iterative Bayesian calibration. Trained on posteriors from previous analyses, these models can be used as informative priors that capture nontrivial distri…[Phys. Rev. C 113, 034903] Published Fri Mar 06, 2026"
-    },
-    {
-      "title": "Probing the three-dimensional emission source and neutron skin via $π\\text{−}π$ correlations in heavy-ion collisions",
-      "link": "http://link.aps.org/doi/10.1103/jdsn-p3v4",
-      "authors": "Haojie Zhang, Junhuai Xu, Pengcheng Li, Zhi Qin, Dawei Si, Yijie Wang, Yongjia Wang, Qingfeng Li, and Zhigang Xiao",
-      "source": "Physical Review C",
-      "summary": "Author(s): Haojie Zhang, Junhuai Xu, Pengcheng Li, Zhi Qin, Dawei Si, Yijie Wang, Yongjia Wang, Qingfeng Li, and Zhigang XiaoThe Richardson-Lucy algorithm is applied to reconstruct the three-dimensional source function of identical pions from their two-particle correlation functions. The algorithm's performance is first evaluated through simulations with Gaussian-type initial source functions. Its imaging quality and robu…[Phys. Rev. C 113, 034904] Published Fri Mar 06, 2026"
-    },
-    {
-      "title": "Asymmetric muon-antimuon emission from ${Z}^{0}$ decays: A potential magnetometer in relativistic heavy-ion collisions",
-      "link": "http://link.aps.org/doi/10.1103/9j9b-tm9v",
-      "authors": "Alejandro Ayala, Ana Julia Mizher, and Javier Rendón",
-      "source": "Physical Review C",
-      "summary": "Author(s): Alejandro Ayala, Ana Julia Mizher, and Javier RendónWe show that a very clear signal of the presence of a strong magnetic field during the early stage of a high-energy heavy-ion collision is provided by the decay of the ${Z}^{0}$ into dimuon pairs. We find that the process is highly anisotropic, producing pairs mainly out of plane, as signaled by a n…[Phys. Rev. C 113, 034902] Published Thu Mar 05, 2026"
-    },
-    {
-      "title": "Coupled charm and charmonium transport in a strongly coupled quark-gluon plasma",
-      "link": "https://arxiv.org/abs/2603.04674",
-      "authors": "Kaiyu Fu, Biaogang Wu, Ralf Rapp",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2603.04674v1 Announce Type: new \nAbstract: The quark-gluon plasma (QGP) is a strongly coupled medium in which both open and hidden charm particles experience substantial nonperturbative interactions. This poses a major challenge for a quantitative description of charmonium transport in ultra-relativistic heavy-ion collisions, as it requires a mutually consistent treatment of pertinent transport coefficients. In this work, we present a coupled charm-charmonium transport framework for a strongly coupled QGP based on thermodynamic $T$-matrix interactions with recent constraints from Wilson-line correlators (WLCs) computed in lattice QCD. For the first time, the same underlying heavy-light interactions and in-medium spectral functions are used to self-consistently evaluate charm-quark diffusion and charmonium kinetics. In particular, the charmonium equilibrium limit, a critical transport parameter for regeneration, is evaluated in the presence of broad spectral functions. Charm-quark diffusion is simulated via Langevin dynamics and coupled to a Boltzmann equation for charmonium dissociation and regeneration. The equilibrium limit of the statistical model is recovered once charm quarks thermalize, and its extension to describe off-equilibrium is constructed. Preliminary applications to charmonium observables in Pb-Pb collisions at the LHC capture the measured centrality and momentum dependence fairly well."
-    },
-    {
-      "title": "Single-Particle Resonant States in Relativistic Hartree-Fock Theory: A Green's Function Approach",
-      "link": "https://arxiv.org/abs/2603.04769",
-      "authors": "Wei Gao, Ting Ting Sun, Wen Hui Long",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2603.04769v1 Announce Type: new \nAbstract: Relativistic Hartree-Fock theory is combined with the Green's function method in coordinate space to study both single-particle bound and resonant states within a unified framework. Within this approach, single-particle resonance energies and widths are unambiguously extracted from the density of states, and the influence of the Coulomb exchange effects on proton resonances in $N=82$ isotones are systematically examined. It is found that the exact treatment of Coulomb exchange terms reduces proton resonance energies of approximate $0.09\\sim0.21$ MeV, a significantly smaller effect than that obtained from the phenomenological treatment. Moreover, except for rather narrow resonances, the proton resonance widths are visibly reduced by the Coulomb exchange terms, also being much less pronounced than the phenomenological approach. Notably, clear shell effects are observed in the isotonic evolutions of the resonance energy reductions for specific resonances. All these highlight the necessity of a microscopical and exact treatment of the Coulomb exchange terms."
-    },
-    {
-      "title": "Bayesian Learning of (n,p) Reaction Cross Sections with Quantified Uncertainties",
-      "link": "https://arxiv.org/abs/2603.04789",
-      "authors": "Arunabha Saha, Songshaptak De",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2603.04789v1 Announce Type: new \nAbstract: Accurate modeling of neutron-induced (n,p) reaction cross sections is essential for diverse applications in nuclear physics, including reactor design, nuclear astrophysics, and radionuclide production. However, experimental data are often sparse or incomplete, and theoretical results like TALYS Evaluated Nuclear Data Library (TENDL-2023) data may carry systematic uncertainties. In this work, we present a data-driven framework based on a Bayesian Neural Network (BNN), denoted as BNN-I6, to predict (n,p) reaction cross sections with quantified uncertainties. The model incorporates six physically motivated input features and is trained on Evaluated Nuclear Data from the ENDF/B-VIII.1 library. Leveraging stochastic variational inference, the BNN offers reliable uncertainty estimates in addition to accurate predictions. The performance of BNN-I6 is benchmarked against the TENDL-2023 library and experimental measurements across a wide range of nuclei. Additionally, SHapley Additive exPlanations (SHAP) based feature-importance analysis reveals the dominant role of theoretical cross-section inputs in driving predictions. These results highlight the potential of BNN-based approaches to enhance nuclear data evaluations and support future applications in data-scarce regimes."
-    },
-    {
-      "title": "Six-$\\alpha$ cluster Bose-Einstein condensation and supersolid $^{12}$C($0_2^+)$+$^{12}$C($0_2^+)$ molecular structure in $^{24}$Mg",
-      "link": "https://arxiv.org/abs/2603.04798",
-      "authors": "S. Ohkubo, J. Takahashi, Y. Yamanaka",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2603.04798v1 Announce Type: new \nAbstract: We show for the first time that the low-spin ($J \\le 4^+$) six-$\\alpha$ condensate candidate states in $^{24}$Mg, recently reported by Fujikawa et al. [Phys. Lett. B 848, 138384 (2024)], are well described by the superfluid $\\alpha$-cluster model (SCM). This is achieved by a rigorous treatment of the Nambu-Goldstone (NG) zero mode as the order parameter of condensation in the finite six-$\\alpha$ system. We find that a roton rotational band with a large moment of inertia is built on the first excited NG $0^+$ state, analogous to the roton bands observed in three-, four-, and five-$\\alpha$ condensates in $^{12}$C, $^{16}$O, and $^{20}$Ne, respectively. Remarkably, our calculated roton band reproduces the well-known molecular resonance with a $^{12}$C($0_2^+$)+$^{12}$C($0_2^+$) structure ($16^+$) observed at $E_{\\rm c.m.} = 32.5$ MeV in inelastic $^{12}$C+$^{12}$C scattering. This result provides a unified description of both the low-spin six-$\\alpha$ condensate states and the high-spin $^{12}$C($0_2^+$)+$^{12}$C($0_2^+$) molecular resonance. Analysis of the wave functions reveals a large overlap between the SCM states and a geometrical $^{12}$C($0_2^+$)+$^{12}$C($0_2^+$) configuration. This dual nature -the coexistence of superfluidity and crystallinity- identifies these states as a signature of a supersolid."
-    },
-    {
-      "title": "Emergence of the geometric contribution to the superfluid density in the inner crust of neutron stars",
-      "link": "https://arxiv.org/abs/2603.05179",
-      "authors": "Giorgio Almirante",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2603.05179v1 Announce Type: new \nAbstract: The geometric contribution to the superfluid density has been found to be of great importance in the inner crust of neutron stars. In this work we clarify how this contribution arises in the context of a band theory for neutrons. Specifically, we derive the dependence of the superfluid density on the magnitude of the pairing gap when the system has many bands cutting the Fermi energy, as it is the case for the neutrons in the inner crust. Also, in the perturbation theory framework, we find that it is essential to account for the corrections to the (Bogoliubov) quasi-particle states in order to get the geometric contribution. Accounting only for the corrections to the (Hartree-Fock) single-particle states leads to the conventional contribution only."
-    },
-    {
-      "title": "The MexNICA Collaboration in the MPD-NICA Experiment at JINR: Experimental and Theoretical Achievements",
-      "link": "https://arxiv.org/abs/2603.04468",
-      "authors": "Alfredo Raya, Mauricio Alvarado, Juan Anz\\'urez, Alejandro Ayala, Wolfgang Bietenholz, Salom\\'on Borjas Garc\\'ia, Eleazar Cuautle, Pedro E. Garc\\'ia Gonz\\'alez, Irving Iv\\'an Gaspar Gregorio, Isabel Dom\\'inguez, Luis Alberto Hern\\'andez, Maribel Herrera, Israel Luna, Pablo Mart\\'inez-Torres, Emanuel Nolasco G\\'omez, Miguel Enrique Pati\\~no, Manuel El\\'ias Pech Dzul, Juan Carlos Ram\\'irez M\\'arquez, Mauricio Reyes Guti\\'errez, Ulises S\\'aenz-Trujillo, Roberto Tapia S\\'anchez, Mar\\'ia Elena Tejeda-Yeomans, Galileo Tinoco-Santill\\'an, Carlos Rafael V\\'azquez Villamar",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2603.04468v1 Announce Type: cross \nAbstract: The MexNICA Collaboration coordinates the activities of Mexican scientists, engineers, postdoctoral fellows and students in the Multi-Purpose Detector experiment at the Nuclotron-based Ion Collider fAcility of the Joint Institute for Nuclear Research in Dubna, Russia. Established in 2016, the collaboration brings together five Mexican institutions whose contributions span detector development as well phenomenological and theoretical studies, including modeling by means of Monte Carlo simulations. This work summarizes the main achievements of MexNICA, consisting of the development of the miniBeBe trigger detector as well of results of phenomenological investigations of the baryon-rich region in the QCD phase diagram accessible at NICA energies, and theoretical advances based on lattice QCD and effective models."
-    },
-    {
-      "title": "Exploring Nucleon Structure and the Proton Mass Problem through Holographic QCD",
-      "link": "https://arxiv.org/abs/2603.04794",
-      "authors": "Jiali Deng, Defu Hou",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2603.04794v1 Announce Type: cross \nAbstract: Understanding the internal structure of the proton-including the distributions of quarks and gluons and their contributions to proton properties such as mass-remains a central challenge in quantum chromodynamics (QCD). While quark generalized parton distributions (GPDs) have been studied extensively, a unified approach that simultaneously extracts quark parton distribution functions (PDFs), gravitational form factors (GFFs), and gluon GPDs from experimental constraints is still lacking. Moreover, the role of gluons in proton mass generation, particularly through the trace anomaly mechanism, requires deeper theoretical and phenomenological exploration. In this study, we first extract quark GPDs in protons using parameterization method based on the electromagnetic form factors provided by Light-Front Holographic QCD (LFHQCD) from which we derive both quark PDFs and their GFFs. We then extend this approach to model gluon GPDs. Our calculations show consistency with experimental data and lattice QCD results and successfully reproduce soft Pomeron behavior. Furthermore, we investigate near-threshold $J/\\psi$ production using gauge/string duality to quantify the contribution of the trace anomaly to the proton mass. Our results demonstrate that the parameterization method provides a consistent framework for describing both quark and gluon structure, bridging GPDs, PDFs, and GFFs. The analysis of $J/\\psi$ production confirms that the trace anomaly contributes significantly ($\\sim 23\\%$) to the proton mass, with the calculated cross-section dependence on momentum transfer $t$ in agreement with experimental observations. This work advances the understanding of proton structure by integrating quark and gluon degrees of freedom and elucidating the origin of proton mass within QCD."
-    },
-    {
-      "title": "Simulating Lattice Gauge Theories with Virtual Rishons",
-      "link": "https://arxiv.org/abs/2603.05151",
-      "authors": "David Rogerson, Jo\\~ao Barata, Robert M. Konik, Raju Venugopalan, Ananda Roy",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2603.05151v1 Announce Type: cross \nAbstract: Classical tensor network and hybrid quantum-classical algorithms are promising candidates for the investigation of real-time properties of lattice gauge theories. We develop here a novel framework which enforces gauge symmetry via a quantum-link virtual rishon representation applied at intermediate steps. Crucially, the gauge and matter degrees of freedom are dynamical variables encoded in terms of qubits, enabling analysis of gauge theories in $d+1$ spacetime dimensions. We benchmark this framework in a U(1) gauge theory with and without matter fields. For $d = 1$, the multi-flavor Schwinger model with $1\\leq N_f\\leq3$ flavors is analyzed for arbitrary boundary conditions and nonzero topological angle, capturing signatures of the underlying Wess-Zumino-Witten conformal field theory. For $d = 2$, we extract the confining string tension in close agreement with continuum expectations. These results establish the virtual rishon framework as a scalable and robust approach for the simulation of lattice gauge theories using both classical tensor networks as well as near-term quantum hardware."
-    },
-    {
-      "title": "Axial-vector neutral-current measurements in coherent elastic neutrino-nucleus scattering experiments",
-      "link": "https://arxiv.org/abs/2603.05281",
-      "authors": "D. Aristizabal Sierra, Pablo M. Candela, Valentina De Romeri, Dimitrios K. Papoulias, Laura Trincado S",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2603.05281v1 Announce Type: cross \nAbstract: Coherent elastic neutrino-nucleus scattering (CE$\\nu$NS) is predominantly governed by vector neutral-current interactions, with subleading contributions arising from the axial current in nuclei with non-zero ground-state spin. Experimentally, the extraction of axial-current contributions has been so far of little interest, mainly because of the challenges its measurement entail. In this work, we investigate the relative size of the vector and axial components for target materials currently employed by the neutrino and dark matter experimental communities. We identify fluorine-based compounds as the most promising targets for probing the axial-current event rate. Among them, octafluoropropane ($\\text{C}_3\\text{F}_8$) emerges as a particularly suitable candidate, given its widespread use in spin-dependent dark matter searches and its relevance for upcoming dedicated CE$\\nu$NS experiments. Considering both pion decay-at-rest and reactor neutrino fluxes, we show that such measurements can allow an indirect determination of the axial coupling at the $\\sim 10\\%$ level, depending on flux uncertainties and detector thresholds. We further emphasize that measurements of the axial current will allow to probe spin-dependent new physics scenarios through CE$\\nu$NS."
-    },
-    {
-      "title": "Exploring $T_{\\Upsilon\\Upsilon}$ tetraquark candidates in a coupled-channels formalism",
-      "link": "https://arxiv.org/abs/2603.05311",
-      "authors": "P. G. Ortega, D. R. Entem, F. Fernandez, J. Segovia",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2603.05311v1 Announce Type: cross \nAbstract: We investigate the spectrum of $T_{\\Upsilon\\Upsilon}$ tetraquark candidates within a coupled-channels framework. The analysis includes all $L\\leq2$ combinations of $\\Upsilon(1S)$, $\\Upsilon(2S)$, $\\eta_b(1S)$, and $\\eta_b(2S)$ in the $J^P = 0^\\pm, 1^\\pm, 2^\\pm$ sectors. The meson-meson interaction is derived from an underlying constituent quark model through the resonating group method, and the properties of the states are obtained from poles of the scattering matrix. We find a rich spectrum of resonant, and virtual, states distributed between the $\\eta_b(1S)\\eta_b(1S)$ and $\\Upsilon(2S)\\Upsilon(2S)$ thresholds. The pattern of poles exhibits approximate heavy-quark spin symmetry multiplets. Several states are dominated by a single channel and can be associated with threshold-driven structures, while higher-mass resonances show sizable mixing among channels involving radially excited bottomonia. The predicted widths range from tens to several hundred MeV. Branching ratios indicate that many states couple predominantly to final states with at least one excited bottomonium, whereas only a subset of the spectrum is expected to be visible in the $\\eta_b(1S)\\eta_b(1S)$, $\\eta_b(1S)\\Upsilon(1S)$ and $\\Upsilon(1S)\\Upsilon(1S)$ channels. These results provide quantitative guidance for experimental searches of fully heavy tetraquarks and offer a test of coupled-channel dynamics and heavy-quark spin symmetry in the $bb\\bar b\\bar b$ sector."
-    },
-    {
-      "title": "Prompt Fission Neutron Spectra of 233U(n,F)",
-      "link": "https://arxiv.org/abs/2405.13167",
-      "authors": "V. M. Maslov",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2405.13167v2 Announce Type: replace \nAbstract: Prompt fission neutron spectra produced up to 20 MeV. Simultaneous analysis of measured and calculated data for 233U(n, F), 235U(n, F) and 239Pu(n, F) maintains stronger justification for the predicted PFNS of 233U(n, F). For the latter the reliable measured PFNS data are available at Eth only. Pre-fission neutron spectra influence the partitioning of fission energy between excitation energy and total kinetic energy of fission fragments. For the reactions 233U (n, F) and 235U (n, F) we have shown that the shape of PFNS depends on the fissility of composite and residual nuclei. The correlation of these peculiarities with contributions of (n, xnf) to the (n, F) and competition of (n, ng) and (n, xn) is established. Exclusive neutron spectra (n, xnf) are consistent with cross sections of 235U(n, F), 234U(n, F), 233U(n, F) and 232U(n,F) reactions, as well as neutron emissive spectra of 235U(n,xn) at 14 MeV. Initial model parameters for 233U (n,F) PFNS are fixed by description of prompt fission neutron spectra of 233U (nth, F). We predict the 233U(n,xnf) exclusive pre-fission neutron spectra of 233U(n,xn) reactions, total kinetic energy TKE of fission fragments and products, partials of average PFNS and observed PFNS of 233U(n,F). PFNS of 233U (n, F) are harder than those of 235U(n, F) PFNS, but softer than those of 239Pu(n, F). Difference of average energies of PFNS of 233U (n, F) and 235U(n, F) amounts to 1-3 %. At incident energies higher than (n, 2nf) reaction threshold the observed PFNS may seem similar, though the partial contributions of 233U(n,xnf) and 235U(n,xnf) are quite different. PFNS of 233U(n,xnf) are obtained in the energy range up to 20 MeV."
-    },
-    {
-      "title": "Scale Setting and Strong Coupling Determination in the Gradient Flow Scheme for 2+1 Flavor Lattice QCD",
-      "link": "https://arxiv.org/abs/2502.08061",
-      "authors": "Rasmus Larsen, Swagato Mukherjee, Peter Petreczky, Hai-Tao Shu, Johannes Heinrich Weber",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2502.08061v2 Announce Type: replace-cross \nAbstract: We report on a scale determination, scale setting, and determination of the strong coupling in the gradient flow scheme using the $N_f=2+1$ highly improved staggered quark (HISQ) ensembles generated by the HotQCD Collaboration for bare gauge couplings ranging from $\\beta = 7.030$ to $8.400$. The gradient flow scales we obtain in this work are $\\sqrt{t_0} = 0.14229(98)$~fm and $w_0 = 0.17190(140)$~fm. Using the decay constants of the kaon and $\\eta_s$, as well as the bottomonium mass splitting from the literature, we also calculate the potential scale $r_1$, obtaining $r_1 = 0.3072(22)$~fm. We fit the flow scales to an Allton-type ansatz as a function of $\\beta$, providing a polynomial expression that allows for the prediction of lattice spacings at new $beta$ values. As a secondary result, we make an attempt to determine $\\Lambda_{\\overline{\\mathrm{MS}}}$ and use it to estimate the strong coupling in the $\\overline{\\mathrm{MS}}$ scheme."
-    },
-    {
-      "title": "Mass Without Mass from a Berry–Shifted SU(3) Holonomy Rotor",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326001942?dgcid=rss_sd_all",
+      "title": "A new class of semiclassical gravity solutions, gravitational quantum stealths and regular Cauchy horizons",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326002030?dgcid=rss_sd_all",
       "authors": "Unknown",
       "source": "Physics Letters B",
-      "summary": "Publication date: Available online 6 March 2026Source: Physics Letters BAuthor(s): Ahmed Farag Ali"
+      "summary": "Publication date: Available online 7 March 2026Source: Physics Letters BAuthor(s): Benito A. Juárez-Aubry"
     },
     {
-      "title": "Low-energy <em>Nϕ</em> scattering from a pole-enhanced triangle diagram",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326001905?dgcid=rss_sd_all",
+      "title": "(H)ALPing the 511 keV line: A thermal DM interpretation of the 511 keV emission",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326001851?dgcid=rss_sd_all",
       "authors": "Unknown",
       "source": "Physics Letters B",
-      "summary": "Publication date: Available online 6 March 2026Source: Physics Letters BAuthor(s): Mao-Jun Yan, Chun-Sheng An, Cheng-Rong Deng"
+      "summary": "Publication date: Available online 7 March 2026Source: Physics Letters BAuthor(s): Mohammad Aghaie, Pedro De la Torre Luque, Alessandro Dondarini, Daniele Gaggero, Giulio Marino, Paolo Panci"
     },
     {
-      "title": "Entanglement degradation of static black holes in effective quantum gravity",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326001887?dgcid=rss_sd_all",
+      "title": "Observational constraints on the modified cosmology inspired by string T-duality",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326001796?dgcid=rss_sd_all",
       "authors": "Unknown",
       "source": "Physics Letters B",
-      "summary": "Publication date: Available online 6 March 2026Source: Physics Letters BAuthor(s): Xiaobao Liu, Wentao Liu, Shu-Min Wu"
+      "summary": "Publication date: Available online 7 March 2026Source: Physics Letters BAuthor(s): G.G. Luciano, A. Paliathanasis, A. Sheykhi"
     },
     {
-      "title": "Geometric Constraint on Residue Phases: Resolving the N(2190) Anomaly and Implications for Exotic States",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326001863?dgcid=rss_sd_all",
+      "title": "Gravitational Wave Detection Based on Gravitomagnetic Effects",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326001978?dgcid=rss_sd_all",
       "authors": "Unknown",
       "source": "Physics Letters B",
-      "summary": "Publication date: Available online 6 March 2026Source: Physics Letters BAuthor(s): S. Ceci, R. Omerović, H. Osmanović, M. Uroić, M. Vukšić, B. Zauner"
+      "summary": "Publication date: Available online 6 March 2026Source: Physics Letters BAuthor(s): Yu-Qi Dong, Zhoujian Cao, Yu-Xiao Liu"
     },
     {
-      "title": "On the stability of the objects of limiting compactness: Black hole and Buchdahl star",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326001875?dgcid=rss_sd_all",
+      "title": "Holographic Aspects of Non-minimal <em>R</em><sup>3</sup><em>F</em><sup>2</sup> Black Brane in an EFT Framework",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326001966?dgcid=rss_sd_all",
       "authors": "Unknown",
       "source": "Physics Letters B",
-      "summary": "Publication date: Available online 5 March 2026Source: Physics Letters BAuthor(s): Soumya Chakrabarti, Chiranjeeb Singha, Naresh Dadhich"
+      "summary": "Publication date: Available online 6 March 2026Source: Physics Letters BAuthor(s): Mehdi Sadeghi"
     },
     {
-      "title": "Exploring Nucleon Structure through Sub- and Near-threshold <em>ϕ</em>-Meson Photoproduction",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326001838?dgcid=rss_sd_all",
-      "authors": "Unknown",
-      "source": "Physics Letters B",
-      "summary": "Publication date: Available online 5 March 2026Source: Physics Letters BAuthor(s): Wei Wang, Ji Xu, Xing-Hua Yang, Ya-Teng Zhang, Shuai Zhao"
-    },
-    {
-      "title": "Search for <em>μ</em>s-isomers in <math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si1.svg\" class=\"math\"><msup><mrow></mrow><mrow><mn>251</mn><mo>−</mo><mn>254</mn></mrow></msup></math>No",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0375947426000606?dgcid=rss_sd_all",
+      "title": "Shell closure impact on preformation probability of <sup>14</sup>C cluster",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0375947426000618?dgcid=rss_sd_all",
       "authors": "Unknown",
       "source": "Nuclear Physics A",
-      "summary": "Publication date: Available online 5 March 2026Source: Nuclear Physics AAuthor(s): J. Khuyagbaatar, R.A. Cantemir, Ch.E. Düllmann, F.P. Heßberger, E. Jäger, B. Kindler, J. Krier, N. Kurz, P. Mosat, B. Lommel, B. Schausten, A. Yakushev"
+      "summary": "Publication date: Available online 6 March 2026Source: Nuclear Physics AAuthor(s): Navjot Kaur, Gudveen Sawhney, Manpreet Kaur, Amandeep Kaur, Harjeet Kaur, Sukhjeet Singh, Birbikram Singh"
     },
     {
-      "title": "Collective states, single-particle states, and ''stapler'' mechanism in 117In*",
-      "link": "https://iopscience.iop.org/article/10.1088/1674-1137/ae38c4",
-      "authors": "Hong-Fei Bai, 洪斐 白, Shou-Yu Wang, 守宇 王, Xiao-Guang Wu, 晓光 吴, Wen-Zheng Xu, 文政 许, Wen-Biao Zeng, 文彪 曾, Zhi-Quan Li, 志泉 李, Chen Liu, 晨 刘, Hui Jia, 慧 贾, Bin Qi, 斌 亓, En-Hong Wang, 恩宏 王, Guang-Sheng Li, 广生 李, Yun Zheng, 云 郑, Cong-Bo Li, 聪博 李, Shuo Wang, 硕 王, Da-Peng Sun, 大鹏 孙, Xing-Chi Han, 星池 韩, Hong-Yi Zhang, 弘燚 张, Nai-Bo Zhang and 乃波 张",
-      "source": "Chinese Physics C",
-      "summary": "High-spin states of 117In are studied through the incomplete fusion reaction induced by 7Li with 116Cd. A total of 19 new levels and 22 new transitions are observed. A pair of signature partner bands with the configuration is identified. The single-particle states are described through shell-model calculations. The dipole band with the configuration of is proposed as a ''stapler'' band based on the calculations of tilted axis cranking covariant density functional theory. The ''stapler'' mechanism in In isotopes is systematically investigated. The present study reveals the diversity of excitation modes in 117In."
-    },
-    {
-      "title": "Bayesian inference of the magnetic field and chemical potential on holographic jet quenching in heavy-ion collisions*",
-      "link": "https://iopscience.iop.org/article/10.1088/1674-1137/ae2f4f",
-      "authors": "Liqiang Zhu, 力强 朱, Zhan Gao, 湛 高, Weiyao Ke, 伟尧 柯, Hanzhong Zhang and 汉中 张",
-      "source": "Chinese Physics C",
-      "summary": "Jet quenching is studied in a background magnetic field and finite baryon chemical potential. The production of energetic partons is calculated using the next-to-leading order (NLO) perturbative Quantum Chromodynamics (pQCD) parton model, whereas the parton energy loss formula is obtained from the AdS/CFT correspondence incorporating the magnetic field and baryon chemical potential effects. Using Bayesian inference, we systemically compare theoretical calculations with experimental data for the nuclear modification factor of large transverse momentum hadrons in different centralities of nucleus-nucleus collisions at 0.2, 2.76, and 5.02 TeV, respectively. The holographic calculation leads to a strong negative correlation between the magnetic field and chemical potential for a fixed amount of energy loss. This degeneracy can be observed after model calibration. Finally, we discussed the sensitivity of jet quenching phenomena to the external magnetic field and background baryon chemical potential."
-    },
-    {
-      "title": "Asymmetric thin-shell wormholes in the Kalb-Ramond background: Observational characteristics and extra photon rings*",
-      "link": "https://iopscience.iop.org/article/10.1088/1674-1137/ae2fc7",
-      "authors": "K. TAN, 凯 谭, X.G. Lan and 小刚 兰",
-      "source": "Chinese Physics C",
-      "summary": "In this paper, we utilize the ray-tracing method to conduct an in-depth study of the observational images of asymmetric thin-shell wormholes in the Kalb-Ramond field. Initially, we calculate the null geodesics and effective potential energy of the asymmetric thin-shell wormhole and investigate the variations in the photon sphere radius and critical impact parameter under different values of charge Q and Lorentz-violation parameter l. Based on these calculations, we determine the photon deflection angles and trajectories within this space-time structure. Specifically, depending on the photon impact parameters, the photon trajectories can be categorized into three types. By using a thin accretion disk as the sole background light source and incorporating two classical observational radiation models, we find that under conditions of equal mass M, charge quantity Q, and Lorentz-violation parameter l, asymmetric thin-shell wormholes exhibit unique observational features, such as additional lensing rings and photon ring clusters. Furthermore, distinct from black holes, as the charge quantity Q and Lorentz-violation parameter l increase, the coverage area of the specific additional halo expands correspondingly."
+      "title": "Isospin influence on the decay modes of compound nuclei <math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si3.svg\" class=\"math\"><mrow><msup><mrow></mrow><mrow><mn>58</mn><mo>−</mo><mn>61</mn></mrow></msup><mi>C</mi><msup><mi>u</mi><mo>*</mo></msup></mrow></math>",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0375947426000643?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Nuclear Physics A",
+      "summary": "Publication date: Available online 6 March 2026Source: Nuclear Physics AAuthor(s): Navjot Kaur, Manpreet Kaur, Amandeep Kaur, Sarbjeet Kaur, Rupinder Kaur, Sukhjeet Singh, Birbikram Singh"
     }
   ]
 }
