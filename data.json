@@ -1,166 +1,26 @@
 {
-  "lastUpdated": "2026-03-14T03:22:56.752153",
+  "lastUpdated": "2026-03-15T03:46:54.107830",
   "papers": [
     {
-      "title": "Continuum quasiparticle random-phase approximation for ($n,γ$) reactions on neutron-rich nuclei: Collectivity and resonances in low-energy cross sections",
-      "link": "http://link.aps.org/doi/10.1103/4ltc-ns32",
-      "authors": "Teruyuki Saito and Masayuki Matsuo",
-      "source": "Physical Review C",
-      "summary": "Author(s): Teruyuki Saito and Masayuki MatsuoWe formulate a microscopic theory to calculate cross section of the radiative neutron capture on neutron-rich nuclei using the continuum quasiparticle random-phase approximation. This formulation is designed to be applied to neutron-rich nuclei around the $r$-process path, for which the compound nuc…[Phys. Rev. C 113, 034607] Published Fri Mar 13, 2026"
-    },
-    {
-      "title": "Role of the overlap function in describing angular distributions of single-nucleon transfer reactions",
-      "link": "http://link.aps.org/doi/10.1103/bz7z-tp1r",
-      "authors": "M. R. Xie, J. G. Li, N. Keeley, N. Michel, and W. Zuo",
-      "source": "Physical Review C",
-      "summary": "Author(s): M. R. Xie, J. G. Li, N. Keeley, N. Michel, and W. ZuoSingle-nucleon transfer reactions offer a valuable way to probe nuclear structure. We explore the effect of directly introducing overlap functions computed using the Gamow shell model (GSM) into reaction calculations, taking the ${〈}^{7}\\mathrm{Li}∣^{6}\\mathrm{He}+p〉$ single-proton overlap as a case…[Phys. Rev. C 113, 034608] Published Fri Mar 13, 2026"
-    },
-    {
-      "title": "Data-guided coalescence model for production of light nuclei and hypernuclei in relativistic heavy-ion collisions at $\\sqrt{{s}_{NN}}=3–200\\phantom{\\rule{0.28em}{0ex}}\\mathrm{GeV}$",
-      "link": "http://link.aps.org/doi/10.1103/9m2b-99x4",
-      "authors": "Yue Hang Leung, Yingjie Zhou, and Norbert Herrmann",
-      "source": "Physical Review C",
-      "summary": "Author(s): Yue Hang Leung, Yingjie Zhou, and Norbert HerrmannThe production of light hypernuclei in relativistic heavy-ion collisions provides a unique opportunity to probe hyperon-nucleon interactions and possible three-body forces, which are central to the resolution of the hyperon puzzle in neutron star matter. In this work, we develop a data-guided coales…[Phys. Rev. C 113, 034912] Published Fri Mar 13, 2026"
-    },
-    {
-      "title": "Inner crusts of neo-neutron stars: Exotic light nuclei, diffusional and thermodynamical stability",
-      "link": "http://link.aps.org/doi/10.1103/yyrc-p7lj",
-      "authors": "Mikhail V. Beznogov and Adriana R. Raduta",
-      "source": "Physical Review C",
-      "summary": "Author(s): Mikhail V. Beznogov and Adriana R. RadutaBased on an extended nuclear statistical equilibrium model, we investigate the properties of nonaccreted crusts of young and warm neo-neutron stars, i.e., of finite-temperature inhomogeneous dense matter in beta equilibrium. An interesting feature is the appearance, in the deep inner crust, of an ex…[Phys. Rev. C 113, 035801] Published Fri Mar 13, 2026"
-    },
-    {
-      "title": "Gamow-Teller strength of $^{12,14,16}$C within deformed quasiparticle random-phase approximation",
-      "link": "https://arxiv.org/abs/2603.11429",
-      "authors": "Eunja Ha, Myung-Ki Cheoun, H. Sagawa, Gianluca Col\\`o",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2603.11429v1 Announce Type: new \nAbstract: We investigate the Gamow-Teller (GT) transition strength distributions in the light carbon isotopes $^{12,14,16}$C within the framework of the deformed quasiparticle random-phase approximation (DQRPA). Nuclear deformation is explicitly incorporated through Skyrme Hartree-Fock mean-field calculations combined with the QRPA formalism. The residual particle-hole $(p-h)$ and particle-particle $(p-p)$ interactions are derived from Br\\\"uckner $G$-matrix calculations based on the CD-Bonn potential, and their impact on the low-lying GT strengths is systematically examined by varying the corresponding interaction strengths.\n  We find that nuclear deformation, associated with a reduced spin-orbit strength, plays a significant role in interpreting the GT strength distribution of $^{12}$C. In contrast, the calculated GT$^{(-)}$ strength distribution of $^{14}$C in the spherical limit reproduces the essential features of the experimental $(p,n)$ charge-exchange data. The case of $^{16}$C reveals additional high-lying GT strength associated with deformation-induced configuration mixing."
-    },
-    {
-      "title": "Impact of octupole correlation on the inverse quasifission in ${}^{160}\\text{Gd}+{}^{186}\\text{W}$ collisions",
-      "link": "https://arxiv.org/abs/2603.11613",
-      "authors": "Zhenji Wu, Xiang-Xiang Sun, Lu Guo",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2603.11613v1 Announce Type: new \nAbstract: Multinucleon transfer (MNT) reactions offer a promising pathway to synthesize neutron-rich heavy nuclei, but the mechanism of inverse quasifission, as a key reaction channel of MNT, still remains not well understood. We employ time-dependent Hartree-Fock theory to investigate the reaction mechanism, especially the role of the octupole deformed shell in the MNT reaction of ${}^{160}\\text{Gd}+{}^{186}\\text{W}$. The results show that inverse quasifission occurs when the deformed projectile and target collide in near tip-tip and tip-side orientations, which favors production of neutron-rich transtarget nuclei. Interestingly, the distributions and single-particle spectra of primary products reveal that the $N=88$ octupole deformed shell in light fragments dominates inverse quasifission instead of the spherical shells of $^{208}\\text{Pb}$ at a center-of-mass energy of $502.6~\\text{MeV}$, thus explaining the experimental observation that the yields of the transtarget products are enhanced in the Au region. Further exploration finds that quantum shell effects in inverse quasifission exhibit energy dependence. These results demonstrate that the octupole deformed shell plays a crucial role in the inverse quasifission dynamics, significantly advancing the understanding of the MNT reaction mechanism."
-    },
-    {
-      "title": "The Matter Radius of 132Sn and the CREX-PREX Dilemma",
-      "link": "https://arxiv.org/abs/2603.11983",
-      "authors": "J. Piekarewicz",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2603.11983v1 Announce Type: new \nAbstract: The density dependence of the nuclear symmetry energy remains a central open problem in nuclear physics. Parity violating electron scattering experiments have provided largely model-independent determinations of the neutron skin thickness of both 48Ca and 208Pb, whose consistent theoretical interpretation remains challenging. A new measurement of the matter radius of the unstable, doubly magic nucleus 132Sn provides an important additional constraint. Using a representative set of covariant energy density functionals spanning a wide range of isovector properties, we show that at least one of these models can simultaneously reproduce the charge and matter radii of132Sn. When interpreted together with the PREX and CREX results, the new measurement--much like CREX--favors a relatively soft symmetry energy. These findings underscore the need for an independent confirmation of the PREX result, such as the anticipated MREX campaign at the MESA facility."
-    },
-    {
-      "title": "Isentropic thermodynamics across the hadron-quark mixed phase in a two-phase model with a PNJL quark description",
-      "link": "https://arxiv.org/abs/2603.11081",
-      "authors": "Eduardo L. G. Salgado, Pedro Costa, Constan\\c{c}a Provid\\^encia",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2603.11081v1 Announce Type: cross \nAbstract: We study the hadron-quark mixed phase within a two-phase model for symmetric and asymmetric matter. For the quark sector we employ the (2+1) Polyakov-extended Nambu-Jona-Lasinio model (PNJL) with vector interactions. We investigate how the hadronic equation of state affects the phase diagram and the thermodynamic properties inside the mixed phase. The behavior of isentropic trajectories in the mixed phase depends on the fixed entropy per baryon ($s/\\rho_B$), with trajectories near the critical end point (CEP) exhibiting a pronounced cooling pattern, while isentropic trajectories with low entropy per baryon undergo pronounced heating as the baryonic density increases. The adiabatic squared speed of sound displays characteristic peak and dip structures that depend on $s/\\rho_B$. The polytropic index along isentropic and isothermal trajectories, including in the vicinity of the CEP are also investigated. The effects of vector interactions and isospin asymmetry on thermodynamic observables likewise depend on the chosen $s/\\rho_B$ value. Finally, we discuss the population of hyperons along isentropic trajectories and their influence on the phase diagram. The main effect of hyperons is to shift the onset of deconfinement to larger densities and decrease the density extension of the mixed phase."
-    },
-    {
-      "title": "Hidden Light Scalars in Heavy-Ion Collisions: A Phenomenological Resolution to High-$p_T$ Quarkonium Anomalies",
-      "link": "https://arxiv.org/abs/2603.11097",
-      "authors": "Yi Yang",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2603.11097v1 Announce Type: cross \nAbstract: The suppression of heavy quarkonia in heavy-ion collisions is a well-established signature of Quark-Gluon Plasma (QGP) formation. However, recent LHC measurements of the $\\Upsilon(1S)$ state exhibit an anomalous high-$p_T$ plateau in the nuclear modification factor ($R_{AA}$) and a vanishing elliptic flow ($v_2$), challenging standard QCD transport models. We propose a viable mechanism to account for these observations by introducing a minimal dark scalar $\\phi$ situated within a strict kinematic merging window ($m_\\phi \\approx 9.40$~GeV). We demonstrate that the shared $p_T^{-4}$ asymptotic fragmentation scaling between the hard-scattered dark scalar and Non-Relativistic QCD (NRQCD) color-octet production provides a constant theoretical dark fraction at high momenta. By extracting this fraction ($C_\\phi \\approx 13.8\\%$) from the anomalous $R_{AA}$ plateau, we establish a consistent phenomenological correlation: a single parameter addresses the $R_{AA}$ flattening, dilutes the inclusive $v_2$ toward zero, mitigates the long-standing quarkonium polarization puzzle, and naturally evades historical low-$p_T$ dimuon searches via a dynamic detector resolution threshold. We emphasize that future high-precision measurements of the dimuon mass lineshape at extreme transverse momenta are crucial for testing this paradigm."
-    },
-    {
-      "title": "Phase structure and observables at high densities from first principles QCD",
-      "link": "https://arxiv.org/abs/2603.11135",
-      "authors": "Christian S. Fischer, Jan M. Pawlowski",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2603.11135v1 Announce Type: cross \nAbstract: We provide a short review of the progress made in the past decade with functional QCD in the description of the phase structure of QCD. We summarise the most important technical aspects of the framework, discuss strategies for truncations and address the problem of systematic error estimates. We detail efforts to gauge the approach systematically with lattice QCD at zero chemical potential, also including the physics of the Columbia plot at non-physical quark masses. Our main focus is, however, the high density regime of QCD. We address the predictive power of the functional approach for the appearance of new phases beyond the chiral crossover regime for chemical potentials $\\mu_B/T\\geq 4.5$. The onset of this regime may be signalled by a critical end point of the crossover line but may also involve a moat regime or the emergence of an instability that indicates an inhomogeneous phase. Respective results include estimates for the location of the onset of new phases, and predictions for their experimental signatures."
-    },
-    {
-      "title": "Dispersive Analysis of $D$- and $B$-Meson Form Factors with Chiral and Heavy-Quark Constraints",
-      "link": "https://arxiv.org/abs/2603.11154",
-      "authors": "Simon Mutke, Leon A. Heuser, Ingrid Dax, Bastian Kubis, Stefan Leupold",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2603.11154v1 Announce Type: cross \nAbstract: We analyze the isovector vector form factors of $D$, $D^*$, $B$, and $B^*$ mesons at low energies. We employ all constraints due to chiral and heavy-quark symmetry, and include the physics of resonant pion-pion rescattering in a model-independent way, using dispersion theory. Special attention is paid to the analytic properties of these form factors, which include anomalous thresholds due to triangle diagrams that are located on the physical Riemann sheets in some of the form factors. We extract the couplings of the $\\rho(770)$ resonance to all these heavy mesons by determining the appropriate pole residues."
-    },
-    {
-      "title": "Comprehensive Effective Field Theory Analysis for Baryon Number Violating Processes",
-      "link": "https://arxiv.org/abs/2603.11158",
-      "authors": "Chuan-Qiang Song, Jiang-Hao Yu",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2603.11158v1 Announce Type: cross \nAbstract: Baryon number-violating processes arise generically in many extensions of the Standard Model, with Grand Unified Theories providing the most compelling realizations. Ongoing experimental searches at JUNO, Hyper-K, and DUNE motivate a more precise and model-independent analysis utilizing the effective field theory (EFT) framework capable of connecting ultraviolet dynamics to low-energy hadronic observables. In this work, we perform a pipeline analysis that connects baryon number-violating (BNV) new physics to its low-energy description through the Standard Model EFT (SMEFT) up to dimension nine and the Low-Energy EFT (LEFT) up to dimension eight, and subsequently matches onto chiral perturbation theory using a systematic spurion method. We show that the complete set of dimension-eight LEFT operators enables the inclusion of the full set of chiral representations for three-quark operators with derivatives, which are also embedded in the chiral Lagrangian after quark-hadron matching. By contrast, the conventional dimension-six operators generate only the $(\\bar{\\mathbf{3}},\\mathbf{3})$ and $(\\mathbf{8},\\mathbf{1})$ representations. The higher dimensional LEFT operators should be matched from higher order SMEFT operators, and thus a wider class of UV completions are allowed. We consider the complete tree-level UV resonances for dimension 6 and 7 SMEFT operators, and representative UVs for higher dimension operators."
-    },
-    {
-      "title": "Transverse Structure of the Kaon: A light-front Hamiltonian Approach",
-      "link": "https://arxiv.org/abs/2603.11599",
-      "authors": "Yuanqi Lu, Zhimin Zhu, Jiangshan Lan, Chandan Mondal, Xingbo Zhao, James P. Vary",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2603.11599v1 Announce Type: cross \nAbstract: We employ the Basis Light-Front Quantization (BLFQ) framework to compute the leading-twist (twist-2) and subleading-twist (twist-3) transverse-momentum-dependent parton distribution functions (TMDs) of the kaon. The light-front wave functions are obtained by diagonalizing a light-front QCD Hamiltonian that includes quark-antiquark (|q\\bar{q}\\rangle) and quark-antiquark-gluon (|q\\bar{q}g\\rangle) Fock components together with a three-dimensional confinement. Using the QCD equations of motion, the twist-3 TMDs are decomposed into twist-2 constributions and genuine twist-3 terms, the latter encoding quark-quark-gluon correlations beyond the probabilistic picture. These genuine twist-3 constributions arise from the interference between the |q\\bar{q}\\rangle and |q\\bar{q}g\\rangle sectors, which are usually negelected in the Wandzura-Wilczek approximation. This work provides the first theoretical predictions of kaon subleading-twist TMDs that explicitly account for Fock-sector interference. In addition, we present results for the kaon's twist-2 and twist-3 collinear parton distribution functions (PDFs). The twist-2 PDFs are found to be in good agreement with the recent global analysis by the JAM collaboration."
-    },
-    {
-      "title": "Energy-momentum tensor form factors and spin density distribution in the nucleon calculated in a quantized Skyrme model with vector mesons",
-      "link": "https://arxiv.org/abs/2603.11704",
-      "authors": "Kenji Fukushima, Tomoya Uji",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2603.11704v1 Announce Type: cross \nAbstract: We investigate energy-momentum tensor (EMT) form factors and the spatial spin density distribution in the nucleon within a framework of the quantized Skyrme model with vector mesons. We construct both the canonical and Belinfante improved EMTs and analyze how pseudogauge uncertainty influences local spin and momentum densities while leaving the global nucleon properties unchanged. Using the inversion formulas from nucleon matrix elements in the forward limit, we extract the form factors, $A(t)$, $D(t)$, and $J(t)$, in both pseudogauges and the additional antisymmetric form factor associated with the canonical EMT. We find that the pseudogauge choice leads to sizable differences in the local spin and momentum densities. In particular, the canonical EMT naturally encodes spin density through the antisymmetric tensor structure, while the Belinfante EMT is sensitive to the total angular momentum only. Our results illustrate explicitly how different pseudogauges correspond to different spatial interpretations of nucleon spin structure within the same underlying dynamics. These findings provide a concrete model realization of the pseudogauge ambiguity in QCD-inspired nucleon structure and offer useful intuition for interpreting spatial distributions."
-    },
-    {
-      "title": "A Universality Emerging in a Universality: Derivation of the Ericson Transition in Stochastic Quantum Scattering and Experimental Validation",
-      "link": "https://arxiv.org/abs/2603.12068",
-      "authors": "Simon K\\\"ohnes, Jiongning Che, Barbara Dietz, Thomas Guhr",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2603.12068v1 Announce Type: cross \nAbstract: At lower energies, the resonances in scattering experiments are often isolated. In quantum chaotic many-body, disordered or generically stochastic systems, the resonances overlap at larger energies. Eventually, the Ericson regime is reached in which the cross section behaves like a random function. The scattering matrix elements then follow a universal Gaussian distribution. For more than sixty years, the emergence of this robust additional universal behavior on top of the universal system stochasticity awaits a concise analytical treatment. We derive the transition to the Ericson regime in the universal Heidelberg approach and prove the universal Gaussian distribution by a proper asymptotic expansion. We also obtain explicit formulae for the moments of the distributions. We compare with microwave experiments and numerical simulations."
-    },
-    {
-      "title": "Schwinger Model with a Dynamical Axion",
-      "link": "https://arxiv.org/abs/2603.12194",
-      "authors": "Gabriel Rouxinol, Tom Magorsch, Jesse J. Osborne, Nora Brambilla, Jad C. Halimeh",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2603.12194v1 Announce Type: cross \nAbstract: One of the major open puzzles in the Standard Model of particle physics is the strong CP problem: although Quantum Chromodynamics allows a CP-violating topological $\\theta$-term, experiments constrain its value to be extremely small. The Peccei--Quinn mechanism resolves this problem by promoting the $\\theta$-angle to a dynamical field-introducing the axion -- whose dynamics relax the effective angle $\\theta_\\text{eff}$ to a CP-conserving minimum. Here, we investigate the resulting axion physics in a Hamiltonian lattice gauge theory (LGT) by coupling a quantized axion field to the massive Schwinger model with a topological $\\theta$-term. Using infinite matrix product state techniques, we compute the ground-state properties of the resulting theory and demonstrate that the axion dynamically relaxes $\\theta_\\text{eff}$ to the minimum of the vacuum energy. Consequently, the ground-state energy becomes independent of $\\theta$, demonstrating the axion-mediated solution to the strong CP problem within a fully dynamical LGT. We further analyze CP restoration and extract the axion mass from the topological susceptibility and excitation spectrum. Our results provide a nonperturbative demonstration of axion dynamics in a quantum LGT amenable to investigation on modern quantum hardware."
-    },
-    {
-      "title": "$\\bar{D}$-meson Nucleon Scattering from Lattice QCD at the Physical Point",
-      "link": "https://arxiv.org/abs/2603.12251",
-      "authors": "Wren Yamada, Yan Lyu, Kotaro Murakami, Takumi Doi",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2603.12251v1 Announce Type: cross \nAbstract: We report the first lattice QCD study of the $s$-wave scattering of the $\\bar{D}$-meson and the nucleon at the physical point, utilizing (2+1)-flavor configurations generated by the HAL QCD collaboration with a pion mass of $m_\\pi\\simeq 137$ MeV and a lattice spacing of $a\\simeq0.084$ fm. By applying the HAL QCD method to the four-point correlation function of the $\\bar{D}N$ system, we obtain a leading-order potential of the derivative expansion of the interaction kernel, which is then used to extract the $s$-wave phase shifts of low-energy $\\bar{D}N$ scattering. Both the isospin $I=0$ and $I=1$ channels have a short-range repulsive core and a shallow attractive pocket in the intermediate to long-range region, though the $I=0$ channel is more attractive than the $I=1$ channel. We also observe that the $\\bar{D}N$ potential exhibits more attraction than the $KN$ potential, which is its analog in the strange sector. In terms of the $s$-wave phase shifts, the $I=0$ channel shows a weak attractive behavior in the low-energy region with a positive scattering length of $0.246 \\pm 0.105 (_{-0.051}^{+0.084})$ fm, whereas the $I=1$ channel shows repulsion with a negative scattering length of $-0.086 \\pm 0.050 (_{-0.001}^{+0.037})$ fm. No bound states are found in both isospin channels, indicating the absence of a pentaquark state in the $s$-wave $\\bar{D}N$ system."
-    },
-    {
-      "title": "Quark spectral functions from spectra of mesons and vice versa",
-      "link": "https://arxiv.org/abs/2301.00272",
-      "authors": "Vladimir Sauli",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2301.00272v3 Announce Type: replace-cross \nAbstract: We extract the spectral function of quarks using the QCD functional formalism.The reliability of approximations is controlled by the masses and decays of pseudoscalar mesons. For light quarks, we select the pion; for charm quarks, we choose the ground and excited states of the $\\eta_c$ meson. To this end, we solved the ladder-rainbow approximation of the spectral Dyson-Schwinger equations for quarks coupled to the Bethe-Salpeter equation for the pion and pseudoscalar charmonia. The obtained dynamical charm mass function varies from 1 to 1.5 GeV in the timelike domain, which is significant for narrow charmonium states. This yields a notable response in the bound state spectrum. We obtained purely continuous spectral functions and discussed their connection with confinement."
-    },
-    {
-      "title": "Calculations of di-hadron production via two-photon processes in relativistic heavy-ion collisions",
-      "link": "https://iopscience.iop.org/article/10.1088/1361-6471/ae491c",
-      "authors": "Luobing Wang, Xinbai Li, Zebo Tang, Xin Wu and Wangmei Zha",
-      "source": "Journal of Physics G: Nuclear and Particle Physics",
-      "summary": "Two-photon processes in relativistic heavy-ion collisions have emerged as a critical probe of quantum electrodynamics in ultra-intense electromagnetic fields, with recent focus extending beyond dileptons to hadronic final states. At present, quantitative studies of di-hadron production via two-photon interactions remain scarce. In this work, we employ the equivalent photon approximation and the two-photon fusion measurements from e+e− collisions to obtain differential cross-section predictions for π+π−, K+K−, and pairs produced in ultra-peripheral Au + Au collisions at within the STAR acceptance, as well as in Pb + Pb collisions at within typical LHC acceptance. The calculations deliver the unified baseline for light-meson and baryon pairs in this environment, supplying benchmarks for upcoming STAR and LHC measurements and guiding future systematic investigations of hadronic two-photon processes at RHIC and LHC facilities."
-    },
-    {
-      "title": "From E(5) to shape coexistence: a catastrophe-theoretic phase diagram and Maxwell critical curve for the γ-unstable Bohr model",
-      "link": "https://iopscience.iop.org/article/10.1088/1361-6471/ae49a7",
-      "authors": "M M Hammad, M M Yahia, E I Saad and S B Doma",
-      "source": "Journal of Physics G: Nuclear and Particle Physics",
-      "summary": "A comprehensive theoretical investigation of shape coexistence and quantum phase transitions (QPTs) within the -unstable Bohr Hamiltonian framework is presented. The model employs a flexible sextic polynomial potential, , capable of producing spherical, deformed, and coexisting configurations. High-accuracy solutions of the radial Schrödinger equation were obtained via a Chebyshev spectral collocation method, enabling computation of spectroscopic observables—energy ratios and B(E2) transition strengths—with machine precision. The topology of the effective potential was characterized using catastrophe-theoretic methods: analytic expressions for spinodal boundaries delimiting the coexistence wedge and for the Maxwell set of equal-depth minima were derived, revealing a cusp that organizes the global phase diagram and clarifies proximity to critical-point behavior. Resulting wave-function morphologies and tunneling patterns were shown to produce systematic interband transition trends, providing diagnostic fingerprints that distinguish first-order from second-order QPTs and situating the E(5) limit as a cusp-adjacent case. An inverse-problem protocol including an term to lift SO(5) degeneracy was formulated. Two complementary optimization strategies were implemented: a soft-constraint search over the coexistence region and a hard-constraint fit confined to the Maxwell curve, enabling quantitative assessment of a nucleus’s distance to criticality and degree of shape mixing. The model reproduces low-lying spectra and shape-mixing evolution in 72Kr, 186Hg, and 108Pd nuclei with good agreement to experiment."
-    },
-    {
-      "title": "Quantum resource theories in quantum atmosphere",
-      "link": "https://www.sciencedirect.com/science/article/pii/S037026932600208X?dgcid=rss_sd_all",
-      "authors": "Unknown",
-      "source": "Physics Letters B",
-      "summary": "Publication date: Available online 12 March 2026Source: Physics Letters BAuthor(s): Shuai Zhang, Dong Wang"
-    },
-    {
-      "title": "Search for the Higgs boson decay to a <em>Z</em> boson and a photon in <em>pp</em> collisions at <math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si37.svg\" class=\"math\"><mrow><msqrt><mi>s</mi></msqrt><mo linebreak=\"goodbreak\">=</mo><mn>13</mn></mrow></math> TeV and 13.6 TeV with the ATLAS detector",
-      "link": "https://www.sciencedirect.com/science/article/pii/S037026932600167X?dgcid=rss_sd_all",
-      "authors": "Unknown",
-      "source": "Physics Letters B",
-      "summary": "Publication date: Available online 12 March 2026Source: Physics Letters BAuthor(s): G. Aad, E. Aakvaag, B. Abbott, S. Abdelhameed, K. Abeling, N.J. Abicht, S.H. Abidi, M. Aboelela, A. Aboulhorma, H. Abramowicz, Y. Abulaiti, B.S. Acharya, A. Ackermann, C. Adam Bourdarios, L. Adamczyk, S.V. Addepalli, M.J. Addison, J. Adelman, A. Adiguzel, T. Adye"
-    },
-    {
-      "title": "Investigation of stimulated cluster radioactive decay in nuclei",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0375947426000473?dgcid=rss_sd_all",
+      "title": "Absolute spectroscopic factors from <em>α</em>-transfer reactions: the rôle of multi-step paths",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0375947426000692?dgcid=rss_sd_all",
       "authors": "Unknown",
       "source": "Nuclear Physics A",
-      "summary": "Publication date: Available online 12 March 2026Source: Nuclear Physics AAuthor(s): Diljit Singh, Shubham Bharmoria, Manjeet Saini, Ritika Sharma, Harjeet Kaur, BirBikram Singh"
+      "summary": "Publication date: Available online 13 March 2026Source: Nuclear Physics AAuthor(s): N. Keeley, K.W. Kemper, K. Rusek"
+    },
+    {
+      "title": "Subleading Twist-3 Gluon Generalized Parton Distributions in the Light-Front Model",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0375947426000709?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Nuclear Physics A",
+      "summary": "Publication date: Available online 13 March 2026Source: Nuclear Physics AAuthor(s): Parashmani Thakuria, Madhurjya Lalung, Jayanta Kumar Sarma"
+    },
+    {
+      "title": "THE DUNKL-SCHRÖDINGER EQUATION ON THE TORUS: SOLVABLE CASES AND BOUND STATES",
+      "link": "https://link.springer.com/article/10.1007/s00601-026-02037-8",
+      "authors": "Unknown",
+      "source": "Few-Body Systems",
+      "summary": "We consider the three-dimensional stationary Schrödinger equation deformed by Dunkl operators, and constrained to the surface of a torus. After separation of variables in toroidal coordinates, it is shown that the Schrödinger equation admits solutions in terms of Heun functions, provided the potential has a certain form. As an application, elementary solutions of bound-state type are constructed that are expressed through Heun polynomials."
     }
   ]
 }
