@@ -1,19 +1,103 @@
 {
-  "lastUpdated": "2026-03-16T03:50:59.246733",
+  "lastUpdated": "2026-03-17T03:28:59.364184",
   "papers": [
     {
-      "title": "A Symplectic Geometric Origin of Universal Quartic Modified Dispersion Relations",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326002108?dgcid=rss_sd_all",
-      "authors": "Unknown",
-      "source": "Physics Letters B",
-      "summary": "Publication date: Available online 14 March 2026Source: Physics Letters BAuthor(s): Sanjib Dey, Mir Faizal"
+      "title": "How well known is the compressibility of nuclear matter?",
+      "link": "https://arxiv.org/abs/2603.12456",
+      "authors": "J. Margueron, E. Khan",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2603.12456v1 Announce Type: new \nAbstract: The most accurate approach to determine the compressibility of nuclear matter remains the one based on microscopic Energy Density Functionals (EDFs). Recent analyses yield a value for nuclear incompressibility modulus $K_\\sat=240\\pm 20$~MeV, defined in nuclear matter as the second derivative of the energy per particle at saturation density. However, we demonstrate that the compressibility modulus can be reduced to values shifted by four times the suggested uncertainty, i.e., $K_\\sat\\approx 160$~MeV, by providing examples based on models where the second derivative ($K_\\sat$) and third derivative ($Q_\\sat$) of the energy per particle at saturation density can be independently varied, while the experimental binding energies, charge radii, and ISGMR data in $^{120}$Sn and $^{208}$Pb are enforced. The present work suggests a new methodology to access the compressibility of nuclear matter from nuclear experiments, still based on microscopic models, but using EDFs containing more flexibility than the ones employed up to now. Consequences of our results for nuclear matter at supra-saturation density are also discussed by exploring the quarkyonic cross-over. We predict that, for our models with low values for $K_\\sat$, the quark onset density has to be low for neutron stars to exist."
     },
     {
-      "title": "Identification of the Pygmy Dipole Resonance in a Well Deformed Nucleus by Combined Isoscalar and Isovector Probes",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326002145?dgcid=rss_sd_all",
+      "title": "Threshold-Aligned Pygmy Dipole Strength in Astrophysical $(n,\\gamma)$ and $(\\gamma,n)$ Reactions",
+      "link": "https://arxiv.org/abs/2603.12928",
+      "authors": "T. Ghosh, A. Kaur, N. Paar",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2603.12928v1 Announce Type: new \nAbstract: Reaction-rate calculations relevant to r-process nucleosynthesis depend sensitively on the nuclear $\\gamma$-strength function ($\\gamma$SF). Here we investigate the impact of low-lying pygmy dipole strength (PDS) in $(n,\\gamma)$ and $(\\gamma,n)$ reactions using $\\gamma$SF based on relativistic nuclear energy density functional theory and propagate these strengths into Hauser--Feshbach statistical model calculations of the reaction rates. We show that considerable reaction-rate enhancements at temperatures relevant for r-process nucleosynthesis are governed by the alignment of the pygmy dipole strength energy with the neutron separation threshold $S_n$ rather than by the total low-energy strength. Consequently, nuclei such as $^{68}$Ni and $^{132}$Sn, where the PDS energy-$S_n$ alignment occurs, exhibit the strongest effects on reaction-rate enhancements. These results demonstrate that modeling reliable reaction rates in r-process nucleosynthesis necessitates accurate microscopic descriptions of low-energy dipole strength, in close synergy with experimental investigations in the vicinity of neutron threshold."
+    },
+    {
+      "title": "Parameter adjustment of nuclear leading-order local pairing energy density functionals",
+      "link": "https://arxiv.org/abs/2603.13164",
+      "authors": "Michael Bender, Karim Bennaceur, Valentin Guillon",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2603.13164v1 Announce Type: new \nAbstract: (See paper for full abstract)\n  This study reports on the benchmarking of a protocol for the adjustment of the parameters of a local leading-order (LO) T=1 (like-particle) pairing EDF that consists in adjusting the density-dependence of the 1S0 pairing gap at the chemical potential in infinite nuclear matter (INM). When using a suitably chosen reference calculation, this protocol leads to consistent results for the odd-even staggering of masses of spherical and heavy deformed nuclei and also for the rotational moments of inertia calculated in a time-reversal-breaking cranked HFB approach.\n  The implementation of the HFB solver for infinite matter at arbitrary isospin asymmetry used for this study is sketched in appendices. Additional points that are discussed concern (i) the illustration that the gaps at the chemical potential are not necessarily sufficient to completely characterise the pairing interaction in infinite matter, and that adjusting LO pairing EDF to reproduce gaps obtained from finite-range pairing interactions in HFB or from more microscopic calculations can lead to unrealistic predictions for finite nuclei; (ii) the finding that some regions of the parameter space for the density dependence of the T=1 LO pairing EDF lead to a spurious transition to a Bose-Einstein condensate of di-nucleons in spite of producing realistic pairing correlations for well-bound nuclei; (iii) the correlation between effective mass and the parameters of the LO pairing EDF that control the form factor of the density dependence when reproducing pairing gaps in infinite matter, (iv) the significant impact on the odd-even staggering of masses made by either including or not the spin-gradient terms in the particle-hole part of the Skyrme EDF; (v) the sizeable impact of keeping or not the contribution from the density-dependent LO pairing EDF to the mean fields on the odd-even staggering of radii."
+    },
+    {
+      "title": "Elliptic Anisotropy from Quantum Diffraction",
+      "link": "https://arxiv.org/abs/2603.12346",
+      "authors": "Erik Carri\\'o, Daniel Pablos",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2603.12346v1 Announce Type: cross \nAbstract: The surprising manifestation of collectivity in small collision systems, such as nucleon-nucleon and nucleon-nucleus collisions, is perhaps even more striking when discussed at higher momenta. In larger systems, high-$p_T$ elliptic anisotropy is understood as a selection bias effect due to the smaller energy loss experienced along the shorter direction that aligns with the event plane. However, in small systems the amount of energy loss appears insufficient to reproduce the sizable angular anisotropy observed experimentally. In this work, we explore a new mechanism generating preferred orientations for energetic particles without the need of energy loss. We exploit a simple model that is based on two basic although inalienable ingredients: geometry and quantum mechanics. Our findings suggest that this sum-over-paths mechanism can provide a relevant contribution to so-called flow coefficients of energetic particles traversing deconfined media of any size."
+    },
+    {
+      "title": "Binding energy of the $T_{bb}$ tetraquark from lattice QCD with relativistic and nonrelativistic heavy-quark actions",
+      "link": "https://arxiv.org/abs/2603.12418",
+      "authors": "Jakob Hoffmann, Stefan Meinel",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2603.12418v1 Announce Type: cross \nAbstract: We present a new determination of the $\\bar b \\bar b u d$ ($J^P=1^+$, $I=0$) tetraquark binding energy using lattice QCD with domain-wall light quarks and a nonperturbatively tuned three-parameter anisotropic-clover ``relativistic'' action for the $b$ quarks. We also perform a direct comparison with a reanalysis of data generated in prior work using a lattice-NRQCD action for the $b$ quarks and otherwise identical parameters. Using the new data with relativistic $b$ quarks from seven different ensembles with multiple lattice spacings and pion masses, we perform combined chiral and continuum extrapolations and obtain $(m_{T_{bb}}-m_B-m_{B^*})_{\\rm RHQ}=(-79 \\pm 23)$ MeV. For the NRQCD data from five ensembles, we perform chiral-only extrapolations and obtain $(m_{T_{bb}}-m_B-m_{B^*})_{\\rm NRQCD}=(-74 \\pm 17 \\pm 10)$ MeV. The lower magnitude of the results obtained here, compared to the original analysis in Phys. Rev. D 100, 014503 (2019), is due to the use of the symmetric parts of the correlation matrices with local four-quark operators only."
+    },
+    {
+      "title": "Quarkonium spectra with magnetically-induced anisotropic confinement",
+      "link": "https://arxiv.org/abs/2603.12589",
+      "authors": "Ahmad Jafar Arifi, Kei Suzuki",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2603.12589v1 Announce Type: cross \nAbstract: Strong magnetic fields modify the force that confines quarks inside hadrons and make it direction-dependent. Using quark-antiquark potentials obtained from lattice simulations as inputs to a quark potential model, we investigate how the anisotropic confinement affects the mass spectrum of quarkonium. In the strong-field regime, we find downward mass shifts induced by a softening of the confining potential along the field direction. In particular, the mass shifts of radially excited states are more significant than that of the ground state. For the longitudinal spin eigenstates, the excited-state spectrum strongly depends on the magnetic-field strength, in contrast to the spectrum with conventional isotropic confinement, which is insensitive to the field strength. This provides a clean probe of magnetically induced confinement anisotropy that can be confirmed in future lattice simulations."
+    },
+    {
+      "title": "Slowly Rotating Two-Fluid Neutron Stars: Coupled Frame-Dragging, Inertia Splitting, and Universal Relations",
+      "link": "https://arxiv.org/abs/2603.12613",
+      "authors": "Ankit Kumar, Hajime Sotani",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2603.12613v1 Announce Type: cross \nAbstract: We develop a fully relativistic framework to study the rotational response of gravitationally coupled two-fluid neutron stars within the slow-rotation approximation. Treating the two components as independently conserved perfect fluids interacting only through spacetime curvature, we derive the coupled equilibrium and frame-dragging equations and exploit their linear structure to construct a basis decomposition of the rotational response. This formulation leads to a natural definition of the effective total moment of inertia, which generalizes the single-fluid concept and depends solely on the equilibrium background. It further reveals that the coupled system admits two intrinsic collective rotational eigenmodes, characterized by distinct eigen-moments of inertia, even in the absence of relative rotation between the fluids. Applying this framework to neutron stars containing dark matter, we explore how the presence of an additional gravitationally bound component modifies the global rotational response and its relation to tidal deformability. Our results demonstrate that the persistence or breakdown of rotational-tidal universality in two-fluid neutron stars is governed by dark-sector microphysics rather than by the mere presence of an additional component, and establish a unified framework for interpreting rotational observables, intrinsic mode structure, and universal relations in multi-component relativistic stars."
+    },
+    {
+      "title": "Probing the chiral and $U(1)$ axial symmetry restoration via meson susceptibilities in holographic QCD",
+      "link": "https://arxiv.org/abs/2603.12911",
+      "authors": "Hiwa A. Ahmed, Danning Li, Mamiya Kawaguchi, Mei Huang",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2603.12911v1 Announce Type: cross \nAbstract: We investigate the restoration patterns of chiral and $U(1)$ axial symmetries at finite temperature using a soft-wall holographic QCD model. The study employs two distinct parameter sets (Case I and Case II), both calibrated to reproduce a pseudocritical temperature $T_{\\rm pc} \\sim 155$ MeV and the physical pion mass. The temperature dependence of the light and strange quark condensates confirms a smooth chiral crossover transition, with pseudocritical temperatures of $T_{\\rm pc}=0.157$ GeV and $T_{\\rm pc}=0.154$ GeV for Cases I and II, respectively. The screening masses of chiral partner mesons ($\\pi$-$\\sigma$ and $\\eta$-$a_0$) become degenerate near $T_{\\rm pc}$, providing a clear signature of chiral symmetry restoration. Analysis of the corresponding meson susceptibilities further supports this conclusion. However, the indicator for $U(1)$ axial symmetry restoration, $\\chi_\\pi - \\chi_{a_0}$, vanishes at a temperature $T \\sim 0.190 $ GeV, which indicates a distinct restoration scale with chiral symmetry restoration scale within the present holographic framework. The temperature-dependent topological susceptibility $\\chi_{\\rm top}^{1/4}$ is also computed, showing a sharp drop near $T_{\\rm pc}$ and a subsequent slight decrease. While the model qualitatively captures established features of the chiral transition, the results highlight a limitation in the qualitative description of the $U(1)$ axial anomaly compared to LQCD in our work."
+    },
+    {
+      "title": "$\\pi$, K, and p production in high-multiplicity pp collisions at $\\sqrt{s} = 13$ TeV",
+      "link": "https://arxiv.org/abs/2603.13203",
+      "authors": "ALICE Collaboration",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2603.13203v1 Announce Type: cross \nAbstract: This paper presents the measurement of $\\pi^{\\pm}$, K$^{\\pm}$, and p($\\bar{\\text{p}}$) production in high-multiplicity proton-proton collisions at $\\sqrt{s} = 13$ TeV at midrapidity ($|y| < 0.5$) using the ALICE detector at the LHC. The transverse-momentum ($p_{\\rm T}$) spectra of these particles are reported for three high-multiplicity classes. The results show a mass- and multiplicity-dependent hardening of the $p_{\\rm T}$ spectra and an enhancement of the p/$\\pi$ ratio at intermediate $p_{\\rm T}$. These features are similar to those observed in heavy-ion collisions, where quark-gluon plasma formation is expected. The new measurements have extended the highest average charged-particle multiplicity density per unit of pseudorapidity achieved in pp collisions, roughly a factor five higher than that in average inelastic pp collisions, thereby reducing the multiplicity gap between small and large collision systems. In addition, the results are further compared with previously published measurements and with model calculations obtained using distinct tunes of the PYTHIA 8 Monte Carlo generator, as well as with predictions from the EPOS4. The comparison of the $p_{\\rm T}$-integrated K/$\\pi$ and p/$\\pi$ ratios across different collision systems and energies suggests that particle production scales with charged-particle multiplicity, rather than with collision energy or system size. While the PYTHIA 8 tunes and the EPOS4 model are able to reproduce some of these measurements, either quantitatively or qualitatively, none of them consistently describes all observed features of the data."
+    },
+    {
+      "title": "Measurement of correlations between elliptic flow and mean transverse momentum in pp, p-Pb, and Pb-Pb collisions at the LHC",
+      "link": "https://arxiv.org/abs/2603.13217",
+      "authors": "ALICE Collaboration",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2603.13217v1 Announce Type: cross \nAbstract: Measurements of the event-by-event correlation between elliptic flow ($v_2$) and the mean transverse momentum ($[p_{\\rm T}]$) using the modified Pearson correlation coefficient $\\rho(v_2^2,[p_{\\rm T}])$ are reported in pp collisions at $\\sqrt{s} = 13$ TeV, and in p-Pb and Pb-Pb collisions at a center-of-mass energy per nucleon pair $\\sqrt{s_{\\rm NN}} = 5.02$ TeV. This analysis is based on the full LHC Run 2 dataset recorded by ALICE and is performed for the first time in small collision systems with the ALICE detector. In Pb-Pb collisions, the $\\rho(v_2^2,[p_{\\rm T}])$ measurement shows a non-monotonic dependence on charged particle multiplicity ($N_{\\rm ch}$); it first decreases and then increases with an increase in multiplicity. The decreasing trends of $\\rho(v_2^2,[p_{\\rm T}])$ with increasing multiplicity are also observed in p-Pb and pp collisions for the presented multiplicity range. All three systems show consistent values of $\\rho(v_2^2,[p_{\\rm T}])$ for $N_{\\rm ch} \\lesssim 80$. These measurements are also compared with theoretical model calculations, including PYTHIA, where no collectivity is generated, as well as AMPT and IP-Glasma + MUSIC + UrQMD, which produce collective effects in small systems. These comparisons offer unique insights into the origin of collectivity in small systems. They improve the understanding of the initial geometry, size, and their correlations. The comparison also allows an investigation of the role of initial momentum correlations predicted by the Color Glass Condensate framework. The new measurements could not be explained by current state-of-the-art models, offering insights into the initial stage of collisions in small systems and also imposing strong constraints on the existing theoretical models. This will significantly advance our understanding of the collective phenomena observed in small systems at the LHC."
+    },
+    {
+      "title": "Solar neutrino physics",
+      "link": "https://arxiv.org/abs/2209.14832",
+      "authors": "Xun-Jie Xu, Zhe Wang, Shaomin Chen",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2209.14832v3 Announce Type: replace-cross \nAbstract: As a free, intensive, weakly interacting, and well directional messenger, solar neutrinos have been driving both solar physics and neutrino physics developments for more than half a century. Since more extensive and advanced neutrino experiments are under construction, being planned or proposed, we are striving toward an era of precise and comprehensive measurement of solar neutrinos in the next decades. In this article, we review recent theoretical and experimental progress achieved in solar neutrino physics. We present not only an introduction to neutrinos from the standard solar model and the standard flavor evolution, but also a compilation of a variety of new physics that could affect and hence be probed by solar neutrinos. After reviewing the latest techniques and issues involved in the measurement of solar neutrino spectra and background reduction, we provide our anticipation on the physics gains from the new generation of neutrino experiments."
+    },
+    {
+      "title": "High-Spin Alpha Formation beyond <sup>208</sup>Pb: Revealing Interference Phases in Quartetting and Alpha Clustering",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326002121?dgcid=rss_sd_all",
       "authors": "Unknown",
       "source": "Physics Letters B",
-      "summary": "Publication date: Available online 14 March 2026Source: Physics Letters BAuthor(s): L. Pellegri, H. Jivan, A. Krugmann, P. Von Neumann-Cosel, N. Pietralla, A. Tamii, P. Adsley, N. Aoi, A. Bahini, C.A. Bertulani, J.W. Brummer, A. Coman, L.M. Donaldson, M. Färber, H. Fujita, Y. Fujita, A. Görgen, T. Hashimoto, K. Hatanaka, P.M. Jones"
+      "summary": "Publication date: Available online 15 March 2026Source: Physics Letters BAuthor(s): Boshuai Cai, Chong Qi, Cenxi Yuan"
+    },
+    {
+      "title": "<em>α</em>-decay systematics for superheavy nucleus: The effect of deformation of daughter nucleus",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0375947426000576?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Nuclear Physics A",
+      "summary": "Publication date: Available online 15 March 2026Source: Nuclear Physics AAuthor(s): Jinyu Hu, Chen Wu"
+    },
+    {
+      "title": "Mutual Correlations of Pairing Correlations, Spin–Orbit Interaction, and Deformation Effects for the Ground State of $$^{12}\\hbox {C}$$",
+      "link": "https://link.springer.com/article/10.1007/s00601-026-02036-9",
+      "authors": "Unknown",
+      "source": "Few-Body Systems",
+      "summary": "The intrinsic structure of $$^{12}\\hbox {C}$$ remains a longstanding challenge in self-consistent mean-field approaches, as different density functional theory calculations predict either spherical or deformed ground-state configurations. In this work, we investigate the interplay between the spin–orbit interaction, pairing correlations, and quadrupole deformation in $$^{12}\\hbox {C}$$ within the Skyrme–Hartree–Fock–Bogoliubov framework. By systematically varying the strengths of the spin–orbit interaction and the pairing interaction, we analyze the evolution of potential energy curves, single-particle shell structure, and occupation probabilities. For the normal spin–orbit strength, the spherical configuration remains remarkably robust against variations in the pairing strength. When the spin–orbit interaction is reduced, the shell structure around the Fermi surface becomes softened, allowing pairing correlations to play a decisive role in stabilizing an oblate intrinsic shape. These results demonstrate that, in $$^{12}\\hbox {C}$$, the spin–orbit interaction controls the onset of deformation, whereas pairing correlations determine whether deformation is realized. It means that Gamow–Teller transition strengths might be highly sensitive to these structural changes and thus provide a valuable probe of the underlying intrinsic configuration."
     }
   ]
 }
