@@ -1,12 +1,131 @@
 {
-  "lastUpdated": "2026-03-23T03:39:21.340089",
+  "lastUpdated": "2026-03-24T03:30:21.557350",
   "papers": [
     {
-      "title": "Higgs inflation in Weyl-invariant Einstein-Cartan gravity",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326002303?dgcid=rss_sd_all",
+      "title": "Radial excitations and their potential impact on Fermi $β$-decay rates",
+      "link": "http://link.aps.org/doi/10.1103/t69f-fc4p",
+      "authors": "L. Xayavong, Y. Lim, N. A. Smirnova, and Calvin W. Johnson",
+      "source": "Physical Review C",
+      "summary": "Author(s): L. Xayavong, Y. Lim, N. A. Smirnova, and Calvin W. JohnsonWe investigate the contribution of radial excitations to Fermi $β$-decay matrix element. To this end, exact no-core shell-model calculations are performed for the mirror $β$ decay of tritium, where full convergence can be achieved on an ordinary computer. The differences between the isospin-mixing c…[Phys. Rev. C 113, 034317] Published Mon Mar 23, 2026"
+    },
+    {
+      "title": "Precision mass measurement of $^{61}\\mathrm{Zn}$ and updated $Ft$ value for conserved vector current tests",
+      "link": "http://link.aps.org/doi/10.1103/fbf3-nry6",
+      "authors": "P. F. Giesel, D. Atanasov, K. Blaum, P. Fischer, J. Karthein, I. Kulikov, Yu. A. Litvinov, D. Lunney, M. Mougeot, L. Nies, L. Schweikhard, V. A. Virtanen, and F. Wienholtz",
+      "source": "Physical Review C",
+      "summary": "Author(s): P. F. Giesel, D. Atanasov, K. Blaum, P. Fischer, J. Karthein, I. Kulikov, Yu. A. Litvinov, D. Lunney, M. Mougeot, L. Nies, L. Schweikhard, V. A. Virtanen, and F. WienholtzWe report a high-precision mass measurement of $^{61}\\mathrm{Zn}$, performed with the ISOLTRAP mass spectrometer at ISOLDE, CERN. Our result agrees with a recent measurement from the LEBIT Penning trap at FRIB and reduces the mass uncertainty by a factor of four. Combined with recent measurements of…[Phys. Rev. C 113, 034318] Published Mon Mar 23, 2026"
+    },
+    {
+      "title": "Direct and sequential transfer mechanisms in the $^{9}\\mathrm{Be}(^{6}\\mathrm{Li},^{4}\\mathrm{He})^{11}\\mathrm{B}$ reaction: Probing cluster dynamics in light nuclei",
+      "link": "http://link.aps.org/doi/10.1103/hqw4-6ml2",
+      "authors": "K. Mendibayev, J. L. Ferreira, T. Issatayev, A. K. Azhibekov, S. M. Lukyanov, Yu. E. Penionzhkevich, B. A. Urazbekov, E. K. Almanbetova, D. S. Valiolda, T. K. Zholdybayev, B. Pinheiro, and J. Lubian",
+      "source": "Physical Review C",
+      "summary": "Author(s): K. Mendibayev, J. L. Ferreira, T. Issatayev, A. K. Azhibekov, S. M. Lukyanov, Yu. E. Penionzhkevich, B. A. Urazbekov, E. K. Almanbetova, D. S. Valiolda, T. K. Zholdybayev, B. Pinheiro, and J. LubianThis work presents a combined experimental and theoretical investigation of the $^{9}\\mathrm{Be}(^{6}\\mathrm{Li}, ^{4}\\mathrm{He})^{11}\\mathrm{B}$ transfer reaction at an incident energy of 68 MeV. Angular distributions of the emitted $^{4}\\mathrm{He}$ particles were measured for several low-lying s…[Phys. Rev. C 113, 034616] Published Mon Mar 23, 2026"
+    },
+    {
+      "title": "Predicting the formation probability ${P}_{\\text{CN}}$ of a compound nucleus with machine learning",
+      "link": "http://link.aps.org/doi/10.1103/pymg-tmxz",
+      "authors": "Jiatai Li and Nobuaki Imai",
+      "source": "Physical Review C",
+      "summary": "Author(s): Jiatai Li and Nobuaki ImaiThe formation probability of the compound nucleus ${P}_{\\mathrm{CN}}$, predominated by quasifission, is pivotal for synthesizing heavy and superheavy elements via fusion-evaporation reactions. However, ${P}_{\\mathrm{CN}}$ has thus far been formulated only phenomenologically, with substantial discrep…[Phys. Rev. C 113, 034617] Published Mon Mar 23, 2026"
+    },
+    {
+      "title": "Probing the role of surface diffuseness in sequential $α$ decays of $^{219–224}\\mathrm{Np}$ isotopes",
+      "link": "http://link.aps.org/doi/10.1103/khzr-z3vk",
+      "authors": "Gudveen Sawhney, Ashutosh Kaushik, and Manoj K. Sharma",
+      "source": "Physical Review C",
+      "summary": "Author(s): Gudveen Sawhney, Ashutosh Kaushik, and Manoj K. SharmaIn this work, we investigate the sequential $α$-decay chains of $^{219}\\mathrm{Np}, ^{220}\\mathrm{Np}, ^{223}\\mathrm{Np}$, and $^{224}\\mathrm{Np}$ nuclei produced in fusion-evaporation reactions, within the framework of the Dynamical Cluster-decay Model (DCM) using compact configurations. For compar…[Phys. Rev. C 113, 034618] Published Mon Mar 23, 2026"
+    },
+    {
+      "title": "Novel deep learning method for detecting nucleon-nucleon correlations",
+      "link": "http://link.aps.org/doi/10.1103/hymw-tknk",
+      "authors": "Yu-Jing Huang, Zhu Meng, Long-Gang Pang, and Xin-Nian Wang",
+      "source": "Physical Review C",
+      "summary": "Author(s): Yu-Jing Huang, Zhu Meng, Long-Gang Pang, and Xin-Nian WangThis study investigates the impact of nucleon-nucleon correlations on heavy-ion collisions using the hadronic transport model smash in $\\sqrt{{s}_{NN}}=3$ GeV $^{197}\\mathrm{Au}+^{197}\\mathrm{Au}$ collisions. We developed an innovative Monte Carlo sampling method that incorporates both single-nucleo…[Phys. Rev. C 113, 034916] Published Mon Mar 23, 2026"
+    },
+    {
+      "title": "Spectral Bogoliubov-Born-Green-Kirkwood-Yvon hierarchical approach: A scalable scheme for nonlinear Boltzmann and correlation kinetics",
+      "link": "http://link.aps.org/doi/10.1103/zxkx-5t8k",
+      "authors": "Xingjian Lu and Shuzhe Shi",
+      "source": "Physical Review C",
+      "summary": "Author(s): Xingjian Lu and Shuzhe ShiThe Bogoliubov-Born-Green-Kirkwood-Yvon (BBGKY) hierarchy provides a time-reversal-symmetric framework for describing the nonequilibrium evolution of many-body systems. Despite the success of Boltzmann-based numerical approaches, systematically extending beyond this lowest-order truncation to the fu…[Phys. Rev. C 113, 034917] Published Mon Mar 23, 2026"
+    },
+    {
+      "title": "Chirality in $(\\stackrel{⃗}{p},2p)$ reactions induced by proton helicity",
+      "link": "http://link.aps.org/doi/10.1103/gv3x-8zj6",
+      "authors": "Tomoatsu Edagawa, Kazuki Yoshida, Shoichiro Kawase, Kazuyuki Ogata, and Masaki Sasano",
+      "source": "Physical Review C",
+      "summary": "Author(s): Tomoatsu Edagawa, Kazuki Yoshida, Shoichiro Kawase, Kazuyuki Ogata, and Masaki SasanoIt is shown that longitudinally polarized protons can be used to induce chirality in the final states of the $(\\stackrel{⃗}{p},pN)$ reaction at intermediate energies, when there exist three final-state particles with non-coplanar momentum vectors. The analyzing power ${A}_{z}$ is proposed as a measu…[Phys. Rev. C 113, L031601] Published Mon Mar 23, 2026"
+    },
+    {
+      "title": "First measurement of ${\\mathrm{Σ}}^{+}n→\\mathrm{Λ}p$ and ${\\mathrm{Σ}}^{+}n→{\\mathrm{Σ}}^{0}p$ cross sections via ${\\mathrm{Σ}}^{+}$-nucleus scattering at an electron-positron collider",
+      "link": "http://link.aps.org/doi/10.1103/nzzh-4f6y",
+      "authors": "M. Ablikim <em>et al.</em> (BESIII Collaboration)",
+      "source": "Physical Review C",
+      "summary": "Author(s): M. Ablikim et al. (BESIII Collaboration)Experimental data on hyperon-nucleon interactions are scarce even though measurements of hyperon-nucleon scattering have been performed since the 1960s. This work takes advantage of 1010 J/ψ particles produced at an e+e− collider to extract unique hyperon-nucleon cross sections. Following the decay J/ψ→Σ+Σ¯−, the experiment tracked the nearly monoenergetic hyperons through the collider beam pipe and their interactions with bound neutrons in the pipe. Cross sections for two final states are extracted with &gt;3σ sensitivity. These results should aid theory progress on hyperon-nucleon interactions and may be useful in constraining hyperons in the equation of state of neutron star cores.[Phys. Rev. C 113, L032201] Published Mon Mar 23, 2026"
+    },
+    {
+      "title": "Probing short range correlations in Heavy-Ion Double Charge Exchange reactions",
+      "link": "https://arxiv.org/abs/2603.19793",
+      "authors": "Caterina Garofalo, Horst Lenske, Francesco Cappuzzello, Manuela Cavallaro",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2603.19793v1 Announce Type: new \nAbstract: The Majorana Double Charge Exchange (MDCE) provides a suitable environment for studying the dynamics of the neutrinoless double beta ($0\\nu\\beta\\beta$) decay, particularly short-range correlations among nucleons. The study of the pion potential is essential in this respect, as it represents the strong interaction counterpart of the neutrino potential, driving nucleon correlations in $0\\nu\\beta\\beta$ decay. Numerical studies on pion potential have revealed an effective range of about 1 fm with slight dispersion around this value, confirming the short-range character of the MDCE process."
+    },
+    {
+      "title": "A dual description of quarks and baryons: Quarkyonic matter within a relativistic quark model",
+      "link": "https://arxiv.org/abs/2603.19839",
+      "authors": "Tsuyoshi Miyatsu, Myung-Ki Cheoun, Koichi Saito",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2603.19839v1 Announce Type: new \nAbstract: We investigate quarkyonic matter within a relativistic quark model by combining the dual quarkyonic picture with the quark-meson coupling (QMC) model. Using relativistic gaussian quark wavefunctions for the nucleon, we construct the quarkyonic QMC (QQMC) model and study the properties of symmetric nuclear matter and pure neutron matter. We find that the quark saturation density depends sensitively on the nucleon size parameter and that nuclear interactions quantitatively modify the high-density behavior of the equation of state (EoS) and the sound velocity. In particular, the QQMC model yields an earlier onset of quark saturation than the noninteracting gaussian quarkyonic (GQ) model, indicating that nuclear interactions enhance the stiffening of the EoS in the quarkyonic regime."
+    },
+    {
+      "title": "Renormalization group evolution and power counting in nuclear matter",
+      "link": "https://arxiv.org/abs/2603.19892",
+      "authors": "Manuel Pavon Valderrama",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2603.19892v1 Announce Type: new \nAbstract: In nuclear matter, for interparticle separations larger than the healing distance (a characteristic long-distance scale of finite-density fermionic systems), the in-medium two-body wave function is essentially a free wave function. In terms of the renormalization group (RG), this implies that the running of the effective field theory (EFT) couplings freezes for r-space cutoffs above this distance (or p-space cutoffs below the corresponding healing momentum scale). As a consequence the leading order EFT description of nuclear matter (understood here as the infrared limit of the RG) corresponds to the mean-field approximation and a set of tree-level (i.e. perturbative) leading contact-range couplings. Though the contacts do in principle inherit the power counting they had in the vacuum, their iteration is suppressed in the infrared, explaining why they become perturbative in nuclear matter. In addition to the contact-range potential, RG evolution requires the inclusion of density-dependent terms in the equation of state that can be represented by a pseudo-potential, which (unlike the genuine contacts) should not be iterated. The LO EFT description ends up being a subset of Skyrme forces previously identified by the Orsay group."
+    },
+    {
+      "title": "Global $\\Lambda$ hyperon polarization in low-energy heavy ion collisions -- a scenario without vorticity",
+      "link": "https://arxiv.org/abs/2603.19581",
+      "authors": "Feng Liu (Department of Physics and Astronomy, Stony Brook University), Zhoudunming Tu (Department of Physics and Astronomy, Stony Brook University, Department of Physics, Brookhaven National Laboratory)",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2603.19581v1 Announce Type: cross \nAbstract: Since its discovery, global polarization of the $\\Lambda$ hyperon in heavy-ion collisions has been firmly established and is widely attributed to the large vorticity generated in the rotating quark-gluon plasma. In contrast, nearly fifty years after the first observation of unexpectedly large transverse $\\Lambda$ polarization in unpolarized hadron collisions, its underlying mechanism remains an open and long-standing puzzle, despite being observed across a broad range of collision systems. Although these two phenomena exhibit notable similarities, they are generally regarded as arising from distinct physical origins. In this work, we propose a direct connection between $\\Lambda$ global polarization in heavy-ion collisions and the long-standing transverse polarization observed in unpolarized collision systems. We demonstrate that the alignment between the $\\Lambda$ production plane and the reaction plane, driven by directed flow, can transfer transverse polarization into the measured global polarization signal. Realistic Monte Carlo simulations of Au+Au collisions at $\\sqrt{s_{\\rm NN}} = 3$ GeV indicate that this mechanism can generate a sizable global polarization, accounting for approximately $23\\%\\pm6\\%$ of the magnitude reported by the STAR Collaboration. Our results establish, for the first time, a quantitative link between these two well-known phenomena and have important implications for the interpretation of $\\Lambda$ global polarization measurements in low-energy heavy-ion collisions."
+    },
+    {
+      "title": "Phase Diagram and Finite Temperature Properties of Negative Coupling Scalar Field Theory",
+      "link": "https://arxiv.org/abs/2603.19877",
+      "authors": "Paul Romatschke",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2603.19877v1 Announce Type: cross \nAbstract: In this work, I consider scalar field theory with negative quartic self-interaction, corresponding to an upside-down classical potential. Despite not possessing a classically stable ground state, such potentials are known to behave properly when treated quantum mechanically, leading to stable and unitary time evolution. Using two different saddle-point expansions for the same theory, I discuss the phase diagram in terms of bare parameters in Euclidean dimensions one to four, as well as the generalization to finite temperature. Comparing to other methods where available, I find that negative coupling field theory is a promising candidate for an interacting scalar field theory in the continuum. In particular, in four dimensions it exploits a loophole in mathematical proofs of quantum triviality, suggesting that negative coupling scalar field theory could offer a UV-complete and interacting description of the Higgs."
+    },
+    {
+      "title": "Interrogating the composition and distribution of nuclear magnetization via the hyperfine anomaly: experiment meets nuclear and atomic theory for short-lived $^{47}$K",
+      "link": "https://arxiv.org/abs/2603.20090",
+      "authors": "M. L. Bissell, M. Jankowski, A. Antu\\v{s}ek, N. Azaryan, B. C. Backes, M. Baranowski, M. Chojnacki, K. M. Dziubi\\'nska-K\\\"uhn, 1 R. Han, A. Hurajt, B. Karg, I. Michelon, M. Pesek, M. Piersa-Si{\\l}kowska, B. M. Roberts, G. Sanamyan, T. P. Treczoks, L. Vasquez Rodriguez, H. Wibowo, D. Zakoucky, M. \\v{Z}\\v{n}ava, M. Kortelainen, J. Dobaczewski, J. S. M. Ginges, M. Kowalska",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2603.20090v1 Announce Type: cross \nAbstract: To date, the magnetic structure of nuclei has been poorly constrained, with limited information on its spatial distribution. In this work, we address the composition and distribution of nuclear magnetization in a precision study of short-lived $^{47}$K. We measure the Larmor frequency with part-per-million precision using liquid-state $\\beta$-detected nuclear magnetic resonance at CERN-ISOLDE, improving determination of the experimental differential hyperfine anomaly relative to $^{39}$K by more than an order of magnitude. By combining these experimental results with relativistic all-orders atomic calculations and nuclear density functional theory, we obtain the relative spin and orbital contributions to the nuclear magnetic moments. Our analysis reveals an overestimation of the spin contribution predicted by nuclear theory, that persists even after considering two-body currents. Conversely, we show that the measured hyperfine anomaly is reproduced when adopting the spatial distribution of nuclear magnetization provided by density functional theory. The methodology introduced in this work establishes a means to probe the detailed magnetic structure of the nucleus. This is critical for benchmarking nuclear structure theory and calculations of symmetry-violating nuclear moments relevant to searches for physics beyond the Standard Model in atoms and molecules."
+    },
+    {
+      "title": "Detecting the 3D Ising model phase transition with a ground-state-trained autoencoder",
+      "link": "https://arxiv.org/abs/2603.20157",
+      "authors": "Ahmed Abuali, David A. Clarke, Morten Hjorth-Jensen, Ioannis Konstantinidis, Claudia Ratti, Jianyi Yang",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2603.20157v1 Announce Type: cross \nAbstract: We develop a one-class, deep-learning framework to detect the phase transition and recover critical behavior of the 3D Ising model. A 3D convolutional neural network autoencoder (CAE) is trained on ground-state configurations only, without prior knowledge of the critical temperature, the Hamiltonian, or the order parameter. After training, the model is applied to Monte Carlo configurations across a wide temperature range and different lattice sizes. The mean-square reconstruction error is shown to be sensitive to the transition. Finite-size scaling of the peak location for the reconstruction error susceptibility yields the critical temperature $T_c=4.5128(58)$ and the correlation-length critical exponent $\\nu=0.63(27)$, consistent with results from the literature. Our results show that a one-class CAE, trained on zero-temperature configurations only, can recover nontrivial critical behavior of the 3D Ising model."
+    },
+    {
+      "title": "Measurement of Kaon Directed Flow in Au+Au Collisions in the High Baryon Density Region",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326002078?dgcid=rss_sd_all",
       "authors": "Unknown",
       "source": "Physics Letters B",
-      "summary": "Publication date: Available online 21 March 2026Source: Physics Letters BAuthor(s): Georgios K. Karananas, Mikhail Shaposhnikov"
+      "summary": "Publication date: Available online 22 March 2026Source: Physics Letters BAuthor(s): B.E. Aboona, J. Adam, G. Agakishiev, I. Aggarwal, M.M. Aggarwal, Z. Ahammed, A. Aitbayev, I. Alekseev, E. Alpatov, A.K. Alshammri, A. Aparin, S. Aslam, J. Atchison, G.S. Averichev, V. Bairathi, X. Bao, P. Barik, K. Barish, S. Behera, P. Bhagat"
+    },
+    {
+      "title": "Solving bound-state equations in QCD2 with bosonic and fermionic quarks*",
+      "link": "https://iopscience.iop.org/article/10.1088/1674-1137/acda85",
+      "authors": "Xiaolin Li, 晓琳 李, Yu Jia, 宇 贾, Ying Li, 营 李, Zhewen Mo and 哲文 莫",
+      "source": "Chinese Physics C",
+      "summary": "We investigate the bound-state equations (BSEs) in two-dimensional QCD in the limit, viewed from both the infinite momentum frame (IMF) and the finite momentum frame (FMF). The BSE of a meson in the original 't Hooft model, viz., spinor QCD2 containing only fermionc quarks, has been extensively studied in literature. In this work, we focus on the BSEs pertaining to two types of ''exotic'' hadrons, a ''tetraquark'' which is composed of a bosonic quark and bosonic antiquark, and a ''baryon'' which is composed of a bosonic antiquark and a fermionic quark. Utilizing the Hamiltonian approach, we derive the corresponding BSEs for both types of ''exotic'' hadrons, from the perspectives of the light-front and equal-time quantization, and confirm the known results. The recently available BSEs for ''tetraquark'' in FMF has also been recovered with the aid of the diagrammatic approach. For the first time we also present the BSEs of a ''baryon'' in FMF in the extended 't Hooft model. By solving various BSEs numerically, we obtain the mass spectra pertaining to ''tetraquark'' and ''baryon'' and the corresponding bound-state wave functions of the lowest-lying states. It is numerically demonstrated that, when a ''tetraquark'' or ''baryon'' is continuously boosted, the forward-moving component of the bound-state wave function approaches the corresponding light-cone wave function, while the backward-moving component fades away."
     }
   ]
 }
