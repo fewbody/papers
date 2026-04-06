@@ -1,96 +1,40 @@
 {
-  "lastUpdated": "2026-04-05T03:50:33.194185",
+  "lastUpdated": "2026-04-06T03:54:23.524875",
   "papers": [
     {
-      "title": "Editorial: PRC Launches Perspectives",
-      "link": "http://link.aps.org/doi/10.1103/PhysRevC.113.040001",
-      "authors": "Joseph I. Kapusta, Bradley Rubin, and Christopher Wesselborg",
-      "source": "Physical Review C",
-      "summary": "Author(s): Joseph I. Kapusta, Bradley Rubin, and Christopher Wesselborg[Phys. Rev. C 113, 040001] Published Fri Apr 03, 2026"
-    },
-    {
-      "title": "Nuclear cold QCD: Review and future strategy",
-      "link": "http://link.aps.org/doi/10.1103/4jd1-tgh5",
-      "authors": "F. Arleo, P. Caucal, A. Deshpande, J. M. Durham, G. M. Innocenti, J. Jalilian-Marian, A. Kusina, M. X. Liu, Y. Mehtar-Tani, C.-J. Naïm, H. Paukkunen, S. Platchkov, F. Salazar, I. Vitev, and R. Vogt",
-      "source": "Physical Review C",
-      "summary": "Author(s): F. Arleo, P. Caucal, A. Deshpande, J. M. Durham, G. M. Innocenti, J. Jalilian-Marian, A. Kusina, M. X. Liu, Y. Mehtar-Tani, C.-J. Naïm, H. Paukkunen, S. Platchkov, F. Salazar, I. Vitev, and R. VogtThis comprehensive review of nuclear cold QCD effects in hadron-nucleus collisions, produced by an international collaboration of leading experts, integrates results from decades of experimental data on hard probes such as Drell-Yan, quarkonium, and heavy-flavor production and synthesizes the results to provide a means of better understanding these probes of cold nuclear matter.\nOpen questions such as the dynamics of parton energy loss; the role of saturation physics relative to nuclear parton distribution functions; and the interplay between initial- and final-state effects are identified and addressed. Targeted measurements are proposed to answer these questions. Opportunities at the future Electron-Ion Collider (EIC) and its complementarity with other facilities is emphasized. The kinematic reach and high-precision capabilities of the EIC will provide data that can disentangle competing mechanisms and build a unified, coherent picture of cold nuclear matter effects.\nThis Perspective is intended as a timely reference for researchers entering the field as well as a proposed strategy to shape the next decade of cold QCD experimental programs.[Phys. Rev. C 113, 040501] Published Fri Apr 03, 2026"
-    },
-    {
-      "title": "Anomalous quadrupole transition probabilities in the ${f}_{7/2}$ mirror nuclei",
-      "link": "http://link.aps.org/doi/10.1103/1gt6-nc12",
-      "authors": "R. Escudeiro <em>et al.</em>",
-      "source": "Physical Review C",
-      "summary": "Author(s): R. Escudeiro et al.Lifetimes of several excited states in the mirror nuclei $^{47}\\mathrm{Cr}\\text{−}^{47}\\mathrm{V}$ and $^{49}\\mathrm{Mn}\\text{−}^{49}\\mathrm{Cr}$, located at the center of the ${f}_{7/2}$ shell, were measured using the advanced $γ$-ray tracking array AGATA. The Doppler shift attenuation method was e…[Phys. Rev. C 113, 044304] Published Fri Apr 03, 2026"
-    },
-    {
-      "title": "Entanglement entropy as a novel signature of shape evolution",
-      "link": "http://link.aps.org/doi/10.1103/m53b-6xxr",
-      "authors": "Y. M. Wang, J. Y. Lin, and Q. B. Chen",
-      "source": "Physical Review C",
-      "summary": "Author(s): Y. M. Wang, J. Y. Lin, and Q. B. ChenEmploying the five-dimensional collective Hamiltonian based on relativistic density functional theory, we investigate how the entanglement between collective shape and rotational degrees of freedom evolves along the even-even hafnium chain $^{154–198}\\mathrm{Hf}$. Potential-energy surfaces, deformat…[Phys. Rev. C 113, 044305] Published Fri Apr 03, 2026"
-    },
-    {
-      "title": "Forward modeling approach to nuclear reaction cross sections: Applications in neutron inelastic scattering",
-      "link": "http://link.aps.org/doi/10.1103/wdzh-ybzf",
-      "authors": "J. M. Gordon, B. L. Goldblum, D. L. Bleuel, C. A. Brand, J. A. Brown, T. A. Laplace, T. S. Nagel, and L. A. Bernstein",
-      "source": "Physical Review C",
-      "summary": "Author(s): J. M. Gordon, B. L. Goldblum, D. L. Bleuel, C. A. Brand, J. A. Brown, T. A. Laplace, T. S. Nagel, and L. A. BernsteinThe development of nuclear reaction models for the production of evaluated nuclear data has traditionally been performed by comparing measured cross sections with predictions from reaction model codes whose physical input parameters are adjusted to obtain the best agreement between measured and mode…[Phys. Rev. C 113, 044606] Published Fri Apr 03, 2026"
-    },
-    {
-      "title": "Longitudinal collective modes in relativistic asymmetric magnetized nuclear matter within the covariant Vlasov approach",
-      "link": "http://link.aps.org/doi/10.1103/y6nf-3zz4",
-      "authors": "Aziz Rabhi, Olfa Boukari, Sidney S. Avancini, and Constança Providência",
-      "source": "Physical Review C",
-      "summary": "Author(s): Aziz Rabhi, Olfa Boukari, Sidney S. Avancini, and Constança ProvidênciaThe neutron-proton-electron matter under a strong magnetic field is studied in the context of the covariant Vlasov approach. A covariant relativistic approach based on the Vlasov equation is applied to the study of infinite asymmetric magnetized nuclear matter. We use several relativistic mean-field…[Phys. Rev. C 113, 045803] Published Fri Apr 03, 2026"
-    },
-    {
-      "title": "Transfer of Quantum Coherence and Entanglement in Weak <math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si11.svg\" class=\"math\"><mrow><msup><mi>e</mi><mo>+</mo></msup><msup><mi>e</mi><mo>−</mo></msup><mo>⟶</mo><msup><mi>μ</mi><mo>+</mo></msup><msup><mi>μ</mi><mo>−</mo></msup></mrow></math> Scattering through <em>Z</em>-Boson Exchange",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326002625?dgcid=rss_sd_all",
+      "title": "Grand Unified Origin of Enhanced Scalar Couplings: Connecting Radiatively Broken Electroweak Symmetry to SO(10) Dynamics",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326002820?dgcid=rss_sd_all",
       "authors": "Unknown",
       "source": "Physics Letters B",
-      "summary": "Publication date: Available online 4 April 2026Source: Physics Letters BAuthor(s): Yassine Oussarhan, Fouad Essaadi, Said Mouslih, Mohamed Ouhammou, Mohamed Jakha, Souad Taj, Bouzid Manaut"
+      "summary": "Publication date: Available online 5 April 2026Source: Physics Letters BAuthor(s): Farrukh A. Chishtie"
     },
     {
-      "title": "Quantum mutual information, coherence and unified relations of top quarks in QCD processes",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326002790?dgcid=rss_sd_all",
+      "title": "Excitation function of femtoscopic Lévy source parameters of pion pairs in EPOS4",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326002777?dgcid=rss_sd_all",
       "authors": "Unknown",
       "source": "Physics Letters B",
-      "summary": "Publication date: Available online 3 April 2026Source: Physics Letters BAuthor(s): Duo-Duo Chen, Xue-Ke Song, Liu Ye, Dong Wang"
+      "summary": "Publication date: Available online 5 April 2026Source: Physics Letters BAuthor(s): Yan Huang, Mátyás Molnár, Dániel Kincses, Máté Csanád"
     },
     {
-      "title": "Taxonomy of periodic orbits and gravitational waves in a non-rotating Destounis-Suvorov-Kokkotas black hole spacetime",
-      "link": "https://www.sciencedirect.com/science/article/pii/S037026932600256X?dgcid=rss_sd_all",
+      "title": "Self-gravitating equilibrium with slow steady flow and its consistent form of entropy current",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326002686?dgcid=rss_sd_all",
       "authors": "Unknown",
       "source": "Physics Letters B",
-      "summary": "Publication date: Available online 3 April 2026Source: Physics Letters BAuthor(s): Zhutong Hua, Zhen-Tao He, Jing-Qi Lai, Jiageng Jiao, Yu Tian"
+      "summary": "Publication date: Available online 5 April 2026Source: Physics Letters BAuthor(s): Shuichi Yokoyama"
     },
     {
-      "title": "The forward-backward asymmetry induced CP asymmetry in in phase space around the resonances and ...",
-      "link": "https://iopscience.iop.org/article/10.1088/1674-1137/ae39cc",
-      "authors": "Jian-Yu Yang, 健宇 杨, Yu-Jie Zhao, 宇杰 赵, Jing-Juan Qi, 敬娟 祁, Zhen-Hua Zhang and 振华 张",
-      "source": "Chinese Physics C",
-      "summary": "The interference between amplitudes corresponding to different intermediate resonances plays an important role in generating large CP asymmetries in the phase space in multi-body decays of bottom and charmed mesons. In this study, we examine the CP violation in the decay channel in the phase-space region where the intermediate resonances and dominate. In particular, the forward-backward asymmetry (FBA) and the CP asymmetry induced by FBA (FB-CPA), which are closely related to the interference effects between the two aforementioned resonances, are investigated. The nontrivial correlation between FBA and FB-CPA is analyzed. The analysis indicates that FB-CPAs around the resonance can be as large as approximately 35%, which can be potentially accessible by Belle and Belle-II collaborations in the near future."
+      "title": "Charged nutty black holes are hairy",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326002844?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: Available online 4 April 2026Source: Physics Letters BAuthor(s): Dmitri Gal’tsov, Rostom Karsanov"
     },
     {
-      "title": "Schwinger effect in a twice anisotropic holographic model*",
-      "link": "https://iopscience.iop.org/article/10.1088/1674-1137/ae3dc0",
-      "authors": "Wen-Bin Chang, 文彬 常, Defu Hou and 德富 侯",
-      "source": "Chinese Physics C",
-      "summary": "The Schwinger effect, a non-perturbative mechanism for particle production in strong fields, plays a crucial role in understanding quantum vacuum decay and high-energy phenomena, including heavy-ion collisions (HIC). Although holographic quantum chromodynamics (QCD) models have been widely used to study this effect, most treatments assume isotropy or consider only a single type of anisotropy, neglecting the interplay between spatial and magnetic anisotropies that arise in realistic HIC scenarios. A unified framework accounting for both anisotropies is needed to accurately model particle production. We investigate the Schwinger effect in a twice anisotropic holographic QCD model incorporating both spatial and magnetic anisotropies. Using the anti-de Sitter/conformal field theory correspondence, we compute the total potential of a particle-antiparticle pair to quantify how these anisotropies influence pair production. Our results show that the magnetic field (parameterized by and ) enhances the Schwinger effect by lowering and narrowing the potential barrier, while increasing spatial anisotropy (controlled by ) suppresses the process by raising and widening the barrier. These findings demonstrate that magnetic and spatial anisotropies exert competing effects on particle production, emphasizing the necessity of treating both concurrently in holographic models. This work advances the theoretical description of the Schwinger effect in anisotropic environments, with implications for understanding non-equilibrium dynamics in HIC and other strongly coupled systems."
-    },
-    {
-      "title": "Bridging doubly heavy tetraquark mass spectrum with heavy baryons utilizing heavy antiquark-diquark symmetry*",
-      "link": "https://iopscience.iop.org/article/10.1088/1674-1137/ae3f0b",
-      "authors": "Liu-Yu Zhang, 刘宇 张, Tian-Wei Wu, 天伟 吴, Yong-Liang Ma and 永亮 马",
-      "source": "Chinese Physics C",
-      "summary": "Motivated by the observation of the doubly charmed tetraquark , we present a systematic study of doubly heavy tetraquarks ( ) using heavy antiquark-diquark symmetry (HADS) within a constituent quark model. By calibrating model parameters to known hadron spectra and incorporating the effective mass formula, we predict the masses for 38 ground-state tetraquarks with , , and heavy quark pairs, including the non-strange, single-strange, and double-strange configurations with quantum numbers and . Notably, we identify several stable states below the relevant meson-meson thresholds, particularly in the sector. The explicit connection between the doubly heavy tetraquark and the heavy baryon spectra through HADS reduces model dependence and reveals the fundamental systematics in the heavy-quark hadron landscape."
-    },
-    {
-      "title": "Gluon Wigner distributions under transverse polarization at non-zero skewness",
-      "link": "https://iopscience.iop.org/article/10.1088/1674-1137/ae4325",
-      "authors": "Sujit Jana, Kenil Solanki and Vikash Kumar Ojha",
-      "source": "Chinese Physics C",
-      "summary": "We investigate the Wigner distributions of gluons at non-zero skewness using light-front wave functions within the dressed quark model, where the target state is a quark dressed with a gluon in the leading-order Fock space expansion. The analyses focus on the configurations wherein the gluon and/or the target are transversely polarized. Subsequently, we derive analytical expressions for the Wigner distributions in the boost-invariant longitudinal space (σ) for transversely polarized configurations. Resultantly, a diffraction-like oscillatory pattern is yielded in σ-space, which is analogous to that reported previously for unpolarized and longitudinally polarized gluons."
+      "title": "Energy loss baseline for light hadrons in oxygen-oxygen collisions at <math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si4.svg\" class=\"math\"><mrow><msqrt><msub><mi>s</mi><mtext>NN</mtext></msub></msqrt><mo linebreak=\"goodbreak\">=</mo><mn>5.36</mn><mspace width=\"0.16em\"></mspace><mtext>TeV</mtext></mrow></math>",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326002637?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: Available online 4 April 2026Source: Physics Letters BAuthor(s): Aleksas Mazeliauskas"
     }
   ]
 }
