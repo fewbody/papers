@@ -1,54 +1,138 @@
 {
-  "lastUpdated": "2026-04-13T04:16:02.969094",
+  "lastUpdated": "2026-04-14T03:57:23.127205",
   "papers": [
     {
-      "title": "Crossover Equation of State Constrained by Astronomical Observations and pQCD",
-      "link": "https://arxiv.org/abs/2604.08841",
-      "authors": "Xuesong Geng, Kaixuan Huang, Hong Shen, Lei Li, Jinniu Hu",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2604.08841v1 Announce Type: new \nAbstract: The hadron--quark crossover equation of state (EOS) of neutron star (NS) matter is investigated by combining relativistic mean-field (RMF) hadronic models with the Nambu--Jona-Lasinio (NJL) model for quark matter. The vector and diquark coupling constants of the NJL model are constrained using perturbative QCD (pQCD) calculations at high density through a scale-averaging likelihood approach, together with constraints from NS observations and the causality condition on the speed of sound. It is found that the diquark coupling is tightly constrained to $H \\simeq 1.5G_s$, while the vector coupling is restricted to $G_v \\lesssim 1.1G_s$ by the combined pQCD and astrophysical constraints. Crossover EOSs are constructed based on three hadronic RMF parameter sets, and their thermodynamic properties, sound speed behaviour, and trace anomaly are analysed. The resulting EOSs are applied to calculate NS global and dynamical properties, including mass--radius relations, tidal deformabilities, and fundamental radial oscillation frequencies. Compared with pure hadronic EOSs, the hadron--quark crossover is shown to significantly enhance the maximum NS mass, particularly for softer hadronic EOSs, while remaining consistent with observational bounds. It is further shown that the fundamental radial oscillation frequencies predicted by different EOSs exhibit pronounced differences, especially for intermediate-mass NSs, indicating that radial modes may provide a sensitive probe of the internal composition of NSs. These results indicate that quantitative NS observables may provide potential signatures of quark matter in NS interiors."
+      "title": "Wave-packet solutions of time-dependent Faddeev equations: Calculation of the rearrangement and breakup $S$ matrices from the time-to-energy transform of the wave packet",
+      "link": "http://link.aps.org/doi/10.1103/2nt7-sz3v",
+      "authors": "Zeki C. Kuruoğlu",
+      "source": "Physical Review C",
+      "summary": "Author(s): Zeki C. KuruoğluThis article presents the formulation and numerical implementation of a time-independent wave-packet (TIWP) asymptotic projection scheme for extracting sharp-energy rearrangement and breakup $S$ matrices from wave-packet solutions of the time-dependent Faddeev equations. The TIWP scheme is based on …[Phys. Rev. C 113, 044003] Published Mon Apr 13, 2026"
     },
     {
-      "title": "Shape transitions and ground-state properties of tungsten isotopes in covariant density functional theory",
-      "link": "https://arxiv.org/abs/2604.09010",
-      "authors": "Usuf Rahaman",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2604.09010v1 Announce Type: new \nAbstract: This study investigates the structural evolution of even-even tungsten isotopes ($^{154\\text{--}264}$W) using covariant density functional theory (CDFT) with four relativistic functionals: DD-ME1, DD-ME2, DD-PC1, and DD-PCX. Key nuclear properties, including binding energies, quadrupole deformation parameters, two-neutron separation energies, neutron pairing energies, nuclear radii, and potential energy curves, are analyzed to explore shape transitions and stability from neutron-deficient to neutron-rich isotopes up to the drip line. The results reveal a dynamic shape evolution, with spherical configurations at $N = 82$ and $N = 126$, prolate dominance in intermediate regions, and shape coexistence in isotopes such as $^{158}$W, $^{160}$W, $^{194}$W, $^{196}$W, $^{206}$W, and near $^{244\\text{--}248}$W. A potential subshell closure at $N = 118$ is identified, supported by anomalies in separation energies and vanishing pairing energies. The neutron drip line is predicted at $N = 184$, marked by a return to spherical symmetry. Comparisons with experimental data and other theoretical models, including the deformed Hartree-Fock-Bogoliubov method with the Skyrme SLy4 interaction, the Finite Range Droplet Model, and the Relativistic Mean Field model with NL3, show strong agreement, validating the robustness of CDFT. These findings enhance our understanding of nuclear structure in the medium-to-heavy mass region and provide insights relevant to r-process nucleosynthesis, thereby guiding future experimental studies at radioactive ion beam facilities."
+      "title": "Spectroscopy of $^{209}\\mathrm{Ac}$ and $^{207}\\mathrm{Ac}$",
+      "link": "http://link.aps.org/doi/10.1103/yt44-ky4x",
+      "authors": "H. Kokkonen <em>et al.</em>",
+      "source": "Physical Review C",
+      "summary": "Author(s): H. Kokkonen et al.Excited states of $^{209}\\mathrm{Ac}$ and $^{207}\\mathrm{Ac}$ were observed, for the first time, by employing a highly selective recoil-decay tagging method and the recoil ion transport unit (RITU) gas-filled recoil separator. The nuclei were produced in the $^{180}\\mathrm{Hf}(^{35}\\mathrm{Cl}, 6n)^…[Phys. Rev. C 113, 044309] Published Mon Apr 13, 2026"
     },
     {
-      "title": "From binding and saturation to criticality in nuclear matter from lattice effective field theory",
-      "link": "https://arxiv.org/abs/2604.09154",
-      "authors": "Osman Agar, Zhengxue Ren, Serdar Elhatisari",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2604.09154v1 Announce Type: new \nAbstract: We investigate the interaction dependence of the liquid-gas critical point of symmetric nuclear matter in finite-temperature lattice effective field theory. Building on the pinhole-trace algorithm, we benchmark a first-order perturbative treatment for representative Hamiltonian splittings and then compute the finite-temperature equation of state for a sequence of sign-friendly lattice Hamiltonians ranging from an SU(4)-symmetric interaction to Hamiltonians with physical ${}^{1}S_{0}$ and ${}^{3}S_{1}$ channel dependence and improved leading-order interactions. The finite-temperature analysis is complemented by zero-temperature calculations of the symmetric-matter saturation point and the binding energies of selected nuclei within the same lattice framework. We find that the benchmarked perturbative strategy is quantitatively reliable in the thermodynamic regime studied. Across this Hamiltonian sequence, the refined interactions improve finite-nucleus binding energies and move the zero-temperature saturation point toward the empirical region, while lowering the critical temperature from 15.33(6) MeV to 14.62(20)-14.69(20) MeV. These calculations show that finite-temperature criticality is not fixed by zero-temperature saturation and binding alone, and may serve as a complementary benchmark for future lattice interaction development."
+      "title": "Dependencies of the fission path of superheavy nuclei on the excitation energy and spin-orbit strength",
+      "link": "http://link.aps.org/doi/10.1103/35rl-vpmq",
+      "authors": "A. N. Bezbakh, A. Rahmatinejad, G. G. Adamian, and N. V. Antonenko",
+      "source": "Physical Review C",
+      "summary": "Author(s): A. N. Bezbakh, A. Rahmatinejad, G. G. Adamian, and N. V. AntonenkoWithin the framework of the two-center shell model, the influence of excitation energy and spin-orbit interaction on the potential energy surface and, accordingly, on the axially symmetric and mass-symmetric static fission paths selected on the basis of potential energy surfaces is considered. The r…[Phys. Rev. C 113, 044609] Published Mon Apr 13, 2026"
     },
     {
-      "title": "Unified Extraction of In-Medium Heavy Quark Potentials from RHIC to LHC Energies via Deep Learning",
-      "link": "https://arxiv.org/abs/2604.09198",
-      "authors": "Jiamin Liu, Kai Zhou, Baoyi Chen",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2604.09198v1 Announce Type: new \nAbstract: We use deep learning under Bayesian perspective to quantitatively extract the in-medium heavy quark (HQ) potential from bottomonium nuclear modification factors ($R_{AA}$) measured across multiple heavy ion collision systems at the Large Hadron Collider (LHC) and the Relativistic Heavy-Ion Collider (RHIC). The in-medium HQ potential, comprising both a real and imaginary part, is parameterized and incorporated into a time-dependent Schr\\\"odinger equation to model the wave function evolution of $b\\bar{b}$ dipoles within a hydrodynamically evolving hot QCD medium. We construct Convolutional Neural Networks (CNNs) to capture the non-linear correspondence between the heavy quark potential $V(T,r)$ and the bottomonium $R_{AA}$ for Pb-Pb collisions at 5.02 TeV and 2.76 TeV, and Au-Au collisions at 200 GeV. Training datasets are generated by sampling the potential parameters and are further augmented using Principal Component Analysis (PCA) and Gaussian Process Regression (GPR). After validating the stability and correctness of the CNNs, we employ Stochastic Gradient Langevin Dynamics (SGLD) to perform a simultaneous Bayesian inverse extraction of the optimal potential parameters and their posterior distributions using experimental data of bottomonium $R_{AA}$ in both LHC and RHIC energies. Our joint multi-energy extraction suggests that, within the present parametrization and hydrodynamic background, the real part of the in-medium potential remains close to the vacuum Cornell form, corresponding to a relatively weak screened Debye mass across RHIC to LHC energies. By contrast, the imaginary part is more strongly constrained by the data and provides the dominant contribution to bottomonium suppression from RHIC to LHC energies."
+      "title": "Reduced basis emulator for elastic scattering in continuum-discretized coupled-channels calculations",
+      "link": "http://link.aps.org/doi/10.1103/n24x-d9gm",
+      "authors": "Jin Lei",
+      "source": "Physical Review C",
+      "summary": "Author(s): Jin LeiI develop a reduced basis emulator for continuum-discretized coupled-channel (CDCC) calculations that achieves speedups of $≈{10}^{2}$ while maintaining subpercent accuracy. The emulator is constructed using the proper orthogonal decomposition (POD) method applied to snapshots of CDCC solutions comp…[Phys. Rev. C 113, 044610] Published Mon Apr 13, 2026"
     },
     {
-      "title": "Synthesis mechanism of superheavy element 120: a dinuclear system model approach with microscopic inputs",
-      "link": "https://arxiv.org/abs/2604.09287",
-      "authors": "Wei Zhang, Shi-Jie Zhang, Peng-Hui Chen",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2604.09287v1 Announce Type: new \nAbstract: The dinuclear system model incorporates several essential input physical quantities, including nuclear mass, fission barrier, shell correction energy, level density parameter, and shell damping factor, etc., which are derived from diverse nuclear structure models. To achieve theoretical consistency, we try to generate these essential input physical quantities from the finite-temperature covariant density functional theory using PC-PK1 energy density functional, with pairing correlations treated via the BCS approach. With microscopically determined input parameters, the dinuclear system model can successfully reproduce experimental results for:\n  (i) cold fusion reaction systems ($^{48}$Ca + $^{204,206-208}$Pb $\\rightarrow$ $^{252,254-256}$No$^*$), and\n  (ii) hot fusion reaction systems ($^{48}$Ca + $^{239,240,242,244}$Pu $\\rightarrow$ $^{287,288,290,292}$Fl$^*$). Furthermore, we perform calculations for the fusion reactions $^{50}$Ti+$^{249}$Cf, $^{51}$V+$^{249}$Bk, $^{54}$Cr+$^{248}$Cm, and $^{55}$Mn+$^{243}$Am, targeting the synthesis of element 120. It is found that the maximum synthesis cross section for these four reactions are 48.20 fb, 12.33 fb, 5.25 fb, 0.47 fb corresponding to $^{50}$Ti($^{249}$Cf,4n)$^{295}$120 at $E^*_{\\rm CN}$ = 41 MeV, $^{51}$V($^{249}$Bk,3n)$^{297}$120 at $E^*_{\\rm CN}$ = 34 MeV, $^{54}$Cr($^{248}$Cm,3n)$^{299}$120 at $E^*_{\\rm CN}$ = 32 MeV, $^{55}$Mn($^{243}$Am,5n)$^{293}$120 at $E^*_{\\rm CN}$ = 53 MeV, respectively."
+      "title": "Measurement of the angle between jet axes in Pb-Pb collisions at $\\sqrt{{s}_{NN}}=5.02$ TeV",
+      "link": "http://link.aps.org/doi/10.1103/5bdl-cry6",
+      "authors": "S. Acharya <em>et al.</em> (ALICE Collaboration)",
+      "source": "Physical Review C",
+      "summary": "Author(s): S. Acharya et al. (ALICE Collaboration)This paper presents the first measurement of the angle between different jet axes (denoted as $\\mathrm{Δ}{R}_{\\mathrm{axis}}$) in $\\text{Pb-Pb}$ collisions. The measurement is carried out in the 0–10 % most-central events at $\\sqrt{{s}_{NN}}=5.02$ TeV. Jets are assembled by clustering charged partic…[Phys. Rev. C 113, 044905] Published Mon Apr 13, 2026"
     },
     {
-      "title": "Towards better nuclear charge radii",
-      "link": "https://arxiv.org/abs/2604.08985",
-      "authors": "Istv\\'an Angeli, Dimiter L. Balabanski, Paraskevi Dimitriou,  Dipti, Kieran T. Flanagan, Georgi Georgiev, Mikhail Gorchtein, Paul G\\`ueye, Fabian Hei{\\ss}e, Andreas Knecht, Kei Minamisono, Wilfried N\\\"ortersh\\\"auser, Ben Ohayon, Natalia S. Oreshkina, B. K. Sahoo, Hunter Staiger, Endre Takacs, Xiaofei Yang, Deyan T. Yordanov",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2604.08985v1 Announce Type: cross \nAbstract: Nuclear charge radii constitute a physical observable of growing significance across multiple subdisciplines of physics and related fields. Their determination relies on a combination of complementary experimental techniques and advanced theoretical frameworks. Current recommended values are informed by the outcomes of several independent working groups, each employing distinct methodological approaches and evaluation strategies. The present effort is directed toward a more precise and reliable extraction of charge radii, as well as the development of a modern, transparent, and methodologically robust compilation of recommended values."
+      "title": "Data-driven method to estimate contamination from light ion beam transmutation at colliders",
+      "link": "http://link.aps.org/doi/10.1103/f4c5-yys5",
+      "authors": "Sruthy Jyothi Das and Austin Baty",
+      "source": "Physical Review C",
+      "summary": "Author(s): Sruthy Jyothi Das and Austin BatyCollisions of relativistic light ions, such as oxygen, neon, and magnesium, have been proposed as a way to examine the system-size dependence of dynamics typically associated with the quark-gluon plasma produced in collisions of heavier ions such as xenon, gold, or lead. Recent efforts at both the R…[Phys. Rev. C 113, 044907] Published Mon Apr 13, 2026"
     },
     {
-      "title": "A numerical implementation of the NLO DIS structure functions in the dipole picture",
-      "link": "https://arxiv.org/abs/2604.09071",
-      "authors": "Henri H\\\"anninen, Heikki M\\\"antysaari, Jani Penttala",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2604.09071v1 Announce Type: cross \nAbstract: We present a numerical program that evaluates deep inelastic scattering (DIS) structure functions at next-to-leading order (NLO) accuracy in the dipole picture. In this numerical implementation the NLO DIS impact factors with massive quarks are written in a form that ensures a stable numerical evaluation of the DIS cross sections."
+      "title": "In-medium heavy quark-antiquark $T$ matrix without partial-wave expansion",
+      "link": "http://link.aps.org/doi/10.1103/zflx-2vql",
+      "authors": "Anurag Tiwari and Min He",
+      "source": "Physical Review C",
+      "summary": "Author(s): Anurag Tiwari and Min HeThe $T$ matrix of the heavy quark-antiquark ($Q\\overline{Q}\\phantom{\\rule{0.28em}{0ex}}$) pair interacting through a screened Cornell potential in the quark-gluon plasma is computed without employing the partial-wave expansion. This is compared with the results obtained using the conventional method…[Phys. Rev. C 113, 044908] Published Mon Apr 13, 2026"
+    },
+    {
+      "title": "Jet cone size dependence of single inclusive jet suppression due to jet quenching in $\\mathrm{Pb}+\\mathrm{Pb}$ collisions at $\\sqrt{{s}_{NN}}=5.02\\phantom{\\rule{0.28em}{0ex}}\\mathrm{TeV}$",
+      "link": "http://link.aps.org/doi/10.1103/1j7c-rmkn",
+      "authors": "Qing-Fei Han, Man Xie, and Han-Zhong Zhang",
+      "source": "Physical Review C",
+      "summary": "Author(s): Qing-Fei Han, Man Xie, and Han-Zhong ZhangJet suppression in high-energy heavy-ion collisions results from jet energy loss and transverse-momentum broadening during jet propagation through the quark-gluon plasma (QGP). The jet cone size ($R$) dependence of this suppression offers crucial insights into the energy loss mechanisms and QGP tran…[Phys. Rev. C 113, 044909] Published Mon Apr 13, 2026"
+    },
+    {
+      "title": "Measurement of the azimuthal anisotropy of charged particles in $\\sqrt{{s}_{NN}}=5.36\\phantom{\\rule{0.28em}{0ex}}\\mathrm{TeV} ^{16}\\mathrm{O}+^{16}\\mathrm{O}$ and $^{20}\\mathrm{Ne}+^{20}\\mathrm{Ne}$ collisions with the ATLAS detector",
+      "link": "http://link.aps.org/doi/10.1103/xqxz-8bhf",
+      "authors": "G. Aad <em>et al.</em> (ATLAS Collaboration)",
+      "source": "Physical Review C",
+      "summary": "Author(s): G. Aad et al. (ATLAS Collaboration)This paper presents the first measurements of the azimuthal anisotropy coefficients ${v}_{n}$, which quantify the $n\\mathrm{th}$-order Fourier modulation of charged-particle azimuthal distributions, for $n=2−4$ in $\\sqrt{{s}_{NN}}=5.36\\phantom{\\rule{0.28em}{0ex}}\\mathrm{TeV}\\phantom{\\rule{0.28em}{0e…[Phys. Rev. C 113, 045205] Published Mon Apr 13, 2026"
+    },
+    {
+      "title": "Symmetry energy of $2+1$ -flavor dense quark matter from perturbative QCD",
+      "link": "http://link.aps.org/doi/10.1103/5v39-l9lh",
+      "authors": "Isabella Danhoni, Yumu Yang, Mauricio Hippert, and Jacquelyn Noronha-Hostler",
+      "source": "Physical Review C",
+      "summary": "Author(s): Isabella Danhoni, Yumu Yang, Mauricio Hippert, and Jacquelyn Noronha-HostlerThe symmetry energy expansion was developed to connect isospin symmetric matter probed in nuclear experiments to asymmetric matter found in neutron stars. Using the isospin asymmetry derived from the Gell-Mann-Nishijima formula, we derive the symmetry energy expansion for quark matter, which has uni…[Phys. Rev. C 113, 045206] Published Mon Apr 13, 2026"
+    },
+    {
+      "title": "Baryon–antibaryon photoproduction cross sections off the proton",
+      "link": "http://link.aps.org/doi/10.1103/h197-l9dw",
+      "authors": "F. Afzal <em>et al.</em> (<span class=\"sc\">GlueX</span> Collaboration)",
+      "source": "Physical Review C",
+      "summary": "Author(s): F. Afzal et al. (GlueX Collaboration)The GlueX experiment at Jefferson Lab has observed $p\\overline{p}$ and, for the first time, $\\mathrm{Λ}\\overline{\\mathrm{Λ}}$ and $p\\overline{\\mathrm{Λ}}$ photoproduction from a proton target at photon energies up to 11.6 GeV. The angular distributions are forward peaked for all produced pairs, cons…[Phys. Rev. C 113, 045207] Published Mon Apr 13, 2026"
+    },
+    {
+      "title": "Investigation of the ratio $\\frac{{σ}_{r}}{{F}_{2}}({Q}^{2}/s,{Q}^{2})$ in the momentum-space approach",
+      "link": "http://link.aps.org/doi/10.1103/nc1k-vlc7",
+      "authors": "G. R. Boroun",
+      "source": "Physical Review C",
+      "summary": "Author(s): G. R. BorounI present a calculation of the ratio $\\frac{{σ}_{r}}{{F}_{2}}(x,{Q}^{2})$ in a momentum-space approach using the Block-Durand-Ha parametrization of the proton structure function ${F}_{2}(x,{Q}^{2})$. The results are compared with the H1 data and extended to high inelasticity. I also examine the rati…[Phys. Rev. C 113, 045208] Published Mon Apr 13, 2026"
+    },
+    {
+      "title": "Pati-Salam gauge unification from the Lorentzian DeWitt metric",
+      "link": "https://www.sciencedirect.com/science/article/pii/S037026932600300X?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: Available online 13 April 2026Source: Physics Letters BAuthor(s): Sloan Austermann"
+    },
+    {
+      "title": "Measurement of inclusive <em>J</em>/<em>ψ</em> production in Au+Au collisions at <math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si1.svg\" class=\"math\"><mrow><msqrt><msub><mi>s</mi><mtext>NN</mtext></msub></msqrt><mo linebreak=\"goodbreak\">=</mo><mn>54.4</mn></mrow></math> GeV at STAR",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326002595?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: Available online 13 April 2026Source: Physics Letters BAuthor(s): B.E. Aboona, J. Adam, L. Adamczyk, I. Aggarwal, M.M. Aggarwal, Z. Ahammed, A.K. Alshammri, E.C. Aschenauer, S. Aslam, J. Atchison, V. Bairathi, X. Bao, P. Barik, K. Barish, S. Behera, R. Bellwied, P. Bhagat, A. Bhasin, S. Bhatta, S.R. Bhosale"
+    },
+    {
+      "title": "Differential Contracting Homotopy in the Linearized 3d Higher-Spin Theory",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326003035?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: Available online 12 April 2026Source: Physics Letters BAuthor(s): M.A. Vasiliev, V.A. Vereitin"
+    },
+    {
+      "title": "Search for a resonance decaying into a scalar particle and a Higgs boson in the final state with two bottom quarks and two photons with 199 fb<math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si11.svg\" class=\"math\"><msup><mrow></mrow><mrow><mo>−</mo><mn>1</mn></mrow></msup></math> of data collected at <math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si12.svg\" class=\"math\"><msqrt><mi>s</mi></msqrt></math>=13 and 13.6 TeV with the ATLAS detector",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326002534?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: Available online 12 April 2026Source: Physics Letters BAuthor(s): G. Aad, E. Aakvaag, B. Abbott, S. Abdelhameed, K. Abeling, N.J. Abicht, S.H. Abidi, M. Aboelela, A. Aboulhorma, H. Abramowicz, Y. Abulaiti, B.S. Acharya, A. Ackermann, C. Adam Bourdarios, L. Adamczyk, S.V. Addepalli, M.J. Addison, J. Adelman, A. Adiguzel, T. Adye"
+    },
+    {
+      "title": "Local gauge-invariant vector operators in the adjoint <em>SU</em>(2) Higgs model",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326002601?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: Available online 12 April 2026Source: Physics Letters BAuthor(s): Giovani Peruzzo"
+    },
+    {
+      "title": "Thermal Analysis, Joule-Thomson Expansion and Hawking Sparsity of Mod(A)Max-AdS Black Hole Immersed in a Cloud of Strings",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326003011?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: Available online 12 April 2026Source: Physics Letters BAuthor(s): Faizuddin Ahmed, Ahmad Al-Badawi, Edilberto O. Silva"
+    },
+    {
+      "title": "T-odd Wigner Distributions in boost-invariant longitudinal position space and Spin-momentum correlation in proton",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0375947426000850?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Nuclear Physics A",
+      "summary": "Publication date: Available online 12 April 2026Source: Nuclear Physics AAuthor(s): Tanmay Maji"
     }
   ]
 }
