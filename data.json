@@ -1,103 +1,47 @@
 {
-  "lastUpdated": "2026-04-16T04:11:02.111747",
+  "lastUpdated": "2026-04-17T03:59:18.944164",
   "papers": [
     {
-      "title": "Scattering lengths beyond the nuclear scale and the Efimov effect",
-      "link": "https://arxiv.org/abs/2604.13755",
-      "authors": "F. Miguel Marqu\\'es",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2604.13755v1 Announce Type: new \nAbstract: The interaction of neutrons and nuclei at low energies may potentially lead to scattering lengths several orders of magnitude larger than the effective range of the interaction, well beyond the nuclear scale. If such cases existed, they could lead to the observation of the Efimov effect in nuclei, a remarkable universal phenomenon that has been observed only in atoms. The interaction parameters of neutrons scattering off unstable nuclei can be explored in neutron-nucleus systems created after the fast removal of a few nucleons from a slightly heavier beam. The case of the $^{17}$B-$n$ system is considered, and the implications of its potentially huge scattering length on the structure of $^{19}$B as a $^{17}$B-$n$-$n$ Efimov trimer are discussed."
+      "title": "Determination of nuclear deformations with an emulator for sub-barrier fusion reactions",
+      "link": "http://link.aps.org/doi/10.1103/8ycb-lrqq",
+      "authors": "Zehong Liao, K. Hagino, Long Zhu, S. Yoshida, and K. Uzawa",
+      "source": "Physical Review C",
+      "summary": "Author(s): Zehong Liao, K. Hagino, Long Zhu, S. Yoshida, and K. UzawaBased on the eigenvector continuation, which is mathematically an instance of the reduced basis method (RBM), we construct an emulator for coupled-channels calculations for heavy-ion fusion reactions at energies around the Coulomb barrier. We apply this to the $^{16}\\mathrm{O}+^{144,154}\\mathrm{Sm},…[Phys. Rev. C 113, 044611] Published Wed Apr 15, 2026"
     },
     {
-      "title": "Non-Gaussian fluctuations in relativistic hydrodynamics: Confluent equations for three-point correlations",
-      "link": "https://arxiv.org/abs/2604.14110",
-      "authors": "Xin An, Gokce Basar, Mikhail Stephanov",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2604.14110v1 Announce Type: new \nAbstract: We derive deterministic equations for the evolution of non-Gaussian fluctuations in relativistic stochastic hydrodynamics. This is achieved by defining the average local Landau frame and corresponding fluctuating hydrodynamic variables. Fully nonlinear stochastic hydrodynamics is expressed in a unified multi-component matrix form. A novel relativistic formalism, also manifestly covariant under SO(3) rotations of the local spatial basis in the average local Landau frame, is introduced. The equations describe correlators of all hydrodynamic variables, including fluctuating velocity (or momentum density) -- a nontrivial problem in relativistic hydrodynamics."
+      "title": "Charged-current quasielastic-like neutrino scattering from $^{12}\\mathrm{C}$ in the coherent density fluctuation model with two-nucleon emission",
+      "link": "http://link.aps.org/doi/10.1103/qmw9-27ff",
+      "authors": "M. V. Ivanov and A. N. Antonov",
+      "source": "Physical Review C",
+      "summary": "Author(s): M. V. Ivanov and A. N. AntonovThe quasielastic cross sections of charged-current neutrino and antineutrino scattering on $^{12}\\mathrm{C}$ are calculated using the coherent density fluctuation model with a relativistic effective mass ${m}_{N}^{*}=0.8{m}_{N}$ $({\\mathrm{CDFM}}_{{M}^{*}})$. The model explicitly considers the modif…[Phys. Rev. C 113, 044612] Published Wed Apr 15, 2026"
     },
     {
-      "title": "Proton Structure from Neural Simulation-Based Inference at the LHC",
-      "link": "https://arxiv.org/abs/2604.13157",
-      "authors": "Ricardo Barru\\'e, Lisa Benato, Ali Kaan G\\\"uven, Elie Hammou, Jaco ter Hoeve, Claudius Krause, Ang Li, Luca Mantani, Juan Rojo, Sergio S\\'anchez Cruz, Robert Sch\\\"ofbeck, Maria Ubiali, Daohan Wang",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2604.13157v1 Announce Type: cross \nAbstract: The precise determination of the parton distribution functions (PDFs) of the proton is an essential ingredient for LHC analyses, including for those at the upcoming High-Luminosity LHC. So far, PDFs are determined from global fits to binned low-dimensional data obtained from unfolded hard-scattering cross section measurements. In this work we demonstrate for the first time the feasibility of neural simulation-based inference (NSBI) for constraining the proton PDFs using a high-dimensional unbinned data set. Exploiting the full statistical power of unbinned data removes the loss of information inherited by the binning procedure. As a proof-of-concept, we determine the gluon PDF from simulated data of top quark pair production at the LHC with $\\sqrt{s}=13$ TeV. Taking into account both experimental and theoretical systematic uncertainties in the detector-level features, we demonstrate how the NSBI pipeline achieves significant improvements in precision compared to existing low-dimensional binned analyses. Our results illustrate the potential of unbinned inference to reduce the reliance on coarse approximations of uncertainties and their correlations entering PDF determinations, hence contributing to a new paradigm of unbinned detector-level ML-assisted measurements at the LHC."
+      "title": "Variational theory and parquet diagrams for nuclear systems: a comprehensive study of neutron matter",
+      "link": "https://epja.epj.org/10.1140/epja/s10050-026-01825-4",
+      "authors": "Eckhard Krotscheck, Jiawei Wang",
+      "source": "European Physical Journal A",
+      "summary": "Authors: Eckhard Krotscheck and Jiawei Wang.The European Physical Journal A Vol. 62 , page 77Published online: 14/4/2026"
     },
     {
-      "title": "Quantum computing for effective nuclear lattice model",
-      "link": "https://arxiv.org/abs/2604.13430",
-      "authors": "Zhushuo Liu, Jia-ai Shi, Bing-Nan Lu, Xiaosi Xu",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2604.13430v1 Announce Type: cross \nAbstract: Nuclear lattice effective field theory has become an important framework for quantum many-body calculations in nuclear physics, yet its classical implementation remains increasingly challenging for more general interactions and larger systems. In this work, we develop a quantum-computing framework for a three-dimensional nuclear lattice model. We construct a variational quantum eigensolver framework and systematically compare the Jordan-Wigner and Gray code encodings. Our analysis shows that for the few-body systems considered here, Gray code combined with symmetry reduction yields a substantially more compact qubit representation. Based on this framework, we perform numerical studies for $^{2}\\mathrm{H}$, $^{3}\\mathrm{H}$, and $^{4}\\mathrm{He}$ on finite lattices. The calculated ground-state energies exhibit a clear approach toward the corresponding experimental binding energies as the lattice size increases. These results provide a proof-of-principle foundation for future quantum simulations of nuclear many-body problems."
-    },
-    {
-      "title": "Response theory for quantum fields in isolation",
-      "link": "https://arxiv.org/abs/2604.13637",
-      "authors": "Stefan Floerchinger",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2604.13637v1 Announce Type: cross \nAbstract: Response theory describes the reaction of observales to perturbations in external fields. We review this formalism for quantum fiels in isolation that have unitary time evolution. An emphasis is put on consequences of causality and the resulting spectral representations for linear and nonlinear response functions, on functional techniques and generating functionals, including the description of the initial state, the evolution, and measurements. We review consequences of time reversal symmetry and relations for the statistics of work, and discuss a large class of quantum correlation functions, and their relation to response functions through fluctuation-dissipation relations. Consequences of conservation laws and gauge symmetries are mentioned briefly."
-    },
-    {
-      "title": "Global polarization of $\\Lambda$ hyperons in hot QCD matter at TeV energies",
-      "link": "https://arxiv.org/abs/2604.13701",
-      "authors": "Bhagyarathi Sahoo, Captain R. Singh, Raghunath Sahoo",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2604.13701v1 Announce Type: cross \nAbstract: The study of spin polarization of $\\Lambda$ hyperons in ultrarelativistic heavy-ion collisions provides insights into the angular momentum and vortical structure of the possible existence of QGP. The present study examines the global spin polarization of $\\Lambda$ hyperons using a second-order relativistic viscous hydrodynamic framework that incorporates medium vorticity, shear viscosity, and evolving magnetic fields. It explores thermal vorticity evolution in relativistic heavy-ion collisions and evaluates its value at the decoupling isothermal freeze-out surface. We quantify the contributions of thermal vorticity and magnetic field to the global spin polarization of $\\Lambda$ hyperons. Comparing results with recent ALICE measurements in Pb+Pb collisions at $\\sqrt{s_{NN}}$ = 2.76 and 5.02 TeV shows qualitative agreement, offering new insights into the vortical structure of QCD matter. It also explores the relationship between magnetic and rotational dynamics, with implications for spin polarization at RHIC and LHC energies."
-    },
-    {
-      "title": "Spectroscopy of $^{11}$Be from the $^{10}$Be($d,p$) reaction measured in inverse kinematics by the AT-TPC in SOLARIS",
-      "link": "https://arxiv.org/abs/2604.13766",
-      "authors": "M. Z. Serikow, D. Bazin, M. A. Caprio, Y. Ayyad, S. Beceiro-Novo, J. Chen, M. Cortesi, M. DeNudt, S. Giraud, P. Gueye, S. Heinitz, C. R. Hoffman, B. P. Kay, E. A. Maugeri, W. Mittig, B. G. Monteagudo, A. Mu\\~noz, F. Ndayisabye, J. Pereira, N. Rijal, C. Santamaria, D. Schumann, N. Watwood, G. Votta",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2604.13766v1 Announce Type: cross \nAbstract: The spectroscopy of $^{11}$Be is explored using the $^{10}$Be$(d,p)$$^{11}$Be transfer reaction performed in inverse kinematics at $9.6\\,\\MeV/u$ using the Active Target Time Projection Chamber (AT-TPC) inside the SOLARIS solenoid. This experiment is the first attempt at coupling the AT-TPC with SOLARIS to perform a high luminosity transfer reaction measurement without compromising excitation energy and scattering angle resolutions. The angular momentum transfer for states up to $3.40\\,\\MeV$ are determined from distorted-wave Born approximation analysis of the measured angular distributions, from which the corresponding spectroscopic factors are deduced. These factors are compared with those from various shell model interactions, and those for the $3.40\\,\\MeV$ state are consistent with a positive parity assignment. Recent \\textit{ab initio} no-core configuration interaction (NCCI) calculations with various nucleon-nucleon interactions are presented for the low-lying positive parity states of $^{11}$Be. The excitation energies produced using the Daejeon16 interaction are in good agreement with those found from both this experiment and the literature, thus supporting a positive parity assignment. The $3.40\\,\\MeV$ state, if assigned a tentative $J^\\pi=3/2^+$, would then correspond to the second excited state of the $K^P=1/2^+$ one-neutron halo ground state rotational band also predicted from such NCCI calculations."
-    },
-    {
-      "title": "Fully Heavy Pentaquarks with JETHAD: A High-Energy Viewpoint",
-      "link": "https://arxiv.org/abs/2604.13769",
-      "authors": "Francesco Giovanni Celiberto",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2604.13769v1 Announce Type: cross \nAbstract: We examine the leading-power fragmentation of fully heavy pentaquarks in high-energy hadronic collisions. To this end, we complete the release of the hadron-structure-oriented PQ5Q1.0 fragmentation functions, by discussing the $P_{5c}$ set and delivering the $P_{5b}$ one. These functions incorporate an improved computation of the initial-scale input for the constituent heavy-quark fragmentation channel, making them particularly suitable for describing both the direct formation of a compact multicharm state and the hadronization from a diquark-antiquark-diquark configuration. For phenomenological applications, we employ the data-validated (sym)JETHAD framework to compute and analyze NLL/NLO$^+$ semi-inclusive production rates of pentaquark-plus-jet systems at the upcoming HL-LHC and the future FCC. This study marks a further step toward connecting hadronic structure, precision QCD, and the emerging physics of exotic matter."
-    },
-    {
-      "title": "AI-assisted modeling and Bayesian inference of unpolarized quark transverse momentum distributions from Drell-Yan data",
-      "link": "https://arxiv.org/abs/2604.14133",
-      "authors": "Zhong-Bo Kang, Luke Sellers, Congyue Zhang, Curtis Zhou",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2604.14133v1 Announce Type: cross \nAbstract: We present an extraction of unpolarized quark transverse-momentum-dependent parton distribution functions (TMD PDFs) from Drell-Yan data within a Bayesian inference framework, incorporating artificial intelligence at multiple stages of the analysis. Our analysis is performed at ${\\rm N^3LO}$ in perturbative QCD combined with ${\\rm N^4LL}$ resummation accuracy. We first employ an AI-driven iterative procedure to explore and rank candidate functional forms for the nonperturbative contributions to TMD PDFs at the initial scale, as well as for the Collins-Soper evolution kernel, using $\\chi^2$ fits and physics constraints. To enable efficient Bayesian inference, we construct a surrogate model for TMD cross sections by training a machine-learning emulator over the parameter space, replacing computationally expensive repeated evaluations and allowing scalable sampling with an affine-invariant Markov Chain Monte Carlo (MCMC) ensemble. Using this framework, we perform a global analysis of Drell-Yan data from fixed-target, RHIC, and LHC experiments and extract TMD PDFs with quantified uncertainties. We compare the results with those obtained using the replica method and highlight differences in the resulting uncertainty estimates."
-    },
-    {
-      "title": "Finite-size behavior of higher-order cumulant ratios near criticality in two-dimensional Potts models",
-      "link": "https://arxiv.org/abs/2312.12130",
-      "authors": "Rajiv V. Gavai, Bedangadas Mohanty, Jaydev Singh Rao, Swati Saha",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2312.12130v2 Announce Type: replace-cross \nAbstract: Theoretical considerations predict a specific hierarchy among ratios of net-baryon number cumulants ($\\chi_n$, where $n$ is the order of cumulant) in the vicinity of the transition from the low-temperature hadronic phase to the high temperature quark-gluon plasma phase at small baryon chemical potential, $\\mu_\\mathrm{B}$, in the QCD phase diagram. This hierarchy, $\\frac{\\chi_6}{\\chi_2} < \\frac{\\chi_5}{\\chi_1} < \\frac{\\chi_4}{\\chi_2} < \\frac{\\chi_3}{\\chi_1}$, has been observed by the STAR experiment in net-proton number (a proxy of net-baryon number) cumulant ratios over a broad range of collision energies. Motivated by these findings, we investigate whether similar ordering emerges generically in finite statistical systems undergoing second-order phase transitions.\n  We employ two different spin models: the two-state and three-state Potts models in two dimensions, both exhibiting a transition from an ordered phase to a disordered phase at their respective critical temperatures. Monte Carlo simulations are performed on square lattices of varying sizes using the Wolff cluster algorithm. Cumulants of the total magnetization are calculated up to sixth order in both of these models in a temperature range near their corresponding critical temperatures. Higher-order cumulants exhibit extrema (peaks/troughs) whose magnitudes grow with both cumulant order and lattice size, reflecting enhanced critical fluctuations. Except within a narrow temperature window above the critical temperature, neither the complete hierarchy nor its exact reverse is realized over the studied temperature range in either model."
-    },
-    {
-      "title": "Dymnikova-Schwinger quantum-corrected slowly rotating wormholes: Photon and spinning particle dynamics",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326003060?dgcid=rss_sd_all",
+      "title": "Derivative Hierarchy as the Origin of Kernel-Dependent Trends in Gaussian Process Reconstructions of the Hubble Parameter",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326003096?dgcid=rss_sd_all",
       "authors": "Unknown",
       "source": "Physics Letters B",
-      "summary": "Publication date: Available online 15 April 2026Source: Physics Letters BAuthor(s): A. Errehymy, Y. Khedif, M. Daoud, B. Turimov, M.A. Khan, S. Usanov"
+      "summary": "Publication date: Available online 15 April 2026Source: Physics Letters BAuthor(s): Afaq Maqsood"
     },
     {
-      "title": "Two-proton emission as source of spin-entangled proton pairs",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326002923?dgcid=rss_sd_all",
-      "authors": "Unknown",
-      "source": "Physics Letters B",
-      "summary": "Publication date: Available online 14 April 2026Source: Physics Letters BAuthor(s): Tomohiro Oishi, Masaaki Kimura"
+      "title": "Enhanced energy extraction via magnetic reconnection in Kerr-AdS spacetime*",
+      "link": "https://iopscience.iop.org/article/10.1088/1674-1137/ae3db5",
+      "authors": "Bo Zhao, 博 赵, Chao-Hui Wang, 朝辉 王, Shao-Wen Wei and 少文 魏",
+      "source": "Chinese Physics C",
+      "summary": "In this study, we examine the energy extraction from Kerr-AdS black holes following the magnetic reconnection process. The parameter space regions that satisfy the energy extraction condition, as well as the efficiency and power of the extracted energy, are analyzed. This study shows that the presence of a negative cosmological constant extends the range of dominant reconnection radial locations where the energy extraction condition is met and enables energy extraction, even from black holes with relatively low spin. Furthermore, the influence of the negative cosmological constant on energy extraction is modulated by the extent of the dominant reconnection radial region: a more negative cosmological constant enhances the extracted energy, efficiency, and power, particularly for smaller dominant reconnection radii. These results demonstrate that the energy extraction from Kerr-AdS black holes is more favorable than that from their asymptotically flat counterparts. Our results highlight the crucial role of the cosmological constant in energy extraction via magnetic reconnection."
     },
     {
-      "title": "Searching for a <em>P<sub>cs</sub></em>(4200) state in the Λ<sub><em>b</em></sub> → <em>ϕη<sub>c</sub></em>Λ reaction",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326003059?dgcid=rss_sd_all",
-      "authors": "Unknown",
-      "source": "Physics Letters B",
-      "summary": "Publication date: Available online 14 April 2026Source: Physics Letters BAuthor(s): Wen-Tao Lyu, Eulogio Oset"
-    },
-    {
-      "title": "Thermal effects on..................................ß long-lived a..................................ßdecays in astrophysical nucleosynthesis",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326003047?dgcid=rss_sd_all",
-      "authors": "Unknown",
-      "source": "Physics Letters B",
-      "summary": "Publication date: Available online 14 April 2026Source: Physics Letters BAuthor(s): Zhen Wang, Zhongzhou Ren"
+      "title": "Probing rotating Hayward black holes: magnetic-charge-induced distortions, dynamic shadows, and polarization patterns*",
+      "link": "https://iopscience.iop.org/article/10.1088/1674-1137/ae3db6",
+      "authors": "Pei Wang, 佩 王, Sen Guo, 森 郭, Wen-Hao Deng, 文浩 邓, Qing-Quan Jiang, 青权 蒋, Xiao-Xiong Zeng, 晓雄 曾, Guo-Ping Li and 国平 李",
+      "source": "Chinese Physics C",
+      "summary": "This study investigates the imaging properties, photon-ring structure, and polarization signatures of rotating Hayward black holes, endowed with magnetic charges. We first derive the null geodesic and polarization parallel-transport equations in the rotating Hayward spacetime and cast them into a unified system of first-order differential equations suitable for numerical ray tracing. Using a fisheye camera model, together with an angular normalization scheme, we generate black hole images illuminated by both a spherical emission source and prograde/retrograde optically thin accretion disks to analyze the resulting redshift distribution and strong gravitational lensing features. By incorporating a set of representative magnetic-field configurations—including radial, polar, toroidal, and helical geometries—we compute the corresponding polarization maps and reveal how magnetic-field structure, black-hole spin, and magnetic charge shape the electric-vector position angle and polarization intensity. Our results show that magnetic charge induces a pronounced “D-shaped” distortion of the black hole shadow and enhances the polarization structure of the photon ring. We further observe that rotating Hayward black holes exhibit observable differences from Kerr black holes in their shadow morphology, photon-ring profiles, and polarization patterns. These findings offer theoretical predictions for future ground- and space-based interferometric observations and provide potential observational diagnostics for distinguishing between conventional Kerr and regular black hole models."
     }
   ]
 }
