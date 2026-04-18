@@ -1,47 +1,117 @@
 {
-  "lastUpdated": "2026-04-17T03:59:18.944164",
+  "lastUpdated": "2026-04-18T03:44:22.740329",
   "papers": [
     {
-      "title": "Determination of nuclear deformations with an emulator for sub-barrier fusion reactions",
-      "link": "http://link.aps.org/doi/10.1103/8ycb-lrqq",
-      "authors": "Zehong Liao, K. Hagino, Long Zhu, S. Yoshida, and K. Uzawa",
+      "title": "Precise Measurement of the $\\mathrm{Λ}$-Binding-Energy Difference between $_{\\mathrm{Λ}}^{3}\\mathrm{H}$ and $_{\\mathrm{Λ}}^{4}\\mathrm{H}$ via Decay-Pion Spectroscopy at MAMI",
+      "link": "http://link.aps.org/doi/10.1103/19gd-jqw2",
+      "authors": "Ryoko Kino <em>et al.</em> (A1 Collaboration)",
+      "source": "Physical Review Letter",
+      "summary": "Author(s): Ryoko Kino et al. (A1 Collaboration)We performed high-precision decay-pion spectroscopy of light $\\mathrm{Λ}$ hypernuclei at the Mainz Microtron (MAMI) using the A1 spectrometer facility. By measuring the monochromatic ${π}^{−}$ momentum from the two-body weak decay $_{\\mathrm{Λ}}^{3}\\mathrm{H}→^{3}\\mathrm{He}+{π}^{−}$ and referencing…[Phys. Rev. Lett. 136, 152301] Published Fri Apr 17, 2026"
+    },
+    {
+      "title": "Collapse of Nuclear Collectivity along the $N=Z$ Line",
+      "link": "http://link.aps.org/doi/10.1103/r6ns-ypw8",
+      "authors": "M. A. Bentley <em>et al.</em>",
+      "source": "Physical Review Letter",
+      "summary": "Author(s): M. A. Bentley et al.The lifetime of the ${J}^{π}={2}^{+}$ state in the self-conjugate $^{88}\\mathrm{Ru}$ nucleus has been determined in an experiment performed using rare-isotope beams provided by the new Facility for Rare Isotope Beams. This is the heaviest $N=Z$ nucleus for which such a measurement has been achieved.…[Phys. Rev. Lett. 136, 152501] Published Fri Apr 17, 2026"
+    },
+    {
+      "title": "Assessing convergence patterns across modern nucleon-nucleon potentials",
+      "link": "http://link.aps.org/doi/10.1103/f6py-twy1",
+      "authors": "P. J. Millican, R. J. Furnstahl, J. A. Melendez, and D. R. Phillips",
       "source": "Physical Review C",
-      "summary": "Author(s): Zehong Liao, K. Hagino, Long Zhu, S. Yoshida, and K. UzawaBased on the eigenvector continuation, which is mathematically an instance of the reduced basis method (RBM), we construct an emulator for coupled-channels calculations for heavy-ion fusion reactions at energies around the Coulomb barrier. We apply this to the $^{16}\\mathrm{O}+^{144,154}\\mathrm{Sm},…[Phys. Rev. C 113, 044611] Published Wed Apr 15, 2026"
+      "summary": "Author(s): P. J. Millican, R. J. Furnstahl, J. A. Melendez, and D. R. PhillipsThe BUQEYE model for correlated effective-field theory (EFT) truncation errors assumes a regular pattern of dimensionless coefficients extracted from order-by-order observable calculations. This enables results from lower orders to inform statistical predictions for error estimates of omitted higher…[Phys. Rev. C 113, 044004] Published Thu Apr 16, 2026"
     },
     {
-      "title": "Charged-current quasielastic-like neutrino scattering from $^{12}\\mathrm{C}$ in the coherent density fluctuation model with two-nucleon emission",
-      "link": "http://link.aps.org/doi/10.1103/qmw9-27ff",
-      "authors": "M. V. Ivanov and A. N. Antonov",
+      "title": "Robustness of the octupole deformation in the pear-shaped nucleus $^{224}\\mathrm{Ra}$",
+      "link": "http://link.aps.org/doi/10.1103/sy21-76g4",
+      "authors": "Y. Sun (孙宇), Y. Y. Wang (王媛媛), and F. F. Xu (许方方)",
       "source": "Physical Review C",
-      "summary": "Author(s): M. V. Ivanov and A. N. AntonovThe quasielastic cross sections of charged-current neutrino and antineutrino scattering on $^{12}\\mathrm{C}$ are calculated using the coherent density fluctuation model with a relativistic effective mass ${m}_{N}^{*}=0.8{m}_{N}$ $({\\mathrm{CDFM}}_{{M}^{*}})$. The model explicitly considers the modif…[Phys. Rev. C 113, 044612] Published Wed Apr 15, 2026"
+      "summary": "Author(s): Y. Sun (孙宇), Y. Y. Wang (王媛媛), and F. F. Xu (许方方)The rotational spectroscopic properties and the evolution of the octupole deformation with spin in $^{224}\\mathrm{Ra}$ are investigated by using the cranking relativistic density functional theory on a three-dimensional lattice space together with the shell-model-like approach to introduce the pairi…[Phys. Rev. C 113, 044313] Published Thu Apr 16, 2026"
     },
     {
-      "title": "Variational theory and parquet diagrams for nuclear systems: a comprehensive study of neutron matter",
-      "link": "https://epja.epj.org/10.1140/epja/s10050-026-01825-4",
-      "authors": "Eckhard Krotscheck, Jiawei Wang",
-      "source": "European Physical Journal A",
-      "summary": "Authors: Eckhard Krotscheck and Jiawei Wang.The European Physical Journal A Vol. 62 , page 77Published online: 14/4/2026"
+      "title": "Experimental study of bremsstrahlung $γ$-ray emission and short-range correlations in $^{124}\\mathrm{Sn}+^{124}\\mathrm{Sn}$ collisions at 25 MeV/nucleon",
+      "link": "http://link.aps.org/doi/10.1103/dhz2-nl56",
+      "authors": "Junhuai Xu <em>et al.</em>",
+      "source": "Physical Review C",
+      "summary": "Author(s): Junhuai Xu et al.Short-range correlation (SRC) in nuclei refers to nucleons forming temporally correlated pairs in close proximity, giving rise to the high momentum of the nucleons beyond the Fermi surface. It has been reported that bremsstrahlung $γ$ production from the neutron-proton process in heavy-ion reactions…[Phys. Rev. C 113, 044613] Published Thu Apr 16, 2026"
     },
     {
-      "title": "Derivative Hierarchy as the Origin of Kernel-Dependent Trends in Gaussian Process Reconstructions of the Hubble Parameter",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326003096?dgcid=rss_sd_all",
+      "title": "Size of the quark-gluon plasma in ultracentral collisions: Impact of initial density fluctuations on the average transverse momentum",
+      "link": "http://link.aps.org/doi/10.1103/l23s-t1ks",
+      "authors": "Fabian Zhou, Giuliano Giacalone, and Jean-Yves Ollitrault",
+      "source": "Physical Review C",
+      "summary": "Author(s): Fabian Zhou, Giuliano Giacalone, and Jean-Yves OllitraultRecent experiments have shown that the mean transverse momentum $〈{p}_{T}〉$ of outgoing particles increases as a function of the particle multiplicity in ultracentral nucleus-nucleus collisions at collider energies. This increase was originally predicted on the basis of simulations where the multipl…[Phys. Rev. C 113, 044910] Published Thu Apr 16, 2026"
+    },
+    {
+      "title": "Practical considerations for measuring global spin density matrix elements of vector mesons in heavy-ion collisions",
+      "link": "http://link.aps.org/doi/10.1103/j7w4-w6vt",
+      "authors": "Gavin Wilks, Xu Sun, and Zhenyu Ye",
+      "source": "Physical Review C",
+      "summary": "Author(s): Gavin Wilks, Xu Sun, and Zhenyu YeThe STAR Collaboration has reported a significant $ϕ$-meson global spin alignment $({ρ}_{00})$ signal in $\\mathrm{Au}+\\mathrm{Au}$ collisions at $\\sqrt{{s}_{NN}}≤62$ GeV by measuring the polar angle distribution of $ϕ$-meson daughters with respect to the orbital angular momentum direction of the col…[Phys. Rev. C 113, 044911] Published Thu Apr 16, 2026"
+    },
+    {
+      "title": "Constraining the $N=16$ Shell Gap in $^{17}$C via Transfer to the Continuum in the $^{16}$C$(d,p)^{17}$C Reaction",
+      "link": "https://arxiv.org/abs/2604.14423",
+      "authors": "P. Punta, J. A. Lay, A. M. Moro, J. Lois-Fuentes, B. Fern\\'andez-Dom\\'inguez",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2604.14423v1 Announce Type: new \nAbstract: Recently, a semi-microscopic structure model has been presented to study the structure of a weakly-bound, two-body nucleus with a deformed core, including Pauli-blocking effects. The model has been successfully applied within the adiabatic distorted wave approximation (ADWA) reaction framework to study the reactions $^{16}$C(d, p)$^{17}$C, restricting the analysis to bound states of the residual $^{17}$C nucleus. In these calculations, the structure of $^{17}$C is described using the recently presented semimicroscopic Nilsson+AMD model (NAMD), considering different Pauli-blocking methods. In the present work, the analysis is extended to unbound states of this nucleus with the aim of constraining the location of the $1d_{3/2}$ single-particle strength and infer the $N=16$ shell-gap. Comparing the measured energy differential cross section for this reaction with calculations in which the position of the $1d_{3/2}$ orbital is arbitrarily varied, we conclude that a large shell-gap (>5 MeV) is required, in agreement with recently reported value from [J. Lois-Fuentes et al., Phys. Lett. B 867, 139600 (2025)]."
+    },
+    {
+      "title": "Perturbative calculations of light nuclei up to N$^3$LO in chiral effective field theory",
+      "link": "https://arxiv.org/abs/2604.14985",
+      "authors": "Oliver Thim, Andreas Ekstr\\\"om, Christian Forss\\'en",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2604.14985v1 Announce Type: new \nAbstract: We predict ground-state energies of $^3$H, $^4$He, and $^6$Li in chiral effective field theory up to next-to-next-to-next-to-leading-order (N$^3$LO) using a power counting guided by renormalization-group invariance. Subleading two-nucleon interactions are treated perturbatively, and for $^4$He and $^6$Li, we calculate the perturbative corrections from numerical derivatives of ground-state energies obtained with Lanczos diagonalization. We find that including the $^3$H binding energy in the calibration is essential for robust predictions of $^4$He and $^6$Li. This work demonstrates that the employed power counting can be applied to construct nuclear interactions with predictive power for light nuclei, bringing nuclear structure predictions closer to a foundation in quantum chromodynamics."
+    },
+    {
+      "title": "Measurement of the Gerasimov-Drell-Hearn integrand for proton and deuteron from 200 to 1400 MeV",
+      "link": "https://arxiv.org/abs/2604.14385",
+      "authors": "P. Pedroni, F. Afzal, S. Abt, P. Achenbach, J. R. M. Annand, H. J. Arends, S. D. Bass, M. Biroth, R. Beck, N. Borisov, A. Braghieri, W. J. Briscoe, F. Cividini, C. Collicott, A. S. Dolzhikov, E. Downie, S. Fegan, A. Fix, D. Ghosal, I. Gorodnov, W. Gradl, G. Gurevich, L. Heijkenskj\\\"old, D. Hornidge, G. M. Huber, V. L. Kashevarov, S. J. D. Kay, M. Korolija, B. Krusche, A. Lazarev, K. Livingston, S. Lutterer, I. J. D. MacGregor, D. M. Manley, P. P. Martel, R. Miskimen, M. Mocanu, E. Mornacchi, C. Mullen, A. Neganov, A. Neiser, M. Oberle, M. Ostrick, P. B. Otte, D. Paudyal, A. Powell, T. Rostomyan, V. Sokhoyan, K. Spieker, O. Steffen, I. I. Strakovsky, T. Strub, M. Thiel, A. Thomas, Yu. A. Usov, S. Wagner, D. P. Watts, D. Werthm\\\"uller, J. Wettig, L. Witthauer, M. Wolfes, N. Zachariou",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2604.14385v1 Announce Type: cross \nAbstract: New data for the total inclusive helicity-dependent cross section for the proton and deuteron were obtained in the photon energy interval 200-1400 MeV. The experiment was performed at the A2 tagged-photon facility of the Mainz Microtron (MAMI) using a circularly polarized photon beam and longitudinally polarized proton and deuteron targets. The reaction products were detected using the large-acceptance Crystal Ball/TAPS calorimeter, which covers 97% of the full solid angle. These new results, obtained with fine energy binning, significantly expand both the quantity and the quality of the available data for these observables and enable a detailed comparison with state-of-the-art theoretical calculations. From the combination of the results for the deuteron and the proton, important information could also be extracted for the free neutron. Based on these data, and using existing models to evaluate the missing contributions from unmeasured photon energy regions, the validity of the Gerasimov-Drell-Hearn (GDH) sum rule has been verified for the proton, the neutron, and the deuteron. These new data provide a precise experimental benchmark for theoretical models used to study nucleons, both in their free state and when embedded in the nuclear medium."
+    },
+    {
+      "title": "A minimal implementation of Yang--Mills theory on a digital quantum computer",
+      "link": "https://arxiv.org/abs/2604.15132",
+      "authors": "Georg Bergner, Masanori Hanada, Emanuele Mendicelli",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2604.15132v1 Announce Type: cross \nAbstract: We present a minimal implementation of SU($N$) pure Yang-Mills theory in $3+1$ dimensions for digital quantum simulation, designed to enable quantum advantage. Building on the orbifold lattice simulation protocol with logarithmic scaling in the local Hilbert-space truncation, we introduce further simplified Hamiltonians. Furthermore, we test simple methods that improve the convergence to the infinite mass limit, thereby removing the requirement of a large scalar mass to obtain the Kogut-Susskind Hamiltonian. For the SU(2) theory, we can cut the resource requirement further by utilizing the embedding of $\\mathrm{SU}(2)\\cong\\mathrm{S}^3$ into $\\mathbb{R}^4$. Monte Carlo simulations of the Euclidean path integral were used to benchmark the accuracy of these new analytical improvements to the theory. These results provide further support for the noncompact-variable-based approach as a practical framework for quantum simulation of non-Abelian gauge theories."
+    },
+    {
+      "title": "Systematic study of flow of protons and light clusters in intermediate-energy heavy-ion collisions with momentum-dependent potentials",
+      "link": "https://arxiv.org/abs/2411.04969",
+      "authors": "Viktar Kireyeu, Vadim Voronyuk, Michael Winn, Susanne Gl\\\"a{\\ss}el, J\\\"org Aichelin, Christoph Blume, Elena Bratkovskaya, Gabriele Coci, Jiaxing Zhao",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2411.04969v2 Announce Type: replace \nAbstract: We study the influence of the nuclear equation-of-state (EoS) on collective observables -- the directed ($v_1$) and elliptic flow ($v_2$) of nucleons and light clusters -- in heavy-ion collisions at GeV energies using the Parton-Hadron-Quantum-Molecular Dynamics (PHQMD) approach. A novel development in this work is the inclusion of a momentum-dependent nucleon potential in the PHQMD in addition to the static, density-dependent Skyrme interaction. This enables three distinct EoS scenarios: two static (\"soft\" and \"hard\", differing in compressibility) and a soft, momentum-dependent EoS calibrated to $pA$ elastic scattering data. We find a strong EoS sensitivity in proton and cluster rapidity and $p_T$ distributions: soft and soft momentum-dependent EoS yield similar results, markedly different from the hard EoS. Softening the EoS reduces proton yields at midrapidity while enhancing light-cluster production. The EoS also affects flow observables differently for nucleons and clusters. For protons, a soft momentum-dependent potential increases slightly the magnitude of $v_1$ and $v_2$ relative to the hard EoS, whereas cluster flows are nearly similar. The soft momentum-dependent EoS provides an overall good agreement with experimental data from HADES and FOPI Collaborations while the soft EOS is not in line with the data. A scaling of $v_2$ with cluster mass number $A$ is observed at midrapidity for low $p_T$, which breaks at higher $p_T$. Finally, we examine the sensitivity of flow observables to deuteron production mechanisms. Deuterons formed via MST clustering exhibit different flow patterns from those produced by coalescence at freeze-out, indicating that flow harmonics may help discriminate between cluster formation scenarios."
+    },
+    {
+      "title": "Finite temperature effects on g-modes of inviscid neutron stars",
+      "link": "https://arxiv.org/abs/2604.11815",
+      "authors": "David Morales-Zapien, Prashanth Jaikumar, Thomas Kl\\\"ahn",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2604.11815v2 Announce Type: replace-cross \nAbstract: We study the effect of temperature on secular, compositional $g$-modes in the core of inviscid neutron stars. Using a chiral $SU(2)_f$ sigma model, we construct isentropic temperature profiles for hot and dense matter and find that the frequency of the global core $g$-mode's dependence on temperature is governed by the nuclear symmetry energy slope parameter $L$. As a result, the $g$-mode frequency of a warm neutron star can be either higher or lower than that of its cold counterpart, depending on $L$. Our results highlight the interplay of thermal effects and composition gradients, and demonstrate the potential of neutron star $g$-mode observations to constrain the density dependence of the symmetry energy."
+    },
+    {
+      "title": "Peccei-Quinn Genesis",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326003138?dgcid=rss_sd_all",
       "authors": "Unknown",
       "source": "Physics Letters B",
-      "summary": "Publication date: Available online 15 April 2026Source: Physics Letters BAuthor(s): Afaq Maqsood"
+      "summary": "Publication date: Available online 17 April 2026Source: Physics Letters BAuthor(s): Eung Jin Chun, Hyun Min Lee, Jun-Ho Song"
     },
     {
-      "title": "Enhanced energy extraction via magnetic reconnection in Kerr-AdS spacetime*",
-      "link": "https://iopscience.iop.org/article/10.1088/1674-1137/ae3db5",
-      "authors": "Bo Zhao, 博 赵, Chao-Hui Wang, 朝辉 王, Shao-Wen Wei and 少文 魏",
-      "source": "Chinese Physics C",
-      "summary": "In this study, we examine the energy extraction from Kerr-AdS black holes following the magnetic reconnection process. The parameter space regions that satisfy the energy extraction condition, as well as the efficiency and power of the extracted energy, are analyzed. This study shows that the presence of a negative cosmological constant extends the range of dominant reconnection radial locations where the energy extraction condition is met and enables energy extraction, even from black holes with relatively low spin. Furthermore, the influence of the negative cosmological constant on energy extraction is modulated by the extent of the dominant reconnection radial region: a more negative cosmological constant enhances the extracted energy, efficiency, and power, particularly for smaller dominant reconnection radii. These results demonstrate that the energy extraction from Kerr-AdS black holes is more favorable than that from their asymptotically flat counterparts. Our results highlight the crucial role of the cosmological constant in energy extraction via magnetic reconnection."
+      "title": "Eigen-microstate Signatures of Criticality in Relativistic Heavy-Ion Collisions",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326003114?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: Available online 17 April 2026Source: Physics Letters BAuthor(s): Ranran Guo, Jin Wu, Mingmei Xu, Xiaosong Chen, Zhiming Li, Zhengning Yin, Yuanfang Wu"
     },
     {
-      "title": "Probing rotating Hayward black holes: magnetic-charge-induced distortions, dynamic shadows, and polarization patterns*",
-      "link": "https://iopscience.iop.org/article/10.1088/1674-1137/ae3db6",
-      "authors": "Pei Wang, 佩 王, Sen Guo, 森 郭, Wen-Hao Deng, 文浩 邓, Qing-Quan Jiang, 青权 蒋, Xiao-Xiong Zeng, 晓雄 曾, Guo-Ping Li and 国平 李",
-      "source": "Chinese Physics C",
-      "summary": "This study investigates the imaging properties, photon-ring structure, and polarization signatures of rotating Hayward black holes, endowed with magnetic charges. We first derive the null geodesic and polarization parallel-transport equations in the rotating Hayward spacetime and cast them into a unified system of first-order differential equations suitable for numerical ray tracing. Using a fisheye camera model, together with an angular normalization scheme, we generate black hole images illuminated by both a spherical emission source and prograde/retrograde optically thin accretion disks to analyze the resulting redshift distribution and strong gravitational lensing features. By incorporating a set of representative magnetic-field configurations—including radial, polar, toroidal, and helical geometries—we compute the corresponding polarization maps and reveal how magnetic-field structure, black-hole spin, and magnetic charge shape the electric-vector position angle and polarization intensity. Our results show that magnetic charge induces a pronounced “D-shaped” distortion of the black hole shadow and enhances the polarization structure of the photon ring. We further observe that rotating Hayward black holes exhibit observable differences from Kerr black holes in their shadow morphology, photon-ring profiles, and polarization patterns. These findings offer theoretical predictions for future ground- and space-based interferometric observations and provide potential observational diagnostics for distinguishing between conventional Kerr and regular black hole models."
+      "title": "Multipartite entanglement features of primordial non-Gaussianities",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326003126?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: Available online 16 April 2026Source: Physics Letters BAuthor(s): Alessio Belfiglio, Roberto Franzosi, Orlando Luongo"
     }
   ]
 }
