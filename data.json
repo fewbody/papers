@@ -1,103 +1,124 @@
 {
-  "lastUpdated": "2026-04-20T04:15:55.887168",
+  "lastUpdated": "2026-04-21T03:59:43.902240",
   "papers": [
     {
-      "title": "Novel microscopic approaches for Spin-Isospin excitations and Beta-decay",
-      "link": "https://arxiv.org/abs/2604.15817",
-      "authors": "Hiroyuki Sagawa",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2604.15817v1 Announce Type: new \nAbstract: We explore unsolved nuclear structure problems related with the spin and isospin degree of freedom by using microscopic models which accommodate realistic isoscalar and isovector pairing interactions, and also tensor correlations.\n  For the attempt of universal theoretical framework for both nuclear and astrophysical phenomena, we adopt a self-consistent Hartree-Fock (HF)+random phase approximation (RPA) models, and a state-of-the-art beyond mean field model, Subtracted Second RPA (SSRPA), including the couplings to two-particle two-hole states. The quenching problems of magnetic dipole and Gamow-Teller transitions are discussed in terms of the coupling to 2p-2h configurations and also the tensor correlations. The $\\beta$ decay life time of semi-magic and magic nuclei are discussed in RPA and SSRPA models."
+      "title": "Scrutiny of the new class of three-nucleon forces",
+      "link": "http://link.aps.org/doi/10.1103/gkjm-f8j9",
+      "authors": "E. Epelbaum, A. M. Gasparyan, J. Gegelia, D. Hog, and H. Krebs",
+      "source": "Physical Review C",
+      "summary": "Author(s): E. Epelbaum, A. M. Gasparyan, J. Gegelia, D. Hog, and H. KrebsIn a recent publication, V. Cirigliano  et al. [Phys. Rev. Lett. 135, 022501 (2025)] argue that three-nucleon forces (3NFs) involving short-range operators that couple two pions with two nucleons are enhanced beyond what is expected in chiral effective field theory based on naive dimensional analysi…[Phys. Rev. C 113, 044005] Published Mon Apr 20, 2026"
     },
     {
-      "title": "Charge radii of Sn isotopes in the relativistic mean field approximation",
-      "link": "https://arxiv.org/abs/2604.15904",
-      "authors": "S. Marcos, N. Sandulescu, R. Niembro",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2604.15904v1 Announce Type: new \nAbstract: The kink observed in the nuclear charge radius of Sn isotopes around neutron number $N = 82$ is investigated within the relativistic mean-field (RMF) framework using the NL3$^*$ parameter set. It is shown that the small components of the Dirac spinors for the neutron single-particle states near the Fermi level play a crucial role in forming the kink through their contribution to the proton central potential. In particular, the significant differences between the radial parts of the small components of spin-orbit partner states make neutrons with $j = l - 1/2$ more efficient in increasing the nuclear charge radius than those with $j = l + 1/2$. However, the effect induced by the small components alone does not fully account for the magnitude of the kink observed in Sn isotopes."
+      "title": "Extended multiconfigurational dynamical symmetry",
+      "link": "http://link.aps.org/doi/10.1103/vvs9-yxp3",
+      "authors": "H. G. Ganev",
+      "source": "Physical Review C",
+      "summary": "Author(s): H. G. GanevAn extended multiconfigurational dynamical symmetry (EMUSY) within the symplectic symmetry approach to clustering is proposed for the general case of multicluster nuclear systems. A characteristic property of the EMUSY is that it includes more general symplectic, i.e., number nonpreserving, transfor…[Phys. Rev. C 113, 044314] Published Mon Apr 20, 2026"
     },
     {
-      "title": "Charged-current quasielastic-like neutrino scattering from $^{12}$C in the coherent density fluctuation model with two-nucleon emission",
-      "link": "https://arxiv.org/abs/2604.15989",
-      "authors": "M. V. Ivanov, A. N. Antonov",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2604.15989v1 Announce Type: new \nAbstract: The quasielastic cross-sections of charged-current neutrino and antineutrino scattering on $^{12}$C are calculated using the coherent density fluctuation model with a relativistic effective mass $m_N^* =0.8 m_N$ (CDFM$_{M^*}$). The model explicitly considers the modification of the relativistic effective mass of the nucleon within the relativistic mean field (RMF) model of nuclear matter. In addition, our calculations include neutrino-induced two-particle emission processes, which are evaluated within the RMF model of nuclear matter. Utilizing the CDFM$_{M^*}$, we provide predictions for the neutrino and antineutrino cross sections of $^{12}$C, which have been observed in accelerator experiments, such as MiniBooNE, T2K, and MINERvA. Also, we analyze the axial form factor value for the excitation of the $\\Delta$ at zero momentum transfer (commonly denoted as $C^A_5 (0)$) which is important for the treatment of the $\\Delta$ current in the meson-exchange currents (MEC) calculation. In addition, the quasielastic results obtained within CDFM$_{M^*}$ model are thoroughly evaluated for different regions of the momentum transfer."
+      "title": "Nuclear excitation and control induced by intense vortex lasers",
+      "link": "http://link.aps.org/doi/10.1103/6m8k-9pcb",
+      "authors": "Zhi-Wei Lu, Hanxu Zhang, Tao Li, Mamutjan Ababekri, Xu Wang, and Jian-Xing Li",
+      "source": "Physical Review C",
+      "summary": "Author(s): Zhi-Wei Lu, Hanxu Zhang, Tao Li, Mamutjan Ababekri, Xu Wang, and Jian-Xing LiThe existing intense laser-based approaches for nuclear excitation offer ultrafast temporal resolution and high efficiency compared to traditional accelerator probes. However, controlling nuclear properties, such as spin and magnetic moment, remains an unprecedented challenge. Here, we put forward a…[Phys. Rev. C 113, 044315] Published Mon Apr 20, 2026"
     },
     {
-      "title": "Sensitivity of the $^{3,4}$He($K^-$, $\\pi^0$) production ratio to the $\\Lambda$ binding energy of $^3_\\Lambda$H",
-      "link": "https://arxiv.org/abs/2604.16181",
-      "authors": "Toru Harada, Yoshiharu Hirabayashi",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2604.16181v1 Announce Type: new \nAbstract: We study the production of $^3_\\Lambda$H and $^4_\\Lambda$H in the $^{3,4}$He($K^-$,$\\pi^0$) reactions at $p_{K^-}=1.0$~GeV/$c$ within the distorted-wave impulse approximation, using the optimal Fermi-averaged $K^-p\\to\\pi^0\\Lambda$ amplitude. Because the $^3_\\Lambda$H ground state is extremely weakly bound, the $d$--$\\Lambda$ wave function becomes spatially extended. We calculate the integrated cross sections $\\sigma_{\\rm lab}$ and their ratio $R_{34}=\\sigma_{\\rm lab}(^3_\\Lambda{\\rm H})/\\sigma_{\\rm lab}(^4_\\Lambda{\\rm H})$ for forward angles $\\theta_{\\rm lab}=0^\\circ$--$20^\\circ$. The production strength of $^3_\\Lambda$H and the ratio $R_{34}$ are strongly sensitive to the $\\Lambda$ binding energy $B_\\Lambda$, which is constrained to be approximately 0.05--0.15~MeV by comparison with experimental data from the J-PARC E73 experiment. This indicates that the $^3$He($K^-$,$\\pi^0$) reaction provides a sensitive probe of the weak binding of $^3_\\Lambda$H."
+      "title": "First investigation of the $^{209}\\mathrm{Bi}(^{6}\\mathrm{Li},{^{7}\\mathrm{Li}}^{*}→α+t)^{208}\\mathrm{Bi}^{*}$ breakup channel",
+      "link": "http://link.aps.org/doi/10.1103/bqs3-vr6d",
+      "authors": "Y. S. Wu, G. X. Zhang, N. Keeley, C. J. Lin, N. R. Ma, L. Yang, H. M. Jia, S. P. Hu, H. Q. Zhang, M. Mazzocco, Y. J. Yao, C. Cheng, C. L. Zhang, K. Dong, H. B. Lv, J. L. Chen, L. Jiang, R. Cao, B. R. Gonçalves, C. Huang, Y. NZ. Tan, and G. L. Zhang",
+      "source": "Physical Review C",
+      "summary": "Author(s): Y. S. Wu, G. X. Zhang, N. Keeley, C. J. Lin, N. R. Ma, L. Yang, H. M. Jia, S. P. Hu, H. Q. Zhang, M. Mazzocco, Y. J. Yao, C. Cheng, C. L. Zhang, K. Dong, H. B. Lv, J. L. Chen, L. Jiang, R. Cao, B. R. Gonçalves, C. Huang, Y. NZ. Tan, and G. L. ZhangThe $(^{6}\\mathrm{Li}, ^{7}\\mathrm{Li}^{*}$ $→$ $α$ $+$ $t)$ breakup channel has been investigated for the first time in an experiment with a $^{209}\\mathrm{Bi}$ target in which the 4.63-MeV $7/{2}^{−}$ and 6.68-MeV $5/{2}^{−}$ resonant states of $^{7}\\mathrm{Li}$ were well identified and extracted …[Phys. Rev. C 113, 044616] Published Mon Apr 20, 2026"
     },
     {
-      "title": "Systematic Analytic Regularization in $\\varphi^4$ and Yukawa Theories",
-      "link": "https://arxiv.org/abs/2604.15429",
-      "authors": "Jarryd Bath, W. A. Horowitz",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2604.15429v1 Announce Type: cross \nAbstract: We introduce a novel regularization scheme: Systematic Analytic Regularization (SAR). SAR regularizes a theory at the level of the action by analytically continuing the power of the kinetic operator, ensuring that the theory is formally finite before any terms in the Dyson series are evaluated. We demonstrate that SAR fully and self-consistently regularizes $\\varphi^4$ and Yukawa theories at NLO."
+      "title": "Bayesian constraints on pre-equilibrium jet quenching and predictions for oxygen collisions",
+      "link": "http://link.aps.org/doi/10.1103/nw2z-pr7j",
+      "authors": "Daniel Pablos and Adam Takacs",
+      "source": "Physical Review C",
+      "summary": "Author(s): Daniel Pablos and Adam TakacsThe contrast between the as-yet unmeasurable energy-loss effects in proton-nucleus collisions and the striking magnitude of the so-called high-momentum flow coefficients challenges our understanding of jet quenching mechanisms in large nucleus-nucleus collisions when applied to smaller systems. Inte…[Phys. Rev. C 113, 044913] Published Mon Apr 20, 2026"
     },
     {
-      "title": "sPHENIX measurement of Open-Charm Baryon-to-Meson Ratios in $p$+$p$ collisions at RHIC",
-      "link": "https://arxiv.org/abs/2604.15667",
-      "authors": "Xudong Yu (on behalf of the sPHENIX Collaboration)",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2604.15667v1 Announce Type: cross \nAbstract: sPHENIX is a state-of-the-art experiment at the Relativistic Heavy Ion Collider (RHIC), dedicated to the study of heavy-flavor and jet physics. Its precision tracking system, combined with streaming readout, enables heavy-flavor measurements with high-statistics and essentially unbiased data samples. During the 2024 run, sPHENIX was fully commissioned and recorded a sample of 100 billion unbiased $p$+$p$ collisions, together with a minimum-bias Au+Au dataset. The 2025 run further expanded the sPHENIX dataset with high-statistics $p$+$p$, O+O and Au+Au collisions. This extensive $p$+$p$ sample opens the door to heavy-flavor measurements with orders of magnitude more statistics than previously available at RHIC. Notably, there has been no prior measurement of the $\\Lambda_c^+ / D^0$ baseline in $p$+$p$ collisions at RHIC energies. The large sPHENIX dataset now enables the first exploration of key open questions, such as the hadronization mechanism of baryons and the strange-to-light flavor meson ratio."
+      "title": "Isolation of photon-nuclear interaction backgrounds in the search for the chiral magnetic effect in relativistic heavy-ion collisions",
+      "link": "http://link.aps.org/doi/10.1103/pvyv-wdjf",
+      "authors": "Jing Gu (顾婧), Jinhui Chen (陈金辉), and Jie Zhao (赵杰)",
+      "source": "Physical Review C",
+      "summary": "Author(s): Jing Gu (顾婧), Jinhui Chen (陈金辉), and Jie Zhao (赵杰)The chiral magnetic effect (CME) in relativistic heavy-ion collisions originates from a chirality imbalance among quarks within metastable QCD vacuum domains and may be linked to charge-parity violation, which is believed to play a crucial role in the matter-antimatter asymmetry of the universe. Ove…[Phys. Rev. C 113, 044914] Published Mon Apr 20, 2026"
     },
     {
-      "title": "Theoretical modeling of charged current $\\nu_\\mu(\\bar\\nu_\\mu)-^{40}Ar$ DIS at DUNE energies",
-      "link": "https://arxiv.org/abs/2604.15724",
-      "authors": "F. Zaidi, S. Akther, M. Sajjad Athar, S. K. Singh",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2604.15724v1 Announce Type: cross \nAbstract: The charged current $\\nu_\\mu(\\bar{\\nu}_\\mu)$-induced deep inelastic scattering (DIS) from an $^{40}\\mathrm{Ar}$ target is studied using a microscopic framework that incorporates nuclear medium effects due to Fermi motion, binding energy, nucleon correlations, mesonic ($\\pi$ and $\\rho$) contributions, and nuclear shadowing and antishadowing across the relevant Bjorken-$x$ region. The nuclear structure functions $F_{iA}(x,Q^2)$ $(i=1\\text{-}3)$ are evaluated using a relativistic nucleon spectral function ($S_h$) within the local density approximation employing the free nucleon structure functions, $F_{iN}(x,Q^2)$ $(i=1\\text{-}3)$. These $F_{iN}(x,Q^2)$ $(i=1\\text{-}3)$ are calculated using parton distribution functions (PDFs) from MMHT 2014 parameterization, including higher-order perturbative QCD corrections up to next-to-next-to-leading order (NNLO), along with nonperturbative target mass corrections (TMC). The resulting nuclear structure functions $F_{iA}(x,Q^2)$ $(i=1\\text{-}3)$ are subsequently used to compute the differential DIS cross sections for $^{40}Ar$ nucleus. Numerical results are presented for $\\nu_\\mu(\\bar\\nu_\\mu)$ beam energies $E=4$ GeV and $E=6$ GeV for the differential scattering cross sections $\\frac{d^2\\sigma}{dx dy}$ and $\\frac{d\\sigma}{dx}$, relevant to ongoing and upcoming liquid-argon neutrino experiments such as DUNE and the Fermilab Short-Baseline Neutrino program."
+      "title": "Inclusive $J/ψ$ productions in $pp$ collisions at $\\sqrt{s}=5.02, 7, \\text{and} 13 \\mathrm{TeV}$ with the parton and hadron cascade model PACIAE",
+      "link": "http://link.aps.org/doi/10.1103/99kw-bldg",
+      "authors": "Jin-Peng Zhang, Guan-Yu Wang, Wen-Chao Zhang, Bo Feng, An-Ke Lei, Zhi-Lei She, Hua Zheng, Dai-Mei Zhou, Yu-Liang Yan, and Ben-Hao Sa",
+      "source": "Physical Review C",
+      "summary": "Author(s): Jin-Peng Zhang, Guan-Yu Wang, Wen-Chao Zhang, Bo Feng, An-Ke Lei, Zhi-Lei She, Hua Zheng, Dai-Mei Zhou, Yu-Liang Yan, and Ben-Hao SaWe investigate the inclusive $J/ψ$ production in proton-proton       $(pp)$   collisions at center-of-mass energies $\\sqrt{s}=5.02$, 7, and 13 TeV using the parton and hadron cascade model PACIAE 4.0. This model extends PYTHIA 8.3 by incorporating partonic and hadronic rescatterings before and after…[Phys. Rev. C 113, 045210] Published Mon Apr 20, 2026"
     },
     {
-      "title": "P-wave $c\\bar{c}$ meson contributions in exotic hadrons",
-      "link": "https://arxiv.org/abs/2604.15778",
-      "authors": "Kotaro Miyake, Yasuhiro Yamaguchi",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2604.15778v1 Announce Type: cross \nAbstract: The nature of the $X(3872)$ and other exotic hadrons has been a subject of extensive investigation. While various theoretical models have been proposed, experimental evidence suggests that the $X(3872)$ may be a mixture state of a hadronic molecule and a $c\\bar{c}$ core. In this work, we perform a systematic study of hidden-charm tetraquark candidates $X(3860)$, $X(3872)$, and $Z(3930)$ using a coupled-channel model that incorporates both $c\\bar{c}$ states and $D^{(*)}\\bar{D}^{(*)}$ hadronic molecular components. The model parameters are fixed to reproduce the masses of the $X(3872)$ and $Z(3930)$, and the resulting framework is used to predict the mass and structure of the $0^{++}$ state associated with the $X(3860)$. Our results support the mixture interpretation of these exotic hadrons, exhibiting strong attractions from the transition potential between $c\\bar{c}$ and $D^{(*)}\\bar{D}^{(*)}$ components. The molecular component dominates in the $X(3872)$, while the $c\\bar{c}$ component plays a more prominent role in the $X(3860)$ and $Z(3930)$."
+      "title": "Proton radioactivity in deformed nuclei with a microscopic optical potential: A novel angular-dependent emission mechanism in the nanosecond-lived $^{149}\\mathrm{Lu}$",
+      "link": "http://link.aps.org/doi/10.1103/p5hz-bqvz",
+      "authors": "Yin Fan, Sibo Wang, Xiao-Hua Li, and Haozhao Liang",
+      "source": "Physical Review C",
+      "summary": "Author(s): Yin Fan, Sibo Wang, Xiao-Hua Li, and Haozhao LiangWe present a theoretical description of proton radioactivity in $^{149}\\mathrm{Lu}$, the most oblate deformed proton emitter known, by combining a deformed microscopic optical potential derived from ab initio nuclear matter calculations with the Wentzel-Kramers-Brillouin penetration probabilities an…[Phys. Rev. C 113, L041601] Published Mon Apr 20, 2026"
     },
     {
-      "title": "Delineating neutral and charged mesons in magnetic fields",
-      "link": "https://arxiv.org/abs/2604.15897",
-      "authors": "Toru Kojo, Sakura Itatani",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2604.15897v1 Announce Type: cross \nAbstract: We investigate the properties of neutral and charged mesons in magnetic fields, from weak-field to strong-field regimes. To develop analytic insights, we employ a non-relativistic quark model with a confining potential of the harmonic oscillator type. Short-range correlations, such as Coulomb and color-magnetic interactions, are treated as perturbations. In particular, we focus on the magnetic field dependence of the relative and the center-of-mass motions. The qualitative trends differ significantly between neutral and charged mesons: for neutral mesons, the transverse momenta are conserved and continuous, while charged mesons exhibit quantized transverse dynamics. The Zeeman effects, arising from intrinsic spins and orbital angular momenta, are carefully examined. In particular, for charged mesons with spins $s\\ge 1$, we discuss how the zero-point energy in the internal quark motion cancels the Zeeman energy from the orbital angular momentum, ensuring the energetic stability of mesons with high spins. The effectively reduced dimensionality of these mesons in the strong-field limit is also discussed."
+      "title": "Erratum: Comparative study of α-decay half-lives for Au, Hg, and Tl isotopes using the MGLDM, empirical formulae, and NpNn-based preformation probabilities",
+      "link": "https://epja.epj.org/10.1140/epja/s10050-026-01840-5",
+      "authors": "V. K. Anjali, K. P. Santhosh, K. P. Zuhail",
+      "source": "European Physical Journal A",
+      "summary": "Authors: V. K. Anjali, K. P. Santhosh and K. P. Zuhail.The European Physical Journal A Vol. 62 , page 78Published online: 16/4/2026"
     },
     {
-      "title": "Exact expectation values in a boost-invariant fluid of Dirac fermions with finite spin density",
-      "link": "https://arxiv.org/abs/2604.15926",
-      "authors": "Andrea Palermo, Daniele Roselli",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2604.15926v1 Announce Type: cross \nAbstract: We study a boost-invariant, out-of-equilibrium fluid of non-interacting Dirac fermions with a finite canonical spin potential. After solving the Dirac equation in Milne coordinates, we exactly diagonalize the non-equilibrium density operator and compute the partition function and expectation values of relevant observables, including spin polarization, energy density, longitudinal and transverse pressures, spin density, and \\emph{spin torque}, i.e. the source of spin non-conservation. We find an analytic expression for the partition function at finite spin potential, and show numerically that thermodynamic relations connecting it to thermodynamic functions hold in the system under consideration. We show that, in a boost-invariant system, both shear-induced polarization and the spin Hall effect are absent, and that a non-vanishing polarization can only arise from a finite spin potential in a free theory. We obtain an analytic expression for the spin polarization as a function of the spin potential in some particular cases, and otherwise compute numerically its exact expectation value at finite spin potential. Our results are discussed in the context of relativistic spin hydrodynamics and quark--gluon plasma phenomenology."
-    },
-    {
-      "title": "Testing Scalar Field Self-Dualities in d=2 using a Variational Method",
-      "link": "https://arxiv.org/abs/2604.15988",
-      "authors": "Paul Romatschke, Ulrike Romatschke",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2604.15988v1 Announce Type: cross \nAbstract: Recently, self-dualities based on saddle-point expansions have been proposed as a means to obtain qualitative non-perturbative information in scalar field theories. In this work, we test this proposition quantitatively by studying the phase transition for critical scalar $\\phi^4$ field theory in 1+1 dimensions using a variational method. We find that saddle-point methods obtain quantitative agreement for the free energy, but differ on the order of 25 percent for the peak location of the correlation length."
-    },
-    {
-      "title": "Isospin-symmetry violation -- kaons and beyond (ISO-BREAK 25: summary and outlook)",
-      "link": "https://arxiv.org/abs/2604.16005",
-      "authors": "Marek Gazdzicki (Jan Kochanowski University, Kielce, Poland), Francesco Giacosa (Jan Kochanowski University, Kielce, Poland), Katarzyna Grebieszkow (Warsaw University of Technology, Warsaw, Poland), David Blaschke (University of Wroclaw, Poland), Marcus Bleicher (Goethe University, Frankfurt am Main, Germany), Bastian Brandt (University of Bielefeld, Germany), Wojciech Brylinski (National Centre for Nuclear Research, Warsaw, Poland), Tobiasz Czopowicz (National Centre for Nuclear Research, Warsaw, Poland), Jim Drachenberg (Abilene Christian University, USA), Dipangkar Dutta (Mississippi State University, USA), Francesca Ercolessi (University INFN, Bologna, Italy), Mark Gorenstein (Bogolyubov Institute for Theoretical Physics, Kyiv, Ukraine), Linqin Huang (Institute of Modern Physics, Chinese Academy of Sciences, China), Oleksii Ivanytskyi (University of Wroclaw, Poland), Nicolo Jacazio (University del Piemonte Orientale, Italy), Joseph Kapusta (University of Minnesota, USA), Seweryn Kowalski (University of Silesia, Poland), Maciej Piotr Lewicki (Institute of Nuclear Physics, Polish Academy of Sciences, Krakow, Poland), Manuel Lorenz (GSI Helmholtzzentrum fur Schwerionenforschung, Darmstadt, Germany), Stanislaw Mrowczynski (National Centre for Nuclear Research, Warsaw, Poland), Vitalii Ozvenchuk (Institute of Nuclear Physics, Polish Academy of Sciences, Krakow, Poland), Oleksandra Panova (Jan Kochanowski University, Kielce, Poland), Roman Planeta (Jagiellonian University, Krakow, Poland), Krzysztof Piasecki (University of Warsaw, Poland), Milena Piotrowska (Jan Kochanowski University, Kielce, Poland), Rob Pisarski (Brookhaven National Laboratory, USA), Damian Pszczel (National Centre for Nuclear Research, Warsaw, Poland), Johann Rafelski (University of Arizona, Tucson, USA), Martin Rohrmoser (Jan Kochanowski University, Kielce, Poland), Andrzej Rybicki (Institute of Nuclear Physics, Polish Academy of Sciences, Krakow, Poland), Maciej Rybczynski (Jan Kochanowski University, Kielce, Poland), Radoslaw Ryblewski (Institute of Nuclear Physics, Polish Academy of Sciences, Krakow, Poland), Subhasis Samanta (Kalinga Institute of Industrial Technology, India), Mayank Singh (Vanderbilt University, USA), Joanna Maria Stepaniak (National Centre for Nuclear Research, Warsaw, Poland), Grzegorz Stefanek (Jan Kochanowski University, Kielce, Poland), Herbert Stroebele (Goethe University, Frankfurt am Main, Germany), Tatjana Susa (Rudjer Boskovic Institute, Zagreb, Croatia), Leonardo Tinti (Jan Kochanowski University, Kielce, Poland), Ludwik Turko (University of Wroclaw, Poland), Oleksandr Vitiuk (University of Wroclaw, Poland), Klaus Werner (SUBATECH, Nantes University-IN2P3/CNRS-IMT Atlantique, Nantes, France), Hanna Zbroszczyk (Warsaw University of Technology, Warsaw, Poland)",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2604.16005v1 Announce Type: cross \nAbstract: This report summarizes the presentations and discussions during the ISO-BREAK 25 Workshop ``Isospin symmetry violation: kaons and beyond'', which was held at Jan Kochanowski University in Kielce on October 23-25, 2025. We address the current status of the isospin-symmetry breaking discovered by NA61/SHINE in nucleus-nucleus collisions at the CERN SPS, its confirmation by other experiments and studies in \\ee and deep inelastic scattering. In addition, we discuss the theoretical status as well as we outline experimental and theoretical priorities towards understanding this currently unexplained phenomenon."
-    },
-    {
-      "title": "Dynamics of density fluctuations in atomic nuclei",
-      "link": "https://arxiv.org/abs/2604.12089",
-      "authors": "Francesca Bonaiti, Gaute Hagen, Thomas Papenbrock",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2604.12089v2 Announce Type: replace \nAbstract: We study the spatiotemporal patterns of density fluctuations in $^{16,24}$O and $^{48}$Ca using nuclear interactions from chiral effective field theory and the time-dependent coupled-cluster method. We find that two-particle-two-hole excitations generate small-amplitude fluctuations that are fast, short-ranged and of stochastic character."
-    },
-    {
-      "title": "Symmetric polynomials: DIM integrable systems versus twisted Cherednik systems",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326003102?dgcid=rss_sd_all",
+      "title": "Late-Time Cosmic Acceleration in Ricci-Gauss-Bonnet Gravity via Gradient Descent Optimization",
+      "link": "https://www.sciencedirect.com/science/article/pii/S037026932600314X?dgcid=rss_sd_all",
       "authors": "Unknown",
       "source": "Physics Letters B",
-      "summary": "Publication date: Available online 18 April 2026Source: Physics Letters BAuthor(s): A. Mironov, A. Morozov, A. Popolitov"
+      "summary": "Publication date: Available online 19 April 2026Source: Physics Letters BAuthor(s): Santosh V. Lohakare, B. Mishra, S.K. Maurya"
+    },
+    {
+      "title": "Calculation of Cross Sections for $$\\textrm{H}^+$$-$$\\textrm{H}^-$$ Collision using the Close-Coupling Method",
+      "link": "https://link.springer.com/article/10.1007/s00601-026-02047-6",
+      "authors": "Unknown",
+      "source": "Few-Body Systems",
+      "summary": "We have treated the $$\\textrm{H}^+ + \\textrm{H}^-$$ collisions using atomic-orbital close-coupling calculations within the impact-parameter method. Cross sections for single electron transfer, electron detachment, transfer ionization, and double electron transfer are calculated for collision energies from 0.3 to 30 keV. The calculated results are generally in accord with the experimental data, but the result for transfer ionization is significantly larger than the experimental data below 1.5 keV."
+    },
+    {
+      "title": "High-precision spectroscopy of $$\\Lambda $$ hypernuclei with electron and meson beams",
+      "link": "https://link.springer.com/article/10.1007/s00601-026-02044-9",
+      "authors": "Unknown",
+      "source": "Few-Body Systems",
+      "summary": "High-precision spectroscopy of $$\\Lambda $$ hypernuclei provides essential information on the $$\\Lambda N$$ interaction and on the structure of strange nuclear many-body systems. It is also closely related to current topics in few-body physics and nuclear astrophysics, including charge-symmetry breaking in $$\\Lambda $$ hypernuclei, the hypertriton puzzle, possible neutron-rich light hypernuclear systems, and the hyperon puzzle in neutron stars. In this article, I review ongoing and planned spectroscopic studies of $$\\Lambda $$ hypernuclei with complementary probes at JLab, MAMI, and J-PARC. Electron-induced reactions such as $$(e,e'K^+)$$ offer excellent absolute energy calibration and high-resolution spectroscopy for light-to-heavy hypernuclei. Decay-pion spectroscopy of electroproduced hypernuclei provides a powerful method for precise binding-energy studies of light systems, particularly the hypertriton. At J-PARC, the planned High-Intensity, High-Resolution beamline will enable high-intensity, high-resolution $$(\\pi ^+,K^+)$$ spectroscopy over a wide mass range and open a path toward a hypernuclear factory. The complementarity of these approaches will play a key role in establishing a comprehensive and precise picture of $$\\Lambda $$ hypernuclear structure from few-body systems to heavy hypernuclei."
+    },
+    {
+      "title": "Flavor-Dependent Dynamical Spin-Orbit Coupling in Light-Front Holographic QCD: A New Approach to Baryon Spectroscopy",
+      "link": "https://link.springer.com/article/10.1007/s00601-026-02033-y",
+      "authors": "Unknown",
+      "source": "Few-Body Systems",
+      "summary": "We propose a novel extension of Light-Front Holographic Quantum Chromodynamics (LFHQCD) in which a flavor-dependent, dynamical spin–orbit potential is introduced at the level of the light-front Hamiltonian. The potential varies with the holographic coordinate and is motivated by the Gaussian localization of soft-wall modes and by heavy-quark symmetry, providing a unified treatment of short- and long-distance spin–orbit dynamics in both light and heavy baryons. An optional coupling to a holographic glueball background further enriches the nonperturbative structure of the model and enhances the description of excited states. The resulting modified light-front wave equation reproduces the observed flavor-dependent mass splittings and Regge trajectories, and yields substantially improved agreement with the baryon spectrum compared to flavor-independent holographic approaches. We present the analytic formulation, numerical implementation, and global parameter fits, together with phenomenological predictions relevant for ongoing and future heavy-baryon spectroscopy programs, including LHCb and Belle II. This soft-wall–compatible framework provides a unified and analytically transparent extension of LFHQCD that successfully incorporates dynamical spin–orbit effects across all quark flavors."
+    },
+    {
+      "title": "Relativistic Feshbach-Villars Equation for Two Spin-0 Particles",
+      "link": "https://link.springer.com/article/10.1007/s00601-026-02042-x",
+      "authors": "Unknown",
+      "source": "Few-Body Systems",
+      "summary": "The Feshbach-Villars version of the relativistic quantum mechanics can be extended for two-body systems in such a way that the center-of-mass motion is separated off. The procedure results in an equation of Feshbach-Villars-type in terms of the relative coordinate."
+    },
+    {
+      "title": "New Elementary Operator for Kaon Photoproduction on the Nucleon and Nuclei",
+      "link": "https://link.springer.com/article/10.1007/s00601-026-02038-7",
+      "authors": "Unknown",
+      "source": "Few-Body Systems",
+      "summary": "A new elementary operator for kaon photoproduction on the nucleon and nuclei has been developed within a Feynman diagrammatic framework. By fitting the unknown coupling strengths at the electromagnetic and hadronic vertices of the baryon resonances to all available experimental data across the six isospin channels, the model achieves excellent agreement with the data. The operator includes 26 nucleon resonances in the $$K\\Lambda $$ channels and 17 additional $$\\Delta $$ resonances in the $$K\\Sigma $$ channels. For applications to nuclear reactions, such as hypernuclear photoproduction, the operator is formulated in Pauli space, allowing a straightforward implementation of the nonrelativistic approximation. Several alternative forms for expressing the operator output are proposed. In one of them, the spin operators and photon polarization vectors are separated from the operator, since both are frame dependent, thereby enhancing its versatility in nuclear applications. As an illustration of the operator’s application in the nuclear sector, we present the results for hypertriton photoproduction on $$^3$$He and compare the calculations based on the present operator with those obtained by using Kaon-Maid."
+    },
+    {
+      "title": "Decoding $$T_{cc}(3875)^+$$: A Deep Learning Approach to the Pole Structure Via the Uniformized $$\\mathcal {S}$$-Matrix",
+      "link": "https://link.springer.com/article/10.1007/s00601-026-02039-6",
+      "authors": "Unknown",
+      "source": "Few-Body Systems",
+      "summary": "In this work, we utilized a data-driven approach to examine the nature of the doubly charmed $$T_{cc}(3875)^{+}$$ tetraquark. A large ensemble of synthetic scattering amplitudes were generated based on the uniformized $$\\mathcal {S}$$-matrix framework. We trained 50 deep neural network classifiers to recognize subtle differences in the line shapes that arise from distinct pole topologies. When the LHCb data was fed to the classifiers, the trained DNN models consistently identify an isolated pole in the [bt] sheet which is indicative of a hadronic molecular nature for the $$T_{cc}(3875)^{+}$$."
+    },
+    {
+      "title": "Three-Nucleon Force Effects in the Proton-Deuteron Breakup Reaction",
+      "link": "https://link.springer.com/article/10.1007/s00601-026-02040-z",
+      "authors": "Unknown",
+      "source": "Few-Body Systems",
+      "summary": "Effects of three-nucleon forces in the proton-deuteron breakup reactions, p(d, pp)n, at intermediate energy (80 MeV/nucleon) are investigated. Three-nucleon force models based on the exchanges of two pions among three nucleons are examined with different ways of the cutoff procedure adjusted to the empirical three-nucleon binding energy. Calculations are performed by solving three-nucleon Faddeev equations as integral equations in coordinate space with effects of the proton-proton Coulomb force being treated properly. Effects of three-nucleon forces on the breakup cross sections in various geometrical configurations of final three nucleons are explored. It is found that the breakup cross sections at some geometrical configurations are sensitive to three-nucleon forces at medium and short range regions."
     }
   ]
 }
