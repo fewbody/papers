@@ -1,75 +1,40 @@
 {
-  "lastUpdated": "2026-04-25T03:48:30.672518",
+  "lastUpdated": "2026-04-26T04:19:06.484717",
   "papers": [
     {
-      "title": "Impact of octupole deformation on the nuclear electromagnetic response",
-      "link": "http://link.aps.org/doi/10.1103/ddl7-y8xj",
-      "authors": "Manu Kanerva and Markus Kortelainen",
+      "title": "Energy-differential measurement of the $^{\\mathrm{nat}}\\mathrm{C}(n,p)$ and $^{\\mathrm{nat}}\\mathrm{C}(n,d)$ reactions at the n_TOF facility at CERN",
+      "link": "http://link.aps.org/doi/10.1103/fkfd-ctqq",
+      "authors": "P. Žugec <em>et al.</em> (The n_TOF Collaboration)",
       "source": "Physical Review C",
-      "summary": "Author(s): Manu Kanerva and Markus KortelainenBackground: Properties of giant dipole resonances, along with other nuclear resonances, provide valuable tools for refining theoretical models as they reflect collective features of nuclear matter. Among such collective phenomena is octupole deformation, whose impact on resonance features, however, …[Phys. Rev. C 113, 044320] Published Thu Apr 23, 2026"
+      "summary": "Author(s): P. Žugec et al. (The n_TOF Collaboration)Energy-differential cross section of the $^{\\mathrm{nat}}\\mathrm{C}(n,p)$ and $^{\\mathrm{nat}}\\mathrm{C}(n,d)$ reactions was measured at the neutron time-of-flight facility n_TOF at CERN. The measurement was performed in the first experimental area (EAR1; flight path of 182.5 m). Two position-sensit…[Phys. Rev. C 113, 044621] Published Fri Apr 24, 2026"
     },
     {
-      "title": "Extension of the validity of proper time expansions in the study of glasma dynamics",
-      "link": "http://link.aps.org/doi/10.1103/219g-znvx",
-      "authors": "Margaret E. Carrington, Bryce T. Friesen, Doug Pickering, Shane Sangster, and Kaene Soopramania",
+      "title": "Isotopic evolution of single-particle strengths and energies in the 50–82 shell",
+      "link": "http://link.aps.org/doi/10.1103/2tjd-gy5m",
+      "authors": "A. Kundu, S. Santra, S. Kailas, A. Pal, D. Chattopadhyay, and R. Tripathi",
       "source": "Physical Review C",
-      "summary": "Author(s): Margaret E. Carrington, Bryce T. Friesen, Doug Pickering, Shane Sangster, and Kaene SoopramaniaThe earliest phase of an ultrarelativistic heavy-ion collision can be described as a highly populated system of gluons called glasma. The system's dynamics is governed by the classical Yang-Mills equation. Solutions can be found at early times using a proper time expansion. Since the expansion param…[Phys. Rev. C 113, 044915] Published Thu Apr 23, 2026"
+      "summary": "Author(s): A. Kundu, S. Santra, S. Kailas, A. Pal, D. Chattopadhyay, and R. TripathiOdd-neutron and odd-proton spectroscopic strengths have been obtained for low-lying bound states in the $N,Z$ = 50–82 major shell, populated through $1n$- and $1p$-transfer reactions on the even-$A$ $^{112−124}\\mathrm{Sn}$ isotopes. While most proton orbitals in the 50–82 shell exhibit predominantly…[Phys. Rev. C 113, 044622] Published Fri Apr 24, 2026"
     },
     {
-      "title": "New extraction of the proton's conventional charge and magnetic radii utilizing electron-proton elastic scattering experimental data",
-      "link": "http://link.aps.org/doi/10.1103/f6gq-ghvh",
-      "authors": "I. A. Qattan",
+      "title": "Computational schemes for the Magnus expansion of the in-medium similarity renormalization group",
+      "link": "http://link.aps.org/doi/10.1103/n348-lvll",
+      "authors": "Matthias Heinz",
       "source": "Physical Review C",
-      "summary": "Author(s): I. A. QattanIn this work I present new extractions of the proton's conventional charge $〈{r}_{E}〉$ and magnetic $〈{r}_{M}〉$ root-mean-square radii using two-photon-exchange corrected electric ${G}_{E}^{p}({Q}^{2})$ and magnetic ${G}_{M}^{p}({Q}^{2})$ form factor data from I. A. Qattan and J. Arrington [Phys. Re…[Phys. Rev. C 113, 045211] Published Thu Apr 23, 2026"
+      "summary": "Author(s): Matthias HeinzThe in-medium similarity renormalization group (IMSRG) is a popular many-body method used for computations of nuclei. It solves the many-body Schrödinger equation through a continuous unitary transformation of the many-body Hamiltonian. The IMSRG transformation is typically truncated at the normal-o…[Phys. Rev. C 113, L041301] Published Fri Apr 24, 2026"
     },
     {
-      "title": "New extraction of the nucleon charge radius utilizing electron-proton elastic scattering experimental data",
-      "link": "http://link.aps.org/doi/10.1103/3rb5-gnkz",
-      "authors": "I. A. Qattan, S. Shoeibi, and M. A. Albloushi",
-      "source": "Physical Review C",
-      "summary": "Author(s): I. A. Qattan, S. Shoeibi, and M. A. AlbloushiIn this work, we present new extraction of the proton $〈{r}_{p}〉$ and neutron $〈{r}_{n}^{2}〉$ root-mean-square charge radius using only two-photon-exchange corrected proton's ${G}_{(E,M)}^{p}({Q}^{2})$ form-factor data from I. A. Qattan and J. Arrington [Phys. Rev. C 86, 065210 (2012)] and I. A. Qat…[Phys. Rev. C 113, 045212] Published Thu Apr 23, 2026"
-    },
-    {
-      "title": "Time integration for neutrino radiation transport using minimally implicit Runge–Kutta methods",
-      "link": "https://iopscience.iop.org/article/10.1088/1361-6471/ae5994",
-      "authors": "Samuel Santos-Pérez, Martin Obergaulinger and Isabel Cordero-Carrión",
-      "source": "Journal of Physics G: Nuclear and Particle Physics",
-      "summary": "The evolution of many astrophysical systems is dominated by the interaction between matter and radiation such as photons or neutrinos. The dynamics can be described by the evolution equations of radiation hydrodynamics in which reactions between matter particles and radiation quanta couples the hydrodynamic equations to those of radiative transfer (see Munier and Weaver 1986a Comput. Phys. Rep.3 127; 1986b Comput. Phys. Rep.3 165). The numerical treatment has to account for their potential stiffness (e.g. in optically thick environments). In this article, we will present a new method to numerically integrate these equations in a stable way by using minimally implicit Runge–Kutta methods. With these methods, the inversion of the implicit operator can be done analytically, so the computational cost is equivalent to that of an explicit method. In deriving the methods, we explicitly account for the behaviour of the evolved variables in the stiff regime. We will show the results of applying these methods to the reactions between neutrinos and matter in some tests and also in realistic core-collapse supernovae simulations."
-    },
-    {
-      "title": "LEP3: a high-luminosity e + e − Higgs and electroweak factory in the LHC tunnel*",
-      "link": "https://iopscience.iop.org/article/10.1088/1361-6471/ae5728",
-      "authors": "C Anastopoulos, R Assmann, A H Ball, O Bruning, O Buchmueller, T Camporesi, P Collier, J Dainton, G Davies, J R Ellis, P Ferrari, B Goddard, L Gouskos, G Hall, M Klute, M Koratzinos, G Landsberg, K Long, L Malgeri, F Maltoni, F Moortgat, C Mariotti, S Myers, J A Osborne, M Pierini, P Raimondi, D R Tovey, D Treille, T S Virdee, N Wardle and M Zanetti",
-      "source": "Journal of Physics G: Nuclear and Particle Physics",
-      "summary": "The 2020 European Strategy for Particle Physics (ESPP) emphasized the critical importance of completing the high-luminosity LHC (HL-LHC) upgrade of both the accelerator and experiments in a timely manner, identifying it as a top priority for the field. The strategy also established two key recommendations for future accelerator initiatives: (i) the realization of an electron–positron Higgs factory as the highest-priority next collider, and (ii) the investigation, in collaboration with international partners, of the technical and financial feasibility of a hadron collider at CERN with a centre-of-mass energy of at least 100 TeV, potentially preceded by an electron–positron Higgs and electroweak factory. In alignment with these objectives, the Future Circular Collider (FCC) programme—comprising FCC-ee and FCC-hh—represents the preferred path forward for CERN, offering both precision and energy-frontier capabilities. However, the 2025 ESPP update calls for the identification of prioritized alternative options should the preferred FCC pathway prove infeasible or non-competitive. In this context, we propose LEP3, an electron–positron collider reusing the existing LHC tunnel, as a strategic backup to FCC-ee. LEP3 would exploit much of the research and development already carried out for FCC-ee, enabling high-precision studies of the Z, W, and Higgs bosons below the top–antitop production threshold. Combining strong physics potential with reduced cost, LEP3 provides performance comparable or superior to other fallback options—such as linear, muon, or LHeC colliders—while maintaining the technological continuity essential for a future energy-frontier collider. Conceived as a contingency, LEP3 complements, rather than competes with, the FCC-ee proposal."
-    },
-    {
-      "title": "Gravitational Wave Signature and the Nature of Neutrino Masses: Majorana, Dirac, or Pseudo-Dirac?",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326003291?dgcid=rss_sd_all",
+      "title": "CP Prediction from Residual <math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si1.svg\" class=\"math\"><msubsup><mi mathvariant=\"double-struck\">Z</mi><mn>2</mn><mi>s</mi></msubsup></math> and <math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si2.svg\" class=\"math\"><msubsup><mover><mrow><mi mathvariant=\"double-struck\">Z</mi></mrow><mo stretchy=\"true\">‾</mo></mover><mn>2</mn><mi>s</mi></msubsup></math> Symmetries with the Latest Data",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326003308?dgcid=rss_sd_all",
       "authors": "Unknown",
       "source": "Physics Letters B",
-      "summary": "Publication date: Available online 23 April 2026Source: Physics Letters BAuthor(s): Sudip Jana, Sudip Manna, Vishnu PK"
+      "summary": "Publication date: Available online 24 April 2026Source: Physics Letters BAuthor(s): Shao-Feng Ge, Chui-Fan Kong, João Paulo Pinheiro"
     },
     {
-      "title": "Characterization of nuclear breakup as a function of hard-scattering kinematics using dijets measured by ATLAS in <em>p</em>+Pb collisions",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326002935?dgcid=rss_sd_all",
+      "title": "Topological Fields in 4<em>d</em> Higher Spin Theory",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326003333?dgcid=rss_sd_all",
       "authors": "Unknown",
       "source": "Physics Letters B",
-      "summary": "Publication date: Available online 23 April 2026Source: Physics Letters BAuthor(s): G. Aad, E. Aakvaag, B. Abbott, S. Abdelhameed, K. Abeling, N.J. Abicht, S.H. Abidi, M. Aboelela, A. Aboulhorma, H. Abramowicz, Y. Abulaiti, B.S. Acharya, A. Ackermann, C. Adam Bourdarios, L. Adamczyk, S.V. Addepalli, M.J. Addison, J. Adelman, A. Adiguzel, T. Adye"
-    },
-    {
-      "title": "Isospin correlations in projectile-like fragments produced in <sup>40,48</sup><em>Ca</em>+<sup>40,48</sup><em>Ca</em> reactions at Fermi energies",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0375947426000990?dgcid=rss_sd_all",
-      "authors": "Unknown",
-      "source": "Nuclear Physics A",
-      "summary": "Publication date: Available online 23 April 2026Source: Nuclear Physics AAuthor(s): S. Zehra Bulut, N. Buyukcizmeci, R. Ogul"
-    },
-    {
-      "title": "Microscopic Investigations of Chiral Rotation in <math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si8.svg\" class=\"math\"><msup><mrow></mrow><mrow><mn>128</mn><mo>−</mo><mn>134</mn></mrow></msup></math>La Odd-Odd Nuclei Using Triaxial Projected Shell Model",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0375947426000977?dgcid=rss_sd_all",
-      "authors": "Unknown",
-      "source": "Nuclear Physics A",
-      "summary": "Publication date: Available online 23 April 2026Source: Nuclear Physics AAuthor(s): Mohd ilyas Lone, G.H. Bhat, S. Jehangir, R.N. Ali, Suram Singh, J.A. Sheikh"
+      "summary": "Publication date: Available online 24 April 2026Source: Physics Letters BAuthor(s): Philipp Kirakosiants"
     }
   ]
 }
