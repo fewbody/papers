@@ -1,40 +1,117 @@
 {
-  "lastUpdated": "2026-04-26T04:19:06.484717",
+  "lastUpdated": "2026-04-27T04:26:21.393863",
   "papers": [
     {
-      "title": "Energy-differential measurement of the $^{\\mathrm{nat}}\\mathrm{C}(n,p)$ and $^{\\mathrm{nat}}\\mathrm{C}(n,d)$ reactions at the n_TOF facility at CERN",
-      "link": "http://link.aps.org/doi/10.1103/fkfd-ctqq",
-      "authors": "P. Žugec <em>et al.</em> (The n_TOF Collaboration)",
-      "source": "Physical Review C",
-      "summary": "Author(s): P. Žugec et al. (The n_TOF Collaboration)Energy-differential cross section of the $^{\\mathrm{nat}}\\mathrm{C}(n,p)$ and $^{\\mathrm{nat}}\\mathrm{C}(n,d)$ reactions was measured at the neutron time-of-flight facility n_TOF at CERN. The measurement was performed in the first experimental area (EAR1; flight path of 182.5 m). Two position-sensit…[Phys. Rev. C 113, 044621] Published Fri Apr 24, 2026"
+      "title": "The parity-violating asymmetry including QED corrections in high-energy electron-nucleus collisions",
+      "link": "https://arxiv.org/abs/2604.22330",
+      "authors": "Xavier Roca-Maza, D. H. Jakubassa-Amundsen",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2604.22330v1 Announce Type: new \nAbstract: The parity-violating asymmetry, accounting for the vector and axial-vector vertex plus self-energy correction as well as for vacuum polarization, is calculated nonperturbatively by solving the corresponding Dirac equation for the electronic scattering states. Investigating the nuclei $^{27}$Al, $^{48}$Ca and $^{208}$Pb at collision energies in the GeV region and at forward scattering angles matching the experimental geometries, it is found that the combined QED effects change the parity-violating asymmetry by less than one percent. The same is true for $^{12}$C and $^{208}$Pb at an energy of 150 MeV."
     },
     {
-      "title": "Isotopic evolution of single-particle strengths and energies in the 50–82 shell",
-      "link": "http://link.aps.org/doi/10.1103/2tjd-gy5m",
-      "authors": "A. Kundu, S. Santra, S. Kailas, A. Pal, D. Chattopadhyay, and R. Tripathi",
-      "source": "Physical Review C",
-      "summary": "Author(s): A. Kundu, S. Santra, S. Kailas, A. Pal, D. Chattopadhyay, and R. TripathiOdd-neutron and odd-proton spectroscopic strengths have been obtained for low-lying bound states in the $N,Z$ = 50–82 major shell, populated through $1n$- and $1p$-transfer reactions on the even-$A$ $^{112−124}\\mathrm{Sn}$ isotopes. While most proton orbitals in the 50–82 shell exhibit predominantly…[Phys. Rev. C 113, 044622] Published Fri Apr 24, 2026"
+      "title": "Four-dimensional QCD equation of state from a quasi-parton model with physics-informed neural networks",
+      "link": "https://arxiv.org/abs/2604.22352",
+      "authors": "Fu-Peng Li, Long-Gang Pang, Guang-You Qin",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2604.22352v1 Announce Type: new \nAbstract: The equation of state (EoS) of strongly interacting matter at finite temperature and chemical potentials (baryon, charge, and strangeness) is a crucial input for hydrodynamic simulations of relativistic heavy-ion collisions. We construct a four-dimensional EoS using a deep-learning-assisted quasi-particle model (DLQPM) within a physics-informed neural network (PINN) framework, in which the masses of light quarks, strange quarks, and gluons are parameterized as functions of temperature and chemical potentials ($T, \\mu_B, \\mu_Q, \\mu_S$). The model is constrained by lattice QCD data at vanishing chemical potentials and provides a thermodynamically consistent extrapolation to finite $\\mu_{B,Q,S}$. The DLQPM accurately reproduces the lattice-calculated cumulants $\\chi^{B,Q,S}_{i,j,k}$ at $\\mu_{B,Q,S}=0$, and its predicted EoS at various chemical potentials agrees well with results from the generalized $T'$-expansion method in lattice QCD. Furthermore, the calculated baryon-strangeness correlation $C_{BS}$ is consistent, within uncertainties, with preliminary STAR data. This work offers a reliable EoS for exploring the QCD phase structure in the beam energy scan region."
     },
     {
-      "title": "Computational schemes for the Magnus expansion of the in-medium similarity renormalization group",
-      "link": "http://link.aps.org/doi/10.1103/n348-lvll",
-      "authors": "Matthias Heinz",
-      "source": "Physical Review C",
-      "summary": "Author(s): Matthias HeinzThe in-medium similarity renormalization group (IMSRG) is a popular many-body method used for computations of nuclei. It solves the many-body Schrödinger equation through a continuous unitary transformation of the many-body Hamiltonian. The IMSRG transformation is typically truncated at the normal-o…[Phys. Rev. C 113, L041301] Published Fri Apr 24, 2026"
+      "title": "Fusion of light nuclei in a multicluster realization of the three-body problem",
+      "link": "https://arxiv.org/abs/2604.22537",
+      "authors": "Mikhail Egorov",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2604.22537v1 Announce Type: new \nAbstract: This work describes a few-body dynamics method based on the Faddeev integral equations in momentum space for determining the total cross sections of fusion and breakup reactions with two- and three-body final channels in the continuum, employing a cluster representation of the colliding nuclei. Total cross sections were obtained for the reactions $^3\\text{He}(T,D)^4\\text{He}$, $^3\\text{He}(T,np)^4\\text{He}$, $^3\\text{He}(T,nD)^3\\text{He}$, $^3\\text{He}(^3\\text{He},2p)^4\\text{He}$, $^3\\text{He}(^3\\text{He},pD)^3\\text{He}$, $^7\\text{Li}(^3\\text{He},\\phantom{0}^4\\text{He})^6\\text{Li}$, $^7\\text{Li}(^3\\text{He},D^4\\text{He})^4\\text{He}$, and $^7\\text{Li}(^3\\text{He},T^3\\text{He})^4\\text{He}$, in which both the projectile and the target nucleus were treated in a cluster representation. The work also implements a two-potential method to determine the Coulomb $t-$matrix and to account for Coulomb effects in short-range dynamics in momentum space. Calculations of the initial-state Coulomb interaction were performed; furthermore, an estimate was obtained for the magnitude of the off-shell effect of the Coulomb $t-$matrix, as well as the magnitude of the atomic electron anti-screening effect on the Coulomb interaction of the colliding nuclei. The calculated contribution of the cluster mechanism to the total cross section of the considered fusion reactions in the kinetic energy range $T\\in[1~\\text{keV},20~\\text{MeV}]$ is in good agreement with known experimental data."
     },
     {
-      "title": "CP Prediction from Residual <math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si1.svg\" class=\"math\"><msubsup><mi mathvariant=\"double-struck\">Z</mi><mn>2</mn><mi>s</mi></msubsup></math> and <math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si2.svg\" class=\"math\"><msubsup><mover><mrow><mi mathvariant=\"double-struck\">Z</mi></mrow><mo stretchy=\"true\">‾</mo></mover><mn>2</mn><mi>s</mi></msubsup></math> Symmetries with the Latest Data",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326003308?dgcid=rss_sd_all",
+      "title": "The 0+-spectrum in rare earth nuclei within the pseudo-SU(3) shell model",
+      "link": "https://arxiv.org/abs/2604.22599",
+      "authors": "Peter O. Hess, Sahila Chopra",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2604.22599v1 Announce Type: new \nAbstract: The study of the structure of the 0+ spectrum in heavy nuclei has drawn much attention in the last two decades. In this contribution we study their properties from a microscopic point of view. The pseudo-SU(3) model (\\tilde{SU}(3)) is applied to some rare earth nuclei, namely to Sm, Gd, Dy, Er, Yb and Hf isotopes. It is shown that the 0+ spectrum, and the accumulation of states at certain energies, can be well understood using this microscopic model, which takes into account the Pauli Exclusion Principle (PES). Intentionally, a very simple model Hamiltonian is applied and only the valence shell is taken into account, in order to high-lighten certain cross features. It is demonstrated that the microscopic Hilbert space is essential in understanding the accumulation of 0+-states. A discussion to other models is provided. Also the dominance of B(E2)-transitions from the {\\gamma}-band over those from the \\b{eta}-band turns out to be trivial, in contrast to within some collective models."
+    },
+    {
+      "title": "Ab initio short-range nuclear matrix elements for neutrinoless double-beta decay",
+      "link": "https://arxiv.org/abs/2604.22727",
+      "authors": "A. Todd, T. Shickele, A. Belley, L. Jokiniemi, J. D. Holt",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2604.22727v1 Announce Type: new \nAbstract: We present converged ab initio calculations of short-range neutrinoless double-beta ($0\\nu\\beta\\beta$) decay nuclear matrix elements for the key experimental isotopes $^{76}$Ge, $^{82}$Se, $^{130}$Te and $^{136}$Xe. Starting from different nuclear forces derived from chiral effective field theory, we apply the in-medium similarity renormalization group to obtain an effective valence-space Hamiltonian along with consistently transformed $0\\nu\\beta\\beta$-decay operators. We then obtain a range of values for the matrix elements that is consistent with, but generally smaller than, those from phenomenology. Finally, we combine our results with current limits from $0\\nu\\beta\\beta$-decay searches to obtain constraints for the sterile-neutrino mixing-mass parameter space when considering the inclusion of a fourth sterile neutrino."
+    },
+    {
+      "title": "Gradient-Produced Neutrinos",
+      "link": "https://arxiv.org/abs/2604.21968",
+      "authors": "Erwin H. Tanin, Yikun Wang",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2604.21968v1 Announce Type: cross \nAbstract: Sufficiently strong electric fields can produce charged-particle pairs via the Schwinger effect. We argue that steep matter-density gradients, as can arise in neutron star interiors, would analogously produce neutrino-antineutrino pairs. We then discuss observational signatures of these gradient-produced (anti)neutrinos and how they could provide new probes of neutron-star structure and baryon-dense QCD."
+    },
+    {
+      "title": "Hydrodynamics and Energy Correlators",
+      "link": "https://arxiv.org/abs/2604.21971",
+      "authors": "Jo\\~ao Barata, Matvey V. Kuzmin, Ian Moult, Andrey V. Sadofyev, Jo\\~ao M. Silva",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2604.21971v1 Announce Type: cross \nAbstract: We study energy-energy correlators (EECs) in many-body quantum states, focusing on the matter produced in the aftermath of heavy-ion collisions. We analyze the angular structure of EECs in the collinear limit and identify a sequence of dynamical regimes. At the largest angular separations within the small-angle regime, the observable is dominated by disconnected contributions, leading to a classical scaling determined by the collective flow of the medium. We explicitly construct this contribution for hadrons produced from a hydrodynamic medium described by boost-invariant Gubser flow, obtaining the angular dependence of the EEC analytically. We further consider azimuthal perturbations to this flow, illustrating how EECs can be used to probe anisotropies in the initial state. At smaller angular separations, connected contributions become increasingly important. We argue that in this regime the EEC is controlled by collective hydrodynamic modes. The resulting angular behavior is similar to the one identified in the EECs of heavy and large-charge states of conformal field theories. At even smaller angles, this regime is expected to match onto the structure determined by the light-ray operator product expansion, before eventually crossing over to the smallest-angle behavior characteristic of dilute hadronic matter. Altogether, these results provide a unified picture of the angular structure of EECs in many-body QCD states and suggest new observables sensitive to the properties of matter in heavy-ion collisions."
+    },
+    {
+      "title": "Confronting Color Glass Condensate at next-to-leading order with HERA data",
+      "link": "https://arxiv.org/abs/2604.22332",
+      "authors": "Carlisle Casuga, Heikki M\\\"antysaari",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2604.22332v1 Announce Type: cross \nAbstract: We perform a global analysis of HERA total inclusive cross section and charm quark production data to extract the non-perturbative initial condition for the next-to-leading order Balitsky-Kovchegov (BK) equation. We extend our previous analyses to full next-to-leading order + next-to-leading logarithm (NLO+NLL) accuracy by combining the NLO DIS impact factors with the NLO BK equation that includes the resummation of large double and single logarithms. The developed Bayesian setup extracts the posterior that describes the distribution of the parameters that best fit the data. The posterior distribution allows for estimates of the theoretical uncertainty of the dipole amplitude and, hence, offers a streamlined method for propagating uncertainties in the BK initial condition in NLO CGC calculations."
+    },
+    {
+      "title": "The Effect of Mass Loss and Convective Overshooting on the Pre-Collapse Structure, Composition, and Neutrino Emission of Red Supergiants",
+      "link": "https://arxiv.org/abs/2604.22605",
+      "authors": "McKenzie A. Myers, Claire B. Campbell, Kelly M. Patton, Segen BenZvi, Marta Colomer Molla, Alec Habig, James P. Kneller, Dan Milisavljevic, Jeffrey Tseng",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2604.22605v1 Announce Type: cross \nAbstract: Prior to core collapse, the neutrino emission from red supergiants (RSGs) is so large that a nearby ($\\lesssim1$kpc) RSG will become visible in current and near-future neutrino detectors. The rate of emission and the spectra of the pre-supernova (pre-SN) neutrinos from RSGs are sensitive to the temperature, density, and detailed isotopic composition of the core. During the last year of the star's life, these properties change considerably. Several factors of stellar evolution modeling - such as the treatment of mass loss and convective overshooting - alter the thermal conditions and composition of the RSG core as it approaches collapse. In this paper we present the first study of how varying the treatment of mass loss and convective overshooting together affects the pre-collapse core properties and neutrino emission of RSGs. We use the stellar evolution instrument MESA and construct a grid of 32 models with zero-age main sequence masses of $\\{ 12, 15, 18, 20\\}$ $M_\\odot$, use the so-called 'Dutch' mass-loss scheme with wind efficiencies of $\\{0.2, 0.4, 0.8, 1.0\\}$, and consider two convective overshooting schemes. Our models use a large 206-isotope nuclear network in order to accurately compute the structure and composition of the star. We find that, in the last few days of the star's life, the general trend of the conditions and composition in the core of the star is one of contraction, heating, and deleptonization, but that during this phase, this general trend will be interrupted by the initiation of core silicon burning and shell burning episodes that cause the core to expand and undergo convective mixing with material of a higher proton fraction that temporarily reverses the deleptonization. The pre-SN neutrino emission reflects these changes with a gradual shift to higher energies and larger flux that becomes dominated by beta processes a few hours prior to the collapse."
+    },
+    {
+      "title": "Dense Matter and Compact Stars in Strong Magnetic Fields",
+      "link": "https://arxiv.org/abs/2604.22680",
+      "authors": "Monika Sinha, Vivek Baruah Thapa",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2604.22680v1 Announce Type: cross \nAbstract: Compact stars serve as natural systems where matter exists at densities far beyond those achievable in laboratory experiments. Among them, magnetars are expected to possess interior magnetic fields that may reach values of the order of $10^{17}-10^{18}$ G. These extreme conditions are expected to alter the microscopic and macroscopic properties of dense matter. In this review, we examine how strong magnetic fields affect fermionic matter through mechanisms such as Landau quantization and anomalous magnetic moment interactions. We further discuss the behaviour of magnetized hadronic matter within relativistic mean-field approaches and consider the possible emergence of additional degrees of freedom, including hyperons, $\\Delta$ resonances, meson condensates and quark matter. The consequences of these effects for neutron-star structure and observational constraints are also briefly outlined."
+    },
+    {
+      "title": "Mechanisms of high energy polarized photoproduction of $\\pi^{-}\\Delta^{++}$",
+      "link": "https://arxiv.org/abs/2604.22719",
+      "authors": "Vanamali Shastry, {\\L}ukasz Bibrzycki, Vincent Mathieu, Gl\\`oria Monta\\~na, Alessandro Pilloni, C\\'esar Fern\\'andez-Ram\\'irez, Robert J. Perry, Arkaitz Rodas, Adam P. Szczepaniak, Daniel Winney",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2604.22719v1 Announce Type: cross \nAbstract: We present an amplitude analysis of high-energy polarized photoproduction of $\\pi^-\\Delta^{++}$ within a Regge exchange framework. A Regge amplitude model incorporating $\\pi$, $\\rho$, $b_1$, and $a_2$ trajectory exchanges is fit simultaneously to spin density matrix elements measured by the GlueX experiment at photon energies of $E_\\gamma = 8.2$--$8.8$ GeV and differential cross section data from SLAC. By including SDME data, the fit constrains not only the magnitudes but also the relative phases of the helicity amplitudes. The results confirm the dominance of pion exchange at small momentum transfer, while natural parity exchanges become significant at larger $t$. We analytically continue the $s$-channel amplitude to the $t$-channel, taking care of the kinematical singularities, and isolate the dynamical residues at the meson poles. The extracted $\\pi N\\Delta$ coupling constant is found to be consistent with the value obtained from the decay width of the $\\Delta(1232)$. For the $\\rho N\\Delta$, $b_1 N\\Delta$, and $a_2 N\\Delta$ vertices, first extractions of the relevant coupling constants are provided."
+    },
+    {
+      "title": "Accelerating scaling solutions from dark matter particle creation",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326003369?dgcid=rss_sd_all",
       "authors": "Unknown",
       "source": "Physics Letters B",
-      "summary": "Publication date: Available online 24 April 2026Source: Physics Letters BAuthor(s): Shao-Feng Ge, Chui-Fan Kong, João Paulo Pinheiro"
+      "summary": "Publication date: Available online 26 April 2026Source: Physics Letters BAuthor(s): Sudip Halder, Jaume de Haro, Supriya Pan, Emmanuel N. Saridakis, Tapan Saha, Subenoy Chakraborty"
     },
     {
-      "title": "Topological Fields in 4<em>d</em> Higher Spin Theory",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326003333?dgcid=rss_sd_all",
+      "title": "Stability and Thermodynamic Topology of Logarithmic Nonlinear Electrodynamics Black Holes with Exponential Entropy Corrections",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326003436?dgcid=rss_sd_all",
       "authors": "Unknown",
       "source": "Physics Letters B",
-      "summary": "Publication date: Available online 24 April 2026Source: Physics Letters BAuthor(s): Philipp Kirakosiants"
+      "summary": "Publication date: Available online 26 April 2026Source: Physics Letters BAuthor(s): Aram Bahroz Brzo, Peshwaz Abdulkareem Abdoul, Behnam Pourhassan"
+    },
+    {
+      "title": "Periodic Orbits and Gravitational Wave Radiation of Black Hole in EGB gravity",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326003370?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: Available online 26 April 2026Source: Physics Letters BAuthor(s): Liping Meng, Zhaoyi Xu, Meirong Tang"
+    },
+    {
+      "title": "Photon Spheres and shadow of Schwarzschild black hole on the EUP framework",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326003412?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: Available online 26 April 2026Source: Physics Letters BAuthor(s): Hai-Long Zhen, Jian-Hua Shi, Huai-Fan Li, Yu-Bo Ma"
+    },
+    {
+      "title": "Observational Constraints on Scalar Field Covariant Perturbations in Modified Gauss–Bonnet Gravity",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326003382?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: Available online 25 April 2026Source: Physics Letters BAuthor(s): Praveen Kumar Dhankar, Munyeshyaka Albert, Mohit Thakre, Safiqul Islam, Farook Rahaman, Behnam Pourhassan"
     }
   ]
 }
