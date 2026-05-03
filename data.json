@@ -1,89 +1,33 @@
 {
-  "lastUpdated": "2026-05-02T04:14:56.897337",
+  "lastUpdated": "2026-05-03T04:36:03.719714",
   "papers": [
     {
-      "title": "Clustered Nature of Hot and Dense Nuclear Matter: Signatures from Heavy-Ion Collisions",
-      "link": "http://link.aps.org/doi/10.1103/ffxr-mmlg",
-      "authors": "Rui Wang, Zhen Zhang, Yu-Gang Ma, Lie-Wen Chen, Che Ming Ko, and Kai-Jia Sun",
-      "source": "Physical Review Letter",
-      "summary": "Author(s): Rui Wang, Zhen Zhang, Yu-Gang Ma, Lie-Wen Chen, Che Ming Ko, and Kai-Jia SunAlthough light nuclear clusters are known to form abundantly in warm and dilute nuclear matter, their role in hot and dense nuclear matter remains unclear due to the lack of experimental indication for their modifications by the Mott effect under such conditions. To address this issue, we resort to …[Phys. Rev. Lett. 136, 172301] Published Fri May 01, 2026"
-    },
-    {
-      "title": "Dipole Strength Distribution of $^{8}\\mathrm{He}$ and Decay Characteristics",
-      "link": "http://link.aps.org/doi/10.1103/vp3m-5rpp",
-      "authors": "C. Lehr <em>et al.</em>",
-      "source": "Physical Review Letter",
-      "summary": "Author(s): C. Lehr et al.The weak binding and spatially extended neutron densities characteristic of drip-line nuclei give rise to a distinctive low-energy dipole response. The drip-line nucleus $^{8}\\mathrm{He}$ is the most neutron-rich bound nucleus with a mass-to-charge ratio of $A/Z=4$. We measure the dipole response of…[Phys. Rev. Lett. 136, 172501] Published Fri May 01, 2026"
-    },
-    {
-      "title": "Neural Quantum States for Light Nuclei with Chiral Two- and Three-Body Interactions",
-      "link": "http://link.aps.org/doi/10.1103/ygkf-llyp",
-      "authors": "Pengsheng Wen, Alexandros Gezerlis, and Jeremy W. Holt",
-      "source": "Physical Review Letter",
-      "summary": "Author(s): Pengsheng Wen, Alexandros Gezerlis, and Jeremy W. HoltFinding high-quality trial wave functions for quantum Monte Carlo calculations of light nuclei requires a strong intuition for modeling the interparticle correlations as well as large computational resources for exploring the space of variational parameters. Moreover, for systems with three-body int…[Phys. Rev. Lett. 136, 172502] Published Fri May 01, 2026"
-    },
-    {
-      "title": "Three-Body Barrier Dynamics of Double-Alpha Decay in Heavy Nuclei",
-      "link": "http://link.aps.org/doi/10.1103/jxqh-6gpj",
-      "authors": "Shulin Tang, Tao Wan, Yibin Qian, Chong Qi, Ramon A. Wyss, Roberto J. Liotta, Dong Bai, Bo Zhou, and Zhongzhou Ren",
-      "source": "Physical Review Letter",
-      "summary": "Author(s): Shulin Tang, Tao Wan, Yibin Qian, Chong Qi, Ramon A. Wyss, Roberto J. Liotta, Dong Bai, Bo Zhou, and Zhongzhou RenThe simultaneous emission of two $α$ particles—double-$α$ decay—represents a long-predicted but unobserved mode of nuclear radioactivity. Here, we formulate this process as a genuine three-body problem within the hyperspherical coordinate framework and evaluate decay probabilities by numerically sol…[Phys. Rev. Lett. 136, 172503] Published Fri May 01, 2026"
-    },
-    {
-      "title": "Investigation of shell evolution with entanglement entropy",
-      "link": "http://link.aps.org/doi/10.1103/cr17-3m34",
-      "authors": "D. Xu, A. T. Kruppa, J. G. Li, and H. F. Zhang",
+      "title": "Collective effects in O-O and Ne-Ne collisions at $\\sqrt{{s}_{NN}}=5.36$ TeV from a hybrid approach",
+      "link": "http://link.aps.org/doi/10.1103/nvq9-55gq",
+      "authors": "Lucas Constantin, Niklas Götz, Carl B. Rosenkvist, and Hannah Elfner",
       "source": "Physical Review C",
-      "summary": "Author(s): D. Xu, A. T. Kruppa, J. G. Li, and H. F. ZhangIn this work, we employ quantum entanglement entropy to study the evolution of nuclear shell structures. We focus on using single-orbital entropy and total entanglement entropy to explore the stability and evolution of shell structures in neutron-rich nuclei, particularly along the oxygen and calciu…[Phys. Rev. C 113, 044332] Published Thu Apr 30, 2026"
+      "summary": "Author(s): Lucas Constantin, Niklas Götz, Carl B. Rosenkvist, and Hannah ElfnerMany features of heavy-ion collisions are well described by hybrid approaches, where the droplet of strongly coupled quark gluon plasma (QGP) is modeled by hydrodynamics and the subsequent dilute stage is performed with a hadronic transport model. Conventionally, the formation of a QGP is well estab…[Phys. Rev. C 113, 054901] Published Fri May 01, 2026"
     },
     {
-      "title": "$^{12}\\mathrm{C}$-induced total reaction cross sections based on the intranuclear cascade model",
-      "link": "http://link.aps.org/doi/10.1103/k9x5-8qft",
-      "authors": "Masahiro Nakano, Yuji Yamaguchi, and Yusuke Uozumi",
+      "title": "Investigation of the $\\overline{K}\\text{−}^{6}\\mathrm{Li}$ interaction and the search for the $\\mathrm{Λ}$(1405) resonance",
+      "link": "http://link.aps.org/doi/10.1103/qdhf-rz4v",
+      "authors": "Ahmad Naderi Beni and Sajjad Marri",
       "source": "Physical Review C",
-      "summary": "Author(s): Masahiro Nakano, Yuji Yamaguchi, and Yusuke UozumiTotal reaction cross sections for $^{12}\\mathrm{C}$-induced reactions are investigated over a wide energy range from 0 to 5000 MeV using an intranuclear cascade (INC) model. The model is an extension of the framework previously applied to nucleon-, deuteron-, and α-particle-induced reactions. The ex…[Phys. Rev. C 113, 044918] Published Thu Apr 30, 2026"
+      "summary": "Author(s): Ahmad Naderi Beni and Sajjad MarriWe investigate the interaction of an antikaon (${K}^{−}$) with the $^{6}\\mathrm{Li}$ nucleus, described as an $α+d$ cluster system. The study aims to explore the formation of the $\\mathrm{Λ}(1405)$ resonance through the ${K}^{−}d$ subsystem in the presence of a spectator $α$ particle. In the absence…[Phys. Rev. C 113, 055201] Published Fri May 01, 2026"
     },
     {
-      "title": "High-voltage and electrode system for a cryogenic experiment to search for the neutron electric dipole moment",
-      "link": "http://link.aps.org/doi/10.1103/wjxx-lsvg",
-      "authors": "M. A. Blatnik, S. M. Clayton, S. A. Currie, B. W. Filippone, M. Makela, C. M. O'Shaughnessy, N. S. Phan, J. C. Ramsey, G. V. Riley, A. Roberts, T. Sandborn, T. J. Schaub, G. M. Seidel, E. Smith, I. L. Smythe, J. Surbrook, W. Wei, W. Yao, and T. M. Ito",
+      "title": "${K}^{*}(892)$ resonance suppression in $\\mathrm{Ar}+\\mathrm{Sc}$ collisions at energies available at the CERN Super Proton Synchrotron",
+      "link": "http://link.aps.org/doi/10.1103/6d1c-q3kc",
+      "authors": "Amine Chabane, Tom Reichert, Jan Steinheimer, and Marcus Bleicher",
       "source": "Physical Review C",
-      "summary": "Author(s): M. A. Blatnik, S. M. Clayton, S. A. Currie, B. W. Filippone, M. Makela, C. M. O'Shaughnessy, N. S. Phan, J. C. Ramsey, G. V. Riley, A. Roberts, T. Sandborn, T. J. Schaub, G. M. Seidel, E. Smith, I. L. Smythe, J. Surbrook, W. Wei, W. Yao, and T. M. ItoThe neutron electric dipole moment (nEDM) is a key probe of CP violation and physics beyond the Standard Model. Experimental sensitivity scales with the applied electric field, making higher fields essential for improved measurements. A 1994 proposal to perform an nEDM experiment in superfluid 4He suggested several potential advantages, including in-situ production of ultracold neutrons with reduced loss and the possibility of higher electric fields. Here, the authors report the outcome of a comprehensive program to develop the high-voltage and electrode system for such an experiment, including new insights into relevant physical phenomena and detailing selected technical solutions with their corresponding experimental demonstrations. The results demonstrate the necessary technology for operation at electric fields up to E=75 kV/cm, compared with E≈10 kV/cm in recent nEDM experiments—a major step toward significantly enhanced sensitivity.[Phys. Rev. C 113, 045503] Published Thu Apr 30, 2026"
+      "summary": "Author(s): Amine Chabane, Tom Reichert, Jan Steinheimer, and Marcus BleicherWe investigate the production and suppression of short-lived ${K}^{*}(892)$ resonances in $\\mathrm{p}+\\mathrm{p}$ and $\\mathrm{Ar}+\\mathrm{Sc}$ collisions at CERN-SPS energies ($\\sqrt{{s}_{\\mathrm{NN}}}=8.8$, 11.9, and 16.8 GeV) using the Ultrarelativistic Quantum Molecular dynamics (UrQMD) model. W…[Phys. Rev. C 113, 055202] Published Fri May 01, 2026"
     },
     {
-      "title": "Flavour Invariants of the N Higgs Doublet Model",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326003552?dgcid=rss_sd_all",
+      "title": "Fractal Horizons Beyond Roughness: Auto-Affine and Multifractal Black Hole Geometry",
+      "link": "https://www.sciencedirect.com/science/article/pii/S037026932600345X?dgcid=rss_sd_all",
       "authors": "Unknown",
       "source": "Physics Letters B",
-      "summary": "Publication date: Available online 1 May 2026Source: Physics Letters BAuthor(s): João C. Belas, João P. Silva"
-    },
-    {
-      "title": "Emergent spacetime from spatial energy potentiality: a loop-induced phase transition mechanism",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326003527?dgcid=rss_sd_all",
-      "authors": "Unknown",
-      "source": "Physics Letters B",
-      "summary": "Publication date: Available online 30 April 2026Source: Physics Letters BAuthor(s): Farrukh A. Chishtie"
-    },
-    {
-      "title": "T-Duality Effects in Electrodynamics: The <math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si2.svg\" class=\"math\"><mrow><mo>(</mo><mn>2</mn><mo linebreak=\"goodbreak\">+</mo><mn>1</mn><mo>)</mo></mrow></math>-dimensional Case",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326003424?dgcid=rss_sd_all",
-      "authors": "Unknown",
-      "source": "Physics Letters B",
-      "summary": "Publication date: Available online 30 April 2026Source: Physics Letters BAuthor(s): Patricio Gaete, Piero Nicolini"
-    },
-    {
-      "title": "Absorption of 1<em>P</em>-wave heavy charmonium <em>χ</em><sub><em>c</em>1</sub>(1<em>P</em>) in nuclei",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0375947426001004?dgcid=rss_sd_all",
-      "authors": "Unknown",
-      "source": "Nuclear Physics A",
-      "summary": "Publication date: Available online 30 April 2026Source: Nuclear Physics AAuthor(s): E. Ya. Paryev"
-    },
-    {
-      "title": "<em>α</em>-particle production in <sup>6</sup>He cocktail beam induced-reactions on a <sup>9</sup>Be target",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0375947426001016?dgcid=rss_sd_all",
-      "authors": "Unknown",
-      "source": "Nuclear Physics A",
-      "summary": "Publication date: Available online 30 April 2026Source: Nuclear Physics AAuthor(s): B.P. Monteiro, K.C.C. Pires, R. Lichtenthäler Filho, M. Rodríguez-Gallardo, A.M. Moro, O.C.B. Santos, U. Umbelino, A.S. Serra"
+      "summary": "Publication date: Available online 1 May 2026Source: Physics Letters BAuthor(s): Jaume Giné"
     }
   ]
 }
