@@ -1,33 +1,124 @@
 {
-  "lastUpdated": "2026-05-03T04:36:03.719714",
+  "lastUpdated": "2026-05-04T04:35:59.372294",
   "papers": [
     {
-      "title": "Collective effects in O-O and Ne-Ne collisions at $\\sqrt{{s}_{NN}}=5.36$ TeV from a hybrid approach",
-      "link": "http://link.aps.org/doi/10.1103/nvq9-55gq",
-      "authors": "Lucas Constantin, Niklas Götz, Carl B. Rosenkvist, and Hannah Elfner",
-      "source": "Physical Review C",
-      "summary": "Author(s): Lucas Constantin, Niklas Götz, Carl B. Rosenkvist, and Hannah ElfnerMany features of heavy-ion collisions are well described by hybrid approaches, where the droplet of strongly coupled quark gluon plasma (QGP) is modeled by hydrodynamics and the subsequent dilute stage is performed with a hadronic transport model. Conventionally, the formation of a QGP is well estab…[Phys. Rev. C 113, 054901] Published Fri May 01, 2026"
+      "title": "$\\rho$ mesons in finite magnetic field and finite temperature",
+      "link": "https://arxiv.org/abs/2605.00561",
+      "authors": "Zhiyang Liu, Min Zhou, Yvming Tian, Rui Zhou, Guoyun Shao, Shijun Mao",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2605.00561v1 Announce Type: new \nAbstract: The mass spectra of $\\rho$ mesons ($\\rho_{Q=\\pm 1}^{s_z=0,\\pm 1}$ and $\\rho_{Q=0}^{s_z=0,\\pm 1}$) at finite magnetic field and temperature are studied in frame of the two-flavor Nambu-Jona-Lasinio model. Fully considering the breaking of translational invariance induced by external magnetic field, the analytical form of $\\rho$ meson propagators have been derived in the Ritus scheme and Schwinger scheme, which gives the same algebraic formula. When solving the pole equation of $\\rho$ meson propagators, multiple solutions of the meson mass appear due to the dimension reduction of their constituent quarks in magnetic fields. At vanishing temperature, we focus on the $\\rho$ meson masses $M_{\\rho}$ corresponding to the lowest value solution of the pole equation. $M_{\\rho^{-}_+}$, $M_{\\rho^{0}_+}$ and $M_{\\rho^{\\pm}_0}$ increase with magnetic field. $M_{\\rho^{+}_+}$ firstly decreases and then becomes saturated with increasing magnetic field. $M_{\\rho^0_0}$ is not sensitive to magnetic field. These results are consistent with the available LQCD simulations. At finite temperature, we discuss the lowest four/five solutions of $\\rho$ meson masses $M^{i=0,1,2,3,4}_{\\rho}$. With fixed magnetic field, they decrease with temperature, and approach the mass sum of their constituent quarks at high temperature. The mass solution $M^{i}_{\\rho}$ for different mesons $\\rho_+^{0,\\pm}$ and $\\rho_0^{0,\\pm}$ may become degenerate at finite magnetic field and temperature."
     },
     {
-      "title": "Investigation of the $\\overline{K}\\text{−}^{6}\\mathrm{Li}$ interaction and the search for the $\\mathrm{Λ}$(1405) resonance",
-      "link": "http://link.aps.org/doi/10.1103/qdhf-rz4v",
-      "authors": "Ahmad Naderi Beni and Sajjad Marri",
-      "source": "Physical Review C",
-      "summary": "Author(s): Ahmad Naderi Beni and Sajjad MarriWe investigate the interaction of an antikaon (${K}^{−}$) with the $^{6}\\mathrm{Li}$ nucleus, described as an $α+d$ cluster system. The study aims to explore the formation of the $\\mathrm{Λ}(1405)$ resonance through the ${K}^{−}d$ subsystem in the presence of a spectator $α$ particle. In the absence…[Phys. Rev. C 113, 055201] Published Fri May 01, 2026"
+      "title": "Comparative Study of Langevin and Random Walk Models for Nuclear Fission in the Overdamped Regime",
+      "link": "https://arxiv.org/abs/2605.00586",
+      "authors": "A. Augustyn, T. Cap, M. Kowal, K. Pomorski",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2605.00586v1 Announce Type: new \nAbstract: We present a comparative study of Langevin dynamics and a Metropolis random walk model applied to thermal neutron-induced fission of $^{229}$Th, $^{235}$U, $^{239}$Pu, $^{245}$Cm, $^{249}$Cf, and $^{255}$Fm. Both methods are implemented within an identical four-dimensional Fourier-over-Spheroid framework, using potential energy surfaces derived from the macroscopic-microscopic model. We show that the Metropolis walk corresponds to the overdamped limit of the Langevin equations and confirm this correspondence numerically by Langevin calculations performed in the strongly damped regime and with quantum corrections to the random force switched off. Under these conditions, the two approaches produce essentially identical mass distributions for the lighter actinides. Systematic deviations develop for the heavier actinides, where the Langevin dynamics yields a non-negligible symmetric fission component absent in the random walk results. We trace this difference to the kinematic structure of the Metropolis sampling and to the residual inertial dynamics retained in the Langevin framework. A parallel comparison of Langevin calculations with and without the quantum-corrected effective temperature $T^*$ isolates the contribution of zero-point fluctuations and suggests that their standard phenomenological treatment may overestimate their impact in certain cases. Both approaches qualitatively reproduce the asymmetric peak positions and their systematic evolution across the actinide chain, while a common quantitative limitation -- the narrowness of the predicted distributions -- points to the role of higher-dimensional deformation modes not included in the present parametrization."
     },
     {
-      "title": "${K}^{*}(892)$ resonance suppression in $\\mathrm{Ar}+\\mathrm{Sc}$ collisions at energies available at the CERN Super Proton Synchrotron",
-      "link": "http://link.aps.org/doi/10.1103/6d1c-q3kc",
-      "authors": "Amine Chabane, Tom Reichert, Jan Steinheimer, and Marcus Bleicher",
-      "source": "Physical Review C",
-      "summary": "Author(s): Amine Chabane, Tom Reichert, Jan Steinheimer, and Marcus BleicherWe investigate the production and suppression of short-lived ${K}^{*}(892)$ resonances in $\\mathrm{p}+\\mathrm{p}$ and $\\mathrm{Ar}+\\mathrm{Sc}$ collisions at CERN-SPS energies ($\\sqrt{{s}_{\\mathrm{NN}}}=8.8$, 11.9, and 16.8 GeV) using the Ultrarelativistic Quantum Molecular dynamics (UrQMD) model. W…[Phys. Rev. C 113, 055202] Published Fri May 01, 2026"
+      "title": "Hyperon-nucleon interaction through the $K^-d\\to\\pi\\Lambda N$ reaction",
+      "link": "https://arxiv.org/abs/2605.00727",
+      "authors": "Shunsuke Yasunaga, Daisuke Jido",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2605.00727v1 Announce Type: new \nAbstract: The hyperon-nucleon interaction is investigated through the final-state interaction in the $K^-d\\to\\pi^-\\Lambda p$ reaction. We focus on the $\\Lambda N$-$\\Sigma N$ coupled-channel interaction, which produces characteristic structures around the $\\Sigma N$ thresholds in the $\\Lambda p$ invariant mass spectrum. The spin-triplet $\\Sigma N\\to\\Lambda p$ conversion amplitude is constructed within the $K$-matrix formalism using scattering lengths in the isospin basis. We first examine the dependence of the conversion amplitude on the $\\Sigma N$ scattering lengths and find that the threshold structure is particularly sensitive to the sign of the real part of the $I=1/2$ scattering length. We then calculate the $\\Lambda p$ invariant mass spectrum of the $K^-d\\to\\pi^-\\Lambda p$ reaction, including the contributions from the background diagrams. The resulting spectra show characteristic structures around the $\\Sigma N$ thresholds, whose shapes depend on the choice of the interaction parameters. These results suggest that the $\\Lambda p$ invariant mass spectrum can serve as a useful observable for constraining the $\\Lambda N$-$\\Sigma N$ coupled-channel interaction."
     },
     {
-      "title": "Fractal Horizons Beyond Roughness: Auto-Affine and Multifractal Black Hole Geometry",
-      "link": "https://www.sciencedirect.com/science/article/pii/S037026932600345X?dgcid=rss_sd_all",
+      "title": "Two-body current and axial form factor effects in charged-current quasielastic neutrino-nucleus scattering within the NEUT event generator",
+      "link": "https://arxiv.org/abs/2605.00756",
+      "authors": "T. Franco-Munoz, J. McKean, J. Garc\\'ia-Marcos, M. Hooft, R. Gonz\\'alez-Jim\\'enez, N. Jachowicz, J. M. Ud\\'ias",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2605.00756v1 Announce Type: new \nAbstract: We present a charged-current quasielastic neutrino-nucleus scattering model based on an unfactorized representation of the spectral function, employing relativistic momentum distributions for bound nucleons and the relativistic distorted-wave impulse approximation with an energy-dependent relativistic potential to describe the scattered nucleon. The model incorporates two-body meson-exchange currents contributing to one-particle-one-hole final states and tests several axial form factor parametrizations, including recent LQCD and MINERvA fits. It is implemented in the NEUT event generator and benchmarked against T2K and MINERvA ${\\nu}_{\\mu}$-$^{12}$C CC0${\\pi}$ measurements. We find that two-body meson-exchange currents lead to a sizeable increase of the total cross section, arising from an enhancement of the transverse response, which is the dominant component in charged-current neutrino scattering. On the other hand, recent fits of the axial form factor predict larger values than the standard dipole form, yielding a systematic enhancement of the cross section. The LQCD+MINERvA parametrization tends to overestimate the data, while the MINERvA-only fit provides a more moderate increase. Overall, no single configuration consistently provides the best agreement with the different datasets."
+    },
+    {
+      "title": "Baryonic Bound States in the Non-Local NJL Model",
+      "link": "https://arxiv.org/abs/2605.00084",
+      "authors": "Arpan Chatterjee, Stefan Groote",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2605.00084v1 Announce Type: cross \nAbstract: Baryons, as three-quark bound states, require a covariant treatment in the intermediate-energy regime where perturbative QCD is no longer applicable and where nonperturbative correlations dominate. This article reformulates the content of the CERN Baltic Conference 2025 presentation on baryonic bound states in the non-local Nambu--Jona-Lasinio (NJL) model. We review how the relativistic Faddeev approach reduces the three-body quark problem to an effective quark--diquark bound-state problem, describe the scalar and axial-vector diquark channels, and show how the resulting quark--diquark Bethe--Salpeter equation can be written as an eigenvalue problem for the baryon mass. The non-local NJL framework, motivated by QCD-based nonlocal interactions and Dyson--Schwinger considerations, provides a compact description in which baryon masses and form factors are extracted from the numerical solution of coupled integral equations."
+    },
+    {
+      "title": "Evidence for Quark Confinement in the Proton",
+      "link": "https://arxiv.org/abs/2605.00339",
+      "authors": "Xiangdong Ji, Gerald A. Miller, Chen Yang",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2605.00339v1 Announce Type: cross \nAbstract: The strong interaction is the fundamental force that holds quarks and the gluon force carriers together to form protons and neutrons and also binds the atomic nucleus. The theory governing quark-gluon interactions is Quantum Chromodynamics (QCD). A wide variety of experimental data teaches us that quarks and gluons cannot be observed in isolation, a phenomenon known as confinement that is unique to QCD. But no one has used QCD to mathematically prove confinement. Here we show how to define and measure the force on quarks in the proton using available experimental data. Direct evidence for confinement is obtained because the force is found to be attractive and constant for a wide range of quark positions. This work guides future experimental efforts at future Electron-Ion Colliders aimed at obtaining a rigorous quantitative understanding of confinement and the origin of nuclear mass."
+    },
+    {
+      "title": "Twist-2 relations for the twist-3 tensor-polarized distribution function $f_{LT}$ of a spin-1 hadron by the operator-product-expansion method",
+      "link": "https://arxiv.org/abs/2605.00430",
+      "authors": "S. Kumano, Kenshi Kuroki",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2605.00430v1 Announce Type: cross \nAbstract: In a spin-1 hadron, tensor-polarized parton distribution functions (PDFs) exist. The twist-2 function is $f_{1LL}$ and a twist-3 one is $f_{LT}$. Because an experiment is under preparation at the Thomas Jefferson National Accelerator Facility (JLab) to measure the cross section of electron-deuteron deep inelastic scattering with the tensor-polarized deuteron target, these PDFs need to be understood theoretically. Especially, measurements will be done in a relatively low-$Q^2$ region at JLab, so that twist-3 contributions could become sizable in the cross section. In a previous work, a twist-2 relation was derived for $f_{LT}$ in terms of $f_{1LL}$ by using a nonlocal operator, and it corresponds to the Wandzura-Wilczek (WW) relation between $g_1$ and $g_2$. In addition, another relation similar to the Burkhardt-Cottingham (BC) sum rule was obtained. It is known that a formal way to derive the WW relation and the BC sum rule is to use the operator product expansion (OPE) with local operators. In this work, the WW-like relation and the BC-like sum rule for $f_{LT}$ are derived by using the local OPE method as a reliable independent way to establish these relations."
+    },
+    {
+      "title": "Maximal mass of neutron stars constrained by neutron star observations",
+      "link": "https://arxiv.org/abs/2605.00437",
+      "authors": "G\\'abor Kasza, Gy\\\"orgy Wolf",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2605.00437v1 Announce Type: cross \nAbstract: We investigate constraints on the high-density equation of state (EOS) of neutron star matter by analyzing the probability distributions of the endpoints of mass-radius M(R) sequences within a Bayesian weighting framework. Starting from two representative hadronic baseline EOSs, SFHo and DD2, matched at higher densities to an extended linear sigma model description and constrained to approach perturbative QCD (pQCD) results, we construct families of causal hybrid EOSs spanning a broad range of stiffness at supranuclear densities. Observational constraints from the binary neutron-star merger GW170817, mass-radius measurements from the Neutron Star Interior Composition Explorer (NICER), and candidate low-mass and mass-gap compact objects are incorporated through Bayesian likelihood weighting. This approach allows us to determine probability distributions for the maximum neutron-star mass M$_{\\rm TOV}$ and the corresponding radius R$_{\\rm TOV}$, i.e., the endpoints of the M(R) sequences.\n  We find that the maximum-mass distributions are largely determined by observational constraints and show only weak sensitivity to the choice of baseline EOS, favoring values around 2.2-2.3 M$_\\odot$ when the most robust constraints are applied. In contrast, the corresponding radius distributions exhibit a stronger dependence on the underlying hadronic EOS, with typical preferred values near $12\\pm 1$ km. Additional tidal-deformability constraints further restrict the allowed parameter space and disfavor very stiff EOS realizations when interpreted together with the possible mass-gap neutron-star candidate. Our results demonstrate that endpoint distributions of M(R) sequences provide a sensitive and complementary diagnostic for constraining the high-density behavior of the neutron-star EOS within a multimessenger Bayesian framework."
+    },
+    {
+      "title": "Nuclear structure and saturation effects from diffractive vector meson production",
+      "link": "https://arxiv.org/abs/2605.00454",
+      "authors": "Heikki M\\\"antysaari, Hendrik Roch, Bj\\\"orn Schenke, Chun Shen, Wenbin Zhao",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2605.00454v1 Announce Type: cross \nAbstract: We study exclusive vector meson production in ultra-peripheral collisions (UPCs) of a wide range of nuclei, and assess the potential of measurements to constrain the small-$x$ structure of oxygen and neon nuclei. We employ an impact-parameter-dependent color glass condensate framework incorporating JIMWLK evolution, with parameters constrained by a recent global Bayesian analysis of $\\gamma+p$ and $\\gamma+\\mathrm{Pb}$ data. We present predictions for coherent and incoherent $\\mathrm{J}/\\psi$ production in $\\mathrm{O}+\\mathrm{O}$ and $\\mathrm{Ne}+\\mathrm{Ne}$ UPCs at LHC energies, and quantify theoretical uncertainties using posterior samples from the calibration. We employ several nuclear structure models and find that $t$-differential observables are sensitive to the chosen model. We further study the mass-number dependence of saturation effects through nuclear suppression factors for coherent and incoherent vector meson production. Saturation-induced suppression increases systematically with both nuclear mass number and energy. Our results provide a unified framework for the systematic study of the onset of gluon saturation and nuclear structure at high energy, accessible in future UPC measurements at the LHC and at the Electron-Ion Collider."
+    },
+    {
+      "title": "MuDirac 1.3.0: A Sustainable Software Tool for Calculating Ground State Nuclear Properties Using Muonic X-Ray Measurements",
+      "link": "https://arxiv.org/abs/2605.00554",
+      "authors": "Leandro Liborio, Milan Kumar, Subindev Devadasan, Philip Jones, Martin Plummer, Adrian Hillier, Albert Bartok",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2605.00554v1 Announce Type: cross \nAbstract: The nuclear charge radius is one of the most fundamental quantities of the atomic nucleus. It can be deduced from a combination of experimental measurements of muonicX-raytransitionenergieswithmodellingofthoseX-raytransitionenergies. In thisworkwepresentMuDirac (1.3.0), whichisanopen, publiclyavailable, sustainable and computationally efficient software tool that will be at put the disposal of the negative muon community. With MuDirac (1.3.0), the community will be able to accurately and efficiently estimate nuclear properties, such as the nuclear charge radius, by assuming a 2-parameter Fermi distribution of the nuclear charge."
+    },
+    {
+      "title": "Stability of parton distributions at high $x$: impact of nuclear and power corrections",
+      "link": "https://arxiv.org/abs/2605.00666",
+      "authors": "C. Cocuzza, W. Melnitchouk, N. Sato, A. W. Thomas",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2605.00666v1 Announce Type: cross \nAbstract: We present a comprehensive new global QCD analysis of unpolarized parton distribution functions (PDFs) based upon proton, deuteron and $A\\!=\\!3$ data, including the latest inclusive deep-inelastic scattering (DIS) measurements from Jefferson Lab at high Bjorken-$x$. Using the JAM Bayesian Monte Carlo framework, we systematically explore the stability of the PDFs with respect to variations in the cuts on the invariant mass $W$ of the DIS final state, the implementation of target mass and higher twist corrections, as well as on the nuclear wave functions for the $A\\!=\\!2$ and 3 data. We find the $u$ and $d$ quark PDFs (and the $d/u$ ratio) are relatively stable up to $x \\approx 0.8$, and able to describe DIS data down to $W^2=3.5$ GeV$^2$ and $Q^2=m_c^2$. Within the collinear factorization framework, the fitted higher twist corrections to DIS are found to be positive, and largely isospin independent. The description of the nuclear data also requires nonzero isoscalar and isovector nucleon off-shell PDF contributions, which gives specific predictions for the ratio, $R_D$, of deuteron to isoscalar nucleon structure functions."
+    },
+    {
+      "title": "Shell effects and the neutron emission within the multi-dimensional Langevin model for nuclear fission",
+      "link": "https://arxiv.org/abs/2604.19576",
+      "authors": "F. A. Ivanyuk, S. V. Radionov, C. Ishizuka, S. Chiba",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2604.19576v2 Announce Type: replace \nAbstract: We solve the Langevin equations for the time evolution of parameters that describe the shape of fissioning system. On each integration step, we calculate the probability of neutron emission and estimate whether a neutron would be emitted or not. If yes, we decrease the excitation energy of the nucleus by the neutron separation energy plus the average energy of the emitted neutron, switch to the layer of potential energy surface with a smaller number of neutrons and continue the process of integration. If the trajectory reaches the scission point, we check how many neutrons were emitted along this trajectory. The pre-scission neutron multiplicity $M_{pre}$ is defined by the ratio of the total number of emitted neutrons to the total number of fission trajectories. Besides $M_{pre}$, the mass distribution of fission fragments, the distribution of emitted neutrons with respect to the fission stage (deformation of system) and the distribution of emitted neutrons with respect to their energies are calculated. The calculated quantities are compared with the available experimental data."
+    },
+    {
+      "title": "New Sum Rules of the Koide Type",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326003631?dgcid=rss_sd_all",
       "authors": "Unknown",
       "source": "Physics Letters B",
-      "summary": "Publication date: Available online 1 May 2026Source: Physics Letters BAuthor(s): Jaume Giné"
+      "summary": "Publication date: Available online 2 May 2026Source: Physics Letters BAuthor(s): Alejandro Rivero"
+    },
+    {
+      "title": "Charged Yukawa-modified black holes: Electric Penrose, Bremsstrahlung radiation and collisions of charged particles",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326003448?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: Available online 2 May 2026Source: Physics Letters BAuthor(s): Nuriddin Kurbonov, Javlon Rayimbaev, Ashfaque H. Bokhari, Bobomurat Ahmedov, Muhammad Zahid, Aleksandra Demyanova"
+    },
+    {
+      "title": "Generalized Kerr-Schild gauge",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326003485?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: Available online 2 May 2026Source: Physics Letters BAuthor(s): Enrique Álvarez, Jesús Anero."
+    },
+    {
+      "title": "Extraction of the color dipole amplitude with physics-informed neural networks",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326003606?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: Available online 2 May 2026Source: Physics Letters BAuthor(s): Wei Kou, Xurong Chen"
+    },
+    {
+      "title": "Explaining higher-order correlations between elliptic and triangular flow",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326003576?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: Available online 2 May 2026Source: Physics Letters BAuthor(s): Mubarak Alqahtani, Jean-Yves Ollitrault"
     }
   ]
 }
