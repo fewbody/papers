@@ -1,159 +1,47 @@
 {
-  "lastUpdated": "2026-05-08T04:12:22.538896",
+  "lastUpdated": "2026-05-09T04:18:59.097903",
   "papers": [
     {
-      "title": "Relativistic Spin Hydrodynamics with Antisymmetric Spin Tensors and an Extension of the Bargmann-Michel-Telegdi Equation",
-      "link": "http://link.aps.org/doi/10.1103/59j2-5sm2",
-      "authors": "Shuo Fang, Kenji Fukushima, Shi Pu, and Dong-Lin Wang",
-      "source": "Physical Review Letter",
-      "summary": "Author(s): Shuo Fang, Kenji Fukushima, Shi Pu, and Dong-Lin WangWe derive a formulation of relativistic spin hydrodynamics with totally antisymmetric spin tensors that satisfy the Frenkel-Mathisson-Pirani condition. In our proposed spin hydrodynamics, the second law of thermodynamics is fulfilled by the spin-induced corrections in the heat flow, the viscous tens…[Phys. Rev. Lett. 136, 182301] Published Wed May 06, 2026"
+      "title": "Enhanced yield rate of $^{229m}\\mathrm{Th}$ via cascade decay in storage rings and electron beam ion traps",
+      "link": "http://link.aps.org/doi/10.1103/82cg-pkxb",
+      "authors": "Yumiao Wang, Yi Yang, Yixin Li, Ding Yue, Kai Zhao, Youjing Wang, Changbo Fu, and Yugang Ma",
+      "source": "Physical Review C",
+      "summary": "Author(s): Yumiao Wang, Yi Yang, Yixin Li, Ding Yue, Kai Zhao, Youjing Wang, Changbo Fu, and Yugang MaThe low-energy nuclear isomeric state of $^{229m}\\mathrm{Th}$ provides a unique bridge between nuclear and atomic physics, enabling applications such as nuclear clocks and precision metrology. However, efficient and controllable production of $^{229m}\\mathrm{Th}$ remains a major experimental challen…[Phys. Rev. C 113, 054602] Published Thu May 07, 2026"
     },
     {
-      "title": "Axial-vector Current and General Unpolarized Electroweak Single-nucleon Responses",
-      "link": "https://arxiv.org/abs/2605.05418",
-      "authors": "T. W. Donnelly, Sabine Jeschonnek",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2605.05418v1 Announce Type: new \nAbstract: The present study provides an extension to our recent work on the vector (V) electromagnetic single-nucleon current and associated response functions, both for unpolarized situations and in situations where the target nucleon is polarized. Here the axial-vector (A) single-nucleon current matrix element is developed in detail and the full set of vector and axial-vector currents used to obtain the electroweak VV, AA and VA response functions. Only the unpolarized case is studied in the present work. The general forms for all of these elements are developed together with various approximation schemes in which numerical studies are provided to indicate where these approximations may be expected to be valid. The results of this work provide the basis for a deeper understanding of the roles played by the various single-nucleon form factors in weak interaction reactions on free nucleons and when using the standard ``prescription for nuclear physics'' in reactions involving nucleons in nuclei."
+      "title": "Self-consistent description of genuine ternary fission in superheavy nuclei",
+      "link": "http://link.aps.org/doi/10.1103/cc74-ctw4",
+      "authors": "Y. Jaganathen and J. Skalski",
+      "source": "Physical Review C",
+      "summary": "Author(s): Y. Jaganathen and J. SkalskiSpontaneous ternary fission into medium-mass fragments is investigated within the self-consistent Hartree-Fock-plus-BCS method using the SLy6 Skyrme interaction with delta pairing. This work complements our previous study in the actinide region by extending it to two superheavy systems: $^{296}\\math…[Phys. Rev. C 113, 054603] Published Thu May 07, 2026"
     },
     {
-      "title": "Relativistic mean-field study of the neutron star inner crust using the asymmetric finite difference method",
-      "link": "https://arxiv.org/abs/2605.05634",
-      "authors": "Jinzhe Zhang, Hong Shen, Ying Zhang, Jinniu Hu",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2605.05634v1 Announce Type: new \nAbstract: The ground-state properties of neutron-rich nuclear clusters in the inner crust of neutron stars are investigated within the Wigner-Seitz approximation using a relativistic mean-field framework. The radial Dirac equations are solved with an asymmetric finite-difference scheme, by which the hermiticity is preserved and spurious states are eliminated. Calculations are performed for representative Wigner-Seitz cells employing TM1-based interactions with different symmetry-energy slope parameters $L$, as well as a parametrization with a larger nucleon effective mass. It is found that the binding energy per nucleon decreases systematically with increasing $L$, while a larger effective mass leads to further reduction, particularly at higher densities. Quantum shell effects, which are absent in the Thomas-Fermi approximation, give rise to oscillatory density distributions and modify neutron properties. Within the Wigner-Seitz cell, the resulting neutron root-mean-square radius and chemical potential are shown to be sensitive to both $L$ and the effective nucleon mass, underscoring their important roles in determining the microscopic structure of the neutron-star inner crust."
+      "title": "Mechanism to synthesize superheavy element 120: A dinuclear system model approach with microscopic inputs",
+      "link": "http://link.aps.org/doi/10.1103/l4gb-dl4h",
+      "authors": "Wei Zhang (张炜), Shi-Jie Zhang (张士杰), and Peng-Hui Chen (陈鹏辉)",
+      "source": "Physical Review C",
+      "summary": "Author(s): Wei Zhang (张炜), Shi-Jie Zhang (张士杰), and Peng-Hui Chen (陈鹏辉)To overcome the challenge of synthesizing nuclei of superheavy elements (SHEs) beyond Z=118, the authors developed a new calculation method using the dinuclear system model. The novel approach consistently and microscopically derives all necessary structure inputs—including nuclear masses, fission barriers, and level density parameters—from finite-temperature covariant density functional theory. After validating the method against data for nobelium and flerovium isotopes, the approach provides meaningful predictions for the production of Z=120 isotopes, which should be useful for planning future SHE synthesis experiments.[Phys. Rev. C 113, 054604] Published Thu May 07, 2026"
     },
     {
-      "title": "Isomer depletion via nuclear excitation by inelastic electron scattering",
-      "link": "https://arxiv.org/abs/2605.05783",
-      "authors": "Ziwen Li, Jingyan Zhao, Xuyang Pu, Yuanbin Wu",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2605.05783v1 Announce Type: new \nAbstract: Isomer depletion via the process of nuclear excitation by inelastic electron scattering is investigated theoretically. A comprehensive study on low-energy nuclear excitations by inelastic electron scattering is performed to analyze the impact of the nuclear and ion charge, the nuclear transition energy, and the nuclear transition multipolarity on the cross section of the process. We apply the analysis to the case of isomer depletion, in which an excitation from the isomeric state to a nuclear level above the isomeric state can lead to decay to a nuclear level below the isomer itself and hence lead to the release of the energy stored in the isomer. For this purpose, the isomer depletion of $\\mathrm{{}^{93m}{Mo}}$, $\\mathrm{{}^{152m}{Eu}}$, and $\\mathrm{{}^{178m}{Hf}}$, which represent the most important scenarios of isomer depletion, are studied. Our results demonstrate the capability of the process of nuclear excitation by inelastic electron scattering for isomer depletion."
+      "title": "Deciphering the dynamics of nuclear collisions with the structure of the elongated $^{20}\\mathrm{Ne}$ nucleus",
+      "link": "http://link.aps.org/doi/10.1103/3fy2-1d7l",
+      "authors": "Deependra Sharma, Arpit Singh, and Sadhana Dash",
+      "source": "Physical Review C",
+      "summary": "Author(s): Deependra Sharma, Arpit Singh, and Sadhana DashWe investigate the role of intrinsic nuclear geometry of $^{20}\\mathrm{Ne}$ nucleus in particle production in small collision systems. Discrete geometrical representations of $^{20}\\mathrm{Ne}$, including bipyramidal $α$-cluster structure in two different configurations along with NLEFT configuratio…[Phys. Rev. C 113, 054903] Published Thu May 07, 2026"
     },
     {
-      "title": "Probing the density dependence of nuclear symmetry energy through isospin transport in heavy-ion reactions",
-      "link": "https://arxiv.org/abs/2605.06138",
-      "authors": "S. Mallik, F. Gulminelli, C. Ciampi, D. Gruyer",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2605.06138v1 Announce Type: new \nAbstract: The density dependence of the nuclear symmetry energy remains one of the key uncertainties in contemporary nuclear physics, with significant implications for the structure of exotic nuclei, the dynamics of heavy-ion collisions, and the properties of astrophysical objects such as neutron stars and core-collapse supernovae. However, extracting robust constraints requires observables that are minimally affected by final-state interactions and are reliably predicted by transport models. This review synthesizes recent theoretical and experimental advancements in constraining the symmetry energy by leveraging isospin diffusion in heavy-ion reactions within the Fermi energy domain. Recent results from the INDRA-FAZIA collaboration, including isospin transport ratio data, and Boltzmann-Uehling-Uhlenbeck (BUU) transport model calculations are highlighted. Confidence regions for the symmetry energy are extracted from isospin transport ratios and isospin diffusion currents by utilizing state-of-the-art nuclear functionals, including both ab initio and phenomenological approaches, with a particular focus on the density regions probed by these experiments. The resulting constraints will aid future Bayesian studies of the nuclear equation of state and contribute to a more unified understanding of dense matter in both terrestrial experiments and astrophysical environments."
+      "title": "Probing nuclear structure with the Balitsky-Kovchegov equation in full impact-parameter dependence",
+      "link": "http://link.aps.org/doi/10.1103/mdrn-42dv",
+      "authors": "J. Cepila, M. Matas, and M. Vaculciak",
+      "source": "Physical Review C",
+      "summary": "Author(s): J. Cepila, M. Matas, and M. VaculciakBuilding on the newly available solution of the Balitsky-Kovchegov (BK) equation with the full impact-parameter dependence, we extend the study of parton evolution from proton to nuclear targets. Since a key part of the scientific program for future experimental facilities such as the EIC is to stud…[Phys. Rev. C 113, 055204] Published Thu May 07, 2026"
     },
     {
-      "title": "Simplified approach to extracting nucleon transversity in collinear factorization using near-side energy-energy correlators",
-      "link": "https://arxiv.org/abs/2604.28131",
-      "authors": "Zhong-Bo Kang, Andreas Metz, Daniel Pitonyak, Congyue Zhang",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2604.28131v2 Announce Type: cross \nAbstract: We develop a novel strategy for accessing the transversity parton distribution function (PDF) of the nucleon within collinear factorization using near-side energy-energy correlators in the dihadron fragmentation framework. We show how this removes the complications of previous approaches that must model either intrinsic parton transverse momentum or resonances in the invariant mass distribution of a final-state dihadron. We present leading-order analytical results for transverse-spin observables in semi-inclusive deep-inelastic scattering and electron-positron annihilation, highlighting their close similarity to the expressions one uses in extracting (un)polarized PDFs and (single-hadron) fragmentation functions in collinear factorization. We make predictions for kinematics relevant for existing and future facilities that demonstrate the feasibility of an energy-energy correlator program in extracting the transversity PDF."
-    },
-    {
-      "title": "First next-to-next-to-leading-order extraction of fragmentation functions for Lambda hyperons",
-      "link": "https://arxiv.org/abs/2605.05314",
-      "authors": "Valerio Bertone, Alessia Bongallino, Amedeo Chiefa, Miguel G. Echevarria, Gunar Schnell",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2605.05314v1 Announce Type: cross \nAbstract: We present MAPFF1.0_Lambda, the first global analysis at next-to-next-to-leading order in perturbative QCD of the collinear unpolarised fragmentation functions of Lambda hyperons. The fit is based on data from single-inclusive electron-positron annihilation, and from both neutral-current and -- for the first time -- charged-current semi-inclusive deep-inelastic scattering. We have adopted a statistical framework based on Monte Carlo sampling and parametrised fragmentation functions in terms of a neural network. The fragmentation function set comprises a total of seven independent parton flavours, allowing for the first independent determination of valence-quark distributions. Our analysis offers new insights into the hadronisation mechanism of strange baryons and establishes a baseline for future phenomenological and experimental investigations."
-    },
-    {
-      "title": "Squeezed spectra and back-to-back correlations of protons and antiprotons at RHIC energies",
-      "link": "https://arxiv.org/abs/2605.05565",
-      "authors": "Yong Zhang",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2605.05565v1 Announce Type: cross \nAbstract: This study constrains the range of in-medium mass modification through a comparison of theoretical calculations with experimental transverse momentum spectra and the yield ratio {\\bar{p}}/p of protons and antiprotons. Based on the constrained range and a Gaussian source model with radial ow, the theoretical predictions for the fermion back-to-back correlation (fBBC) of p{\\bar{p}} pairs at RHIC energies are presented. The results reveal a strong sensitivity of the fBBC signal to the assumed source time distribution: a Lorentzian form generates a pronounced high-momentum signal, whereas an {\\alpha}-stable L\\'evy form leads to a marked low-momentum signal. Moreover, the in-medium mass modification is shown to enhance the yield ratio {\\bar{p}}/p. Therefore, events characterized by a larger {\\bar{p}}/p ratio are predicted to have a significantly higher probability of exhibiting a detectable fBBC signal. This study may propose a promising new direction for the experimental observation of this phenomenon"
-    },
-    {
-      "title": "Massive hybrid stars within the extended three-flavor quark-meson diquark model",
-      "link": "https://arxiv.org/abs/2605.05816",
-      "authors": "Jens O. Andersen, Mathias P. N{\\o}dtvedt",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2605.05816v1 Announce Type: cross \nAbstract: We discuss the properties of the extended three-flavor quark-meson diquark (EQMD) model as a renormalizable low-energy effective model for QCD. The effective degrees of freedom are quarks, scalar- and pseudoscalar mesons, diquarks, vector- and axial-vector mesons. We calculate the equation of state (EoS) in the mean-field approximation at $T=0$ imposing charge neutrality for electric and color charges. We match the EoS with a low-density nuclear equation of state. We discuss how the choice of parameters in the model affects the EoS and thereby the mass-radius for hybrid stars. We show that it is possible to construct hybrid stars whose masses and radii are in agreement with recent astrophysical observations and perturbative QCD (pQCD). The addition of vector and axial vector mesons to the quark-meson diquark is essential, since it makes the EoS sufficiently stiff for intermediate densities. Our results suggest that stars with a mass larger than $M\\sim2M_{\\odot}$ have a quark core with a central density $n_B\\geq 3.9n_{\\rm sat}$, where $n_{\\rm sat}\\approx0.165$fm$^{-3}$ is the saturation density. The speed of sound has a double-peak structure and relaxes to the conformal limit from above for large baryon chemical potentials $\\mu_B$. This structure is caused by the decrease in the mass of the $s$ quark as $\\mu_B$ increases."
-    },
-    {
-      "title": "A Comparative Study of Mass Extraction Schemes and $\\pi^\\pm-\\rho^\\pm$ Mixing",
-      "link": "https://arxiv.org/abs/2605.06271",
-      "authors": "Ziyue Wang",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2605.06271v1 Announce Type: cross \nAbstract: We study the origin of the non-monotonic magnetic-field dependence of the lowest charged pion excitation observed in lattice QCD. In a magnetic field, the charged pion mixes with the longitudinally polarized charged rho meson, which shares the same quantum numbers. Within the SU(2)$_f$ Nambu--Jona-Lasinio model supplemented by a gauge invariant tree-level $\\pi-\\rho$ mixing operator constrained by the experimental $\\rho^\\pm\\rightarrow\\pi^\\pm\\gamma$ decay width, we compare four mass-extraction schemes: rest-mass reconstruction, local bosonization, direct determinant solving with Landau projection, and near-pole expansion. The rest-mass scheme cannot reproduce the lattice-type turnover, while in the local derivative-expansion scheme the turnover presence but is weak which occurs at large magnetic field. By contrast, the direct determinant and near-pole schemes both retain a robust non-monotonic lowest mode. The former is most faithful to the Landau-level kinematics of the charged excitation, while the latter most clearly shows that residue suppression enhances the effective mixing after canonical normalization. Our results indicate that the lattice behavior is a genuine quasiparticle mixing effect, but one whose robustness depends crucially on how the charged-meson pole structure is extracted in a magnetic field."
-    },
-    {
-      "title": "GTMDs, orbital angular momentum, and pretzelosity",
-      "link": "https://arxiv.org/abs/2605.06412",
-      "authors": "Brean Maynard, Peter Schweitzer",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2605.06412v1 Announce Type: cross \nAbstract: The leading Generalized Transverse Momentum Dependent parton distributions (GTMDs) are studied in the bag model. The model description is shown to be theoretically consistent. The orbital angular momentum is studied in terms of the GTMD $F_{1,4}^q$ and Ji sum rule. Analytical proofs of the associated sum rules are given. A deeper relationship between orbital angular momentum and the pretzelosity TMD is established in this model."
-    },
-    {
-      "title": "Quantum spin dynamics of heavy quarks and polarization observables in relativistic heavy-ion collisions",
-      "link": "https://arxiv.org/abs/2605.06461",
-      "authors": "Sunil Jaiswal, Sourav Dey, Amaresh Jaiswal",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2605.06461v1 Announce Type: cross \nAbstract: We develop a quantum spin-density-matrix framework for heavy-quark spin dynamics in relativistic heavy-ion collisions. Starting from an initial polarization induced along the magnetic-field direction, we derive the evolution equation for spin polarization within this framework and obtain analytic solutions. The evolved polarization is connected to open heavy-flavor observables via a fragmentation-based hadronization prescription. For vector mesons, the spin-alignment parameter $\\rho_{00}$ is constructed by coupling the heavy-quark spin to that of the light antiquark produced during fragmentation. We confront our results with recent ALICE measurements of prompt $D^{*+}$ spin alignment in Pb--Pb collisions at $\\sqrt{s_{\\rm NN}}=5.02~{\\rm TeV}$ and extract an effective depolarization strength that determines the spin-relaxation time scale. Using this fitted parameter, we provide benchmark estimates for $\\Lambda_c^+$ and $\\bar{\\Lambda}_c^-$ polarization, up to an overall spin-transfer normalization. We further estimate the recently proposed elliptic polarization harmonic arising from path-length-dependent depolarization in an anisotropic fireball."
-    },
-    {
-      "title": "$F_K/F_\\pi$ as a precision test of a new four flavor Domain Wall Fermion action",
-      "link": "https://arxiv.org/abs/2605.06560",
-      "authors": "Renwick J. Hudspith, Nicolas Garron, Zack Hall, Andrew Hanlon, Henry Monge-Camacho, Colin Morningstar, Amy Nicholson, Dimitra A. Pefkou, Thomas R. Richardson, Fernando Romero-L\\'opez, Miguel Salg, Wyatt A. Smith, Pavlos Vranas, Andr\\'e Walker-Loud, Bigeng Wang",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2605.06560v1 Announce Type: cross \nAbstract: We present a new set of lattice QCD ensembles with four flavors of smeared M\\\"obius Domain Wall Fermions with good chiral symmetry and small fifth-dimensional extent. A modest amount of computing resources was sufficient to generate 30 publicly-available ensembles spanning five lattice spacings and a broad range of pion masses down to physical. To scrutinize our action we determine $F_{K^{\\pm}}/F_{\\pi^{\\pm}} = 1.1962(34)$, a key quantity for precision CKM unitarity tests, heralding a future of inexpensive high-precision calculations of hadronic observables with chiral fermions."
-    },
-    {
-      "title": "Leptonic originated high-energy neutrinos from astrophysical objects",
-      "link": "https://iopscience.iop.org/article/10.1088/1361-6471/ae63e9",
-      "authors": "Arunava Bhadra and Prabir Banik",
-      "source": "Journal of Physics G: Nuclear and Particle Physics",
-      "summary": "High-energy neutrinos are frequently regarded as signatures of hadronic cosmic rays in astrophysical environments. In this work, our modeling suggests that TeV neutrinos could potentially be produced by energetic electrons through electromagnetic processes in certain cosmic-ray accelerators. Under specific parameter spaces, the resulting fluxes appear comparable to those expected from hadronic interactions, indicating that electrons may contribute to the neutrino signals detected by the IceCube Observatory. These findings suggest a potential expansion of the conventional interpretation of neutrino origins and highlight the utility of joint gamma-ray and neutrino observations to help discriminate between hadronic and leptonic production mechanisms."
-    },
-    {
-      "title": "From minimal-length quantum theory to modified gravity",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326003722?dgcid=rss_sd_all",
-      "authors": "Unknown",
-      "source": "Physics Letters B",
-      "summary": "Publication date: Available online 6 May 2026Source: Physics Letters BAuthor(s): Rocco D’Agostino, Pasquale Bosso, Giuseppe Gaetano Luciano"
-    },
-    {
-      "title": "Probing vacuum birefringence in an Ultrastrong Laser Field via High-energy Gamma-ray Polarimetry",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326003709?dgcid=rss_sd_all",
-      "authors": "Unknown",
-      "source": "Physics Letters B",
-      "summary": "Publication date: Available online 6 May 2026Source: Physics Letters BAuthor(s): Da-Lin Wang, Xian-Zhang Wu, Rui-Qi Qin, Jiang-Tao Han, Peng-Pei Xie, Bing-Jun Li, Huai-Hang Song, Yan-Fei Li"
-    },
-    {
-      "title": "Generalized Morris–Thorne wormholes in <em>f</em>(<em>R, T</em>) gravity with effective NEC violation, localized exotic matter, and equilibrium analysis",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326003539?dgcid=rss_sd_all",
-      "authors": "Unknown",
-      "source": "Physics Letters B",
-      "summary": "Publication date: Available online 6 May 2026Source: Physics Letters BAuthor(s): Yohenba Soibam, Kangujam Priyokumar"
-    },
-    {
-      "title": "Search for heavy long-lived charged particles with level-1 trigger scouting data from proton-proton collisions at <math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si14.svg\" class=\"math\"><mrow><msqrt><mi>s</mi></msqrt><mo linebreak=\"goodbreak\">=</mo><mn>13.6</mn><mspace width=\"0.33em\"></mspace><mtext>TeV</mtext></mrow></math>",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326003515?dgcid=rss_sd_all",
-      "authors": "Unknown",
-      "source": "Physics Letters B",
-      "summary": "Publication date: Available online 6 May 2026Source: Physics Letters BAuthor(s): A. Hayrapetyan, V. Makarenko, A. Tumasyan, W. Adam, L. Benato, T. Bergauer, M. Dragicevic, P.S. Hussain, M. Jeitler, N. Krammer, A. Li, D. Liko, M. Matthewman, J. Schieck, R. Schöfbeck, M. Shooshtari, M. Sonawane, W. Waltenberger, C.-E. Wulz, T. Janssen"
-    },
-    {
-      "title": "Transverse momentum dependent gluon density in a proton at low <em>x</em> in the Laplace transform method",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326003710?dgcid=rss_sd_all",
-      "authors": "Unknown",
-      "source": "Physics Letters B",
-      "summary": "Publication date: Available online 6 May 2026Source: Physics Letters BAuthor(s): G.R. Boroun, Phuoc Ha, A.V. Kotikov, A.V. Lipatov"
-    },
-    {
-      "title": "Editorial Board",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0375947426001077?dgcid=rss_sd_all",
-      "authors": "Unknown",
-      "source": "Nuclear Physics A",
-      "summary": "Publication date: August 2026Source: Nuclear Physics A, Volume 1072Author(s): "
-    },
-    {
-      "title": "Phase Space Representation for the Inversely Quadratic Hellmann-Kratzer Potential",
-      "link": "https://link.springer.com/article/10.1007/s00601-026-02057-4",
+      "title": "Numerical Study of the Two-Boson Bound-State Problem with and Without Partial-Wave Decomposition",
+      "link": "https://link.springer.com/article/10.1007/s00601-026-02051-w",
       "authors": "Unknown",
       "source": "Few-Body Systems",
-      "summary": "In this work, we develop a phase space formulation of quantum mechanics to investigate the inversely quadratic Hellmann-Kratzer (IQHK) potential, with the aim of simultaneously constructing the Wigner distribution and the corresponding characteristic functions. By employing Weyl transformations, we establish two independent computational approaches, each yielding explicit and generalized analytical expressions for higher-order moments and momentum. In addition, we derive a generalized analytical formulation of the momentum operator and establish a corresponding generalized expression of Heisenberg’s uncertainty principle, explicitly dependent on the quantum numbers n and L. This constitutes a novel and complementary contribution to the study of the IQHK potential. Furthermore, the key transformation employed in phase space enabled us to derive a generalized analytical expression for the energy levels $$E_{n,L}$$. These energy levels are numerically evaluated and exhibit excellent agreement with previously published results for all special cases of the IQHK potential across various diatomic molecular systems. Furthermore, we verify that our results are consistent with the canonical Heisenberg-Born-Jordan-Dirac commutation relations and Heisenberg’s uncertainty principle, thereby confirming the robustness and reliability of the proposed methodology within this framework."
-    },
-    {
-      "title": "Scale Invariance Breaking and Discrete Phase Invariance in Few-Body Problems",
-      "link": "https://link.springer.com/article/10.1007/s00601-026-02054-7",
-      "authors": "Unknown",
-      "source": "Few-Body Systems",
-      "summary": "Scale invariance in quantum mechanics can be broken in several ways. A well-known example is the breakdown of continuous scale invariance to discrete scale invariance, whose typical realization is the Efimov effect of three-body problems. Here we discuss yet another discrete symmetry to which continuous scale invariance can be broken: discrete phase invariance. We first revisit the one-body problem on the half line in the presence of an inverse-square potential—the simplest example of nontrivial scale-invariant quantum mechanics—and show that continuous scale invariance can be broken to discrete phase invariance in a small window of coupling constant. We also show that discrete phase invariance manifests itself as circularly distributed simple poles on Riemann sheets of the S-matrix. We then present three examples of few-body problems that exhibit discrete phase invariance. These examples are the one-body Aharonov-Bohm problem, a two-body problem of nonidentical particles in two dimensions, and a three-body problem of nonidentical particles in one dimension, all of which contain a codimension-two “magnetic” flux in configuration spaces."
+      "summary": "The validation of numerical methods is a prerequisite for reliable few-body calculations, particularly when moving beyond standard partial-wave decompositions. In this work, we present a precision benchmark for the two-boson bound-state problem, solving it using two complementary formulations: the standard one-dimensional partial-wave Lippmann–Schwinger equation and a two-dimensional formulation based directly on vector variables. While the partial-wave approach is computationally efficient for low-energy bound states, the vector-variable formulation becomes essential for scattering applications at higher energies where the partial-wave expansion converges slowly. We demonstrate the high-precision numerical equivalence of both methods using rank-one separable Yamaguchi potentials and non-separable Malfliet–Tjon interactions. Furthermore, for the Yamaguchi potential, we derive exact analytical expressions quantifying the systematic errors introduced by finite momentum- and coordinate-space cut-offs. These analytical bounds provide a rigorous tool for disentangling discretization errors from truncation effects in few-body codes. The results establish a highly controlled methodological benchmark that provides a detailed baseline for vector-variable algorithms intended for more complex three- and four-body calculations."
     }
   ]
 }
