@@ -1,47 +1,61 @@
 {
-  "lastUpdated": "2026-05-09T04:18:59.097903",
+  "lastUpdated": "2026-05-10T04:39:43.662710",
   "papers": [
     {
-      "title": "Enhanced yield rate of $^{229m}\\mathrm{Th}$ via cascade decay in storage rings and electron beam ion traps",
-      "link": "http://link.aps.org/doi/10.1103/82cg-pkxb",
-      "authors": "Yumiao Wang, Yi Yang, Yixin Li, Ding Yue, Kai Zhao, Youjing Wang, Changbo Fu, and Yugang Ma",
-      "source": "Physical Review C",
-      "summary": "Author(s): Yumiao Wang, Yi Yang, Yixin Li, Ding Yue, Kai Zhao, Youjing Wang, Changbo Fu, and Yugang MaThe low-energy nuclear isomeric state of $^{229m}\\mathrm{Th}$ provides a unique bridge between nuclear and atomic physics, enabling applications such as nuclear clocks and precision metrology. However, efficient and controllable production of $^{229m}\\mathrm{Th}$ remains a major experimental challen…[Phys. Rev. C 113, 054602] Published Thu May 07, 2026"
-    },
-    {
-      "title": "Self-consistent description of genuine ternary fission in superheavy nuclei",
-      "link": "http://link.aps.org/doi/10.1103/cc74-ctw4",
-      "authors": "Y. Jaganathen and J. Skalski",
-      "source": "Physical Review C",
-      "summary": "Author(s): Y. Jaganathen and J. SkalskiSpontaneous ternary fission into medium-mass fragments is investigated within the self-consistent Hartree-Fock-plus-BCS method using the SLy6 Skyrme interaction with delta pairing. This work complements our previous study in the actinide region by extending it to two superheavy systems: $^{296}\\math…[Phys. Rev. C 113, 054603] Published Thu May 07, 2026"
-    },
-    {
-      "title": "Mechanism to synthesize superheavy element 120: A dinuclear system model approach with microscopic inputs",
-      "link": "http://link.aps.org/doi/10.1103/l4gb-dl4h",
-      "authors": "Wei Zhang (张炜), Shi-Jie Zhang (张士杰), and Peng-Hui Chen (陈鹏辉)",
-      "source": "Physical Review C",
-      "summary": "Author(s): Wei Zhang (张炜), Shi-Jie Zhang (张士杰), and Peng-Hui Chen (陈鹏辉)To overcome the challenge of synthesizing nuclei of superheavy elements (SHEs) beyond Z=118, the authors developed a new calculation method using the dinuclear system model. The novel approach consistently and microscopically derives all necessary structure inputs—including nuclear masses, fission barriers, and level density parameters—from finite-temperature covariant density functional theory. After validating the method against data for nobelium and flerovium isotopes, the approach provides meaningful predictions for the production of Z=120 isotopes, which should be useful for planning future SHE synthesis experiments.[Phys. Rev. C 113, 054604] Published Thu May 07, 2026"
-    },
-    {
-      "title": "Deciphering the dynamics of nuclear collisions with the structure of the elongated $^{20}\\mathrm{Ne}$ nucleus",
-      "link": "http://link.aps.org/doi/10.1103/3fy2-1d7l",
-      "authors": "Deependra Sharma, Arpit Singh, and Sadhana Dash",
-      "source": "Physical Review C",
-      "summary": "Author(s): Deependra Sharma, Arpit Singh, and Sadhana DashWe investigate the role of intrinsic nuclear geometry of $^{20}\\mathrm{Ne}$ nucleus in particle production in small collision systems. Discrete geometrical representations of $^{20}\\mathrm{Ne}$, including bipyramidal $α$-cluster structure in two different configurations along with NLEFT configuratio…[Phys. Rev. C 113, 054903] Published Thu May 07, 2026"
-    },
-    {
-      "title": "Probing nuclear structure with the Balitsky-Kovchegov equation in full impact-parameter dependence",
-      "link": "http://link.aps.org/doi/10.1103/mdrn-42dv",
-      "authors": "J. Cepila, M. Matas, and M. Vaculciak",
-      "source": "Physical Review C",
-      "summary": "Author(s): J. Cepila, M. Matas, and M. VaculciakBuilding on the newly available solution of the Balitsky-Kovchegov (BK) equation with the full impact-parameter dependence, we extend the study of parton evolution from proton to nuclear targets. Since a key part of the scientific program for future experimental facilities such as the EIC is to stud…[Phys. Rev. C 113, 055204] Published Thu May 07, 2026"
-    },
-    {
-      "title": "Numerical Study of the Two-Boson Bound-State Problem with and Without Partial-Wave Decomposition",
-      "link": "https://link.springer.com/article/10.1007/s00601-026-02051-w",
+      "title": "Axion-Like Particle Dark Matter Intensity Mapping: A New Probe via Cross-Correlation with Galaxy Surveys",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326003746?dgcid=rss_sd_all",
       "authors": "Unknown",
-      "source": "Few-Body Systems",
-      "summary": "The validation of numerical methods is a prerequisite for reliable few-body calculations, particularly when moving beyond standard partial-wave decompositions. In this work, we present a precision benchmark for the two-boson bound-state problem, solving it using two complementary formulations: the standard one-dimensional partial-wave Lippmann–Schwinger equation and a two-dimensional formulation based directly on vector variables. While the partial-wave approach is computationally efficient for low-energy bound states, the vector-variable formulation becomes essential for scattering applications at higher energies where the partial-wave expansion converges slowly. We demonstrate the high-precision numerical equivalence of both methods using rank-one separable Yamaguchi potentials and non-separable Malfliet–Tjon interactions. Furthermore, for the Yamaguchi potential, we derive exact analytical expressions quantifying the systematic errors introduced by finite momentum- and coordinate-space cut-offs. These analytical bounds provide a rigorous tool for disentangling discretization errors from truncation effects in few-body codes. The results establish a highly controlled methodological benchmark that provides a detailed baseline for vector-variable algorithms intended for more complex three- and four-body calculations."
+      "source": "Physics Letters B",
+      "summary": "Publication date: Available online 8 May 2026Source: Physics Letters BAuthor(s): Wen-Qing Guo"
+    },
+    {
+      "title": "Rigorous proof of the Strutinsky energy theorem and foundations of nuclear density functional theory",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326003813?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: Available online 8 May 2026Source: Physics Letters BAuthor(s): Chong Qi"
+    },
+    {
+      "title": "Correlation functions of the generalized phase model",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326003795?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: Available online 8 May 2026Source: Physics Letters BAuthor(s): Denghui Li, Shengyu Zhang, Zhaowen Yan"
+    },
+    {
+      "title": "Microscopic derivation of the interacting boson model parameters with machine learning",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326003758?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: Available online 8 May 2026Source: Physics Letters BAuthor(s): Y. Obata, K. Nomura"
+    },
+    {
+      "title": "First experimental isotopic mapping of the fission “<em>γ</em>-bump” and its connection to the Pygmy Dipole Resonance",
+      "link": "https://www.sciencedirect.com/science/article/pii/S037026932600359X?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: Available online 8 May 2026Source: Physics Letters BAuthor(s): N. Kumar, C. Schmitt, M. Ciemala, A. Maj, A. Lemasson, D. Ramos, M. Rejmund, S. Brambilla, Y. Cho, E. Clément, O. Dorvaux, J. Dudouet, G.de France, A. Goasduff, B. Jacquot, S. Kihel, M. Lewitowicz, O. Litaize, I. Matea, S. Péru"
+    },
+    {
+      "title": "Finite time pseudo-rip singularity in cosmology",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326003692?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: Available online 8 May 2026Source: Physics Letters BAuthor(s): Mariusz P. Da̧browski, Teodor Borislavov Vasilev"
+    },
+    {
+      "title": "D*p interaction from the lineshape of D1(2420) in B-decays",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326003801?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: Available online 8 May 2026Source: Physics Letters BAuthor(s): Pedro Brandão, Breno Agatão, Luciano M. Abreu, K.P. Khemchandani, A. Martínez Torres"
+    },
+    {
+      "title": "Holographic dark energy as a source for slowly rotating wormholes: Implications for null geodesics and shadows",
+      "link": "https://www.sciencedirect.com/science/article/pii/S037026932600376X?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: Available online 8 May 2026Source: Physics Letters BAuthor(s): A. Errehymy, S.K. Maurya, M. Govender, K.N. Singh, J. Rayimbaev, B. Myrzakulova, S. Murodov"
     }
   ]
 }
