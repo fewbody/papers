@@ -1,61 +1,110 @@
 {
-  "lastUpdated": "2026-05-10T04:39:43.662710",
+  "lastUpdated": "2026-05-11T04:54:46.458544",
   "papers": [
     {
-      "title": "Axion-Like Particle Dark Matter Intensity Mapping: A New Probe via Cross-Correlation with Galaxy Surveys",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326003746?dgcid=rss_sd_all",
-      "authors": "Unknown",
-      "source": "Physics Letters B",
-      "summary": "Publication date: Available online 8 May 2026Source: Physics Letters BAuthor(s): Wen-Qing Guo"
+      "title": "Analysis of the energy and angular distributions of photoneutrons from natPb, 197Au, natSn, natCu, natFe, and natTi using resonance direct theory",
+      "link": "https://arxiv.org/abs/2605.07070",
+      "authors": "Hayato Takeshita, Kazuaki Kosako, Norikazu Kinoshita, Yukinobu Watanabe",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2605.07070v1 Announce Type: new \nAbstract: Photoneutron double-differential cross sections in the giant dipole resonance (GDR) region were calculated to investigate the underlying nuclear reaction mechanisms, with particular emphasis on the role of the direct process. Contributions from direct, pre-equilibrium, and compound processes were all taken into account. Wilkinson's resonance direct (RD) theory, based on the independent particle model, was applied to describe high-energy neutron emission from the direct process. The angular distribution of neutrons emitted via the RD mechanism was formulated using the Agodi and Courant formalism, which was incorporated into the RD framework. Neutron emission from the pre-equilibrium and compound processes was calculated using the two-component exciton model and the Hauser-Feshbach formalism, respectively. The calculated results were compared with experimental data obtained at NewSUBARU using 16.6-MeV quasi-monochromatic linearly-polarized photon beams. Good agreement between calculations and measurements was observed for Pb, Au, and Sn, confirming the validity of the proposed model. Furthermore, the angular anisotropies of photoneutrons emitted from these elements were investigated, revealing considerable contributions from the RD process at high neutron energies. This study provides a deeper understanding of photoneutron emission mechanisms in the GDR energy region."
     },
     {
-      "title": "Rigorous proof of the Strutinsky energy theorem and foundations of nuclear density functional theory",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326003813?dgcid=rss_sd_all",
-      "authors": "Unknown",
-      "source": "Physics Letters B",
-      "summary": "Publication date: Available online 8 May 2026Source: Physics Letters BAuthor(s): Chong Qi"
+      "title": "$\\Xi$-deuteron low-energy $s$-wave phase shifts and momentum correlation functions in Faddeev formulation",
+      "link": "https://arxiv.org/abs/2605.07258",
+      "authors": "M. Kohno, H. Kamada",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2605.07258v1 Announce Type: new \nAbstract: The low-energy $\\Xi$-deuteron scattering is investigated through the solution of Faddeev equations, employing three sets of the currently available parametrization of the $\\Xi$-nucleon interactions. One of these is the chiral NLO interaction parametrized by the J\\\"{u}lich group, and the other two are based on the calculations by the HAL-QCD method. The $s$-wave phase shifts in the $J=3/2$ and $J=1/2$ states are presented. Three-body wave functions in coordinate space are constructed from the Faddeev amplitudes in momentum space. These functions are used in the calculation of $\\Xi d$ momentum correlation functions. The effects of the deuteron breakup are significant in the $J=3/2$ channel. The differences in the magnitude of the calculated correlation function show the quantitative difference of the $\\Xi N$ interactions in the spin-isospin channels. The prospective experimental data on the $\\Xi d$ momentum correlation function could contribute to a better description of the $\\Xi N$ interactions."
     },
     {
-      "title": "Correlation functions of the generalized phase model",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326003795?dgcid=rss_sd_all",
-      "authors": "Unknown",
-      "source": "Physics Letters B",
-      "summary": "Publication date: Available online 8 May 2026Source: Physics Letters BAuthor(s): Denghui Li, Shengyu Zhang, Zhaowen Yan"
+      "title": "The massive Thirring / sine-Gordon model with non-zero current density",
+      "link": "https://arxiv.org/abs/2605.07745",
+      "authors": "Eric Oevermann, Thomas D. Cohen",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2605.07745v1 Announce Type: new \nAbstract: This paper determines the zero-temperature equation of state for the massive Thirring / sine-Gordon model. This demonstrates recently derived model-independent upper and lower bounds on the zero-temperature equation of state with fixed number density from systems with a non-zero current density. That approach is potentially valuable as Monte Carlo calculations with a current density avoid the sign problem in the Euclidean formulation. An advantage to illustrating these bounds in the massive Thirring / sine-Gordon model is that the relevant calculations with both a number density and a current density can be done using a Bethe ansatz. For this model, optimal bounds constrain the energy density as a function of number density by a factor of two from above and below at high densities for all choices of couplings. The lower bound becomes exact at low densities, while the upper bound approaches the worst constraint of a factor of 4.90."
     },
     {
-      "title": "Microscopic derivation of the interacting boson model parameters with machine learning",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326003758?dgcid=rss_sd_all",
-      "authors": "Unknown",
-      "source": "Physics Letters B",
-      "summary": "Publication date: Available online 8 May 2026Source: Physics Letters BAuthor(s): Y. Obata, K. Nomura"
+      "title": "Hadronic parity violation: successes, challenges, and future prospects",
+      "link": "https://arxiv.org/abs/2605.07826",
+      "authors": "Susan Gardner, Jonas Karthein, Ulf-G. Mei{\\ss}ner, Girish Muralidhara, Petr Navratil, W. Michael Snow",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2605.07826v1 Announce Type: new \nAbstract: Hadronic parity violation concerns the study of the interplay of the weak- and strong-interaction dynamics that yields low energy, parity-violating observables in systems of hadrons and nuclei. We explain its essential features, as well as our current understanding of its observed effects, describing recent theoretical and experimental progress in a pedagogical context. We provide a broad overview of ongoing research efforts to show how precision studies of few-nucleon systems can be extended to studies of complex nuclei and, ultimately, to new benchmarks for computations in the Standard Model, as well as to new searches for the dynamics beyond it."
     },
     {
-      "title": "First experimental isotopic mapping of the fission “<em>γ</em>-bump” and its connection to the Pygmy Dipole Resonance",
-      "link": "https://www.sciencedirect.com/science/article/pii/S037026932600359X?dgcid=rss_sd_all",
-      "authors": "Unknown",
-      "source": "Physics Letters B",
-      "summary": "Publication date: Available online 8 May 2026Source: Physics Letters BAuthor(s): N. Kumar, C. Schmitt, M. Ciemala, A. Maj, A. Lemasson, D. Ramos, M. Rejmund, S. Brambilla, Y. Cho, E. Clément, O. Dorvaux, J. Dudouet, G.de France, A. Goasduff, B. Jacquot, S. Kihel, M. Lewitowicz, O. Litaize, I. Matea, S. Péru"
+      "title": "Quasiparticle properties of a single $\\Lambda$ impurity in symmetric nuclear matter with a regulated $N\\Lambda$ interaction",
+      "link": "https://arxiv.org/abs/2605.07951",
+      "authors": "Bahruz Suleymanli, Kutsal Bozkurt",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2605.07951v1 Announce Type: new \nAbstract: We explore the quasiparticle properties of a single $\\Lambda$ hyperon propagating through symmetric nuclear matter using the Green's function formalism. The $N\\Lambda$ interaction is described by a non-local regulated low-momentum contact potential with a leading-order constant term and a next-to-leading-order derivative correction. The two coupling constants in the ${}^1S_0$ and ${}^3S_1$ channels are fixed by matching the vacuum on-shell $T$ matrix to the scattering length and effective range obtained from modern next-to-next-to-leading-order chiral effective field theory. Using this effective interaction, we calculate the retarded $\\Lambda$ self-energy from the in-medium $N\\Lambda$ ladder $T$ matrix, which sums repeated $N\\Lambda$ scattering in the nucleonic medium. At saturation density, the zero-momentum quasiparticle pole is found at $E_{\\rm qp}(0,\\rho_{\\rm sat})=-29.55~{\\rm MeV}$, in good agreement with the empirical depth of the single $\\Lambda$ potential in nuclear matter. The self-energy decomposition gives a static Born contribution $\\Sigma_\\Lambda^{\\rm Born}(0)=-26.36~{\\rm MeV}$ and a dynamical correlation contribution ${\\rm Re}\\,\\Sigma_\\Lambda^{\\rm corr,R}(0,E_{\\rm qp})=-3.19~{\\rm MeV}$, showing that repeated in-medium $N\\Lambda$ scattering is needed to reproduce the empirical binding scale. The quasiparticle remains narrow and well defined, with a large residue $Z(0)=0.98$, a small damping width $\\Gamma(0)=0.023~{\\rm MeV}$, and a sharp spectral peak near the quasiparticle energy. At finite momentum, the $\\Lambda$ quasiparticle becomes less bound, with $E_{\\rm qp}(k,\\rho_{\\rm sat})$ increasing from $-29.55~{\\rm MeV}$ at $k=0$ to $-6.49~{\\rm MeV}$ at $k=1~{\\rm fm}^{-1}$, while the residue and width change only weakly. A low-momentum fit gives $m_\\Lambda^*/m_\\Lambda=0.747$, consistent with the range obtained in Brueckner calculations with Nijmegen hyperon--nucleon potentials."
     },
     {
-      "title": "Finite time pseudo-rip singularity in cosmology",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326003692?dgcid=rss_sd_all",
-      "authors": "Unknown",
-      "source": "Physics Letters B",
-      "summary": "Publication date: Available online 8 May 2026Source: Physics Letters BAuthor(s): Mariusz P. Da̧browski, Teodor Borislavov Vasilev"
+      "title": "Collinear matching for leading power gluon transverse momentum distributions",
+      "link": "https://arxiv.org/abs/2605.07516",
+      "authors": "Alessio Carmelo Alvaro, Nanako Kato, Barbara Pasquini, Cristian Pisano, Simone Rodini",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2605.07516v1 Announce Type: cross \nAbstract: We compute the tree-level and one-loop matching relations for leading power gluon transverse momentum dependent parton distribution functions. At tree-level, working within the spinor formalism, we focus on twist-2 and twist-3 contributions, deriving the complete series of mass corrections for both T-even and T-odd distributions. At one-loop accuracy, we extend the parton-in-parton framework to include contributions beyond the leading term in the small-b expansion. Applying this methodology to the gluon sector, we obtain for the first time the Wandzura-Wilczek approximation for the gluon worm-gear T distribution. Furthermore, we develop a method to include the mass corrections in one-loop results and provide a closed-form expression for the mass series suitable for numerical implementations."
     },
     {
-      "title": "D*p interaction from the lineshape of D1(2420) in B-decays",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326003801?dgcid=rss_sd_all",
-      "authors": "Unknown",
-      "source": "Physics Letters B",
-      "summary": "Publication date: Available online 8 May 2026Source: Physics Letters BAuthor(s): Pedro Brandão, Breno Agatão, Luciano M. Abreu, K.P. Khemchandani, A. Martínez Torres"
+      "title": "Light-Ion Collisions: Bridging Small and Large QCD Systems",
+      "link": "https://arxiv.org/abs/2605.07578",
+      "authors": "Aleksas Mazeliauskas",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2605.07578v1 Announce Type: cross \nAbstract: Light-ion collisions at the LHC bridge the gap between small proton-proton and large heavy-ion collision systems, providing a unique laboratory to study the onset of QCD collective phenomena. The first light-ion run at the LHC took place July~1--9, 2025, with proton-oxygen (pO), oxygen-oxygen (OO), and neon-neon (NeNe) collisions. Early experimental results provide strong evidence of quark-gluon plasma (QGP) formation in these small systems. I review the motivation for the light-ion collisions and the first experimental results, connecting perturbative QCD, hot QCD, and low-energy nuclear structure physics."
     },
     {
-      "title": "Holographic dark energy as a source for slowly rotating wormholes: Implications for null geodesics and shadows",
-      "link": "https://www.sciencedirect.com/science/article/pii/S037026932600376X?dgcid=rss_sd_all",
+      "title": "Neural Operators as Efficient Function Interpolators",
+      "link": "https://arxiv.org/abs/2605.07792",
+      "authors": "Vasilis Niarchos, Angelos Sirbu, Sokratis Trifinopoulos",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2605.07792v1 Announce Type: cross \nAbstract: Neural operators (NOs) are designed to learn maps between infinite-dimensional function spaces. We propose a novel reframing of their use. By introducing an auxiliary base-space, any finite-dimensional function can be viewed as an operator acting by composition on functions of the base-space. Through a range of benchmarks on analytic functions of increasing complexity and dimensionality, we demonstrate that NOs can match or outperform standard multilayer perceptrons and Kolmogorov--Arnold Networks in accuracy while requiring significantly fewer parameters and training time. As a real-world application, we apply a two-dimensional Tensorized Fourier Neural Operator (TFNO) to the nuclear chart, learning a correction to state-of-the-art nuclear mass models as a partially observed residual field. A TFNO ensemble reaches a held-out root-mean-square error of 198.2 keV, placing it among the best recent neural-network approaches while retaining high parameter efficiency and short training times. More broadly, these results introduce NOs as a scalable framework for finite-dimensional function interpolation, from analytic benchmarks to structured scientific data."
+    },
+    {
+      "title": "Perturbative results for the matrix elements of the vector current and the role of different infrared regulators",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326003540?dgcid=rss_sd_all",
       "authors": "Unknown",
       "source": "Physics Letters B",
-      "summary": "Publication date: Available online 8 May 2026Source: Physics Letters BAuthor(s): A. Errehymy, S.K. Maurya, M. Govender, K.N. Singh, J. Rayimbaev, B. Myrzakulova, S. Murodov"
+      "summary": "Publication date: Available online 10 May 2026Source: Physics Letters BAuthor(s): Alessio Carmelo Alvaro, Ignacio Castelli, Cédric Lorcé, Andreas Metz, Barbara Pasquini, Simone Rodini"
+    },
+    {
+      "title": "Constraints on non-canonical chaotic inflation from ACT DR6 and BICEP/Keck data",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326003850?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: Available online 10 May 2026Source: Physics Letters BAuthor(s): Wei Yang, Chen-Hao Wu, Ya-Peng Hu"
+    },
+    {
+      "title": "Self-dual classical higher-spin multicopy",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326003783?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: Available online 10 May 2026Source: Physics Letters BAuthor(s): Nikita Misuna, Dmitry Ponomarev, Alexander Solomin"
+    },
+    {
+      "title": "Chiral transition in a Non-Abelian Quasi-Particle Model with three quark flavours",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326003655?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: Available online 9 May 2026Source: Physics Letters BAuthor(s): E.P. Politis, A. Tsapalis, F.K. Diakonos"
+    },
+    {
+      "title": "Baryonic form factors of light pseudoscalar mesons",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326003849?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: Available online 9 May 2026Source: Physics Letters BAuthor(s): A.S. Miramontes, J.M. Morgado, J. Papavassiliou"
+    },
+    {
+      "title": "Parity Fractions and Multi-Band Plasma Lensing of Noncommutative Regular Schwarzschild–AdS Black Holes: Theory and EHT Compatibility",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326003837?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: Available online 9 May 2026Source: Physics Letters BAuthor(s): Anirudh Pradhan, K. Ghaderi, M. Zeyauddin, A. Mahmoodzadeh"
+    },
+    {
+      "title": "On the ”Flat Odderon” Model",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0375947426001144?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Nuclear Physics A",
+      "summary": "Publication date: Available online 9 May 2026Source: Nuclear Physics AAuthor(s): Vladimir A. Petrov, Nikolai P. Tkachenko"
     }
   ]
 }
