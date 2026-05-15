@@ -1,82 +1,131 @@
 {
-  "lastUpdated": "2026-05-14T04:36:54.951040",
+  "lastUpdated": "2026-05-15T04:43:01.477942",
   "papers": [
     {
-      "title": "Local Interstellar Cloud Structure Imprinted in Antarctic Ice by Supernova $^{60}\\mathrm{Fe}$",
-      "link": "http://link.aps.org/doi/10.1103/nxjq-jwgp",
-      "authors": "Dominik Koll, Annabel Rolofs, Florian Adolphi, Sebastian Fichter, Maria Hoerhold, Johannes Lachner, Stefan Pavetich, Georg Rugel, Stephen Tims, Frank Wilhelms, Sebastian Zwickel, and Anton Wallner",
-      "source": "Physical Review Letter",
-      "summary": "Author(s): Dominik Koll, Annabel Rolofs, Florian Adolphi, Sebastian Fichter, Maria Hoerhold, Johannes Lachner, Stefan Pavetich, Georg Rugel, Stephen Tims, Frank Wilhelms, Sebastian Zwickel, and Anton WallnerIron-60 buried in Antarctica reveals changes in the local interstellar environment.[Phys. Rev. Lett. 136, 192701] Published Wed May 13, 2026"
-    },
-    {
-      "title": "$β$-decay spectrum of tritiated graphene: Combining nuclear quantum mechanics with density functional theory",
-      "link": "http://link.aps.org/doi/10.1103/gr8x-lf9f",
-      "authors": "Andrea Casale, Angelo Esposito, Guido Menichetti, and Valentina Tozzini",
-      "source": "Physical Review C",
-      "summary": "Author(s): Andrea Casale, Angelo Esposito, Guido Menichetti, and Valentina TozziniNew density-functional-theory calculations describe the radioactive decay of tritium bound to graphene, offering a way to model experiments that could open cleaner windows onto neutrino mass.[Phys. Rev. C 113, 054607] Published Wed May 13, 2026"
-    },
-    {
-      "title": "Time-like electromagnetic form factors of $\\mathrm{Λ}, \\mathrm{Σ}$, and ${\\mathrm{Ξ}}^{+}$ in a light-front quark model",
-      "link": "http://link.aps.org/doi/10.1103/nsvk-4sjg",
-      "authors": "Chong-Chung Lih and Chao-Qiang Geng",
-      "source": "Physical Review C",
-      "summary": "Author(s): Chong-Chung Lih and Chao-Qiang GengWe use the light front quark model to investigate the form factors in the ${e}^{+}{e}^{−}→B\\overline{B}$ collision proceses with $B=\\mathrm{Λ},\\phantom{\\rule{4pt}{0ex}}\\mathrm{Σ}$ and $\\mathrm{Ξ}$. These form factor behaviors are calculated based on the Bethe-Salpeter formalism with ${q}^{+}&gt;0$ t…[Phys. Rev. C 113, 055501] Published Tue May 12, 2026"
-    },
-    {
-      "title": "Bayesian inferences on covariant density functionals from multimessenger astrophysical data: Influences of parametrizations of density-dependent couplings",
-      "link": "http://link.aps.org/doi/10.1103/n336-1sqq",
-      "authors": "Guo-Jun Wei, Jia-Jie Li, Armen Sedrakian, Yong-Jia Wang, Qing-Feng Li, and Fu-Hu Liu",
-      "source": "Physical Review C",
-      "summary": "Author(s): Guo-Jun Wei, Jia-Jie Li, Armen Sedrakian, Yong-Jia Wang, Qing-Feng Li, and Fu-Hu LiuCovariant density functionals have been successfully applied to the description of finite nuclei and dense nuclear matter. These functionals are often constructed by introducing density dependence into the nucleon–meson couplings, typically through functions that depend only on the vector, i.e., pro…[Phys. Rev. C 113, 055805] Published Tue May 12, 2026"
-    },
-    {
-      "title": "Spin dynamics and polarization in relativistic systems: recent developments",
-      "link": "https://arxiv.org/abs/2605.12554",
-      "authors": "Sourav Dey, Arpan Das, Hiranmaya Mishra, Amaresh Jaiswal",
+      "title": "Taming nuclear size and shape effects in superallowed beta-decay",
+      "link": "https://arxiv.org/abs/2605.13985",
+      "authors": "Bingcheng He, Mikhail Gorchtein, Matthias Heinz, Ben Ohayon, Lucas Platter, Chien-Yeah Seng",
       "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2605.12554v1 Announce Type: new \nAbstract: We review recent theoretical and experimental developments in spin dynamics and polarization phenomena in relativistic systems, with a particular focus on heavy-ion collisions. The large angular momentum and magnetic field generated in non-central collisions induce vorticity in the quark-gluon plasma, leading to observable spin polarization of emitted hadrons. We discuss the theoretical foundations of spin polarization arising from spin-vorticity coupling, including formulations based on relativistic hydrodynamics, kinetic theory, and quantum statistical approaches such as the Zubarev density operator. A central theme of the review is the role of pseudo-gauge freedom and its implications for defining energy-momentum and spin tensors, which can influence theoretical predictions of polarization observables. We further examine different formulations of spin hydrodynamics, emphasizing the impact of gradient expansions, spin chemical potential, and entropy-current analysis on the structure of the theory and associated transport coefficients. In addition, we discuss the recent developments in heavy flavor spin dynamics within the framework of rotational Brownian motion, where spin degrees of freedom undergo stochastic evolution due to interactions with the medium. This framework provides a complementary perspective on spin relaxation and diffusion by incorporating the effects of strong initial magnetic fields and establishes connections between spin polarization and the initial geometry through the definition of polarization harmonics. This review provides a comprehensive overview of relativistic spin hydrodynamics as well as non-equilibrium spin dynamics, and outlines future directions toward a consistent and predictive description of spin phenomena in strongly interacting matter."
+      "summary": "arXiv:2605.13985v1 Announce Type: new \nAbstract: We present the first combined analysis of the statistical rate function f in superallowed beta decays with ab initio calculations and data. We focus on C10 to 10B, 14O to 14N and 26mAl to 26Mg, all of which are important channels for the precise determination of the Cabibbo-Kobayashi-Maskawa (CKM) matrix element Vud. Nuclear charge form factors are obtained by combining experimental data on nuclear charge radii and theory calculations of ratios of moments with the in-medium similarity renormalization group, while the beta decay form factors are derived from exact isospin relations. This enables a rigorous study of the nuclear shape dependence in the statistical rate function f and the quantification of its uncertainties from both experiment and theory. The calculation leads to a more precise test for the first-row CKM unitarity with reduced theoretical uncertainties. This work demonstrates a reliable strategy for combining nuclear many-body calculations with high-precision nuclear data to describe beta decays at tree level for precision tests of the Standard Model."
     },
     {
-      "title": "Anomalous large-angle $\\alpha$-scattering in a single-folding model with microscopic densities",
-      "link": "https://arxiv.org/abs/2605.13356",
-      "authors": "A. -G. Serban, F. Salvat-Pujol, N. Sandulescu, P. Marevi\\'c",
+      "title": "Quantum Monte Carlo calculation of $\\delta_C$ in the superallowed beta decay of $^{10}$C",
+      "link": "https://arxiv.org/abs/2605.14006",
+      "authors": "Maria Piarulli, R. B. Wiringa, Alessandro Lovato, Garrett B. King, Saori Pastore",
       "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2605.13356v1 Announce Type: new \nAbstract: We investigate anomalous large-angle scattering (ALAS) of $\\alpha$-particles from $N=Z$ nuclei within the framework of the single-folding model. Differential cross sections are calculated by folding the $\\alpha$-nucleon interaction with nuclear density distributions obtained from both relativistic and non-relativistic mean-field models. The folding procedure employs a Gaussian-form $\\alpha$-nucleon interaction, with its energy dependence and range constrained by previous theoretical studies. Our results show that ALAS in $sd$-shell nuclei is reasonably well reproduced using the microscopic densities together with an $\\alpha$-nucleon interaction characterized by a unified parameter set, in which only two parameters vary with the mass number."
+      "summary": "arXiv:2605.14006v1 Announce Type: new \nAbstract: We perform an ab initio quantum Monte Carlo calculation of the isospin-symmetry-breaking correction $\\delta_C$ to the superallowed $\\beta$ decay of $^{10}{\\rm C}$. Using both phenomenological and chiral nuclear interactions, we evaluate the Fermi matrix element and quantify its deviation from the canonical $\\sqrt{2}$ value. The resulting $\\delta_C$ values lie in the range $\\approx 0.15$--$0.25\\%$ and are consistent, within sizable uncertainties (approximately $34\\%$--$65\\%$ relative), across Hamiltonians, indicating no statistically significant dependence on the choice of nuclear interaction. The extracted values of $V_{ud}$ are also found to be compatible with current determinations within these uncertainties."
     },
     {
-      "title": "Short-range correlations in nuclei",
-      "link": "https://arxiv.org/abs/2605.12626",
-      "authors": "Or Hen, Holly Szumila-Vance, Lawrence Weinstein",
+      "title": "Bayesian analysis of density profile of light dark matter elucidating the properties of dark matter admixed neutron stars in the presence of hyperons",
+      "link": "https://arxiv.org/abs/2605.14447",
+      "authors": "Debashree Sen, Atanu Guha, Chang Ho Hyun",
       "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2605.12626v1 Announce Type: cross \nAbstract: Atomic nuclei are held together by the strong nuclear force acting between protons and neutrons (nucleons). While the long range, averaged part of this force is well described by the nuclear shell model, the short-range and tensor components create a fascinating substructure: pairs of nucleons that momentarily approach each other very closely, acquiring large relative momenta. These short-range correlated (SRC) pairs account for roughly 20% of all nucleons in any nucleus and almost all of the high momentum nucleons. This chapter provides an introduction to SRC pairs: their origin in the nucleon-nucleon tensor force, the experimental methods used to study them, principally deep inelastic and quasielastic electron and proton scattering, and the comprehensive picture that has emerged over the past three decades."
+      "summary": "arXiv:2605.14447v1 Announce Type: new \nAbstract: We study the impact of symmetry energy ($S$), hyperons, and dark matter (DM) on structural and oscillatory properties of neutron stars (NSs). Uncertainty from hadronic equation of state for NSs is considered with 15 relativistic mean field models having slope parameter ($L_0$) of $S$ in range $40-120$ MeV. DM admixed NSs (DMANSs) are described with feeble interaction between light DM fermions ($\\chi$) with hadronic matter in the presence of hyperons via scalar ($\\eta$) and vector ($\\xi$) dark mediators. The masses $m_{\\chi}$, $m_{\\eta}$ and $m_{\\xi}$ are related by self-interaction constraints from bullet cluster. DM self-interaction couplings are related to $m_{\\chi}$ by relic density constraint. The DM density is taken as an exponential function of baryon density with a free parameter $\\alpha$. Uncertainty from DM model is incorporated by exploring the dependence on $m_{\\chi}$ and $\\alpha$. Several DM search experiments have almost ruled out the existence of massive DM ($\\gtrsim$ GeV). Lately, pursuit for sub-GeV DM has attracted significant attention. Therefore, we consider $m_{\\chi}<$ 1 GeV and $\\alpha \\leq$ 0.1 such that the contribution of DM to the total mass of the DMANSs is $<10\\%$. Comparing our results with various astrophysical constraints, we find that the HESS J1731-347 and GW170817 data are very important in determining the presence of light DM in NSs in moderate amount, relevant in the range $L_0\\lesssim$ 58 MeV. Employing models of DMANSs that satisfy several observational data, we infer with Bayesian analysis, the likely ranges of $m_{\\chi}$ and $\\alpha$ are almost independent of the underlying hadronic model within 40 MeV $\\lesssim$ $L_0$ $<$ 58 MeV. In the absence of DM and with the most probable values of $m_{\\chi}$ and $\\alpha$ obtained from the Bayesian inference, we calculate the frequencies of non-radial $f$- and $p_1$-modes oscillation of NSs/DMANSs."
     },
     {
-      "title": "Jet Momentum Broadening in Viscous QCD Matter: A Moment Expansion Approach",
-      "link": "https://arxiv.org/abs/2605.12791",
-      "authors": "Isabella Danhoni, Nicki Mullins, Jorge Noronha",
+      "title": "Fourth order correlation of baryon number and electric charge as a better magnetometer of QCD",
+      "link": "https://arxiv.org/abs/2605.14674",
+      "authors": "Shijun Mao, Shuai Yang, Sicheng Lin, Xinran Yang, Guoyun Shao, Wen-Chao Zhang",
       "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2605.12791v1 Announce Type: cross \nAbstract: We formulate out-of-equilibrium jet momentum broadening in QCD effective kinetic theory through a moment expansion of the medium distribution function, a method traditionally used to derive relativistic viscous hydrodynamics from kinetic theory. We explicitly compute the leading near-equilibrium contribution to the spatial jet broadening tensor $\\hat q^{ij}$ within the 14-moment approximation, and show that it is controlled by the medium shear-stress tensor. This provides a direct map from QCD effective kinetic theory to event-by-event viscous hydrodynamic simulations, converting local shear-stress fields into anisotropic corrections to jet broadening in heavy-ion collisions."
+      "summary": "arXiv:2605.14674v1 Announce Type: new \nAbstract: This work focuses on the fourth order correlations $\\chi^{BQ}_{31}$, $\\chi^{QB}_{31}$, $\\chi^{BQ}_{22}$, $\\chi^{BS}_{31}$, $\\chi^{SB}_{31}$, $\\chi^{BS}_{22}$, $\\chi^{QS}_{31}$, $\\chi^{SQ}_{31}$, $\\chi^{QS}_{22}$, $\\chi^{BQS}_{211}$, $\\chi^{QBS}_{211}$, $\\chi^{SBQ}_{211}$ of baryon number $B$, electric charge $Q$ and strangeness $S$ at finite temperature, magnetic field and vanishing quark chemical potential. The study is carried out in the framework of a three-flavor PNJL model, considering both cases with and without inverse magnetic catalysis effect. We find that, fourth order correlations $\\chi^{BQ}_{31}$ at chiral restoration phase transition is more sensitive to the magnetic field than other second order and fourth order correlations and fluctuations, and can be served as a more effective magnetometer of QCD."
     },
     {
-      "title": "Testing Exponential <em>f</em>(<em>R</em>) Gravity with CMB, DESI-DR2, and Supernova Data",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326003928?dgcid=rss_sd_all",
+      "title": "Skyrme SV density-functional analysis of the $2\\nu\\beta\\beta$ decay in $^{76}$Ge",
+      "link": "https://arxiv.org/abs/2605.14813",
+      "authors": "Jan Mi\\'skiewicz, Jakub Wysocki, Wojciech Satu{\\l}a",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2605.14813v1 Announce Type: new \nAbstract: We present a theoretical study of the two-neutrino $0^+ \\rightarrow 0^+$ double beta decay of $^{76}$Ge within the No-Core Configuration-Interaction framework based on the Skyrme SV density functional. We analyze three allowed decay scenarios distinguished by the $[n,m] \\equiv [(\\nu g_{9/2})^n, (\\pi g_{9/2})^m]$ occupancy of the $0g_{9/2}$ intruder orbital, which remains conserved to high precision, as well as by the triaxiality of the daughter nucleus. The resulting $2\\nu\\beta\\beta$ nuclear matrix element is found to depend strongly on the scenario. For the energetically favored $[4,2]$ occupancy, we obtain $|\\mathcal{M}^{2\\nu}| = 0.069(7)$~MeV$^{-1}$. For the $[6,0]$ occupancy, the matrix element further depends on the triaxiality parameter $\\gamma$ of the two coexisting, closely lying minima in $^{76}$Se, yielding $|\\mathcal{M}^{2\\nu}| = 0.040(4)$~MeV$^{-1}$ at $\\gamma = 17.7^\\circ$ and $|\\mathcal{M}^{2\\nu}| = 0.22(2)$~MeV$^{-1}$ at $\\gamma = 41.9^\\circ$. The latter result is consistent with the empirical value reported by A. S. Barabash, $|\\mathcal{M}^{2\\nu}| = 0.204(14)$~MeV$^{-1}$, while the two former results are comparable to existing calculations based on energy-density-functional frameworks. Our calculations reveal challenges in the precise determination of the $|\\mathcal{M}^{2\\nu}|$ for the $^{76}$Ge decay. The structural complexity, triaxiality, and shape coexistence identified in the analyzed nuclei imply a strong sensitivity to fine details of the interaction and configuration mixing. This, in turn, explains the difficulties in theoretical modeling of the $|\\mathcal{M}^{2\\nu}|$ matrix elements for the $^{76}$Ge decay, which vary by almost an order of magnitude in the available literature."
+    },
+    {
+      "title": "Radiative decays of the 1$P$, 1$D$, 2$S$, and 2$P$ $\\Lambda_c$ and 1$D$, 2$S$, and 2$P$ $\\Xi_c$ charmed baryons",
+      "link": "https://arxiv.org/abs/2605.13903",
+      "authors": "R. Gamboa-Goni, Ailier Rivero-Acosta, H. Garc\\'ia-Tecocoatzi, A. Gutierrez-Rodriguez, A. Ramirez-Morales, E. Santopinto, Carlos Alberto Vaquera-Araujo",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2605.13903v1 Announce Type: cross \nAbstract: We analyze the radiative decays of the the 1$P$, 1$D$, 2$S$, and 2$P$ $\\Lambda_c$ and 1$D$, 2$S$, and 2$P$ $\\Xi_c$ charmed baryons, which belong to the flavor anti-triplet ($\\bf {\\bar 3}_{\\rm F}$), using the constituent quark model. We compute electromagnetic transitions from ground and $P$-wave states to ground states, as well as from second-shell states to both ground and $P$-wave final states. Electromagnetic decay widths are especially valuable for identifying resonances when multiple states share the same mass and total decay width. We give branching ratios which can confirm the assignment of the $\\Xi_c(3055)$ reported by LHCb. We also give branching ratios that can support the assignment of the $\\Xi_c(3080)$, and discuss the possibilities for the $\\Xi_c(3080)$ to be the 1$D$ state with $J^P=5/2^{+}$ or the 2$S$ with $J^P=1/2^{+}$. For the first time, this work provides calculations of electromagnetic decays for $D_\\rho$-wave states, $\\rho-\\lambda$ mixed configurations, and $\\rho$-mode radially excited states in singly charmed baryons of the flavor anti-triplet. Both experimental and model-dependent uncertainties are taken into account throughout our analysis."
+    },
+    {
+      "title": "Diquark Correlators and Phase Structure in the Quark-Meson-Diquark Model beyond Mean Field",
+      "link": "https://arxiv.org/abs/2605.13934",
+      "authors": "Mire Ugo, Schaefer Bernd-Jochen",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2605.13934v1 Announce Type: cross \nAbstract: A comprehensive study of the phase structure of the two-flavor quark-meson-diquark model is presented within the nonperturbative functional renormalization group framework. The influence of mesonic fluctuations beyond the mean-field approximation is investigated, and two-point functions of the diquark fields are computed at finite real-time frequencies. Renormalization group consistency of the effective potential is ensured in order to avoid cutoff artifacts. Substantial modifications of the phase structure are found once mesonic fluctuations are included, and for sufficiently strong diquark couplings the dynamics become dominated by diquark condensation. These effects are elucidated through an analysis of the diquark pole mass and the Silver-Blaze property."
+    },
+    {
+      "title": "Matching collinear factorization with color-glass condensate for inclusive and exclusive deep inelastic scattering",
+      "link": "https://arxiv.org/abs/2605.14092",
+      "authors": "Shohini Bhattacharya, Chuan-Qi He, Zhong-Bo Kang, Diego Padilla, Jani Penttala",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2605.14092v1 Announce Type: cross \nAbstract: Collinear factorization and color-glass condensate (CGC) effective field theory are generally treated as separate approaches for calculating scattering amplitudes, valid in different kinematic regimes. For deep inelastic scattering at high photon virtuality and high center-of-mass energy, however, both of these approaches should be applicable. By expressing collinear parton distributions and generalized parton distributions in the shockwave approximation, we show that the resulting collinear-factorization amplitudes exactly reproduce the large-$Q^2$ expansion of CGC amplitudes for inclusive deep inelastic scattering, deeply virtual Compton scattering, and deeply virtual meson production. The matching holds directly at the amplitude level and includes both logarithmically enhanced and finite contributions. Our results establish the consistency between collinear factorization and the CGC in their common region of validity, clarify the origin of large momentum logarithms within the CGC framework, and provide a path toward combining high-energy and collinear evolution in a unified description of hadronic structure at small $x$ and large momentum scales."
+    },
+    {
+      "title": "NA61/SHINE results on search for critical point",
+      "link": "https://arxiv.org/abs/2605.14737",
+      "authors": "Nikolaos Davis",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2605.14737v1 Announce Type: cross \nAbstract: The NA61/SHINE experiment at the CERN SPS is a multipurpose fixed-target spectrometer for charged and neutral hadron measurements. Its research program includes studies of strong interactions as well as reference measurements for neutrino and cosmic-ray physics. One major goal of its strong interaction program is to determine the existence and pinpoint the location of the QCD critical point, an object of both experimental and theoretical studies.\n  This contribution will summarize the current status of NA61/SHINE critical point searches in nucleus-nucleus collisions, in the collision energy range $\\sqrt{s_{NN}} = 5-17$~GeV. The review includes studies of fluctuations of net-electric charge, femtoscopy analysis of $\\pi-\\pi$ pairs, as well as intermittency of protons and negatively charged hadrons. No clear indication of the critical point has been observed so far. Finally, we report on the development of novel methods aimed at solving the long-standing problem of bin-by-bin correlations in experimental intermittency analysis, and for a more accurate handling of systematics and uncertainties."
+    },
+    {
+      "title": "Deforming the Trail: Baseline Quantum Circuitry for $\\text{SU(2)}_k$ Lattice Gauge Theory",
+      "link": "https://arxiv.org/abs/2605.15076",
+      "authors": "Zo\\\"e Webb-Mack, Natalie Klco",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2605.15076v1 Announce Type: cross \nAbstract: Quantifying quantum resources for simulating the fundamental forces of Nature is sensitive to the mapping of gauge fields onto finite quantum computational architectures. When locally truncating lattice gauge theories in the irreducible representation basis, it has been proposed to further deform the theory via quantum groups. The purpose of this deformation is (1) to provide an infinite tower of finite-dimensional ($d = k+1$) groups systematically approximating the infinite-dimensional gauge links and (2) to restore the physical unitarity of a plaquette operator diagonalization procedure analytically derived from the field continuum by recontracting vertex pairs. For the SU(2)$_k$ Yang-Mills pure-gauge theory, we provide a constructive strategy of gauge-variant completions to extend this unitarity to the entire computational Hilbert space, leading to well-defined time evolution unitaries as targets for optimized circuit synthesis. Leveraging basic circuit decompositions and symmetries of the diagonalized plaquette operator, we report resource upper-bounds on the generalized-controlled-X two-qudit gates for arbitrary local truncation $d$, reducing estimates and scaling relative to the non-deformed theory by three polynomial powers from $O(d^8)$ to $O(d^5)$. Examining the stronger q-deformed gauge constraint, which softens the total flux at vertices, we show that the physical Hilbert space dimension of the deformed plaquette operator scales equivalently to its non-deformed counterpart with a constant factor $0.2563(5)$. Thus, despite affecting interactions at all scales as exemplified by the observed flux hierarchy inversion symmetry, q-deformation continues to pass scrutiny as a reliable truncation offering advantages in quantum circuit synthesis."
+    },
+    {
+      "title": "<math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si7.svg\" class=\"math\"><msup><mn>2</mn><mrow><mo>+</mo><mo>+</mo></mrow></msup></math> Light Tensor Hybrid Meson from QCD Laplace Sum Rules",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326004016?dgcid=rss_sd_all",
       "authors": "Unknown",
       "source": "Physics Letters B",
-      "summary": "Publication date: Available online 12 May 2026Source: Physics Letters BAuthor(s): Saurabh Verma, Archana Dixit, Anirudh Pradhan, M.S. Barak"
+      "summary": "Publication date: Available online 14 May 2026Source: Physics Letters BAuthor(s): Jason Ho, Robin Kleiv, Siyuan Li, Stephan Narison, Tom Steele, Davidson Rabetiarivony"
     },
     {
-      "title": "The Dichotomous Nature of the <em>σ</em> Meson and the Nucleon D-Term",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326003953?dgcid=rss_sd_all",
+      "title": "Cone-Dependent Jet Collisional Energy Loss in Finite QCD Medium",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326004028?dgcid=rss_sd_all",
       "authors": "Unknown",
       "source": "Physics Letters B",
-      "summary": "Publication date: Available online 12 May 2026Source: Physics Letters BAuthor(s): Zanbin Xing, Khépani Raya, Yu-xin Liu, Lei Chang"
+      "summary": "Publication date: Available online 14 May 2026Source: Physics Letters BAuthor(s): Magdalena Djordjevic, Bojana Ilic, Marko Djordjevic"
     },
     {
-      "title": "Scattering and Femtoscopic Correlation Functions of the <math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si18.svg\" class=\"math\"><mrow><msubsup><mstyle mathvariant=\"normal\"><mi>Σ</mi></mstyle><mi>c</mi><mrow><mo>+</mo><mo>+</mo></mrow></msubsup><msup><mi>π</mi><mo>+</mo></msup><mo>,</mo><msubsup><mstyle mathvariant=\"normal\"><mi>Σ</mi></mstyle><mi>c</mi><mn>0</mn></msubsup><msup><mi>π</mi><mo>−</mo></msup></mrow></math> and <math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si15.svg\" class=\"math\"><mrow><msubsup><mstyle mathvariant=\"normal\"><mi>Σ</mi></mstyle><mi>b</mi><mo>+</mo></msubsup><msup><mi>π</mi><mo>+</mo></msup></mrow></math> Systems",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326003825?dgcid=rss_sd_all",
+      "title": "Emergence of chaos in deep-hole states: A combination of Coupled-Cluster and Embedded Two-Body Random Ensemble approach",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326004077?dgcid=rss_sd_all",
       "authors": "Unknown",
       "source": "Physics Letters B",
-      "summary": "Publication date: Available online 12 May 2026Source: Physics Letters BAuthor(s): Mikel F. Barbat, Juan Nieves, Laura Tolos"
+      "summary": "Publication date: Available online 14 May 2026Source: Physics Letters BAuthor(s): Tian-Ze Wang, Jing-Bin Lu, Guan-Jian Fu, Long-Jun Wang, Xiao-Bao Wang, Yang Lei, Jia-Jie Shen, Guo-Xiang Dong, Wen-Bo Ding"
+    },
+    {
+      "title": "Light Rings, Accretion Disks and Shadows of Hayward Boson Stars",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326004004?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: Available online 14 May 2026Source: Physics Letters BAuthor(s): Zhen-Hua Zhao, Yi-Ning Gu, Shu-Cong Liu, Zi-Qian Liu, Yong-Qiang Wang"
+    },
+    {
+      "title": "Pseudosymmetry and curvature inheritance of the Interior black hole spacetime",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326003941?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: Available online 13 May 2026Source: Physics Letters BAuthor(s): A.A. Shaikh, F. Aloui, Kamiruzzaman, Ibrahim Al-Dayel"
+    },
+    {
+      "title": "Green’s function approach to the non-relativistic radial wavefunction using hulthen potential",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326003680?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: Available online 13 May 2026Source: Physics Letters BAuthor(s): Adithya Anil, Praveen P. Dsouza, N. S. Vipin Naik, Antony Prakash Monteiro, K.B. Vijaya Kumar"
+    },
+    {
+      "title": "Image of a quantum-corrected black hole without Cauchy horizons illuminated by a static thin accretion disk",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326003989?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: Available online 13 May 2026Source: Physics Letters BAuthor(s): Shilong Huang, Jiawei Chen, Jinsong Yang"
+    },
+    {
+      "title": "Examination of <math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si1.svg\" class=\"math\"><msup><mi>β</mi><mo>−</mo></msup></math> Decay Half-Lives by Modern Machine Learning Models",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0375947426001168?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Nuclear Physics A",
+      "summary": "Publication date: Available online 13 May 2026Source: Nuclear Physics AAuthor(s): Sihem Berbache, Abir Boubir, Serkan Akkoyun, Oussama Houhou, Abdul Kabir"
     }
   ]
 }
