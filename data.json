@@ -1,131 +1,89 @@
 {
-  "lastUpdated": "2026-05-15T04:43:01.477942",
+  "lastUpdated": "2026-05-16T04:24:21.136245",
   "papers": [
     {
-      "title": "Taming nuclear size and shape effects in superallowed beta-decay",
-      "link": "https://arxiv.org/abs/2605.13985",
-      "authors": "Bingcheng He, Mikhail Gorchtein, Matthias Heinz, Ben Ohayon, Lucas Platter, Chien-Yeah Seng",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2605.13985v1 Announce Type: new \nAbstract: We present the first combined analysis of the statistical rate function f in superallowed beta decays with ab initio calculations and data. We focus on C10 to 10B, 14O to 14N and 26mAl to 26Mg, all of which are important channels for the precise determination of the Cabibbo-Kobayashi-Maskawa (CKM) matrix element Vud. Nuclear charge form factors are obtained by combining experimental data on nuclear charge radii and theory calculations of ratios of moments with the in-medium similarity renormalization group, while the beta decay form factors are derived from exact isospin relations. This enables a rigorous study of the nuclear shape dependence in the statistical rate function f and the quantification of its uncertainties from both experiment and theory. The calculation leads to a more precise test for the first-row CKM unitarity with reduced theoretical uncertainties. This work demonstrates a reliable strategy for combining nuclear many-body calculations with high-precision nuclear data to describe beta decays at tree level for precision tests of the Standard Model."
+      "title": "Systematic study of the $α$-particle preformation factor in the theory of $α$-decay based on the tabular prior-data fitted network, TabPFN",
+      "link": "http://link.aps.org/doi/10.1103/5v47-6dcs",
+      "authors": "Panpan Qi, Xuanpeng Xiao, Gongming Yu, Haitao Yang, and Qiang Hu",
+      "source": "Physical Review C",
+      "summary": "Author(s): Panpan Qi, Xuanpeng Xiao, Gongming Yu, Haitao Yang, and Qiang HuA hybrid approach combining the Tabular Prior-data Fitted Network (TabPFN) with the Coulomb and proximity potential model (CPPM) is developed to investigate $α$-particle preformation factors ${P}_{α}$ and their impact on $α$-decay half-lives. The TabPFN model, trained on 498 nuclei, accurately learn…[Phys. Rev. C 113, 054606] Published Fri May 15, 2026"
     },
     {
-      "title": "Quantum Monte Carlo calculation of $\\delta_C$ in the superallowed beta decay of $^{10}$C",
-      "link": "https://arxiv.org/abs/2605.14006",
-      "authors": "Maria Piarulli, R. B. Wiringa, Alessandro Lovato, Garrett B. King, Saori Pastore",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2605.14006v1 Announce Type: new \nAbstract: We perform an ab initio quantum Monte Carlo calculation of the isospin-symmetry-breaking correction $\\delta_C$ to the superallowed $\\beta$ decay of $^{10}{\\rm C}$. Using both phenomenological and chiral nuclear interactions, we evaluate the Fermi matrix element and quantify its deviation from the canonical $\\sqrt{2}$ value. The resulting $\\delta_C$ values lie in the range $\\approx 0.15$--$0.25\\%$ and are consistent, within sizable uncertainties (approximately $34\\%$--$65\\%$ relative), across Hamiltonians, indicating no statistically significant dependence on the choice of nuclear interaction. The extracted values of $V_{ud}$ are also found to be compatible with current determinations within these uncertainties."
+      "title": "Measurement of fifth- and sixth-order fluctuations of (net-)proton number in $\\mathrm{Au}+\\mathrm{Au}$ collisions from phase II of the beam energy scan program at RHIC",
+      "link": "http://link.aps.org/doi/10.1103/lq8c-9fr6",
+      "authors": "B. E. Aboona <em>et al.</em> (STAR Collaboration)",
+      "source": "Physical Review C",
+      "summary": "Author(s): B. E. Aboona et al. (STAR Collaboration)We report high-statistics measurements of fifth- and sixth-order factorial cumulants and cumulant ratios of (net-)proton multiplicity distributions in $\\mathrm{Au}+\\mathrm{Au}$ collisions at $\\sqrt{{s}_{\\mathrm{NN}}}=7.7–27\\phantom{\\rule{0.222222em}{0ex}}\\mathrm{GeV}$, using data from the STAR exper…[Phys. Rev. C 113, L051901] Published Fri May 15, 2026"
     },
     {
-      "title": "Bayesian analysis of density profile of light dark matter elucidating the properties of dark matter admixed neutron stars in the presence of hyperons",
-      "link": "https://arxiv.org/abs/2605.14447",
-      "authors": "Debashree Sen, Atanu Guha, Chang Ho Hyun",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2605.14447v1 Announce Type: new \nAbstract: We study the impact of symmetry energy ($S$), hyperons, and dark matter (DM) on structural and oscillatory properties of neutron stars (NSs). Uncertainty from hadronic equation of state for NSs is considered with 15 relativistic mean field models having slope parameter ($L_0$) of $S$ in range $40-120$ MeV. DM admixed NSs (DMANSs) are described with feeble interaction between light DM fermions ($\\chi$) with hadronic matter in the presence of hyperons via scalar ($\\eta$) and vector ($\\xi$) dark mediators. The masses $m_{\\chi}$, $m_{\\eta}$ and $m_{\\xi}$ are related by self-interaction constraints from bullet cluster. DM self-interaction couplings are related to $m_{\\chi}$ by relic density constraint. The DM density is taken as an exponential function of baryon density with a free parameter $\\alpha$. Uncertainty from DM model is incorporated by exploring the dependence on $m_{\\chi}$ and $\\alpha$. Several DM search experiments have almost ruled out the existence of massive DM ($\\gtrsim$ GeV). Lately, pursuit for sub-GeV DM has attracted significant attention. Therefore, we consider $m_{\\chi}<$ 1 GeV and $\\alpha \\leq$ 0.1 such that the contribution of DM to the total mass of the DMANSs is $<10\\%$. Comparing our results with various astrophysical constraints, we find that the HESS J1731-347 and GW170817 data are very important in determining the presence of light DM in NSs in moderate amount, relevant in the range $L_0\\lesssim$ 58 MeV. Employing models of DMANSs that satisfy several observational data, we infer with Bayesian analysis, the likely ranges of $m_{\\chi}$ and $\\alpha$ are almost independent of the underlying hadronic model within 40 MeV $\\lesssim$ $L_0$ $<$ 58 MeV. In the absence of DM and with the most probable values of $m_{\\chi}$ and $\\alpha$ obtained from the Bayesian inference, we calculate the frequencies of non-radial $f$- and $p_1$-modes oscillation of NSs/DMANSs."
+      "title": "Examination of the $α$-cluster breaking in the four ${0}^{+}$ bands of $^{12}\\mathrm{C}$ with the variation of multiple bases of the antisymmetrized molecular dynamics",
+      "link": "http://link.aps.org/doi/10.1103/53p8-d2n7",
+      "authors": "Takayuki Myo",
+      "source": "Physical Review C",
+      "summary": "Author(s): Takayuki MyoI investigate $^{12}\\mathrm{C}$, particularly the four kinds of the ${0}^{+}$ bands with various types of the $3α$ configurations. These states are obtained in the variation of the multiple bases of the antisymmetrized molecular dynamics, where the bases are optimized simultaneously in the variation…[Phys. Rev. C 113, 054303] Published Thu May 14, 2026"
     },
     {
-      "title": "Fourth order correlation of baryon number and electric charge as a better magnetometer of QCD",
-      "link": "https://arxiv.org/abs/2605.14674",
-      "authors": "Shijun Mao, Shuai Yang, Sicheng Lin, Xinran Yang, Guoyun Shao, Wen-Chao Zhang",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2605.14674v1 Announce Type: new \nAbstract: This work focuses on the fourth order correlations $\\chi^{BQ}_{31}$, $\\chi^{QB}_{31}$, $\\chi^{BQ}_{22}$, $\\chi^{BS}_{31}$, $\\chi^{SB}_{31}$, $\\chi^{BS}_{22}$, $\\chi^{QS}_{31}$, $\\chi^{SQ}_{31}$, $\\chi^{QS}_{22}$, $\\chi^{BQS}_{211}$, $\\chi^{QBS}_{211}$, $\\chi^{SBQ}_{211}$ of baryon number $B$, electric charge $Q$ and strangeness $S$ at finite temperature, magnetic field and vanishing quark chemical potential. The study is carried out in the framework of a three-flavor PNJL model, considering both cases with and without inverse magnetic catalysis effect. We find that, fourth order correlations $\\chi^{BQ}_{31}$ at chiral restoration phase transition is more sensitive to the magnetic field than other second order and fourth order correlations and fluctuations, and can be served as a more effective magnetometer of QCD."
+      "title": "Charge radii of Sn isotopes in the relativistic mean field approximation",
+      "link": "http://link.aps.org/doi/10.1103/v95x-5fw5",
+      "authors": "S. Marcos, N. Sandulescu, and R. Niembro",
+      "source": "Physical Review C",
+      "summary": "Author(s): S. Marcos, N. Sandulescu, and R. NiembroThe kink observed in the nuclear charge radius of Sn isotopes around neutron number $N=82$ is investigated within the relativistic mean-field framework using the $\\mathrm{NL}{3}^{*}$ parameter set. It is shown that the small components of the Dirac spinors for the neutron single-particle states near…[Phys. Rev. C 113, 054304] Published Thu May 14, 2026"
     },
     {
-      "title": "Skyrme SV density-functional analysis of the $2\\nu\\beta\\beta$ decay in $^{76}$Ge",
-      "link": "https://arxiv.org/abs/2605.14813",
-      "authors": "Jan Mi\\'skiewicz, Jakub Wysocki, Wojciech Satu{\\l}a",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2605.14813v1 Announce Type: new \nAbstract: We present a theoretical study of the two-neutrino $0^+ \\rightarrow 0^+$ double beta decay of $^{76}$Ge within the No-Core Configuration-Interaction framework based on the Skyrme SV density functional. We analyze three allowed decay scenarios distinguished by the $[n,m] \\equiv [(\\nu g_{9/2})^n, (\\pi g_{9/2})^m]$ occupancy of the $0g_{9/2}$ intruder orbital, which remains conserved to high precision, as well as by the triaxiality of the daughter nucleus. The resulting $2\\nu\\beta\\beta$ nuclear matrix element is found to depend strongly on the scenario. For the energetically favored $[4,2]$ occupancy, we obtain $|\\mathcal{M}^{2\\nu}| = 0.069(7)$~MeV$^{-1}$. For the $[6,0]$ occupancy, the matrix element further depends on the triaxiality parameter $\\gamma$ of the two coexisting, closely lying minima in $^{76}$Se, yielding $|\\mathcal{M}^{2\\nu}| = 0.040(4)$~MeV$^{-1}$ at $\\gamma = 17.7^\\circ$ and $|\\mathcal{M}^{2\\nu}| = 0.22(2)$~MeV$^{-1}$ at $\\gamma = 41.9^\\circ$. The latter result is consistent with the empirical value reported by A. S. Barabash, $|\\mathcal{M}^{2\\nu}| = 0.204(14)$~MeV$^{-1}$, while the two former results are comparable to existing calculations based on energy-density-functional frameworks. Our calculations reveal challenges in the precise determination of the $|\\mathcal{M}^{2\\nu}|$ for the $^{76}$Ge decay. The structural complexity, triaxiality, and shape coexistence identified in the analyzed nuclei imply a strong sensitivity to fine details of the interaction and configuration mixing. This, in turn, explains the difficulties in theoretical modeling of the $|\\mathcal{M}^{2\\nu}|$ matrix elements for the $^{76}$Ge decay, which vary by almost an order of magnitude in the available literature."
+      "title": "Nuclear shapes of Nb isotopes",
+      "link": "http://link.aps.org/doi/10.1103/s5rp-5vcv",
+      "authors": "Esperanza Maya-Barbecho and José-Enrique García-Ramos",
+      "source": "Physical Review C",
+      "summary": "Author(s): Esperanza Maya-Barbecho and José-Enrique García-RamosBackground: The study of the structure of odd-mass nuclei in regions characterized by the interplay of multiple particle-hole configurations represents a major challenge in nuclear structure physics. The odd-mass niobium isotopes ($Z=41$), located near the $N=60$ region, are of particular interest d…[Phys. Rev. C 113, 054305] Published Thu May 14, 2026"
     },
     {
-      "title": "Radiative decays of the 1$P$, 1$D$, 2$S$, and 2$P$ $\\Lambda_c$ and 1$D$, 2$S$, and 2$P$ $\\Xi_c$ charmed baryons",
-      "link": "https://arxiv.org/abs/2605.13903",
-      "authors": "R. Gamboa-Goni, Ailier Rivero-Acosta, H. Garc\\'ia-Tecocoatzi, A. Gutierrez-Rodriguez, A. Ramirez-Morales, E. Santopinto, Carlos Alberto Vaquera-Araujo",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2605.13903v1 Announce Type: cross \nAbstract: We analyze the radiative decays of the the 1$P$, 1$D$, 2$S$, and 2$P$ $\\Lambda_c$ and 1$D$, 2$S$, and 2$P$ $\\Xi_c$ charmed baryons, which belong to the flavor anti-triplet ($\\bf {\\bar 3}_{\\rm F}$), using the constituent quark model. We compute electromagnetic transitions from ground and $P$-wave states to ground states, as well as from second-shell states to both ground and $P$-wave final states. Electromagnetic decay widths are especially valuable for identifying resonances when multiple states share the same mass and total decay width. We give branching ratios which can confirm the assignment of the $\\Xi_c(3055)$ reported by LHCb. We also give branching ratios that can support the assignment of the $\\Xi_c(3080)$, and discuss the possibilities for the $\\Xi_c(3080)$ to be the 1$D$ state with $J^P=5/2^{+}$ or the 2$S$ with $J^P=1/2^{+}$. For the first time, this work provides calculations of electromagnetic decays for $D_\\rho$-wave states, $\\rho-\\lambda$ mixed configurations, and $\\rho$-mode radially excited states in singly charmed baryons of the flavor anti-triplet. Both experimental and model-dependent uncertainties are taken into account throughout our analysis."
-    },
-    {
-      "title": "Diquark Correlators and Phase Structure in the Quark-Meson-Diquark Model beyond Mean Field",
-      "link": "https://arxiv.org/abs/2605.13934",
-      "authors": "Mire Ugo, Schaefer Bernd-Jochen",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2605.13934v1 Announce Type: cross \nAbstract: A comprehensive study of the phase structure of the two-flavor quark-meson-diquark model is presented within the nonperturbative functional renormalization group framework. The influence of mesonic fluctuations beyond the mean-field approximation is investigated, and two-point functions of the diquark fields are computed at finite real-time frequencies. Renormalization group consistency of the effective potential is ensured in order to avoid cutoff artifacts. Substantial modifications of the phase structure are found once mesonic fluctuations are included, and for sufficiently strong diquark couplings the dynamics become dominated by diquark condensation. These effects are elucidated through an analysis of the diquark pole mass and the Silver-Blaze property."
-    },
-    {
-      "title": "Matching collinear factorization with color-glass condensate for inclusive and exclusive deep inelastic scattering",
-      "link": "https://arxiv.org/abs/2605.14092",
-      "authors": "Shohini Bhattacharya, Chuan-Qi He, Zhong-Bo Kang, Diego Padilla, Jani Penttala",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2605.14092v1 Announce Type: cross \nAbstract: Collinear factorization and color-glass condensate (CGC) effective field theory are generally treated as separate approaches for calculating scattering amplitudes, valid in different kinematic regimes. For deep inelastic scattering at high photon virtuality and high center-of-mass energy, however, both of these approaches should be applicable. By expressing collinear parton distributions and generalized parton distributions in the shockwave approximation, we show that the resulting collinear-factorization amplitudes exactly reproduce the large-$Q^2$ expansion of CGC amplitudes for inclusive deep inelastic scattering, deeply virtual Compton scattering, and deeply virtual meson production. The matching holds directly at the amplitude level and includes both logarithmically enhanced and finite contributions. Our results establish the consistency between collinear factorization and the CGC in their common region of validity, clarify the origin of large momentum logarithms within the CGC framework, and provide a path toward combining high-energy and collinear evolution in a unified description of hadronic structure at small $x$ and large momentum scales."
-    },
-    {
-      "title": "NA61/SHINE results on search for critical point",
-      "link": "https://arxiv.org/abs/2605.14737",
-      "authors": "Nikolaos Davis",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2605.14737v1 Announce Type: cross \nAbstract: The NA61/SHINE experiment at the CERN SPS is a multipurpose fixed-target spectrometer for charged and neutral hadron measurements. Its research program includes studies of strong interactions as well as reference measurements for neutrino and cosmic-ray physics. One major goal of its strong interaction program is to determine the existence and pinpoint the location of the QCD critical point, an object of both experimental and theoretical studies.\n  This contribution will summarize the current status of NA61/SHINE critical point searches in nucleus-nucleus collisions, in the collision energy range $\\sqrt{s_{NN}} = 5-17$~GeV. The review includes studies of fluctuations of net-electric charge, femtoscopy analysis of $\\pi-\\pi$ pairs, as well as intermittency of protons and negatively charged hadrons. No clear indication of the critical point has been observed so far. Finally, we report on the development of novel methods aimed at solving the long-standing problem of bin-by-bin correlations in experimental intermittency analysis, and for a more accurate handling of systematics and uncertainties."
-    },
-    {
-      "title": "Deforming the Trail: Baseline Quantum Circuitry for $\\text{SU(2)}_k$ Lattice Gauge Theory",
-      "link": "https://arxiv.org/abs/2605.15076",
-      "authors": "Zo\\\"e Webb-Mack, Natalie Klco",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2605.15076v1 Announce Type: cross \nAbstract: Quantifying quantum resources for simulating the fundamental forces of Nature is sensitive to the mapping of gauge fields onto finite quantum computational architectures. When locally truncating lattice gauge theories in the irreducible representation basis, it has been proposed to further deform the theory via quantum groups. The purpose of this deformation is (1) to provide an infinite tower of finite-dimensional ($d = k+1$) groups systematically approximating the infinite-dimensional gauge links and (2) to restore the physical unitarity of a plaquette operator diagonalization procedure analytically derived from the field continuum by recontracting vertex pairs. For the SU(2)$_k$ Yang-Mills pure-gauge theory, we provide a constructive strategy of gauge-variant completions to extend this unitarity to the entire computational Hilbert space, leading to well-defined time evolution unitaries as targets for optimized circuit synthesis. Leveraging basic circuit decompositions and symmetries of the diagonalized plaquette operator, we report resource upper-bounds on the generalized-controlled-X two-qudit gates for arbitrary local truncation $d$, reducing estimates and scaling relative to the non-deformed theory by three polynomial powers from $O(d^8)$ to $O(d^5)$. Examining the stronger q-deformed gauge constraint, which softens the total flux at vertices, we show that the physical Hilbert space dimension of the deformed plaquette operator scales equivalently to its non-deformed counterpart with a constant factor $0.2563(5)$. Thus, despite affecting interactions at all scales as exemplified by the observed flux hierarchy inversion symmetry, q-deformation continues to pass scrutiny as a reliable truncation offering advantages in quantum circuit synthesis."
-    },
-    {
-      "title": "<math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si7.svg\" class=\"math\"><msup><mn>2</mn><mrow><mo>+</mo><mo>+</mo></mrow></msup></math> Light Tensor Hybrid Meson from QCD Laplace Sum Rules",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326004016?dgcid=rss_sd_all",
+      "title": "QNMs of charged black holes in AdS spacetime: a geometrical optics perspective",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326004065?dgcid=rss_sd_all",
       "authors": "Unknown",
       "source": "Physics Letters B",
-      "summary": "Publication date: Available online 14 May 2026Source: Physics Letters BAuthor(s): Jason Ho, Robin Kleiv, Siyuan Li, Stephan Narison, Tom Steele, Davidson Rabetiarivony"
+      "summary": "Publication date: Available online 14 May 2026Source: Physics Letters BAuthor(s): Shubham Kala, Anik Rudra, Hemwati Nandan"
     },
     {
-      "title": "Cone-Dependent Jet Collisional Energy Loss in Finite QCD Medium",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326004028?dgcid=rss_sd_all",
+      "title": "Search for a boosted Higgs boson decaying to bottom quark pairs in association with a W or Z boson in proton-proton collisions at <math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si15.svg\" class=\"math\"><mrow><msqrt><mi>s</mi></msqrt><mo linebreak=\"goodbreak\">=</mo><mn>13</mn><mspace width=\"0.16em\"></mspace><mtext>TeV</mtext></mrow></math>",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326003874?dgcid=rss_sd_all",
       "authors": "Unknown",
       "source": "Physics Letters B",
-      "summary": "Publication date: Available online 14 May 2026Source: Physics Letters BAuthor(s): Magdalena Djordjevic, Bojana Ilic, Marko Djordjevic"
+      "summary": "Publication date: Available online 14 May 2026Source: Physics Letters BAuthor(s): A. Hayrapetyan, V. Makarenko, A. Tumasyan, W. Adam, J.W. Andrejkovic, L. Benato, T. Bergauer, M. Dragicevic, C. Giordano, P.S. Hussain, M. Jeitler, N. Krammer, A. Li, D. Liko, M. Matthewman, I. Mikulec, J. Schieck, R. Schöfbeck, D. Schwarz, M. Shooshtari"
     },
     {
-      "title": "Emergence of chaos in deep-hole states: A combination of Coupled-Cluster and Embedded Two-Body Random Ensemble approach",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326004077?dgcid=rss_sd_all",
-      "authors": "Unknown",
-      "source": "Physics Letters B",
-      "summary": "Publication date: Available online 14 May 2026Source: Physics Letters BAuthor(s): Tian-Ze Wang, Jing-Bin Lu, Guan-Jian Fu, Long-Jun Wang, Xiao-Bao Wang, Yang Lei, Jia-Jie Shen, Guo-Xiang Dong, Wen-Bo Ding"
+      "title": "Exploring muonphilic dark matter with the Z 2-even mediator at muon colliders*",
+      "link": "https://iopscience.iop.org/article/10.1088/1674-1137/ae5044",
+      "authors": "Wanyun Chen, 菀昀 陈, Haoqi Li, 皓奇 李, Chih-Ting Lu, 致廷 卢, Qiulei Wang and 秋磊 王",
+      "source": "Chinese Physics C",
+      "summary": "The Galactic Center GeV Excess (GCE) remains a compelling but enigmatic signal from the inner regions of our galaxy. Muonphilic dark matter (DM), which couples exclusively to muons via a new mediator, provides a viable explanation for the GCE and relic density while naturally evading constraints from direct detection, collider searches, and other multimessenger observations. Based on the viable nonresonant parameter space identified in previous global fits, we perform a comprehensive study on the prospects for discovering such muonphilic DM in the context of a future 3 TeV muon collider, focusing on simplified models with a -even mediator. Four distinct search strategies are investigated: visible on-shell mediator decays ( final state), invisible on-shell mediator decays (mono-photon plus missing energy), mono-photon production via off-shell mediators, and vector boson fusion production. Through a detailed signal-background analysis using cut-and-count methods, we project the exclusion limits at % confidence level for seven representative models across a wide range of mediator masses. Our results demonstrate that the projected limits cover a significant portion of viable parameter space that explains the GCE, establishing a muon collider as a decisive machine for testing the muonphilic DM hypothesis."
     },
     {
-      "title": "Light Rings, Accretion Disks and Shadows of Hayward Boson Stars",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326004004?dgcid=rss_sd_all",
-      "authors": "Unknown",
-      "source": "Physics Letters B",
-      "summary": "Publication date: Available online 14 May 2026Source: Physics Letters BAuthor(s): Zhen-Hua Zhao, Yi-Ning Gu, Shu-Cong Liu, Zi-Qian Liu, Yong-Qiang Wang"
+      "title": "S, T, U parameters in the B-LSSM*",
+      "link": "https://iopscience.iop.org/article/10.1088/1674-1137/ae5590",
+      "authors": "Sheng-Kai Cui, 生恺 崔, Ke-Sheng Sun, 科盛 孙, Yu-Li Yan, 玉立 阎, Jin-Lei Yang, 金磊 杨, Tai-Fu Feng and 太傅 冯",
+      "source": "Chinese Physics C",
+      "summary": "Using the pinch technique, we determine the one-loop vertices of weak interactions in the B-LSSM and incorporate their pinch contributions into the gauge boson self-energies. Compared to the definitions of the S, T, and U parameters in the Standard Model based on the group, the corresponding parameters in the local B-L gauge symmetry (B-LSSM) are modified. We present these redefined S, T, and U parameters and demonstrate the convergence of the results. In the framework of the low-energy effective Lagrangian for weak interactions, the S, T, and U parameters can be expressed as functions of specific parameters in the B-LSSM. The updated experimental and fitting results strongly constrain the parameter space of the B-LSSM."
     },
     {
-      "title": "Pseudosymmetry and curvature inheritance of the Interior black hole spacetime",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326003941?dgcid=rss_sd_all",
-      "authors": "Unknown",
-      "source": "Physics Letters B",
-      "summary": "Publication date: Available online 13 May 2026Source: Physics Letters BAuthor(s): A.A. Shaikh, F. Aloui, Kamiruzzaman, Ibrahim Al-Dayel"
+      "title": "Reconciling the ACT preference in f(T) gravity: inflation and reheating constraints*",
+      "link": "https://iopscience.iop.org/article/10.1088/1674-1137/ae5806",
+      "authors": "Feng-Yi Zhang, 凤毅 张, Rongrong Zhai, 荣荣 翟, Li-Yang Chen and 礼阳 陈",
+      "source": "Chinese Physics C",
+      "summary": "Compared with the results of Planck-only analyses, recent measurements from the Atacama Cosmology Telescope (ACT) indicate a preference for a slightly bluer scalar spectral index, placing canonical inflationary models in General Relativity (GR) under mild pressure. We demonstrate that f(T) gravity systematically accommodates these dataset-dependent preferences by suppressing the tensor-to-scalar ratio in monomial and hilltop potentials and by shifting the spectral index of E-models toward the ACT-favored region. Incorporating Big Bang Nucleosynthesis bounds, we break the degeneracy between the inflationary e-folding number and the post-inflationary thermal history. A direct side-by-side comparison reveals that reconciling models such as the Starobinsky potential with ACT data in GR strictly necessitates a non-standard, stiff (kinetic-dominated) reheating phase. In contrast, torsional corrections in f(T) gravity significantly enlarge the viable parameter space, relaxing these stringent phenomenological requirements and establishing a coherent framework that jointly constrains CMB observables and reheating dynamics."
     },
     {
-      "title": "Green’s function approach to the non-relativistic radial wavefunction using hulthen potential",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326003680?dgcid=rss_sd_all",
-      "authors": "Unknown",
-      "source": "Physics Letters B",
-      "summary": "Publication date: Available online 13 May 2026Source: Physics Letters BAuthor(s): Adithya Anil, Praveen P. Dsouza, N. S. Vipin Naik, Antony Prakash Monteiro, K.B. Vijaya Kumar"
+      "title": "Pseudopotential of hybrid mesons in a holographic anisotropic plasma*",
+      "link": "https://iopscience.iop.org/article/10.1088/1674-1137/ae5a88",
+      "authors": "Jing Zhou, 京 周, Saiwen Zhang and 赛文 张",
+      "source": "Chinese Physics C",
+      "summary": "We investigate the pseudopotential of hybrid mesons in a holographic anisotropic background within the AdS/CFT correspondence. Hybrid states are modeled by introducing a defect, and we analyze the associated force-balance condition in the string configuration. From this setup, we derive the balance equation and compute key physical quantities, including the separation distance, pseudopotential, and binding energy of the hybrid mesons. We find that increasing the anisotropy parameter a decreases the separation distance for both ground and excited states. However, while the ground-state potential decreases, the pseudopotential of the hybrid state increases. Additionally, the pseudopotential of hybrid mesons exhibits significant sensitivity to variations in the angular parameter α."
     },
     {
-      "title": "Image of a quantum-corrected black hole without Cauchy horizons illuminated by a static thin accretion disk",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326003989?dgcid=rss_sd_all",
-      "authors": "Unknown",
-      "source": "Physics Letters B",
-      "summary": "Publication date: Available online 13 May 2026Source: Physics Letters BAuthor(s): Shilong Huang, Jiawei Chen, Jinsong Yang"
-    },
-    {
-      "title": "Examination of <math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si1.svg\" class=\"math\"><msup><mi>β</mi><mo>−</mo></msup></math> Decay Half-Lives by Modern Machine Learning Models",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0375947426001168?dgcid=rss_sd_all",
-      "authors": "Unknown",
-      "source": "Nuclear Physics A",
-      "summary": "Publication date: Available online 13 May 2026Source: Nuclear Physics AAuthor(s): Sihem Berbache, Abir Boubir, Serkan Akkoyun, Oussama Houhou, Abdul Kabir"
+      "title": "ModMax charged black holes in PFDM: Electric Penrose and particle collisions",
+      "link": "https://iopscience.iop.org/article/10.1088/1674-1137/ae5b56",
+      "authors": "Nuriddin Kurbonov, Mukhabbat Kurbanova, Javlon Rayimbaev, Yunus Turaev, Sulton Usanov and Saidmuhammad Ahmedov",
+      "source": "Chinese Physics C",
+      "summary": "In this study, we investigate the influence of the parameters of ModMax nonlinear electrodynamics and perfect-fluid dark matter (PFDM) on the geometry and physical properties of charged black holes. A static, spherically symmetric solution to the Einstein field equations describing a charged ModMax black hole immersed in a PFDM background is obtained. The motion of charged test particles in this spacetime is analyzed in detail, including the effective potential, the conditions for stable and unstable circular orbits, and the radius of the innermost stable circular orbit (ISCO). It is shown that the ModMax parameter γ shifts the orbits outward for repulsive Coulomb interactions and inward for attractive forces, while increasing PFDM enhances gravitational attraction, shifting the ISCO inward. Furthermore, the interactions and collisions of charged particles near the event horizon are examined. The center-of-mass energy exhibits the characteristic behavior in charged-particle collisions, rapidly increasing as the particles approach the horizon. The parameter γ amplifies the BSW acceleration mechanism, while α suppresses it. The electric Penrose process for charged particles is also examined, revealing that the efficiency of energy extraction increases with the black hole charge and is strongly influenced by the interaction parameter γ, which plays a dominant role in enhancing the efficiency, whereas the effect of α remains comparatively negligible."
     }
   ]
 }
