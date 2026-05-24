@@ -1,47 +1,12 @@
 {
-  "lastUpdated": "2026-05-23T04:33:34.517945",
+  "lastUpdated": "2026-05-24T04:57:27.891108",
   "papers": [
     {
-      "title": "Nucleus-nucleus potentials in the scattering of tightly and weakly bound systems",
-      "link": "http://link.aps.org/doi/10.1103/38bb-wqz6",
-      "authors": "J. Rangel, B. Pinheiro, V. A. B. Zagatto, J. Lubian, F. M. Nunes, and L. F. Canto",
-      "source": "Physical Review C",
-      "summary": "Author(s): J. Rangel, B. Pinheiro, V. A. B. Zagatto, J. Lubian, F. M. Nunes, and L. F. CantoBackground: The coupled-channel framework provides a good description for nuclear reactions, provided all relevant channels are included. However, practical applications are often performed in a reduced model space with only a single channel. To effectively account for the effects of missing channel…[Phys. Rev. C 113, 054609] Published Thu May 21, 2026"
-    },
-    {
-      "title": "Theory of nuclear excitation by inelastic muon scattering",
-      "link": "http://link.aps.org/doi/10.1103/jzmn-zwdv",
-      "authors": "Jie Zhou and Xu Wang",
-      "source": "Physical Review C",
-      "summary": "Author(s): Jie Zhou and Xu WangWe develop a fully relativistic theoretical framework for calculating nuclear excitation cross sections induced by muon beams, covering a broad range of incoming energies from 1 to 1000 MeV. Focusing on experimentally accessible isotopes, $^{115}\\mathrm{In}$ and $^{90}\\mathrm{Zr}$, we calculate exci…[Phys. Rev. C 113, 054610] Published Thu May 21, 2026"
-    },
-    {
-      "title": "Exploring toroidal α-cluster configurations in 28Si within the 7α cluster model",
-      "link": "https://iopscience.iop.org/article/10.1088/1674-1137/ae4578",
-      "authors": "Su-Yu Zhou, 苏羽 周, Bo Zhou and 波 周",
-      "source": "Chinese Physics C",
-      "summary": "Two 7α cluster configurations in 28Si are investigated within the framework of the generator coordinate method (GCM) with Brink-Bloch 7α wave functions by taking the edge length as the generator coordinate, including a uniform toroidal configuration and a disk-like configuration. Within the framework of the 7α cluster model with imposed geometric symmetry, we observe that a uniform toroidal configuration may emerge at approximately 40 MeV above the 7α threshold. This provides a cluster-model perspective that complements some mean-field descriptions of toroidal structure in 28Si."
-    },
-    {
-      "title": "Multinucleon transfer products in 48Ca, 54Cr+243Am and 54Cr+238U reactions*",
-      "link": "https://iopscience.iop.org/article/10.1088/1674-1137/ae4bab",
-      "authors": "G. Xie, 港 谢, Z. Y. Zhang, 志远 张, J. G. Wang, 建国 王, L. Ma, 龙 马, M. H. Huang, 明辉 黄, C. L. Yang, 春莉 杨, X. L. Wu, 晓蕾 吴, Z. G. Gan, 再国 甘, H. B. Yang, 华彬 杨, M. M. Zhang, 明明 张, Y. L. Tian, 玉林 田, Y. S. Wang, 永生 王, J. Y. Wang, 均英 王, Y. H. Qiang, 赟华 强, L. Zhu, 霖 祝, X. Y. Huang, 鑫源 黄, S. Y. Xu, 苏扬 徐, Z. Zhao, 圳 赵, Z. C. Li, 宗池 李, X. Zhang, 旭 张, H. Zhou, 浩 周, J. H. Zheng, 佳卉 郑, L. C. Sun, 路冲 孙, F. Guan, 芳 管, W. X. Huang, 文学 黄, Z. Qin, 芝 秦, Y. Wang, 洋 王, X. J. Yin, 小杰 殷, Y. F. Cui, 云飞 崔, Y. He, 源 何, L. T. Sun, 良亭 孙, Z. Z. Ren, 中洲 任, S. G. Zhou, 善贵 周, V. K. Utyonkov, A. A. Voinov, Yu. S. Tsyganov, A. N. Polyakov, D. I. Solovyev, D. Ibadullayev and M. V. Shumeiko",
-      "source": "Chinese Physics C",
-      "summary": "Experiments with 48Ca and 54Cr induced reactions were performed at the gas-filled recoil separator named Spectrometer for Heavy Atoms and Nuclear Structure-2 (SHANS2) of the China Accelerator Facility for superheavy Elements (CAFE2). The isotopic distributions of nuclei produced in the reactions of 48Ca+243Am, 54Cr+243Am, and 54Cr+238U were investigated. Bombardments were conducted at energies near the respective Coulomb barriers, with the SHANS2 magnetic rigidities set to collect fusion-evaporation residues. α-decay spectroscopy was employed to identify products, revealing 58 different isotopes in these experiments. The analysis indicates that the distribution of nuclides produced in different reactions exhibits clear systematic trends. Based on their mass distributions, these nuclei were attributed to the products from the quasi-fission (QF) process. Additionally, several short-lived fission events were identified and attributed to the fission isomers near the target."
-    },
-    {
-      "title": "Structure of the β-decay strength function",
-      "link": "https://iopscience.iop.org/article/10.1088/1674-1137/ae4e15",
-      "authors": "I.N. Izosimov",
-      "source": "Chinese Physics C",
-      "summary": "An analysis of experimental data on measurements of the resonant and fine structure of the β-decay strength function in spherical, transitional, deformed, and halo nuclei has been conducted. Modern nuclear spectroscopy methods have revealed peak splitting in for Gamow–Teller (GT) type β-transitions, caused by nuclear deformation. The resonant structure of for first-forbidden (FF) β-transitions has been experimentally confirmed in both spherical and deformed nuclei. It is shown that at certain nuclear excitation energies, FF β-transitions can reach intensities comparable to those of GT β-transitions. An analysis of the evolution of the energy difference ( between the GT resonance (GTR) and isobaric analog resonance (IAR) with increasing neutron excess in nuclei has been performed. A region exhibiting Wigner spin–isospin symmetry has been predicted."
-    },
-    {
-      "title": "Predictions of neutron-capture reaction cross sections using a Bayesian neural network approach combined with a physically motivated empirical formula*",
-      "link": "https://iopscience.iop.org/article/10.1088/1674-1137/ae50e6",
-      "authors": "H. B. Li, 鸿博 李, W. F. Li, 伟峰 李, Q. Wu, 庆 武, Z. M. Niu and 中明 牛",
-      "source": "Chinese Physics C",
-      "summary": "Neutron-capture reaction cross sections are studied using the Bayesian neural network (BNN) approach in combination with a recently proposed empirical formula for the cross sections. In addition to the proton and neutron numbers, four physical quantities are found to be important for improving the predictive performance of the BNN approach: the pairing effect-related variable δ, shell effect-related variables and , and theoretical neutron-capture reaction cross sections. The BNN approach more effectively describes the Maxwellian-averaged ( ) cross sections (MACS) at = 30 keV than the TENDL-astro 2023 theoretical library calculated using TALYS code based on the Hauser–Feshbach statistical model. The root-mean-square deviation of the BNN approach with respect to the natural logarithm of the experimental MACS data from the Karlsruhe Astrophysical Database of Nucleosynthesis in Stars is reduced to 0.1373, compared with the value of 0.2545 for TENDL-astro 2023. The BNN predictions align well with MACS trends predicted by TENDL-astro 2023 when extrapolated to the unknown region, though there are quantitative deviations between them."
+      "title": "Quantum circuit complexity as a measure of particle creation in bouncing cosmologies",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326004181?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: July 2026Source: Physics Letters B, Volume 878Author(s): Samak Boonpan"
     }
   ]
 }
