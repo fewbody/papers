@@ -1,12 +1,61 @@
 {
-  "lastUpdated": "2026-05-24T04:57:27.891108",
+  "lastUpdated": "2026-05-25T05:14:52.136952",
   "papers": [
     {
-      "title": "Quantum circuit complexity as a measure of particle creation in bouncing cosmologies",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326004181?dgcid=rss_sd_all",
+      "title": "Intertwined quantum phase transitions in the even-even $^{90-100}$Sr isotopes",
+      "link": "https://arxiv.org/abs/2605.23352",
+      "authors": "Noam Gavrielov",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2605.23352v1 Announce Type: new \nAbstract: The even-even $^{90-100}$Sr isotopes are identified as a region of intertwined quantum phase transitions (IQPTs). In this scenario, a quantum phase transition involving the crossing of normal and intruder configurations is accompanied by a shape evolution within the intruder configuration. Using the interacting boson model with configuration mixing (IBM-CM), we show that the strontium chain exhibits coexisting Type I and Type II QPTs, where the intruder configuration evolves from a near-spherical structure in $^{90-96}$Sr to a deformed one in $^{98,100}$Sr, while the normal and intruder configurations cross between $^{96}$Sr and $^{98}$Sr. As a result, the ground state changes abruptly from a weakly collective normal configuration to a deformed intruder configuration. Evidence for this scenario is provided by a detailed comparison with experimental excitation energies, spectroscopic quadrupole moments, isotope shifts, and monopole $E0$ transition strengths, together with the configuration and $n_d$ decompositions of the calculated wave functions. The results place the strontium isotopes alongside the neighboring zirconium chain as another realization of IQPTs in the intricate $A\\approx100$ region."
+    },
+    {
+      "title": "Quasiradial oscillations of rotating hybrid neutron stars",
+      "link": "https://arxiv.org/abs/2605.23433",
+      "authors": "Zi-Yue Zheng, Ting-Ting Sun, Huan Chen, Xiao-Ping Zheng, Jin-Biao Wei, G. F. Burgio, H. -J. Schulze",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2605.23433v1 Announce Type: new \nAbstract: We investigate fundamental quasiradial oscillations in slow-rotation approximation of pure and hybrid neutron stars, employing equations of state of nuclear matter from Brueckner-Hartree-Fock theory or the relativistic mean field model, and of quark matter from the Dyson-Schwinger quark model, performing a Gibbs construction for the mixed phase in hybrid stars. Characteristic differences between neutron-star and hybrid-star fundamental quasiradial oscillation frequencies during spin-down are pointed out."
+    },
+    {
+      "title": "Coulomb bridge mechanism for peripheral polarization of weakly bound projectiles",
+      "link": "https://arxiv.org/abs/2605.23541",
+      "authors": "Hao Liu, Jin Lei, Zhongzhou Ren",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2605.23541v1 Announce Type: new \nAbstract: We identify the matrix elements that carry peripheral polarization of weakly bound projectiles through the Feshbach dynamical polarization potential (DPP) within the continuum-discretized coupled-channels (CDCC) framework. Splitting the two P-Q bridge couplings into nuclear and Coulomb parts, while keeping a single Q-space propagator common to every term, decomposes the DPP into a nuclear, a Coulomb, and an interference component, $\\Delta U_{\\rm DPP}=\\Delta U_N+\\Delta U_C+\\Delta U_{NC}$. Applied to $d+{}^{58}$Ni, ${}^{6}$Li$+{}^{208}$Pb, ${}^{11}$Be$+{}^{64}$Zn, and ${}^{8}$B$+{}^{64}$Zn, the decomposition reveals a controlled hierarchy: a nuclear bridge in the light system, a mixed bridge with strong destructive interference in the heavy stable case, and a Coulomb-dominated bridge in both halo systems, with the proton halo showing constructive nuclear-Coulomb interference. For the halo reactions, peripheral partial waves ($L\\gtrsim 35$) satisfy $\\sigma_R^L\\simeq\\sigma_{\\rm DPP}^L\\simeq\\sigma_{\\rm BU}^L$, with the high-$L$ DPP tail dominated by $\\sigma_C^L$. Two diagnostic calculations isolate the responsible matrix elements: removing the off-diagonal Coulomb propagation inside Q leaves the pattern essentially intact, whereas removing the Coulomb part of the P-Q bridge collapses both DPP-induced absorption and breakup. The peripheral polarization of halo reactions is therefore a Coulomb-bridge effect, and the high-$L$ elastic-breakup yield serves as its observable signature."
+    },
+    {
+      "title": "Enhanced Stellar Production of Weakly Interacting Slim Particles from Non-Thermal Nuclear Cascades",
+      "link": "https://arxiv.org/abs/2605.23317",
+      "authors": "V\\'ictor Fonoll, Maurizio Giannotti, Giuseppe Lucente",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2605.23317v1 Announce Type: cross \nAbstract: Weakly interacting slim particles (WISPs) can be produced in stars through the conversion of non-thermal photons generated in nuclear reactions. Previous studies have generally treated these sources only at the level of their primary injection lines. We show that this picture is incomplete: repeated Compton scatterings redistribute the injected photons into a broad low-energy spectrum, while associated positrons can thermalize and annihilate into a 511~keV line. Together, these effects define a generic non-thermal photon reservoir and thus a broadly applicable source term for any photon-coupled WISP. We develop a general framework for this mechanism and illustrate its impact with the example of dark-photon production in the solar pp chain. Our results show that non-thermal stellar WISP production can be substantially underestimated if Compton reprocessing and positron annihilation are neglected."
+    },
+    {
+      "title": "Observation of Entanglement Enabled Spin-Interference in the Drell-S\\\"oding Process in Au+Au Ultraperipheral Collisions at RHIC",
+      "link": "https://arxiv.org/abs/2605.23615",
+      "authors": "The STAR Collaboration",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2605.23615v1 Announce Type: cross \nAbstract: We report a measurement of the Drell-S\\\"oding $\\pi^+ \\pi^-$ production in Au + Au ultraperipheral collisions at a center-of-mass energy per nucleon pair $\\sqrt{s_{NN}} = 200~\\mathrm{GeV}$ using the STAR detector. For the first time, the Entanglement Enabled Spin-Interference (EESI) effect is observed in the Drell-S\\\"oding process through the amplitude $A_{2\\Delta\\phi}$ of the $\\cos(2\\Delta\\phi)$ modulation. The measured $A_{2\\Delta\\phi}$ exhibits no significant dependence on the invariant mass $M_{\\pi^+ \\pi^-}$. An enhancement of three standard deviations is observed for the Drell-S\\\"oding process compared to $\\rho^0$ photoproduction. Furthermore, we measure the $|t|$-dependence of the Drell-S\\\"oding process and $\\rho^0$ photoproduction. The Drell-S\\\"oding spectrum falls more steeply with $|t|$ and exhibits diffractive structures shifted to lower $|t|$ compared to $\\rho^0$ photoproduction, features that are not captured by theoretical calculations. These results provide new insights into the interplay between quantum interference and photon-nuclear interactions in ultra-peripheral heavy-ion collisions."
+    },
+    {
+      "title": "Probing nuclear interactions \\`a la Rutherford: Insights on $^4$He from $\\alpha$ scattering",
+      "link": "https://arxiv.org/abs/2605.23654",
+      "authors": "F. Cappuzzello, V. Soukeras, S. Bacca, D. Carbone, M. Cavallaro, L. C. Chamon, I. Lombardo, G. Orlandini, M. Viviani, C. Agodi, H. -W. Becker, G. A. Brischetto, S. Calabrese, C. Ciampi, M. Cicerchia, M. Cinausero, I. Ciraldo, D. Dell'Aquila, M. Fisichella, C. Frosin, A. Hacisalihoglu, M. Hilcker, A. Kievsky, Y. Kucuk, T. Marchi, O. Sgouros, A. Spatafora, D. Torresi, M. Vigilante, A. Yildirim",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2605.23654v1 Announce Type: cross \nAbstract: Nuclear interactions play a key role for the stability of atomic nuclei and stellar environments. Successful parametrization and models of these interactions, developed in the last decades, accurately reproduce all the proton and neutron scattering data, besides the properties of few-body nuclear systems. However, recent electron scattering results focusing on the first excited resonant state of $^4$He nucleus, reveal a puzzling situation suggesting potential gaps in our understanding of the nuclear phenomenology. Here, we report a new study of such $^4$He resonance by $^4$He + $^4$He scattering featuring data of unprecedented sensitivity and state-of-art analyses of the spectral line shape together with a phenomenological reaction modeling that incorporates the same nuclear densities employed in electron-scattering studies. Our analysis of the full set of experimental observables yields a reasonable description within the framework of current nuclear-interaction physics, thereby highlighting the need for further advancing the modeling of few-body open quantum systems."
+    },
+    {
+      "title": "Rapid cooling of the Cassiopeia A neutron star due to superfluid quantum criticality",
+      "link": "https://arxiv.org/abs/2410.21945",
+      "authors": "Hao-Fu Zhu, Guo-Zhu Liu, Xufen Wu",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2410.21945v2 Announce Type: replace-cross \nAbstract: The rapid cooling of the neutron star in Cassiopeia A is speculated to arise from an enhanced neutrino emission caused by the onset of $^3P_2$-wave neutron superfluidity in the core. However, the neutrino emissivity due to Cooper-pair breaking and formation is in tension with the requirements for explaining the observed cooling rate. Here, we show that such a rapid cooling can be explained once the non-Fermi liquid behavior of the non-superfluid neutron liquid induced by superfluid quantum criticality is included into the theoretical description of neutron star cooling, without assuming the existence of additional energy loss processes. Our results indicate that the neutron star in Cassiopeia A remains in the thermal relaxation stage, which is greatly prolonged by the non-Fermi liquid behavior. The good agreement between our theoretical results and recent observational cooling data points to the pivotal role played by superfluid quantum criticality in neutron stars."
+    },
+    {
+      "title": "Ricci-cubic holographic dark energy: Confronting observations, stability and the cosmic coincidence problem",
+      "link": "https://www.sciencedirect.com/science/article/pii/S037026932600403X?dgcid=rss_sd_all",
       "authors": "Unknown",
       "source": "Physics Letters B",
-      "summary": "Publication date: July 2026Source: Physics Letters B, Volume 878Author(s): Samak Boonpan"
+      "summary": "Publication date: July 2026Source: Physics Letters B, Volume 878Author(s): Aritra Sanyal, Prabir Rudra"
     }
   ]
 }
