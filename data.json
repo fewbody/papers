@@ -1,68 +1,117 @@
 {
-  "lastUpdated": "2026-05-31T05:13:03.955589",
+  "lastUpdated": "2026-06-01T05:53:28.813480",
   "papers": [
     {
-      "title": "Microscopic three-dimensional approach for deformed $α$ emitters using physics-informed neural networks",
-      "link": "http://link.aps.org/doi/10.1103/284n-gq9z",
-      "authors": "An Cheng and Chang Xu",
-      "source": "Physical Review C",
-      "summary": "Author(s): An Cheng and Chang XuWe combine the three-dimensional (3D) two-potential approach (3DTPA) with the physics-informed neural network (PINN) to compute the $α$ decay width of deformed nuclei, which is expressed in terms of the 3D bound-state wave function and the Coulomb scattering wave function on the separation surface o…[Phys. Rev. C 113, 054315] Published Fri May 29, 2026"
+      "title": "Time-ordered Diagrammatic Monte Carlo for atomic nuclei",
+      "link": "https://arxiv.org/abs/2605.30527",
+      "authors": "Stefano Brolli, Carlo Barbieri",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2605.30527v1 Announce Type: new \nAbstract: Diagrammatic Monte Carlo provides a systematically improvable framework for stochastically resumming many-body expansions to high orders through direct sampling of diagram topologies. We advance our earlier work by introducing a novel time-ordered Diagrammatic Monte Carlo algorithm for the single-particle Green's function. The algorithm is tailored to finite nuclei, formulated in discrete model spaces and applicable to arbitrary two-body interactions. The new time-ordered diagrammatic Monte Carlo algorithm is based on the on-the-fly evaluation of time-ordered Goldstone diagrams, avoiding explicit diagram enumeration and expensive frequency integration. We show the algorithm by computing ${}^{16}$O up to fifth order in a reduced model space using optimized reference state orbitals and including effective three-body forces. Benchmarking against established truncation schemes in ab initio nuclear theory demonstrates its potential to overcome the limitations of current many-body approaches."
     },
     {
-      "title": "Skyrme-Hartree-Fock-Bogoliubov mass models on a 3D mesh: V. The N2LO extension of the Skyrme EDF",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326004429?dgcid=rss_sd_all",
+      "title": "Effects of the Symmetry energy slope on the exotic content of the neutron stars",
+      "link": "https://arxiv.org/abs/2605.30554",
+      "authors": "Luiz L. Lopes",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2605.30554v1 Announce Type: new \nAbstract: By varying the symmetry energy slope ($L$), I investigate how the exotic content within the interiors of neutron stars changes and how it affects both macroscopic and microscopic quantities. Using two different parametrizations (L3$\\omega\\rho$ and BigApple), and three different possibilities about the neutron star core (nucleons+hyperons, nucleons+deltas, nucleons+hyperons+deltas), I show that, for the models analyzed in this work, changing the slope barely changes the amount of hyperons, but it can strongly suppress the $\\Delta$ resonances for large values of $L$. I also show that, in general, the presence of exotic content will be more evident for lower values of $L$ than for large ones. Differences and similarities between the two parametrizations are also analyzed."
+    },
+    {
+      "title": "Optimized basis of covariant density functional theory: point coupling functionals and excited states",
+      "link": "https://arxiv.org/abs/2605.30669",
+      "authors": "A. Dalbah, A. V. Afanasjev, B. Osei",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2605.30669v1 Announce Type: new \nAbstract: The present investigation focuses on the improvement of the accuracy of the description of physical observables of interest in moderately sized fermionic basis within the framework of covariant density functional theory. It extends previous study of Ref. [1] to point coupling (PC) covariant energy density functionals (CEDFs) and to excited states. Using as a benchmark the solutions corresponding either to infinite fermionic basis or those extrapolated to such a basis it is shown that the optimization of oscillator frequency $\\hbar\\omega_0$ of the harmonic oscillator (HO) basis leads to a substantial improvement in the description of different physical observables in the fermionic basis truncated at $N_F$. Globally optimized scaling factors $f_{opt}(A)$ of the oscillator frequency and the sizes $N_F^{\\varepsilon}$ of the HO bases providing the required accuracy $\\varepsilon$ in the calculations of the binding energies are generated for the PC functionals. The optimization of the basis also significantly improves the accuracy of the description of potential energy curves, defining the fission barriers and fission isomers in actinides and superheavy nuclei, provided that the size of the basis is at least equal to $N_F=20$. The optimization of the HO basis improves the accuracy of the description of the energies of bound single-particle states: the only exceptions are weakly bound neutron states with low orbital momenta $l=0$, 1 and 2. It is demonstrated for the first time that the halo densities of neutron halo nuclei generated in the coordinate space calculations are well reproduced in the calculations with very large fermionic HO bases."
+    },
+    {
+      "title": "Dynamical selection of fragment shell effects in spontaneous fission of $^{240}$Pu, $^{232}$Th, and $^{264}$Fm",
+      "link": "https://arxiv.org/abs/2605.30828",
+      "authors": "Qiafeng Chen, Fuchang Gu, Yingge Huang, Erxi Xiao, Yinu Zhang, Jun Su",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2605.30828v1 Announce Type: new \nAbstract: Understanding how fragment shell effects influence spontaneous fission mass yields remains a central challenge in nuclear fission theory. This work investigates the role of shell effects in the spontaneous fission of $^{240}$Pu, $^{232}$Th, and $^{264}$Fm by combining microscopic collective dynamics with fragment-level shell analysis. A two-step framework is employed: first, the tunneling from the inner to outer turning points is described using the Wentzel-Kramers-Brillouin approximation along the least-action path on a potential energy surface calculated from constrained Hartree-Fock-Bogoliubov theory. Second, the dissipative descent from the outer turning points to scission is simulated via Langevin dynamics in a large collective space of quadrupole and octupole deformations. Fragment shell effects are quantified using smoothed level density indicators for representative even-even fragment pairs extracted from Langevin scission configurations. The analysis reveals that enhanced yields arise from a coherent overlap among dynamically populated scission configurations, low-energy regions on the fragment potential energy surfaces, and low neutron and/or proton level densities near the Fermi surface. Proton shell effects provide persistent microscopic selectivity in both light and heavy fragments across asymmetric channels, while neutron shell effects offer additional stabilization. Deformed shell effects at finite quadrupole and octupole deformations play a crucial role in stabilizing asymmetric fission channels. This work demonstrates that fission fragment yields reflect shell-favored configurations that are made accessible by the potential energy surface topology and populated by stochastic dynamics, with the largest yields corresponding to configurations where shell gaps provide maximal binding."
+    },
+    {
+      "title": "Neural-network excited states of $A=4$ nuclei and hypernuclei",
+      "link": "https://arxiv.org/abs/2605.30944",
+      "authors": "Zi-Xiao Zhang, Yi-Long Yang, Xiao-Lu Qian, Wan-Bing He, Peng-Wei Zhao, Bing-Nan Lu, Yu-Gang Ma",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2605.30944v1 Announce Type: new \nAbstract: We present the first variational Monte Carlo study of nuclear and hypernuclear excited states within the neural-network quantum states (NQS) framework. We implement both the overlap penalty (OP) and natural excited state (NES) methods to compute low-lying excitation spectra. To address the spin contamination in hypernuclear calculations, we propose a quantum number targeting (QNT) technique for the OP method. Both the OP-QNT and NES methods can reproduce diagonal observables, such as energies and spatial structures, in excellent agreement with rigorous benchmarks. We further provide, to our knowledge, the first \\textit{ab initio} calculation of the $M1$ transition strength for $^{4}_{\\Lambda}\\mathrm{H}$. The calculated transition strength is consistent with the weak-coupling limit, exhibiting a $\\sim$1.3\\% suppression. This work demonstrates that NQS can be elevated from ground-state solvers to practical tools for nuclear and hypernuclear spectroscopy."
+    },
+    {
+      "title": "High-Dimensional Bayesian Calibration of Expensive Nuclear Models with Differentiable Emulation",
+      "link": "https://arxiv.org/abs/2605.30980",
+      "authors": "Jin Lei",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2605.30980v1 Announce Type: new \nAbstract: Full Bayesian calibration of expensive nuclear models has been blocked not by the cost of any single solve, but by the absence of exact likelihood gradients in legacy parameter-dependent operators, which forces gradient-free samplers to spend $\\mathcal{O}(10^5)$ evaluations exploring high-dimensional correlated posteriors. I introduce DREAM, a differentiable calibration strategy in which the parameter-dependent operator is sampled offline by any legacy code, compressed by singular value decomposition, and reconstructed online in a differentiable framework so that automatic differentiation delivers exact likelihood gradients through the full forward solve at the cost of one additional evaluation per Hamiltonian Monte Carlo step. The construction is operator-level and depends only on smooth, compressible parameter dependence; the underlying physics solver is treated as a black box. As a representative demonstration, DREAM is applied to a continuum-discretized coupled-channels (CDCC) analysis of $d$+$^{58}$Ni elastic scattering at $21.6$~MeV with eighteen optical-potential parameters, for which No-U-Turn Sampling converges on a single GPU in tens of minutes with zero divergent transitions, yielding a full Bayesian posterior for a breakup reaction. The mean emulator error is more than an order of magnitude below the inferred model discrepancy, so the posterior is set by the reaction model rather than the surrogate. The posterior tightly constrains the average deuteron surface absorption and supports a substantial proton/neutron asymmetry relative to the Koning-Delaroche systematics, a representative payoff that the multi-energy datasets DREAM is designed to accommodate can sharpen into a full physics interpretation."
+    },
+    {
+      "title": "Accessing Exotic Hadronic States via Charmed-Meson Femtoscopy in Relativistic Heavy-Ion Collisions",
+      "link": "https://arxiv.org/abs/2605.31527",
+      "authors": "Jiaxing Zhao, Taesoo Song, Elena Bratkovskaya, Joerg Aichelin",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2605.31527v1 Announce Type: new \nAbstract: The two-particle correlation function measured in femtoscopic analyses provides access to the interaction potentials between emitted particles. This offers a unique opportunity to investigate interactions among charmed mesons and to explore the nature of possible exotic hadronic states. In this Letter, we study femtoscopic correlations of various charmed-meson pairs in relativistic heavy-ion collisions. The dynamical evolution of the system and charm hadron production are described within the Parton-Hadron-String Dynamics (PHSD) transport approach, while the correlation functions are computed using the Correlation Analysis Tool using the Schr\\\"odinger equation (CATS). We demonstrate that heavy-ion collisions provide a significantly more favorable environment than $pp$ collisions for accessing charmed meson femtoscopic correlations. This arises from enhanced charm-quark production, reduced relative momenta due to in-medium energy loss, and a strong suppression of initial-state correlations. Our results indicate that femtoscopic measurements in heavy-ion collisions offer a sensitive probe of charmed meson interactions and possible hadronic molecular states."
+    },
+    {
+      "title": "Factorizing quarkonium production matrix elements using effective field theory",
+      "link": "https://arxiv.org/abs/2605.30441",
+      "authors": "Marston Copeland, Ivan Vitev",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2605.30441v1 Announce Type: cross \nAbstract: We use effective field theory to factorize production matrix elements that appear in quarkonium cross sections in NRQCD. By applying a Hubbard-Stratonovich transformation we show that the soft and ultrasoft sectors of NRQCD can be decoupled from the heavy quark and antiquark fields in a hybrid vNRQCD/pNRQCD Lagrangian at leading order in the velocity power counting. This enables us to separate quarkonium production matrix elements in terms of matrix elements of color-singlet composite fields, which we can write as the wavefunction at the origin, and state independent vacuum correlators of chromo-electric and chromo-magnetic gluon fields. This approach verifies powerful connections between the LDMEs of different S-wave vector quarkonium states, originally derived using pNRQCD. Additionally, we find new operator contributions for the color-octet P-wave mechanism, which satisfy a similar set of relationships. Finally, this approach allows us to factorize the production matrix elements that appear in the transverse momentum dependent factorization framework, known as TMD soft transition functions, in terms of state independent gluon correlators. This work restores some universality for TMD production operators and dramatically improves the predictive power of NRQCD in the TMD framework."
+    },
+    {
+      "title": "Functional renormalization group study of the jet quenching parameter near the QCD critical end point",
+      "link": "https://arxiv.org/abs/2605.30816",
+      "authors": "Yi-zhen Huang, Shi Yin, Sheng-nan Han, Jing Wu, Feng Li, Wei-jie Fu",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2605.30816v1 Announce Type: cross \nAbstract: We investigate the jet quenching parameter $\\hat{q}$ in the QCD phase diagram within a QCD-assisted low-energy effective theory using the functional renormalization group (fRG). Following the formalism that relates $\\hat{q}$ to the spectral functions of the chiral order-parameter field, we compute the $\\sigma$ and $\\pi$ meson contributions to $\\hat{q}$ at finite temperature and baryon chemical potential from analytically continued mesonic two-point functions. We find that $\\hat{q}$ receives appreciable contributions mainly above the chiral phase boundary and exhibits a pronounced enhancement at large baryon chemical potential as the chiral crossover sharpens toward the critical end point (CEP), a behavior consistent with the picture of partonic critical opalescence (PCO), a pronounced enhancement of jet transverse momentum broadening induced by the critical $\\sigma$ field fluctuations."
+    },
+    {
+      "title": "Functional methods for quantum thermodynamics",
+      "link": "https://arxiv.org/abs/2605.31112",
+      "authors": "Sibo Wang, Samuel Degen, Haozhao Liang",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2605.31112v1 Announce Type: cross \nAbstract: The functional renormalization group provides a nonperturbative and systematically improvable route to constructing density functionals for quantum many-body systems from microscopic Hamiltonians. Here we advance this program by benchmarking functional-renormalization-group density functional theory (FRG-DFT) against the exact thermodynamics of the single-site Bose-Hubbard model. This model provides an ideal testing ground because it is analytically solvable, yet remains subtle in the imaginary-time coherent-state path integral, where a naive continuum treatment generates a spurious self-interaction. We show that a careful Hubbard-Stratonovich derivation identifies the self-interaction correction term that must be included in the FRG-DFT flow to recover the exact thermodynamics. We then systematically compare several closures of the resulting hierarchy of flow equations for the free energy, chemical potential, and connected density correlators over broad ranges of density, temperature, and interaction strength. The benchmark shows that the free energy is comparatively robust, whereas the chemical potential and fluctuation observables provide much sharper diagnostics of the hierarchy closure. A maximum-entropy closure gives the most accurate overall description and reproduces even the low-temperature oscillatory structure of the connected two-density correlator. These results identify two general requirements for functional approaches to quantum thermodynamics: the renormalization group flow equation must retain the equal-time contact subtraction to avoid spurious self-interactions, and any closure of the hierarchy must preserve the statistical consistency of density correlators. This work provides a controlled foundation for deriving ab initio density functionals for quantum many-body systems across condensed-matter, ultracold-atom, and nuclear physics, as well as quantum chemistry."
+    },
+    {
+      "title": "Radiative Corrections to Elastic Lepton-Proton Scattering with Focus on Two-Photon-Exchange Diagrams",
+      "link": "https://arxiv.org/abs/2605.31123",
+      "authors": "Daniel Crowe, Syed Mehedi Hasan, Doreen Wackeroth",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2605.31123v1 Announce Type: cross \nAbstract: Lepton (electron and muon) scattering experiments are excellent tools to gain insight into the nucleon structure. Elastic electron-proton scattering probes the spatial distribution of charge and magnetization inside the proton, and comparing electron-proton and muon-proton scattering data tests lepton universality. The availability of a plethora of scattering data with increased precision and observed discrepancies such as the proton form factor puzzle and the proton radius puzzle motivated a renewed effort to improve the theoretical framework. Realizing that the one-photon-exchange approximation (OPE), i.e. the Born approximation, is not sufficient, radiative corrections in QED, especially the two-photon-exchange (TPE) diagrams, are under investigation. The TPE diagrams are of special interest among the radiative corrections, since they depend on the proton structure. In this work, we present a complete calculation of QED radiative corrections to elastic electron-proton and muon-proton scattering at next-to-leading order, taking into account loop-momentum-dependent form factors. In the discussion of their numerical impact on lepton-proton scattering cross sections, we pay special attention to the TPE diagrams and compare them with existing theoretical predictions and lepton-proton scattering data."
+    },
+    {
+      "title": "Deeply bound dibaryon $d^*(2380)$ from meson-exchange saturation $\\Delta\\Delta$ effective field theory",
+      "link": "https://arxiv.org/abs/2605.31578",
+      "authors": "Prin Sawasdipol, Chinadanai Bubpatate, Daris Samart",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2605.31578v1 Announce Type: cross \nAbstract: We propose an RG-improved effective-field-theory framework for the deeply bound dibaryon $d^*(2380)$, a $\\Delta\\Delta$ bound state in the $(J,I)=(3,0)$ ${}^7S_3$ channel. Its binding momentum $\\gamma\\simeq 320$ MeV gives $\\gamma/m_\\pi\\simeq 2.3$, indicating the need to re-organize the short-range dynamics beyond a formal pionless EFT. We match the large-$N_c$-constrained pionless contact potential to a meson-exchange-saturated contact interaction in which the $\\sigma,\\rho,\\omega$ dynamics are integrated out at the hadronic scale $m_V$, yielding the controlled expansion parameter $\\gamma/m_V\\simeq 0.42$. Normalizing the contact coupling to the deuteron and substituting the phenomenological CD-Bonn couplings gives $B_{\\Delta\\Delta}\\simeq 96$ MeV. The $\\simeq 14\\%$ discrepancy from $B_{\\rm exp}=84$ MeV is of the natural size of $\\mathcal{O}(1/N_c^2)\\simeq 11\\%$ corrections to the $NN$ potential, confirming compatibility with a controlled EFT expansion organized around the finite-range hadronic scale. As a result, the observed $d^*(2380)$ pole emerges from the virtual state to bound state by using the EFT re-organization in this work."
+    },
+    {
+      "title": "Coarse graining the Bethe-Goldstone equation: nucleon-nucleon high momentum components",
+      "link": "https://arxiv.org/abs/1708.00878",
+      "authors": "I. Ruiz Simo, R. Navarro Perez, J. E. Amaro, E. Ruiz Arriola",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:1708.00878v2 Announce Type: replace \nAbstract: The delta-shell representation of the nuclear force allows a simplified treatment of nuclear correlations. We show how this applies to the Bethe-Goldstone equation as an integral equation in coordinate space with a few mesh points, which is solved by inversion of a 5-dimensional square matrix in the single channel cases and a $10\\times10$ matrix for the tensor-coupled channels. This allows us to readily obtain the high momentum distribution, for all partial waves, of a back-to-back correlated nucleon pair in nuclear matter. We find that the probability of finding a high-momentum correlated neutron-proton pair is about 18 times that of a proton-proton one, as a result of the strong tensor force, thus confirming in an independent way previous results and measurements."
+    },
+    {
+      "title": "Poles from the conserved kinetic equation : The emerging gradient structure and causality riddle of relativistic hydrodynamics",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326004570?dgcid=rss_sd_all",
       "authors": "Unknown",
       "source": "Physics Letters B",
-      "summary": "Publication date: Available online 29 May 2026Source: Physics Letters BAuthor(s): G. Grams, W. Ryssens, A. Sánchez-Fernández, N.N. Shchechilin, L. González-Miret Zaragoza, P. Demol, N. Chamel, S. Goriely, M. Bender"
+      "summary": "Publication date: Available online 31 May 2026Source: Physics Letters BAuthor(s): Sukanya Mitra"
     },
     {
-      "title": "Fusion analysis of <sup>36</sup>S + <sup>50</sup>Ti reaction at sub-barrier energies",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0375947426001314?dgcid=rss_sd_all",
+      "title": "Hints for a Geon from Causal Dynamic Triangulations",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326004521?dgcid=rss_sd_all",
       "authors": "Unknown",
-      "source": "Nuclear Physics A",
-      "summary": "Publication date: Available online 29 May 2026Source: Nuclear Physics AAuthor(s): Samiksha, Manjeet Singh, Vijay, Anand Kumar, Sukhvinder Kumar"
+      "source": "Physics Letters B",
+      "summary": "Publication date: Available online 30 May 2026Source: Physics Letters BAuthor(s): Axel Maas, Felix Pressler, Simon Plätzer"
     },
     {
-      "title": "Explicit asymptotics of coupling matrix elements for central potentials in the hyperspherical harmonics expansion method",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0375947426001223?dgcid=rss_sd_all",
+      "title": "Probing exotic multi-proton emitters: A Gamow shell model study of proton-rich fluorine and neon isotopes beyond the drip line",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326004533?dgcid=rss_sd_all",
       "authors": "Unknown",
-      "source": "Nuclear Physics A",
-      "summary": "Publication date: Available online 29 May 2026Source: Nuclear Physics AAuthor(s): Emile Meoto, Mantile Lekala"
-    },
-    {
-      "title": "Discovery prospects for photophobic axion-like particles in the WWjj final state at the High-Luminosity LHC*",
-      "link": "https://iopscience.iop.org/article/10.1088/1674-1137/ae5048",
-      "authors": "Jiaojiao Feng, 娇娇 冯, Ying-nan Mao, 英男 毛, Kechen Wang and 科臣 王",
-      "source": "Chinese Physics C",
-      "summary": "We evaluate discovery prospects for photophobic axion-like particles (ALPs) in the WWjj final state at the High-Luminosity LHC (HL-LHC; , ). In the photophobic limit ( ), ALPs couple to electroweak gauge bosons and are produced in association with two jets ( ) via both s-channel electroweak exchange and vector boson fusion (VBF)–like topologies, followed by decay. We target the different-flavour dilepton mode with two jets and moderate missing transverse momentum. The analysis employs a two-step strategy: initial preselection that defines the signal-like final state, followed by a multivariate analysis (MVA) trained on dijet and dileptonic-WW kinematics from both the s-channel and VBF-like production mechanisms to separate signal from background; the MVA threshold is optimized independently at each . We present 2σ and 5σ discovery sensitivities for the ALP–W coupling across the 170–4000 GeV mass range. For , the 2σ (5σ) sensitivity is approximately flat around . At large masses/couplings, the mapping between an experimental rate and a single EFT parameter can become UV sensitive, and we treat the extreme high-mass/high-coupling corner as an extrapolation; therefore, we also report model-independent discovery thresholds for the fiducial quantity over the same mass range to enable reinterpretation for other models. These results indicate that the topology offers competitive and complementary sensitivity to heavy photophobic ALPs at the HL-LHC."
-    },
-    {
-      "title": "Thermodynamic GUP correction for black hole within quintessence matter",
-      "link": "https://iopscience.iop.org/article/10.1088/1674-1137/ae5049",
-      "authors": "Riasat Ali, Tiecheng Xia, 铁成 夏 and Rimsha Babar",
-      "source": "Chinese Physics C",
-      "summary": "We examine the black hole geometry in general relativity using Einstein's equations to modify the geometry in quintessence matter. In quintessence matter, we incorporate black hole geometry into the standard formula to assess the Hawking temperature. We implement the Hamilton-Jacobi semi-classical technique to examine the Hawking temperature of a four-dimensional black hole spacetime. The boson particles are tunnelled into the horizon under the action of the generalized uncertainty principle (GUP) by implementing the relativistic field equation and WKB strategy. The Hawking temperature is investigated under the influence of the GUP parameter, particle properties, and black hole geometry parameters. Entropy and emission energy corrections are also examined using the Hawking temperature."
-    },
-    {
-      "title": "Photoneutron cross section measurements on 65Cu: toward understanding (n, γ) cross sections relevant to weak s-process nucleosynthesis*",
-      "link": "https://iopscience.iop.org/article/10.1088/1674-1137/ae5a18",
-      "authors": "Yu-Long Shen, 雨龙 谌, Zi-Rui Hao, 子锐 郝, Qian-kun Sun, 乾坤 孙, Hong-Wei Wang, 宏伟 王, Long-Xiang Liu, 龙祥 刘, Hang-Hua Xu, 杭华 许, Yue Zhang, 岳 张, Sheng Jin, 晟 金, Kai-Jie Chen, 开杰 陈, Meng-Die Zhou, 梦蝶 周, Zhen-Wei Wang, 振伟 王, Meng-Ke Xu, 孟轲 徐, Xiang-Fei Wang, 向飞 王, Chang Yang, 畅 杨, Pu Jiao, 普 焦, Chun-Wang Ma, 春旺 马, Gong-Tao Fan, 功涛 范, Zhi-Cai Li, 志才 李, Wen Luo and 文 罗",
-      "source": "Chinese Physics C",
-      "summary": "A new measurement of the 65Cu(γ, n)64Cu photoneutron cross section is performed using quasi-monoenergetic, tunable γ-ray beams produced at the Shanghai Laser Electron Gamma Source (SLEGS). The energy spectrum of the SLEGS γ-ray beams incident on the isotopically enriched 65Cu target is monitored using a BGO detector, while the photoneutron yields are determined with a moderated 3He detection array with high and flat efficiency. Within the energy range of MeV, the measured data have an uncertainty of %, and a pronounced giant-dipole peak is observed at MeV with a maximal cross section of mb. These photoneutron data are compared with previous experimental results and are employed to extract the γ-ray strength function of 65Cu above the neutron threshold. Furthermore, we calculate the radiative neutron capture cross sections and astrophysical reaction rates for 64Cu, which is a short-lived intermediate nucleus whose reaction rate controls the local abundance distribution in the weak s-process. It is found that the calculated 64Cu(n,γ)65Cu data have an overall agreement with ENDF/B-VIII.0, JEFF-3.3, and TENDL-2023 evaluations, and the corresponding astrophysical reaction rates are consistent with those reported in the JINA REACLIB database."
-    },
-    {
-      "title": "Nonlinear diffusive shock acceleration with upstream escape reproduces DAMPE observations*",
-      "link": "https://iopscience.iop.org/article/10.1088/1674-1137/ae5c7d",
-      "authors": "Han-Xiang Hu, 翰翔 胡, Xing-Jian Lv, 行健 吕, Xiao-Jun Bi, 效军 毕, Tian-Lu Chen, 天禄 陈, Kun Fang, 堃 方, Peng-Fei Yin and 鹏飞 殷",
-      "source": "Chinese Physics C",
-      "summary": "We develop a self-consistent nonlinear extension of diffusive shock acceleration that incorporates cosmic-ray (CR) backreaction on the shock precursor together with a physically motivated upstream escape mechanism that yields an exponential high-energy cutoff. The CR pressure gradient decelerates the upstream flow ahead of the shock, generating an extended precursor in which higher-rigidity particles sample a larger cumulative velocity gradient and thereby acquire a progressively harder spectrum. Finite-size and escape effects are modeled by a momentum-dependent loss term, which naturally terminates acceleration and steepens the spectrum near the cutoff. The precursor compression ratio is not imposed as a closure condition; instead, it is determined dynamically by enforcing consistency between the injection rate inferred from thermal leakage at the subshock and the injection strength required by the nonlinear shock modification, with CR-driven wave heating providing stabilizing negative feedback. Applying the model to young supernova-remnant–like parameters and standard one-zone Galactic diffusion, we reproduce the main features of the latest DAMPE proton spectrum: gradual hardening from hundreds of GeV to multi-TeV energies, followed by an exponential cutoff at tens of TeV. The resulting spectral evolution follows directly from the competition between precursor-mediated nonlinear feedback and upstream escape."
-    },
-    {
-      "title": "Systematic study of odd-even staggering in elemental fragmentation cross sections for N=Z nuclei from 36Ar to 28Si at ~ 300 MeV/nucleon*",
-      "link": "https://iopscience.iop.org/article/10.1088/1674-1137/ae5d27",
-      "authors": "Yu-Nan Song, 雨楠 宋, Yong Zheng, 勇 郑, Guang-Shuai Li, 光帅 李, Bao-Hua Sun, 保华 孙, Jun Su, 军 苏, Ge Guo, 戈 郭, Kai-Long Wang, 凯龙 王, Jun-Yao Xu, 俊瑶 徐, Xiao-Dong Xu, 晓栋 徐, Ji-Chao Zhang, 寂潮 张, Meng Wang, 猛 王, Xiu-Lin Wei, 秀琳 魏, Yong Cao, 勇 曹, Bing-Shui Gao, 丙水 高, Yun Qin, 赟 秦, Lu-Ping Wan, 鲁平 万, Chang-Jian Wang, 长建 王, Xin-Xu Wang, 昕旭 王, Wen-Wen Zhang, 文文 张, Xiao-Bin Zhang, 小彬 张, Zi-Cheng Zhou and 子铖 周",
-      "source": "Chinese Physics C",
-      "summary": "Elemental fragmentation cross sections (EFCSs) of the nuclei Ar, Cl, S, P, and Si on a carbon target were measured at approximately 300 MeV/nucleon using the RIBLL2 fragment separator at HIRFL. Among these, the cross sections for Cl and P are reported here for the first time, providing new data and extending EFCS measurements along the chain. The measured cross sections exhibit significant odd-even staggering as a function of the charge change . The experimental results are compared with several empirical parametrizations, including Cummings, EPAX3, and FRACS, as well as with the isospin-dependent quantum molecular dynamics model (IQMD) coupled to the statistical decay code GEMINI. The IQMD+GEMINI calculations reproduce the experimental cross sections with an accuracy of approximately 7% and reasonably reproduce the observed odd-even staggering. Consistent with previous studies, comparisons of model predictions at different reaction stages demonstrate that the odd-even staggering in EFCSs predominantly originates from the de-excitation of excited primary fragments. These results further establish the robustness of this interpretation by extending its validity to the region."
+      "source": "Physics Letters B",
+      "summary": "Publication date: Available online 30 May 2026Source: Physics Letters BAuthor(s): N. Chen, J.G. Li, M.R. Xie, P.Y. Wang, K.H. Li, Q. Yuan, N. Michel"
     }
   ]
 }
