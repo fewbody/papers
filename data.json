@@ -1,82 +1,33 @@
 {
-  "lastUpdated": "2026-06-13T05:15:04.872495",
+  "lastUpdated": "2026-06-14T05:24:15.251139",
   "papers": [
     {
-      "title": "Electric dipole strength in $sd$-shell nuclei from small-angle proton scattering",
-      "link": "http://link.aps.org/doi/10.1103/4yjj-ybpj",
-      "authors": "R. W. Fearick, O. Le Noan, H. Matsubara, P. von Neumann-Cosel, K. Sieja, and A. Tamii",
-      "source": "Physical Review C",
-      "summary": "Author(s): R. W. Fearick, O. Le Noan, H. Matsubara, P. von Neumann-Cosel, K. Sieja, and A. TamiiBackground: Total photoabsorption cross sections are important for an understanding of nuclear structure and for many applications, in particular in astrophysics. The majority of data stems from measurements of neutron emission after photoexcitation, which, in heavy nuclei, represent a good approxim…[Phys. Rev. C 113, 064311] Published Fri Jun 12, 2026"
+      "title": "$D$-Meson Production via Sequential Hadronization in High-Energy Nuclear Collisions",
+      "link": "http://link.aps.org/doi/10.1103/py6l-xdfn",
+      "authors": "Zi-Xuan Xu, Wei Dai, Ben-Wei Zhang, Jiaxing Zhao, and Pengfei Zhuang",
+      "source": "Physical Review Letter",
+      "summary": "Author(s): Zi-Xuan Xu, Wei Dai, Ben-Wei Zhang, Jiaxing Zhao, and Pengfei ZhuangHeavy flavor production serves as an ideal probe of the hadronization mechanism of the quark-gluon plasma created in relativistic heavy ion collisions. We study charm-quark hadronization using Langevin transport in the medium together with a sequential coalescence model. Since ${D}_{s}$ forms earlie…[Phys. Rev. Lett. 136, 232301] Published Fri Jun 12, 2026"
     },
     {
-      "title": "Decay of three-body resonances in a discrete basis",
-      "link": "http://link.aps.org/doi/10.1103/1jb6-p2kh",
-      "authors": "J. Casal and J. Gómez-Camacho",
-      "source": "Physical Review C",
-      "summary": "Author(s): J. Casal and J. Gómez-CamachoWe present a theoretical framework for calculating the asymptotic properties and decay dynamics of three-body resonances described in a discrete basis. The method involves solving an inhomogeneous Schrödinger equation to determine the non-normalizable resonant state by identifying a normalizable sou…[Phys. Rev. C 113, 064608] Published Fri Jun 12, 2026"
-    },
-    {
-      "title": "Correlations of feed-down hadrons in a thermal model",
-      "link": "http://link.aps.org/doi/10.1103/g91z-tnyh",
-      "authors": "Claude Pruneau, Victor Gonzalez, Oveis Sheibani, Chun Shen, Yash Patley, Basanta Nandi, and Ana Marin",
-      "source": "Physical Review C",
-      "summary": "Author(s): Claude Pruneau, Victor Gonzalez, Oveis Sheibani, Chun Shen, Yash Patley, Basanta Nandi, and Ana MarinWe examined the potential impact of decays on the magnitude of fluctuations of net quantum numbers and integrals of balance functions based on a thermal hadron gas model. The calculations are based on a comprehensive list of known hadrons with masses up to $2.5\\phantom{\\rule{0.28em}{0ex}}\\mathrm{GeV…[Phys. Rev. C 113, 064905] Published Fri Jun 12, 2026"
-    },
-    {
-      "title": "<i>Ab initio</i> many-fermion structure calculations on a quantum computer",
-      "link": "http://link.aps.org/doi/10.1103/1spg-5ld3",
-      "authors": "Weijie Du, Yangguang Yang, Zixin Liu, Chao Yang, and James P. Vary",
-      "source": "Physical Review C",
-      "summary": "Author(s): Weijie Du, Yangguang Yang, Zixin Liu, Chao Yang, and James P. VaryTo overcome the limitations of existing algorithms for solving self-bound quantum many-body problems—such as those encountered in nuclear and particle physics—that access only a restricted subset of energy levels and provide limited structural information, we introduce and demonstrate a novel quantu…[Phys. Rev. C 113, L061302] Published Fri Jun 12, 2026"
-    },
-    {
-      "title": "Three-body effect in short-range correlations",
-      "link": "http://link.aps.org/doi/10.1103/7smm-7sd5",
-      "authors": "H. Y. Shang, R. Z. Hu, X. Y. Xu, Z. C. Xu, J. C. Pei, and S. M. Wang",
-      "source": "Physical Review C",
-      "summary": "Author(s): H. Y. Shang, R. Z. Hu, X. Y. Xu, Z. C. Xu, J. C. Pei, and S. M. WangShort-range correlations (SRCs) provide the link between low- and high-energy nuclear physics and can be quantified by two-nucleon densities. We present calculations of the two-nucleon densities using free-space similarity renormalization group (SRG)-evolved operators and in-medium SRG (IMSRG) groun…[Phys. Rev. C 113, L061303] Published Fri Jun 12, 2026"
-    },
-    {
-      "title": "Systematic study of fusion-fission and quasifission in reactions using a $^{197}\\mathrm{Au}$ target",
-      "link": "http://link.aps.org/doi/10.1103/vmdx-klxv",
-      "authors": "Shiva Prasad Nayak, E. Prasad, D. J. Hinde, M. Dasgupta, C. Simenel, K. J. Cook, E. C. Simpson, J. Walshe, D. Y. Jeung, C. Sengupta, K. Vo-Phuoc, J. F. Smith, I. P. Carter, H. Albers, J. Khuyagbaatar, and Ch. E. Düllmann",
-      "source": "Physical Review C",
-      "summary": "Author(s): Shiva Prasad Nayak, E. Prasad, D. J. Hinde, M. Dasgupta, C. Simenel, K. J. Cook, E. C. Simpson, J. Walshe, D. Y. Jeung, C. Sengupta, K. Vo-Phuoc, J. F. Smith, I. P. Carter, H. Albers, J. Khuyagbaatar, and Ch. E. DüllmannBackground: Quasifission is a nonequilibrium phenomenon that strongly suppresses the formation of heavy nuclei in heavy-ion fusion reactions. This process shows a strong entrance channel dependence. Understanding quasifission is crucial for exploring potential avenues to synthesize new superheavy el…[Phys. Rev. C 113, 064605] Published Thu Jun 11, 2026"
-    },
-    {
-      "title": "Open charm production and ${\\mathrm{Λ}}_{c}^{+}/{D}^{0}$ ratio in $pp$ and $\\mathrm{Au}+\\mathrm{Au}$ collisions at $\\sqrt{{s}_{NN}}=200 \\mathrm{GeV}$",
-      "link": "http://link.aps.org/doi/10.1103/519h-2vrc",
-      "authors": "Bijun Fan, Shusu Shi, Chao Zhang, and Liang Zheng",
-      "source": "Physical Review C",
-      "summary": "Author(s): Bijun Fan, Shusu Shi, Chao Zhang, and Liang ZhengWe study open-charm hadrons production in pp and $\\mathrm{Au}+\\mathrm{Au}$ collisions at $\\sqrt{{s}_{NN}}=200$ GeV using an improved multiphase transport (AMPT) model. Specifically, we show the transverse-momentum spectra and nuclear modification factors ${R}_{\\mathrm{AA}}$ of ${D}^{0}$ mesons and $…[Phys. Rev. C 113, 064904] Published Thu Jun 11, 2026"
-    },
-    {
-      "title": "Exploration for astromers near $^{132}\\mathrm{Sn}$ with the Canadian Penning Trap",
-      "link": "http://link.aps.org/doi/10.1103/p2lt-gchf",
-      "authors": "A. A. Valverde <em>et al.</em>",
-      "source": "Physical Review C",
-      "summary": "Author(s): A. A. Valverde et al.Nuclear isomers can have significant impacts on astrophysical nucleosynthesis processes, with recent efforts demonstrating that the population of isomeric states with different half-lives may require separate treatment in reaction networks to accurately capture the differences in heating or in ident…[Phys. Rev. C 113, 065803] Published Thu Jun 11, 2026"
-    },
-    {
-      "title": "First measurement of the $^{20}\\mathrm{Ne}(α,p)^{23}\\mathrm{Na}$ reaction at energies relevant for type Ia supernovae",
-      "link": "http://link.aps.org/doi/10.1103/vkcb-8hzg",
-      "authors": "C. Boomershine, D. W. Bardayan, R. J. deBoer, P. D. O'Malley, S. R. Carmichael, L. Caves, A. Davis, A. Gula, K. Howard, R. Kelmar, A. Mitchell, L. Morales, S. Moylan, D. Robertson, and E. Stech",
-      "source": "Physical Review C",
-      "summary": "Author(s): C. Boomershine, D. W. Bardayan, R. J. deBoer, P. D. O'Malley, S. R. Carmichael, L. Caves, A. Davis, A. Gula, K. Howard, R. Kelmar, A. Mitchell, L. Morales, S. Moylan, D. Robertson, and E. StechSensitivity studies have found that the $^{20}\\mathrm{Ne}(α,p)^{23}\\mathrm{Na}$ reaction has a significant influence on supernovae Ia (SNIa) nucleosynthesis, but no previous measurements of the reaction cross section have been reported. Astrophysical reaction rate estimates have been based upon meas…[Phys. Rev. C 113, 065804] Published Thu Jun 11, 2026"
-    },
-    {
-      "title": "Possible wobbling modes in soft triaxial even-even Xe isotopes",
-      "link": "http://link.aps.org/doi/10.1103/14kh-p5g3",
-      "authors": "Y. M. Wang, Q. B. Chen, and Z. P. Li",
-      "source": "Physical Review C",
-      "summary": "Author(s): Y. M. Wang, Q. B. Chen, and Z. P. LiThe nature of the $γ$ band is studied for the soft triaxial even-even Xe isotopes $^{122–128}\\mathrm{Xe}$ employing the five-dimensional collective Hamiltonian based on relativistic density functional theory. The theoretical calculations successfully reproduce the experimental staggering parameters …[Phys. Rev. C 113, L061301] Published Thu Jun 11, 2026"
-    },
-    {
-      "title": "Gravitational waves from seesaw assisted collapsing domain walls",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326004703?dgcid=rss_sd_all",
+      "title": "Slowly rotating quantum-corrected wormholes in fuzzy dark matter halos: Photon orbits and photon spheres",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326004636?dgcid=rss_sd_all",
       "authors": "Unknown",
       "source": "Physics Letters B",
-      "summary": "Publication date: August 2026Source: Physics Letters B, Volume 879Author(s): Debasish Borah, Indrajit Saha"
+      "summary": "Publication date: August 2026Source: Physics Letters B, Volume 879Author(s): S.K. Maurya, Sweeti Kiroriwal, Jitendra Kumar"
+    },
+    {
+      "title": "First direct determination of the pick-off contribution to the ortho-positronium decay rate",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326004624?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: August 2026Source: Physics Letters B, Volume 879Author(s): S. Sharma, K. Dulski, E.Y. Beyene, N. Chug, C. Curceanu, E. Czerwiński, M. Das, K.V. Eliyan, M. Gorgol, J. Hajduga, B. Jasińska, K. Kacprzak, T. Kaplanoglu, Ł. Kapłon, K. Kasperska, A. Khreptak, T. Kozik, K. Kubat, D. Kumar, S.K. Kundu"
+    },
+    {
+      "title": "Evaluating Alternative Spin Scenarios of $$P_{c\\bar{c}}(4440)$$ and $$P_{c\\bar{c}}(4457)$$ Using Heavy Quark Symmetries",
+      "link": "https://link.springer.com/article/10.1007/s00601-026-02059-2",
+      "authors": "Unknown",
+      "source": "Few-Body Systems",
+      "summary": "Heavy quark symmetries are useful for predicting the existence of heavy states, their masses, and spin states. Despite numerous studies on the $$P_{c\\bar{c}}(4440)$$ and $$P_{c\\bar{c}}(4457)$$ heavy states, their spin states have not been previously determined. In this study, heavy symmetries are applied to predict the spin states. If the $$P_{c\\bar{c}}(4440)$$ and $$P_{c\\bar{c}}(4457)$$ states are considered $$\\bar{D}^*\\Sigma _c$$ molecules, they can be classified as heavy partners. This classification may help clarify their potential connections with heavy antiquark-diquark symmetry partners. By utilizing these alternative spin assignments and the concept of heavy antiquark-diquark symmetry, it may be possible to estimate $$\\Xi _{cc}^{(*)}\\Sigma _c^{(*)}$$ states, and ultimately, their spin states, which have not been elucidated in experiments. In addition to these symmetries, the relationship between $$P_{c\\bar{c}}$$ and $$P_{c\\bar{c}s}$$ pentaquarks can be constructed which supports the prediction of possible $$P_{c\\bar{c}s}$$ states. The predicted masses of the $$P_{c\\bar{c}s}(4338)$$ and $$P_{c\\bar{c}s}(4459)$$ states align with several studies, allowing us to eliminate a specific spin state. One spin state appears to be favored, suggesting that $$P_{c\\bar{c}}(4440)$$ has $$J^P=\\frac{1}{2}$$ and $$P_{c\\bar{c}}(4457)$$ has $$J^P=\\frac{3}{2}$$."
     }
   ]
 }
