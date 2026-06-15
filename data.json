@@ -1,33 +1,75 @@
 {
-  "lastUpdated": "2026-06-14T05:24:15.251139",
+  "lastUpdated": "2026-06-15T06:15:27.741409",
   "papers": [
     {
-      "title": "$D$-Meson Production via Sequential Hadronization in High-Energy Nuclear Collisions",
-      "link": "http://link.aps.org/doi/10.1103/py6l-xdfn",
-      "authors": "Zi-Xuan Xu, Wei Dai, Ben-Wei Zhang, Jiaxing Zhao, and Pengfei Zhuang",
-      "source": "Physical Review Letter",
-      "summary": "Author(s): Zi-Xuan Xu, Wei Dai, Ben-Wei Zhang, Jiaxing Zhao, and Pengfei ZhuangHeavy flavor production serves as an ideal probe of the hadronization mechanism of the quark-gluon plasma created in relativistic heavy ion collisions. We study charm-quark hadronization using Langevin transport in the medium together with a sequential coalescence model. Since ${D}_{s}$ forms earlie…[Phys. Rev. Lett. 136, 232301] Published Fri Jun 12, 2026"
+      "title": "Energy and centrality dependence of thermodynamical observables from multiplicity in Pb+Pb and Au+Au collisions",
+      "link": "https://arxiv.org/abs/2606.14018",
+      "authors": "Francisco Reyes Rodr\\'iguez, Eleazar Cuautle",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2606.14018v1 Announce Type: new \nAbstract: Using a statistical model, we analyze published multiplicity distributions for identified hadrons produced in heavy ion collisions in the energy range from 2.7-200 \\gev. Our analysis enables the prediction of the multiplicity distributions for multi-strangeness hadrons that have not yet been measured in lower-energy experiments. Furthermore, we obtain freeze-out parameters, including temperature, baryon chemical and strangeness potentials, the strangeness suppression factor, and the system radius, as functions of centrality and collision energy.\n  Additionally, we computed and discussed the Skewness and its behavior at lower collision energies, highlighting the importance of the freeze-out parameters in determining the liquid-gas phase transition in nuclear matter."
     },
     {
-      "title": "Slowly rotating quantum-corrected wormholes in fuzzy dark matter halos: Photon orbits and photon spheres",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326004636?dgcid=rss_sd_all",
-      "authors": "Unknown",
-      "source": "Physics Letters B",
-      "summary": "Publication date: August 2026Source: Physics Letters B, Volume 879Author(s): S.K. Maurya, Sweeti Kiroriwal, Jitendra Kumar"
+      "title": "Teleportation in Proton Systems Revisited",
+      "link": "https://arxiv.org/abs/2606.14171",
+      "authors": "H. Wita{\\l}a",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2606.14171v1 Announce Type: new \nAbstract: We discuss the peculiarities of scattering in a three-proton system induced by the presence of an entangled proton-proton Bell-like state in the initial configuration. We formulate the problem using the standard spin formalism of nuclear physics in order to follow in detail the reaction pathways leading to the teleportation of a quantum-mechanical state within this system.\n  By performing numerical simulations of the system and calculations based on a realistic nucleon-nucleon potential, we evaluate the relevant spin observables and search for a simple, experimentally feasible signal that could provide clear evidence of quantum teleportation.\n  For the case in which proton 2, belonging to the entangled proton pair 23, interacts with hydrogen target 1, thereby triggering the teleportation process, we find clear evidence of teleportation through measurements of the final polarization of proton 3', even for small values of the polarization of target proton 1. The dominant component of this polarization is transferred almost entirely from target proton 1 to proton 3 in the angular region characterized by strong entanglement.\n  For an unpolarized target proton 1, quantum teleportation is no longer possible. The only unambiguous signature of the residual quantum correlations would be provided by measurements of the spin correlations within the strongly entangled final-state proton pair 1'2'. Indirect evidence may also be obtained from measurements of the polarization of proton 2' in the final state, although the corresponding effectis relatively weak."
     },
     {
-      "title": "First direct determination of the pick-off contribution to the ortho-positronium decay rate",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326004624?dgcid=rss_sd_all",
-      "authors": "Unknown",
-      "source": "Physics Letters B",
-      "summary": "Publication date: August 2026Source: Physics Letters B, Volume 879Author(s): S. Sharma, K. Dulski, E.Y. Beyene, N. Chug, C. Curceanu, E. Czerwiński, M. Das, K.V. Eliyan, M. Gorgol, J. Hajduga, B. Jasińska, K. Kacprzak, T. Kaplanoglu, Ł. Kapłon, K. Kasperska, A. Khreptak, T. Kozik, K. Kubat, D. Kumar, S.K. Kundu"
+      "title": "Tomography of Atomic Nuclei",
+      "link": "https://arxiv.org/abs/2606.14558",
+      "authors": "Noemi Rocco, Carlo Graziani, Alessandro Lovato, Anthony J. Tropiano, Robert B. Wiringa",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2606.14558v1 Announce Type: new \nAbstract: We carry out continuum quantum Monte Carlo calculations of the quantum-mechanical Wigner distribution functions of selected nuclei, up to $^{16}$O. These distributions provide a form of quantum tomography of the spatial and momentum structure of the system. They also help identify the location of high-momentum regions in atomic nuclei and provide insight into the onset of alpha clustering. Besides their intrinsic interest, these distributions will be useful for neutrino event generators, as they correlate the positions and momenta of nucleons in the initial target state. To facilitate their application, we address the need to store them compactly by developing an accurate Gaussian Process emulator that automatically preserves their normalization."
     },
     {
-      "title": "Evaluating Alternative Spin Scenarios of $$P_{c\\bar{c}}(4440)$$ and $$P_{c\\bar{c}}(4457)$$ Using Heavy Quark Symmetries",
-      "link": "https://link.springer.com/article/10.1007/s00601-026-02059-2",
+      "title": "Anomalies, Topology, and Hadron Structure in QCD",
+      "link": "https://arxiv.org/abs/2606.13908",
+      "authors": "Ismail Zahed",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2606.13908v1 Announce Type: cross \nAbstract: Quantum Chromodynamics (QCD) provides a remarkable realization of how quantum effects reshape the symmetries of a classical field theory. The axial anomaly links chirality to gauge-field topology and underlies the resolution of the $U(1)_A$ problem, while the trace anomaly generates the intrinsic QCD scale through dimensional transmutation and accounts for most of the mass of hadrons and hence visible matter. Together, these quantum effects reveal the central role of gluonic dynamics and vacuum structure in strong-interaction physics. In this review, we discuss the theoretical foundations and physical consequences of anomalous symmetry breaking in QCD. We examine anomalous Ward identities, the topological structure of gauge fields, instantons, topological susceptibility, and the realization of chiral and scale symmetries in the QCD vacuum. We review their role in the generation of hadron masses, the $\\eta'$ mass, and the resolution of the $U(1)_A$ problem, and discuss their manifestations in polarized deep inelastic scattering, nucleon spin structure, and modern studies of hadron structure. Particular emphasis is placed on recent developments connecting vacuum topology, the flavor-singlet axial charge, topological screening, and the proton spin problem. Our aim is to provide a unified perspective on how quantum anomalies connect vacuum structure, hadron properties, and partonic observables, bridging nonperturbative dynamics and perturbative QCD."
+    },
+    {
+      "title": "Hadron spectra of finite-density QC$_2$D",
+      "link": "https://arxiv.org/abs/2606.13974",
+      "authors": "Kei Iida, Etsuko Itou, Kotaro Murakami, Daiki Suenaga",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2606.13974v1 Announce Type: cross \nAbstract: We investigate the chemical-potential dependence of hadron spectra in two-color QCD using first-principles lattice simulations. We compute two-point correlation functions for all allowed hadronic operators by newly including the contributions from disconnected diagrams, and extract the corresponding effective masses. In the meson sector, the mass hierarchy in the hadronic phase (normal vacuum) is found to be $m_\\pi \\lesssim m_{\\eta} < m_\\sigma \\mathrm{(noisy)} < m_\\rho \\sim m_\\omega \\ll m_{a_1}$, which is similar to that in three-color QCD. In the superfluid phase, this hierarchy is modified, and with increasing density it changes to $m_\\sigma \\mathrm{(noisy)} < m_{a_1} < m_\\rho < m_\\pi \\sim m_{\\eta} \\mathrm{(noisy)} \\ll m_{\\omega} \\mathrm{(noisy)}$. In the diquark sector, the ordering remains as $m_{NG} \\lesssim m_{I=0, S} < m_{I=1, AV} < m_{I=0, PS} \\lesssim m_{I=0, V}$ in both phases, and the Nambu--Goldstone mode associated with spontaneous breaking of $U(1)_B$ is confirmed to be nearly massless. Furthermore, by comparing correlators for chiral partners, we find indications of chiral symmetry restoration at high density."
+    },
+    {
+      "title": "Meson molecules in strong magnetic fields: non-monotonic evolution of the charged pion and kaon energies",
+      "link": "https://arxiv.org/abs/2606.14017",
+      "authors": "Toru Kojo",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2606.14017v1 Announce Type: cross \nAbstract: In strong magnetic fields, charged quarks occupy the lowest Landau level, leading to an effective dimensional reduction of hadronic dynamics. This dimensional reduction naturally generates a hierarchy of scales, separating fast intra-meson quark dynamics from slow collective meson motion; this motivates a Born-Oppenheimer description of meson-meson systems. Our Born-Oppenheimer analysis shows that the infrared behavior is controlled by the interplay between dimensional reduction and the structure of the meson-meson interaction, leading to three distinct regimes: scattering-dominated, molecular, and compact multiquark states. Charged pseudoscalar mesons such as $\\pi_+$ and $K_+$ provide a particularly interesting realization of this framework, as their lattice spectra at large magnetic fields suggest the emergence of loosely bound states near the boundary between scattering and molecular regimes. Our results suggest that strong magnetic fields provide a useful laboratory for exploring the emergence and classification of hadronic bound states."
+    },
+    {
+      "title": "Thermal dileptons to probe the baryon-rich QCD matter in the forward region of LHC energy heavy-ion collisions",
+      "link": "https://arxiv.org/abs/2606.14166",
+      "authors": "Motomi Oya, Nicholas J. Benoit, Chiho Nonaka, Azumi Sakai, Yorito Yamaguchi",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2606.14166v1 Announce Type: cross \nAbstract: We investigate thermal dilepton production from a quark-gluon plasma (QGP) with finite baryon chemical potential ($\\mu_{\\text{B}}$) in central Pb-Pb collisions at $\\sqrt{s_{\\text{NN}}}=5.02~\\text{TeV}$. Recent studies suggest that sizable baryon densities can be achieved at forward rapidity even at LHC energies. We incorporate finite $\\mu_{\\text{B}}$ into a (3+1)-dimensional hydrodynamic framework and find that $\\mu_{\\text{B}}$ exceeds 500 MeV around $\\eta_\\text{s} = 6$ during the medium evolution. Using this framework, we calculate thermal dilepton spectra over a wide rapidity range and evaluate the impact of finite $\\mu_{\\text{B}}$ on dilepton production. A suppression of 3-4% is observed in the forward-rapidity region $5.2 < y < 7.2$ due to the reduced quark-antiquark abundance at finite baryon density. We further examine the effective temperature extracted from dilepton mass spectra in the intermediate-mass region $1.2 < M_{\\ell \\ell} < 2.6~\\text{GeV}$ . The effective temperature remains strongly correlated with the underlying hydrodynamic temperature and retains sensitivity to the early high-temperature stage of the QGP evolution. These results demonstrate that forward-rapidity dileptons remain effective thermometers while providing sensitivity to finite baryon density at the LHC."
+    },
+    {
+      "title": "Electric charge fluctuations from lattice QCD in the continuum limit",
+      "link": "https://arxiv.org/abs/2606.14491",
+      "authors": "Szabolcs Bors\\'anyi, Zolt\\'an Fodor, Jana N. Guenther, Paolo Parotto, Attila P\\'asztor, Claudia Ratti, Volodymyr Vovchenko, Chik Him Wong",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2606.14491v1 Announce Type: cross \nAbstract: Electric charge fluctuations $\\chi_n^Q$ allow comparisons between theory and experiment, but are elusive on the lattice due to severe cutoff effects. We use a 4HEX action to obtain $\\chi_2^Q$ and, for the first time ever, $\\chi_4^Q$ in the continuum limit. We find disagreement with the hadron resonance gas (HRG) model, which we cannot explain with finite volume effects. We include light meson interactions in the HRG model via the S-matrix, reducing the tension for $\\chi_4^Q$, but worsening the agreement for $\\chi_2^Q$. We propose measuring the ratio $\\chi_4^Q/\\chi_2^Q$ at the LHC to investigate this tension."
+    },
+    {
+      "title": "The unintuitive SU(3) flavor and chiral limits of hadron resonances",
+      "link": "https://arxiv.org/abs/2606.14634",
+      "authors": "Jos\\'e Ram\\'on Pel\\'aez, Pablo Rab\\'an, Jacobo Ruiz de Elvira",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2606.14634v1 Announce Type: cross \nAbstract: Contrary to naive expectations, poles used to define hadron resonances rigorously in the physical world may not evolve continuously to become degenerate in the SU(3)$_F$ and chiral limits of QCD. Instead, other shadow poles, usually ignored, may be the ones that degenerate and characterize the resonances in these limits. This feature is general, and we illustrate it first with the simple and familiar light-vector mesons, followed by the much-discussed light-scalar case. Their shadow poles and their degeneracy are found using the QCD low-energy effective theory unitarized to one loop."
+    },
+    {
+      "title": "Hydrodynamical model of isoscalar and isovector giant dipole resonances and pygmy dipole resonance in nuclei with the neutron skin",
+      "link": "https://www.sciencedirect.com/science/article/pii/S037594742600134X?dgcid=rss_sd_all",
       "authors": "Unknown",
-      "source": "Few-Body Systems",
-      "summary": "Heavy quark symmetries are useful for predicting the existence of heavy states, their masses, and spin states. Despite numerous studies on the $$P_{c\\bar{c}}(4440)$$ and $$P_{c\\bar{c}}(4457)$$ heavy states, their spin states have not been previously determined. In this study, heavy symmetries are applied to predict the spin states. If the $$P_{c\\bar{c}}(4440)$$ and $$P_{c\\bar{c}}(4457)$$ states are considered $$\\bar{D}^*\\Sigma _c$$ molecules, they can be classified as heavy partners. This classification may help clarify their potential connections with heavy antiquark-diquark symmetry partners. By utilizing these alternative spin assignments and the concept of heavy antiquark-diquark symmetry, it may be possible to estimate $$\\Xi _{cc}^{(*)}\\Sigma _c^{(*)}$$ states, and ultimately, their spin states, which have not been elucidated in experiments. In addition to these symmetries, the relationship between $$P_{c\\bar{c}}$$ and $$P_{c\\bar{c}s}$$ pentaquarks can be constructed which supports the prediction of possible $$P_{c\\bar{c}s}$$ states. The predicted masses of the $$P_{c\\bar{c}s}(4338)$$ and $$P_{c\\bar{c}s}(4459)$$ states align with several studies, allowing us to eliminate a specific spin state. One spin state appears to be favored, suggesting that $$P_{c\\bar{c}}(4440)$$ has $$J^P=\\frac{1}{2}$$ and $$P_{c\\bar{c}}(4457)$$ has $$J^P=\\frac{3}{2}$$."
+      "source": "Nuclear Physics A",
+      "summary": "Publication date: Available online 13 June 2026Source: Nuclear Physics AAuthor(s): V. Yu Denisov"
     }
   ]
 }
