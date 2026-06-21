@@ -1,75 +1,12 @@
 {
-  "lastUpdated": "2026-06-20T05:04:10.886946",
+  "lastUpdated": "2026-06-21T05:53:33.333392",
   "papers": [
     {
-      "title": "First Observation of Deuteron-$\\mathrm{Λ}$ Correlations at RHIC",
-      "link": "http://link.aps.org/doi/10.1103/3m26-5y83",
-      "authors": "B. E. Aboona <em>et al.</em> (STAR Collaboration)",
-      "source": "Physical Review Letter",
-      "summary": "Author(s): B. E. Aboona et al. (STAR Collaboration)Precise experimental information on hyperon-nucleon interactions is scarce but of paramount importance to our understanding of the inner structure of compact stars. In this Letter, we report the first experimental results of correlation functions between deuterons ($d$) and $\\mathrm{Λ}$ hyperons in …[Phys. Rev. Lett. 136, 242303] Published Thu Jun 18, 2026"
-    },
-    {
-      "title": "Short-distance production of three particles with large scattering length",
-      "link": "http://link.aps.org/doi/10.1103/lnzm-jzqt",
-      "authors": "T. G. Backert, S. Dietz, H.-W. Hammer, S. König, and D. T. Son",
-      "source": "Physical Review C",
-      "summary": "Author(s): T. G. Backert, S. Dietz, H.-W. Hammer, S. König, and D. T. SonThe short-distance production of multiparticle states in high-energy nuclear reactions provides a unique way to study the low-energy properties of few-body systems. In particular, the production amplitude of multineutron systems is strongly constrained by an approximate conformal symmetry of the und…[Phys. Rev. C 113, 064001] Published Thu Jun 18, 2026"
-    },
-    {
-      "title": "Wavelet analysis of monopole strength in highly deformed $^{24}\\mathrm{Mg}$",
-      "link": "http://link.aps.org/doi/10.1103/29j9-j57p",
-      "authors": "A. Bahini, V. O. Nesterenko, P. von Neumann-Cosel, P.-G. Reinhard, J. Carter, N. A. Ashurko, R. Neveling, A. Repko, and I. T. Usman",
-      "source": "Physical Review C",
-      "summary": "Author(s): A. Bahini, V. O. Nesterenko, P. von Neumann-Cosel, P.-G. Reinhard, J. Carter, N. A. Ashurko, R. Neveling, A. Repko, and I. T. UsmanBackground: Experimental data on $α$-particle inelastic scattering for monopole excitations in $^{24}\\mathrm{Mg}$ in the excitation-energy region ${E}_{\\mathrm{x}}=9–25$ MeV, obtained at the iThemba Laboratory for Accelerator Based Sciences (iThemba LABS), have been analyzed within a fully self-cons…[Phys. Rev. C 113, 064313] Published Thu Jun 18, 2026"
-    },
-    {
-      "title": "Spinodal instability in nuclear matter with light cluster degrees of freedom",
-      "link": "http://link.aps.org/doi/10.1103/7548-pwbt",
-      "authors": "Stefano Burrello, Carmelo Piazza, Rui Wang, and Maria Colonna",
-      "source": "Physical Review C",
-      "summary": "Author(s): Stefano Burrello, Carmelo Piazza, Rui Wang, and Maria ColonnaWe investigate the thermodynamical stability of low-density isospin-symmetric nuclear matter at finite temperature, explicitly including light clusters as degrees of freedom. Within a generalized mean-field framework, we compute the curvature matrix of the free-energy density and determine the spino…[Phys. Rev. C 113, 064617] Published Thu Jun 18, 2026"
-    },
-    {
-      "title": "Expression of Concern on nine articles by H. C. Manjunatha and coauthors due to integrity concerns",
-      "link": "http://link.aps.org/doi/10.1103/ps4m-5qnb",
-      "authors": "Joseph I. Kapusta",
-      "source": "Physical Review C",
-      "summary": "Author(s): Joseph I. Kapusta[Phys. Rev. C 113, 069901] Published Thu Jun 18, 2026"
-    },
-    {
-      "title": "Endpoint-controlled shadows and the collapse of photon spheres at singular horizons",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326004958?dgcid=rss_sd_all",
+      "title": "Light-cone distribution amplitudes of vector mesons within the self-consistent light-front quark model",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326004983?dgcid=rss_sd_all",
       "authors": "Unknown",
       "source": "Physics Letters B",
-      "summary": "Publication date: August 2026Source: Physics Letters B, Volume 879Author(s): Reggie C. Pantig"
-    },
-    {
-      "title": "The dark side of the moon: listening to scalar-induced gravitational waves",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326004879?dgcid=rss_sd_all",
-      "authors": "Unknown",
-      "source": "Physics Letters B",
-      "summary": "Publication date: August 2026Source: Physics Letters B, Volume 879Author(s): D. Blas, J.W. Foster, Y. Gouttenoire, A.J. Iovino, I. Musco, S. Trifinopoulos, M. Vanvlasselaer"
-    },
-    {
-      "title": "Solving the inverse source problem in femtoscopy with a toy model*",
-      "link": "https://iopscience.iop.org/article/10.1088/1674-1137/ae6310",
-      "authors": "Ao-Sheng Xiong, 傲昇 熊, Qi-Wei Yuan, 奇伟 袁, Ming-Zhu Liu, 明珠 刘, Fu-Sheng Yu, 福升 于, Zhi-Wei Liu, 志伟 刘, Li-Sheng Geng and 立升 耿",
-      "source": "Chinese Physics C",
-      "summary": "Hadron-hadron interactions, being nonperturbative in nature, play a significant role in addressing phenomenological questions in particle physics. Femtoscopy is a powerful tool in heavy-ion collision experiments, enabling the extraction of hadron-hadron interactions via momentum-correlation functions (CFs). These CFs are typically expressed as a convolution of source functions and hadron-hadron wave functions, with the latter encoding information about the interactions. However, source functions remain poorly constrained and are commonly approximated by a Gaussian form. Reconstructing source functions from experimental correlation data constitutes an \"inverse problem.\" To address this, we propose a toy model based on Tikhonov regularization. Using a square-well potential with four distinct strengths, we calculate the CFs for inputs of single Gaussian source functions and mixed Gaussian source functions. The resulting CFs are then used to reconstruct the source functions via Tikhonov regularization. Our results show that the Gaussian source function can be successfully reconstructed, highlighting the potential of this approach for extracting realistic source functions from hadron pairs of interest."
-    },
-    {
-      "title": "Phenomenological study of Ω c → Ω− π + at polarized electron-positron collider",
-      "link": "https://iopscience.iop.org/article/10.1088/1674-1137/ae6311",
-      "authors": "Yunlu Wang, 云路 王, Yunlong Xiao, 云龙 肖, Pengcheng Hong and 鹏程 洪",
-      "source": "Chinese Physics C",
-      "summary": "The exploration of symmetry laws stands as a cutting-edge direction in modern physics research. This study delves into the examination of P and symmetry properties within the charm quark system by analyzing asymmetry parameters in the two-body decay process of . By accounting for the polarization effects of electron and positron beams and employing the helicity formalism, we systematically analyze the decay characteristics of and its subsequent hyperon decays through specific asymmetry parameters. A comprehensive formulation of the angular distribution for these decay processes has been developed. The research assesses the detection sensitivity of asymmetry parameters in the decay mode across different experimental conditions, including varying data sample sizes and beam polarization configurations. These results contribute to enriching a theoretical foundation for forthcoming experimental endeavors at the STCF, offering significant implications for symmetry studies in the charm sector."
-    },
-    {
-      "title": "The shadows and photon rings of two minimal deformations of Schwarzschild black holes*",
-      "link": "https://iopscience.iop.org/article/10.1088/1674-1137/ae662e",
-      "authors": "Hong-Er Gong, 虹二 龚, Junlin Qin, 俊霖 覃, Yusen Wang, 裕森 王, Bofeng Wu, 柏锋 武, Zhan-Feng Mai, 展风 麦, Sen Guo, 森 郭, Enwei Liang and 恩维 梁",
-      "source": "Chinese Physics C",
-      "summary": "This paper primarily investigates the optical properties of two minimal deformations of the Schwarzschild black hole—the Kazakov-Solodukhin and Ghosh-Kumar black holes—under different accretion models. The event horizon, photon sphere, and critical impact parameter of the former increase relative to the Schwarzschild case, whereas those of the latter decrease. Data from the Event Horizon Telescope Collaboration are used to constrain the parameter ranges of the two black holes. Under spherical accretion, the quantum correction of the Kazakov-Solodukhin black hole enlarges the black hole shadow and reduces the integrated intensity, while the shadow of the magnetically charged Ghosh-Kumar black hole shrinks and the integrated intensity increases. The black hole’s shadow radius is independent of the choice of spherical accretion model. For an optically and geometrically thin accretion disk, the integrated intensity is dominated by direct emission, with photon-ring and lensed-ring contributions being negligible. In addition, the photon and lensed rings of the Kazakov-Solodukhin black hole are narrower, whereas those of the Ghosh-Kumar black hole are broader. Whereas the Kazakov-Solodukhin black hole is brighter, the Ghosh-Kumar black hole is dimmer. Additionally, bringing the disk closer to the black hole yields a smaller shadow radius. This paper proposes a method to distinguish different black holes within a specific thin-disk model."
+      "summary": "Publication date: August 2026Source: Physics Letters B, Volume 879Author(s): Xiao-Nan Li, Shuai Xu, Qin Chang"
     }
   ]
 }
