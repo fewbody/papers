@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-08T04:09:14.788167",
+  "lastUpdated": "2026-07-09T04:42:17.610403",
   "papers": [
     {
       "title": "Increasing Octupole Collectivity across the $Z=64$ Isotopic Chain: B(E3) Values in $^{150}\\mathrm{Gd}$",
@@ -62825,6 +62825,510 @@
       "authors": "L A Ferreira and L R Livramento",
       "source": "Journal of Physics G: Nuclear and Particle Physics",
       "summary": "We propose a generalization of the False Vacuum Skyrme model for any simple compact Lie group . Now the Skyrme field is a map , while the remaining fields correspond to the entries of a symmetric, positive, and invertible -dimensional matrix . We prove that the global minima correspond to the fields being self-dual solutions of the generalized BPS Skyrme model, together with a particular field configuration for the Skyrme field that leads to a spherically symmetric topological charge density. As in the case of the original model, the minimization of the energy leads to the so-called Coleman’s reduced problem, defined in the context of false vacuum decay. This imposes a condition on the Skyrme field, which, if satisfied, makes the total energy of the global minima, as well as the main properties of the model, equivalent to those obtained for the case. We study this condition and its consequences within the generalized rational map ansatz and show how it can be satisfied for , where and are positive integers, with the Hermitian symmetric spaces being . We also provide a numerical study of the baryon density, root-mean-square radius, and binding energy that deepens previously analysis for the False Vacuum Skyrme model. Additionally, in the case of , we have studied the application of our model to the description of the binding energies and masses of the -hypernuclei."
+    },
+    {
+      "title": "Diffusion Equation is Compatible with Special Relativity",
+      "link": "http://link.aps.org/doi/10.1103/rkz9-xps2",
+      "authors": "L. Gavassino",
+      "source": "Physical Review Letter",
+      "summary": "Author(s): L. GavassinoBecause of its parabolic character, the diffusion equation exhibits instantaneous spatial spreading and becomes unstable when Lorentz boosted. According to the conventional interpretation, these features reflect a fundamental incompatibility with special relativity. In this Letter, we show that this…[Phys. Rev. Lett. 137, 022302] Published Wed Jul 08, 2026"
+    },
+    {
+      "title": "How Lorentz Boosts Reshape Relaxation Spectra",
+      "link": "http://link.aps.org/doi/10.1103/d2xr-rj7g",
+      "authors": "L. Gavassino",
+      "source": "Physical Review Letter",
+      "summary": "Author(s): L. GavassinoIn relativity, relaxation processes are often assumed to undergo time dilation under Lorentz boosts. We show that this intuition fails generically. Because of relativity of simultaneity, Lorentz boosts can split a single relaxation mode into a continuum of excitations, with a width set by the maxima…[Phys. Rev. Lett. 137, 022301] Published Tue Jul 07, 2026"
+    },
+    {
+      "title": "Kaon-deuteron correlation function from an effective field theory approach",
+      "link": "https://arxiv.org/abs/2607.06715",
+      "authors": "Juan Torres-Rincon, \\`Angels Ramos",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2607.06715v1 Announce Type: new \nAbstract: We present a study of femtoscopic correlation functions for $K^{-}d$ and $K^{+}d$ pairs, and compare our results with recent measurements by the ALICE Collaboration in both Pb-Pb and high-multiplicity $pp$ collisions. The kaon-deuteron wave functions are derived from scattering amplitudes using a unitarized chiral effective theory model describing the elementary interactions of $K^{\\pm}$ mesons with nucleons. We then evaluate the $K^{\\pm}d$ strong scattering amplitudes by solving the Faddeev equations within two distinct frameworks: the Impulse Approximation and the Fixed Center Approximation, which accounts for multiple scatterings. We also incorporate the long-range Coulomb effects between the kaon and the deuteron. We show that the $K^{-}d$ correlation function exhibits large sensitivity to both the size of the emitting source and the relative momentum of the pair, being heavily influenced by rescattering processes. In contrast, the $K^{+}d$ correlation function is dominated by the weakly repulsive $K^{+}N$ interaction, showing deviations from purely Coulombic behavior only at small emission source sizes. Our predictions are in agreement with the ALICE experimental data, and also with the energy-shift and width of the $1s$ level of the kaonic deuterium preliminary results from the SIDDHARTA 2 Collaboration."
+    },
+    {
+      "title": "Machine learning the impact parameter in heavy-ion collisions at $\\sqrt{s_{\\rm NN}}$ = 4 and 11 GeV: a cross-check study with UrQMD, AMPT, and JAM",
+      "link": "https://arxiv.org/abs/2607.06897",
+      "authors": "Xiaoqing Yue, Guojun Wei, Yongjia Wang, Zhilong Li, Pengcheng Li, Haojie Xu, Xiangrong Zhu, Qingfeng Li, Fuhu Liu, Yasushi Nara",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2607.06897v1 Announce Type: new \nAbstract: By generating heavy-ion collision data with the ultrarelativistic quantum molecular dynamics (UrQMD) model, a multiphase transport (AMPT) model, and the JAM model, the impact parameter ($b$) in Au+Au collisions at $\\sqrt{s_{\\rm NN}}$ = 4 and 11 GeV is reconstructed using supervised learning and unsupervised learning in machine learning (ML). In supervised learning, the performance of ML algorithm is cross-checked by using data obtained from these three transport models. It is found that the typical mean absolute error (MAE) which measures the average magnitude of the absolute difference between the true and predicted $b$ is between 0.2-0.4 fm, even when training ML algorithm with data generated from one model but testing with data from others. While the conventional method (i.e., a polynomial fit to multiplicity as a function of $b$) only works for data generated from the same model. In the classification task, the present ML-based method also shows significantly superior results compared to the traditional approach. In unsupervised learning, the K-means clustering algorithm is used to partition collision events directly from experimental-style observables, showing that the algorithm autonomously identifies six clusters corresponding to different centrality classes without relying on predefined model-based binning. Our study demonstrates the strong robustness of using an ML algorithm trained on transport-model data for impact-parameter determination, and indicates that this method has the potential to be generalized to handle real experimental data."
+    },
+    {
+      "title": "Hadronic and partonic composition of QCD matter across the crossover",
+      "link": "https://arxiv.org/abs/2607.07140",
+      "authors": "Artemiy Lysenko, Mark I. Gorenstein, Marek Gazdzicki, Roman Poberezhniuk, Volodymyr Vovchenko",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2607.07140v1 Announce Type: new \nAbstract: We construct a simple equation of state of strongly interacting matter at zero chemical potentials that provides a unified description of lattice QCD thermodynamics in terms of hadronic and partonic degrees of freedom. The hadronic phase is described by the quantum van der Waals hadron resonance gas, extended by excluded-volume repulsion between mesons, while the quark-gluon plasma is modeled as an ideal gas of quarks and gluons supplemented with a phenomenological interaction term proportional to $T^3$. The two regimes are connected by a smooth crossover switching function. The three model parameters - the meson hard-core radius, the strength of the partonic interaction term, and the switching temperature - are determined from a fit to lattice QCD results for the trace anomaly. The resulting equation of state reproduces the lattice data on the pressure, entropy density, energy density, and speed of sound in the temperature range $T=100$-$500$ MeV. The fit yields a meson hard-core radius $r_M \\simeq 0.2$ fm, a partonic interaction scale $A \\simeq 600$ MeV, and a switching temperature $T_0 \\simeq 216$ MeV, substantially exceeding both the pseudocritical temperature of the QCD chiral crossover and the chemical freeze-out temperature. This finding suggests that the transition from hadronic to partonic degrees of freedom is considerably more gradual than indicated by the chiral pseudocritical temperature alone, with hadronic states remaining an important component of strongly interacting matter up to temperatures of about 250 MeV, well above the QCD chiral crossover."
+    },
+    {
+      "title": "Extracting Barrier Distributions from Fusion Cross Sections",
+      "link": "https://arxiv.org/abs/2607.07551",
+      "authors": "Aaron Philip",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2607.07551v1 Announce Type: new \nAbstract: Studying fusion cross sections provides insight into the fusion process, details about the internal structure of heavier nuclear systems, and a window into astrophysical processes. Barrier distributions, extracted from fusion excitation functions, are immensely useful for comparing theoretical model predictions and experimental results. Extracting this barrier distribution from the measured cross-section data amounts to taking the second derivative of the energy-weighted cross section. In practice, barrier distributions are highly sensitive to the quality of collected experimental data and the choice of step size when using standard point difference schemes. In this work, we explore Bayesian methods for extracting a posterior distribution over barrier distributions that could reasonably describe experimental data. We benchmark Gaussian processes and recently developed Bayesian machine learning inference algorithms against realistic simulated data generated from a simple model of fusion excitation functions. We find that Gaussian processes often exhibit aliasing at higher energies of the barrier distribution. We demonstrate that the BNN architectures can more faithfully recover the barrier distribution with quantified uncertainties at all energies, while also identifying key regions of high uncertainty and model discrepancy to determine precisely where additional experiments would be maximally impactful. We use our conclusions to calibrate models to measured experimental data. All methods are comparatively robust to data sparsity and irregularity, but we find that the single most important factor dictating the fidelity of all models is the relative size of experimental uncertainties. We release an open-source version of our analysis and a user-friendly implementation of our method to encourage its future usage for experimental analysis."
+    },
+    {
+      "title": "Three-flavor supernova neutrino simulation using a hybrid quantum-classical algorithm with qutrits",
+      "link": "https://arxiv.org/abs/2605.01099",
+      "authors": "Daniel J. Heimsoth, A. Baha Balantekin, Pooja Siwach",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2605.01099v1 Announce Type: cross \nAbstract: We simulate a self-interacting three-flavor neutrino system within a core-collapse supernova using a hybrid classical-quantum algorithm on a qutrit computer. Based on the Dirac-Frenkel evolution equations, we employ a variation of the quantum-assisted simulator (QAS) to calculate the system's time evolution operator by performing qutrit Hadamard tests to find expectation values of unitary operators in the Hamiltonian. The time evolution simulation is then done classically. We find that the hybrid algorithm produces results comparable to an exact numerical integration out to times of $t \\approx 30 \\,\\omega_0^{-1}$ with time step $\\delta t = 0.005 \\,\\omega_0^{-1}$, where $\\omega_0$ is the energy scale of the single neutrino vacuum oscillations. We discuss the lessons learned in simulating neutrino systems using this hybrid quantum-classical algorithm, along with the advantages it offers over quantum Trotterization."
+    },
+    {
+      "title": "Anomaly Realization in Charge-Flux Detector Correlators",
+      "link": "https://arxiv.org/abs/2607.06667",
+      "authors": "Jo\\~ao Barata, Ratmir Jumanov, Andrey V. Sadofyev",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2607.06667v1 Announce Type: cross \nAbstract: Quantum anomalies provide a bridge between ultraviolet properties of a theory and its infrared sector. We study how this connection appears in axial-charge-flow observables. In the simplest example, an axial-charge detector probes the fermionic cut of the anomalous triangle and resolves its infrared content as an angular distribution. The massless limit does not commute with the angular integration: a contribution suppressed at fixed angle collapses onto the two beam-collinear directions while retaining the finite integrated sum rule fixed by the axial anomaly. We then replace the axial-charge detector by higher-spin helicity (zilch) detectors and study a family of axial-anomaly-controlled energy-weighted sum rules for the corresponding fluxes. We further show that the same singular localization mechanism and finite zilch-flux sum rules persist in the mixed axial-gravitational channel. We briefly comment on extensions to more general states and multipoint correlators."
+    },
+    {
+      "title": "The Generalization Gap in Machine Learning EoS Inference from Core-Collapse Supernova Gravitational Waves",
+      "link": "https://arxiv.org/abs/2607.06736",
+      "authors": "Ayan Mitra",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2607.06736v1 Announce Type: cross \nAbstract: Core-collapse supernova gravitational waves may carry information about the dense matter equation of state (EoS), which describes the relation between pressure, density, temperature, and composition. This work tests a crucial question for physical inference: can a machine learning model trained on a finite simulation catalogue predict EoS parameters for an EoS family that was absent during training? Under standard random cross-validation, a LightGBM regressor appears highly successful, yielding $R^2=(0.70,0.67,0.60)$ for the nuclear incompressibility, symmetry energy, and slope parameter $(K_0,J,L)$. However, under Leave-One-EoS-Out (LOEO) validation, where all waveforms from a single EoS are withheld, the model fails, yielding mean absolute errors of $(44.57,3.19,30.54)$ MeV and negative pooled $R^2$ scores, performing worse than a baseline mean predictor. This generalisation gap persists across linear models, random forests, neural networks, and gradient-boosted trees. Restricting inputs to physical features (bounce amplitude, bounce width, peak frequency) reduces template leakage, the memorisation of related templates shared across random splits, but does not restore reliable EoS extrapolation. In contrast, a progenitor mass case study shows that classification generalises to unseen rotation speeds, while continuous mass regression compresses predictions towards the catalogue interior. These results demonstrate that while machine learning successfully interpolates within current waveform catalogues, this does not imply robust physical inference for unseen EoS models. Future pipelines should adopt leave-family-out validation, wider simulation coverage, and physics-aware inference frameworks."
+    },
+    {
+      "title": "Collins effect in pion-in-jet production in polarized $pp$ and $ep$ collisions",
+      "link": "https://arxiv.org/abs/2607.06821",
+      "authors": "Carlo Flore, Umberto D'Alesio, Marco Zaccheddu",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2607.06821v1 Announce Type: cross \nAbstract: We study Collins azimuthal asymmetries for pion-in-jet production in polarized proton-proton and lepton-proton collisions. We adopt a hybrid transverse momentum dependent approach, with a collinear configuration for the initial state, and employ the transversity and Collins fragmentation functions extracted from semi-inclusive deep inelastic scattering and $e^+e^-$ annihilation data. After recalling the good description of the STAR data in $pp$ collisions, which supports the universality of the Collins function, we present predictions for Electron-Ion Collider kinematics, both at leading order and by including the quasireal photon exchange in the Weizs\\\"acker-Williams approximation. This contribution is sizable but does not spoil the dominance of quark-initiated channels. This implies that $\\ell p$ processes allow for a clearer access to the transversity distribution, including its sea-quark component."
+    },
+    {
+      "title": "Recent highlights from the STAR Experiment",
+      "link": "https://arxiv.org/abs/2607.07254",
+      "authors": "Rutik Manikandhan",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2607.07254v1 Announce Type: cross \nAbstract: Understanding the QCD phase structure and the possible existence of a critical point remains one of the central goals of the heavy-ion program at RHIC. In this proceeding, we present recent STAR results across multiple observables that probe different aspects of the hot and dense matter created in Au+Au collisions. These include two-particle transverse momentum correlations of mean transverse momentum, net-proton cumulants up to fourth order, identical-pion femtoscopy, and baryon-strangeness correlations. We also discuss femtoscopic measurements of baryon-baryon pairs, which provide insight into hyperon-nucleon and hyperon-hyperon interactions and the possible formation of strange dibaryon states. Together, these results provide complementary probes of the system's evolution across a wide collision-energy range (sqrt(sNN) = 3-200 GeV), offering new constraints on the QCD equation of state and the location of the QCD critical point."
+    },
+    {
+      "title": "Double quarkonium production in hadronic collisions at fixed-target experiments",
+      "link": "https://arxiv.org/abs/2607.07312",
+      "authors": "Carlo Flore, Cristian Pisano",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2607.07312v1 Announce Type: cross \nAbstract: We present new results for double quarkonium production in (un)polarized hadronic collisions at fixed-target experiments. Our approach incorporates the transverse momentum dependent factorization in combination with the Color-Singlet Model. We present new analytical expressions for the angular structure of the cross section for the $q\\bar q$-induced channel, and provide predictions for the unpolarized cross section and transverse single-spin asymmetries for present and future fixed-target experiments at CERN and the LHC."
+    },
+    {
+      "title": "Fierz-complete four-quark interactions and the QCD phase diagram",
+      "link": "https://arxiv.org/abs/2607.07354",
+      "authors": "Zi-ning Wang, Li-jun Zhou, Chuang Huang, Rui Wen, Shi Yin, Wei-jie Fu",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2607.07354v1 Announce Type: cross \nAbstract: The dynamics of Fierz-complete four-quark interactions and its influence on the QCD phase diagram have been investigated within the functional renormalization group approach to QCD at finite temperature and densities. It is found that in the vacuum the pion and sigma channels play the overwhelmingly dominant role, and all the other channels are negligible. However, when it is near the critical end point (CEP), the magnitude of four-quark couplings in other channels increases sizably and they become more and more important. In comparison to the single scalar-pseudoscalar channel of four-quark interactions, the dynamics of Fierz-complete four-quark interactions increases a bit the curvature of the phase boundary, and moves the CEP to location of larger baryon chemical potential and smaller temperature."
+    },
+    {
+      "title": "Hadronic vacuum polarization in hydrogen-like atoms and ions amid the interplay of recoil and finite-size effects",
+      "link": "https://arxiv.org/abs/2607.07658",
+      "authors": "Franziska Hagelstein, Vadim Lensky, Bogdan Malaescu, Vladimir Pascalutsa",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2607.07658v1 Announce Type: cross \nAbstract: Hadronic vacuum polarization (hVP) enters simple atomic systems at a level that is small yet decisive for the precision spectroscopy now underway. We evaluate the hVP contributions to the Lamb shift and the hyperfine splitting (HFS) in ordinary and muonic hydrogen (H and $\\mu$H) and hydrogen-like helium-3 ions ($^3$He$^+$ and $\\mu^3$He$^+$), using the dispersive data-driven approach and state-of-the-art empirical parametrizations of the $R$ ratio. At the centre of the analysis is the interplay of recoil and finite-size effects: the recoil corrections that dominate the HFS in muonium (Mu), where both constituents are pointlike, are shown to be suppressed by the nuclear elastic form factors (FFs). Our results for the leading hVP contribution to the Lamb shift agree with the literature within uncertainties. Furthermore, we present a first evaluation of the subleading $O(Z^5\\alpha^6)$ hVP-finite-size correction, which is by no means negligible in $\\mu^3$He$^+$. Our results for the hVP contribution to the HFS deviate significantly from all previous evaluations. For the ground-state HFS, we obtain $2.153(11)~\\mu$eV in $\\mu$H and $-15.19(57)~\\mu$eV in $\\mu^3$He$^+$, as well as $0.0860(4)~$kHz and $-0.476(17)~$kHz in ordinary H and $^3$He$^+$, respectively. Notably, our result for $\\mu$H differs from previous evaluations by roughly ten times the experimental precision anticipated by the upcoming CREMA and FAMU measurements."
+    },
+    {
+      "title": "Single inclusive hadron and jet production in lepton-hadron scattering",
+      "link": "https://arxiv.org/abs/2607.07664",
+      "authors": "Jian-Wei Qiu, Kazuhiro Watanabe",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2607.07664v1 Announce Type: cross \nAbstract: We present the first calculation of single inclusive hadron and jet production at large transverse momentum in lepton-hadron scattering in a joint QCD+QED factorization approach. The scattering cross section is factorized into a convolution of infrared-safe hard coefficient functions with universal lepton distribution functions (LDFs) and parton distribution functions (PDFs) of the colliding lepton and hadron, respectively, together with fragmentation functions (FFs) of the observed hadron (or jet). With joint QCD+QED factorization, the DGLAP-type evolution equations for LDFs, PDFs, and FFs necessarily have evolution kernels calculated in both QCD and QED. We derive a default set of LDFs for our calculations and discuss a strategy to extract universal, non-perturbative LDFs from future data. We present our calculations for single inclusive hadron and/or jet production at the energies of Jefferson Lab and the future Electron-Ion Collider."
+    },
+    {
+      "title": "Subsolar-mass binary mergers of strange stars and neutron stars: gravitational waves and ejecta",
+      "link": "https://arxiv.org/abs/2607.07668",
+      "authors": "Yong Gao, Ming-Zhe Han, Kenta Kiuchi, Masaru Shibata, Enping Zhou, Kenta Hotokezaka",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2607.07668v1 Announce Type: cross \nAbstract: We present the first numerical-relativity simulations of subsolar-mass binary strange star (SS) mergers and compare with binary neutron star (NS) mergers across equations of state, masses, and mass ratios. The self-bound nature of SSs makes them less deformed during the inspiral and keeps a sharp surface up to contact, driving strong shock heating and a large radial bounce that are far weaker in the NS. The more compact SS thus reaches a higher gravitational-wave cutoff frequency $f_\\mathrm{cut}$ before contact but a lower post-merger peak frequency $f_2$. Within each class these frequencies follow quasi-universal relations with the tidal deformability, and their ratio $f_2/f_\\mathrm{cut}$ cleanly separates the two classes. Both classes can eject $\\sim10^{-2}\\,M_\\odot$ of material, neutron-rich for the NS and decompressed quark matter for the SS, a potential source of an electromagnetic counterpart whose observation could test the SS and NS hypotheses for subsolar-mass events."
+    },
+    {
+      "title": "The universal topological charge of black hole photon spheres in higher dimensions",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326005642?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: September 2026Source: Physics Letters B, Volume 880Author(s): Jun-Lei Chen, Shan-Ping Wu, Shao-Wen Wei"
+    },
+    {
+      "title": "Neural networks reveal a universal bias in conformal correlators",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326005605?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: September 2026Source: Physics Letters B, Volume 880Author(s): Kausik Ghosh, Sidhaarth Kumar, Vasilis Niarchos, Andreas Stergiou"
+    },
+    {
+      "title": "Interpreting the results on exclusive <em>c</em> → <em>sμν</em> modes",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326005654?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: September 2026Source: Physics Letters B, Volume 880Author(s): D. Bečirević, M. Martines, S. Rosauro-Alcaraz, O. Sumensari"
+    },
+    {
+      "title": "Non-perturbative heavy quark diffusion coefficients in arbitrarily magnetized quark-gluon plasma",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326005587?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: September 2026Source: Physics Letters B, Volume 880Author(s): Debarshi Dey, Aritra Bandyopadhyay, Yifeng Sun, Santosh K. Das"
+    },
+    {
+      "title": "Assessing EMRI detectability of the rotating quantum Oppenheimer-Snyder black hole",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326005599?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: September 2026Source: Physics Letters B, Volume 880Author(s): Dan Zhang, Shulan Li, Guoyang Fu, Jian-Pin Wu"
+    },
+    {
+      "title": "Corrigendum to “Rapid cooling of the Cassiopeia A neutron star due to superfluid quantum criticality” [Physics Letters B 879 (2026) 140591]",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326005575?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: August 2026Source: Physics Letters B, Volume 879Author(s): Hao-Fu Zhu, Guo-Zhu Liu, Xufen Wu"
+    },
+    {
+      "title": "Corrigendum to “Decay properties of new isotopes 235Bk and 231Am” [Physics Letters B 875 (2026) 140365]",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326005174?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: August 2026Source: Physics Letters B, Volume 879Author(s): J.G. Wang, Z.C. Li, Z.Y. Zhang, Z.G. Gan, A.N. Andreyev, M.H. Huang, L. Ma, M.M. Zhang, H.B. Yang, C.L. Yang, Y.H. Qiang, Z.H. Li, X.Y. Huang, G. Xie, L. Zhu, H. Zhou, X. Zhang, J.H. Zheng, S.Y. Xu, Z. Zhao"
+    },
+    {
+      "title": "Influence of dark matter on epicyclic frequencies and orbital stability in the vicinity of Euler–Heisenberg black holes: Observational prospects in strong gravity",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326005423?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: August 2026Source: Physics Letters B, Volume 879Author(s): G. Mustafa, S.K. Maurya, Allah Ditta, Akram Ali, Alisher Abduvokhidov, Farruh Atamurotov"
+    },
+    {
+      "title": "Distance duality relation in symmetric teleparallel gravity",
+      "link": "https://www.sciencedirect.com/science/article/pii/S037026932600554X?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: August 2026Source: Physics Letters B, Volume 879Author(s): Rocco D’Agostino"
+    },
+    {
+      "title": "A Carroll limit of AdS/CFT: A triality with flat space holography?",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326005216?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: August 2026Source: Physics Letters B, Volume 879Author(s): Andrea Fontanella, Oliver Payne"
+    },
+    {
+      "title": "Causal self-dual nonlinear electrodynamics from the Born-Infeld theory",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326005447?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: August 2026Source: Physics Letters B, Volume 879Author(s): Sergei M. Kuzenko, Jonah Ruhl"
+    },
+    {
+      "title": "Light propagation and gravitational lensing effects in charged Kalb–Ramond spacetime in nonlinear electrodynamics",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326005514?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: August 2026Source: Physics Letters B, Volume 879Author(s): C.F.S. Pereira, Marcos V. de S. Silva, A.R. Soares, A.A. Araújo Filho, R.L.L. Vitória, H. Belich"
+    },
+    {
+      "title": "Insensitivity of the Coulomb breakup of halo nuclei to spectroscopic factors",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326005460?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: August 2026Source: Physics Letters B, Volume 879Author(s): L.-P. Kubushishi, P. Capel"
+    },
+    {
+      "title": "Symmetry energy of baryon- and neutron-rich nuclear matter",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326005502?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: August 2026Source: Physics Letters B, Volume 879Author(s): Zhi-Ying Qin, Jia Zhou, Jun Xu"
+    },
+    {
+      "title": "Construction of nuclear covariant energy density functional from a physics-guaranteed neural network approach",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326005484?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: August 2026Source: Physics Letters B, Volume 879Author(s): W.F. Li(李伟峰), Z.M. Niu(牛中明), H.Z. Liang(梁豪兆), Y.F. Niu(牛一斐), B.H. Sun(孙保华)"
+    },
+    {
+      "title": "Black holes with regular scalar hair in Brans–Dicke gravity via the Herglotz variational principle",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326005496?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: August 2026Source: Physics Letters B, Volume 879Author(s): Marek Wazny"
+    },
+    {
+      "title": "Charged Taub-NUT type black holes in Einstein-Weyl-Maxwell theory",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326005137?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: August 2026Source: Physics Letters B, Volume 879Author(s): Ze Li, Hai-Shan Liu"
+    },
+    {
+      "title": "Leading UV divergences of quantum corrections to Kähler superpotential in general <math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si5.svg\" class=\"math\"><mrow><mi mathvariant=\"script\">N</mi><mo linebreak=\"goodbreak\">=</mo><mn>1</mn></mrow></math> chiral model",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326005150?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: August 2026Source: Physics Letters B, Volume 879Author(s): R.M. Iakhibbaev, A.I. Mukhaeva, D.M. Tolkachev"
+    },
+    {
+      "title": "Nonlocal spinor superfield theory",
+      "link": "https://www.sciencedirect.com/science/article/pii/S037026932600537X?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: August 2026Source: Physics Letters B, Volume 879Author(s): F.S. Gama, J.R. Nascimento, Gonzalo J. Olmo, A.Yu. Petrov, P.J. Porfírio"
+    },
+    {
+      "title": "Black hole formation by a scalar field",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326005125?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: August 2026Source: Physics Letters B, Volume 879Author(s): D.E. Afanasev, M.O. Katanaev"
+    },
+    {
+      "title": "Complex Bohmian dynamics in a string-inspired dilaton quantum cosmology",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326005162?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: August 2026Source: Physics Letters B, Volume 879Author(s): S. Jalalzadeh, Y.J. Mesquita da Silva"
+    },
+    {
+      "title": "Wormhole-induced correlation: A link between two universes",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326005198?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: August 2026Source: Physics Letters B, Volume 879Author(s): Zhilong Liu, Wentao Liu, Xiaofang Liu, Jieci Wang"
+    },
+    {
+      "title": "Corrected Hawking temperature and final state of black hole evaporation under GEVAG framework",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326005095?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: August 2026Source: Physics Letters B, Volume 879Author(s): Yen Chin Ong"
+    },
+    {
+      "title": "A relativistic mechanism for the enhanced isovector spin-orbit interaction suggested by parity-violating electron scattering experiments",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326005009?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: August 2026Source: Physics Letters B, Volume 879Author(s): Mengying Qiu, Tong-Gang Yue, Zhen Zhang, Lie-Wen Chen"
+    },
+    {
+      "title": "Novel Regge-like trajectories for spinning, dilating, hadronic particles",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326005083?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: August 2026Source: Physics Letters B, Volume 879Author(s): Damianos Iosifidis"
+    },
+    {
+      "title": "Dimensional structure of thermodynamic topology in ultraspinning Kerr-AdS black holes",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326005101?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: August 2026Source: Physics Letters B, Volume 879Author(s): Min Tian, Ying Chen, Di Wu"
+    },
+    {
+      "title": "Entropy-driven reorganization of thermodynamic topology in AdS–Rindler black holes",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326004946?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: August 2026Source: Physics Letters B, Volume 879Author(s): Aram Bahroz Brzo, Peshwaz Abdulkareem Abdoul, Behnam Pourhassan"
+    },
+    {
+      "title": "State counting in gravity and maximal entropy principle",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326005046?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: August 2026Source: Physics Letters B, Volume 879Author(s): Juan Hernandez, Mikhail Khramtsov"
+    },
+    {
+      "title": "Carroll geometry meets de Sitter space via holography",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326004934?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: August 2026Source: Physics Letters B, Volume 879Author(s): Chris D.A. Blair, Niels A. Obers, Ziqi Yan"
+    },
+    {
+      "title": "Heavy quark polarization anisotropy as a novel probe of fireball geometry",
+      "link": "https://www.sciencedirect.com/science/article/pii/S037026932600540X?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: August 2026Source: Physics Letters B, Volume 879Author(s): Amaresh Jaiswal"
+    },
+    {
+      "title": "Probing the elusive <math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si14.svg\" class=\"math\"><mrow><mi>κ</mi><mo linebreak=\"goodbreak\">/</mo><msubsup><mi>K</mi><mn>0</mn><mo>*</mo></msubsup><mrow><mo>(</mo><mn>700</mn><mo>)</mo></mrow></mrow></math> resonance in semileptonic <em>D</em> decays",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326005411?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: August 2026Source: Physics Letters B, Volume 879Author(s): Yan-Li Wang, Jia-Nan Fan, Xiao-Yu Hao, Yu-Kuo Hsiao"
+    },
+    {
+      "title": "Probing scalar and pseudoscalar new physics using rare kaon decays",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326005459?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: August 2026Source: Physics Letters B, Volume 879Author(s): G. D’Ambrosio, A.M. Iyer, F. Mahmoudi, S. Neshatpour"
+    },
+    {
+      "title": "Probing heavy neutral Higgs bosons via single vector-like bottom quark production at the HL-LHC",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326005538?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: August 2026Source: Physics Letters B, Volume 879Author(s): R. Benbrik, M. Berrouj, M. Boukidi, M. Ech-chaouy, K. Kahime, K. Salime"
+    },
+    {
+      "title": "Charged Higgs decay to bottom and charm quarks from <em>Z</em><sub>3</sub> - Flavored two Higgs doublet models",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326005344?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: August 2026Source: Physics Letters B, Volume 879Author(s): Alfredo Aranda, J. Hernández-Sánchez, Andrea Montiel, R. Noriega-Papaqui"
+    },
+    {
+      "title": "Addendum to “Shower formation in the presence of a string-inspired foam in space-time”: Remarks on shower anomaly in light of muon puzzle [Phys. Lett. B 869 (2025) 139823]",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326005289?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: August 2026Source: Physics Letters B, Volume 879Author(s): Chengyi Li"
+    },
+    {
+      "title": "Mechanical properties of proton in the momentum space",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326005381?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: August 2026Source: Physics Letters B, Volume 879Author(s): Navpreet Kaur, Shubham Sharma, Abi Jebarson A, Harleen Dahiya"
+    },
+    {
+      "title": "Renormalization-group-improved constraints on dimension-7 baryon-number-violating operators",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326005307?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: August 2026Source: Physics Letters B, Volume 879Author(s): Yi Liao, Xiao-Dong Ma, Xiang Zhao"
+    },
+    {
+      "title": "Accessing pion transverse momentum in continuum Schwinger function methods",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326005290?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: August 2026Source: Physics Letters B, Volume 879Author(s): Minghui Ding"
+    },
+    {
+      "title": "Structure-dependent radiative corrections to <math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si1.svg\" class=\"math\"><mrow><msup><mi>e</mi><mo>+</mo></msup><msup><mi>e</mi><mo>−</mo></msup><mo>→</mo><msup><mi>π</mi><mo>+</mo></msup><msup><mi>π</mi><mo>−</mo></msup><mi>γ</mi></mrow></math> in the GVMD approach",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326005186?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: August 2026Source: Physics Letters B, Volume 879Author(s): Carlo M. Carloni Calame, Marco Ghilardi, Andrea Gurgone, Guido Montagna, Mauro Moretti, Oreste Nicrosini, Fulvio Piccinini, Francesco P. Ucci"
+    },
+    {
+      "title": "Natural SUSY with mixed axion/axino dark matter",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326005071?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: August 2026Source: Physics Letters B, Volume 879Author(s): Howard Baer, Vernon Barger, Kairui Zhang"
+    },
+    {
+      "title": "Evidence of the excited X(5)-like critical-point symmetry structures in <sup>152</sup>Sm",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326005149?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: August 2026Source: Physics Letters B, Volume 879Author(s): S. Basak, S. Rajbanshi, T. Bhattacharjee, D. Kumar, A. Pal, S.S. Alam, A. Saha, A.K. Sikdar, J. Nandi, Ananya Das, Shabir Dar, S. Samanta, S. Chatterjee, R. Raut, S.S. Ghugre, A. Adhikari, Y. Sapkota, R. Rahaman, A. Gupta, A. Bisoi"
+    },
+    {
+      "title": "First measurement of <math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si7.svg\" class=\"math\"><mrow><mi>B</mi><mo stretchy=\"true\">(</mo><mi>E</mi><mn>3</mn><mo>;</mo><msubsup><mn>3</mn><mn>1</mn><mo>−</mo></msubsup><mo>→</mo><msubsup><mn>0</mn><mn>1</mn><mo>+</mo></msubsup><mo stretchy=\"true\">)</mo></mrow></math> in <sup>90</sup>Zr through Coulomb excitation: Revisiting octupole collectivity in the Zr chain",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326005228?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: August 2026Source: Physics Letters B, Volume 879Author(s): P. Dey, A. Kundu, R. Palit, P.J. Napiorkowski, K. Yanase, N. Shimizu, Y. Utsuno, T. Inakura, E. Ideguchi, U. Garg, M. Kumar Raju, Vishal Malik, V. Nanal, S. Pal, A. Sindhu, S. Thorat"
+    },
+    {
+      "title": "Search for soft unclustered energy patterns produced in association with a W or Z boson in proton-proton collisions at <math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si11.svg\" class=\"math\"><mrow><msqrt><mi>s</mi></msqrt><mo linebreak=\"goodbreak\">=</mo><mn>13</mn><mspace width=\"0.16em\"></mspace><mtext>TeV</mtext></mrow></math>",
+      "link": "https://www.sciencedirect.com/science/article/pii/S037026932600523X?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: August 2026Source: Physics Letters B, Volume 879Author(s): A. Hayrapetyan, V. Makarenko, A. Tumasyan, W. Adam, L. Benato, T. Bergauer, M. Dragicevic, P.S. Hussain, M. Jeitler, N. Krammer, A. Li, D. Liko, M. Matthewman, J. Schieck, R. Schöfbeck, M. Shooshtari, M. Sonawane, W. Waltenberger, C.-E. Wulz, T. Janssen"
+    },
+    {
+      "title": "Shape coexistence in <sup>94</sup>Zr from a model-independent analysis",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326005204?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: August 2026Source: Physics Letters B, Volume 879Author(s): N. Marchini, M. Rocchini, M. Zielińska, A. Nannini, D.T. Doherty, N. Gavrielov, P.E. Garrett, K. Hadyńska-Klȩk, A. Goasduff, D. Testov, S.D. Bakes, D. Bazzacco, G. Benzoni, T. Berry, D. Brugnara, F. Camera, W.N. Catford, M. Chiari, F. Galtarossa, N. Gelli"
+    },
+    {
+      "title": "S*(E) measurement of the <sup>12</sup><em>C</em>(<sup>12</sup><em>C, α</em>)<sup>20</sup><em>Ne</em> reaction at astrophysical energies via the Trojan horse method with <sup>16</sup><em>O</em> quasi-free breakup",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326005277?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: August 2026Source: Physics Letters B, Volume 879Author(s): Chengbo Li, Huiming Jia, Qungang Wen, Chengjian Lin, Lei Yang, Feng Yang, Nanru Ma, Peiwei Wen, Tianpeng Luo, Chang Chang, Xuepeng Sun, Xuejian Wang"
+    },
+    {
+      "title": "Further search for magnetic-field-induced neutron disappearance in an ultracold neutron beam",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326005253?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: August 2026Source: Physics Letters B, Volume 879Author(s): Gaby Brenot, Benoit Clément, Hanno Filter-Pieler, Daniel Galbinski, Tobias Jenke, Thomas Lefort, Anthony Lejuez, Guillaume Pignol, Stephanie Roccia, William Saenz-Arevalo"
+    },
+    {
+      "title": "Impact of the continuum on the <em>γ</em> decay of the lowest 2<math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si8.svg\" class=\"math\"><msup><mrow></mrow><mo>+</mo></msup></math> states in <sup>14</sup>C",
+      "link": "https://www.sciencedirect.com/science/article/pii/S037026932600482X?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: August 2026Source: Physics Letters B, Volume 879Author(s): G. Corbari, M. Ciemała, S. Bottoni, S. Leoni, B. Fornal, R.V.F. Janssens, S.D. Pain, A. Ratkiewicz, F.C.L Crespi, M. Siciliano, E. Albanese, A.D. Ayangeakaa, G. Benzoni, C.M. Campbell, S.R. Carmichael, M.P. Carpenter, K.A. Chipps, N. Cieplicka-Oryńczak, J.A. Cizewski, P. Copp"
+    },
+    {
+      "title": "Direct measurement of the <sup>140</sup>Ce(n,<em>γ</em>) cross section at <em>kT</em>  ≈ 11 keV",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326004892?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: August 2026Source: Physics Letters B, Volume 879Author(s): I. Goldberg, M. Pichotta, D. Bemmerer, A. Honig, B. Lutz, E. Pirovano, S. Röttger, M. Friedman"
+    },
+    {
+      "title": "Candidate-nuclei for observation of a bound dineutron. Part III: The (<em>p</em>, <sup>2</sup><em>n</em>) and <math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si386.svg\" class=\"math\"><mrow><mo>(</mo><mi>p</mi><msup><mo>,</mo><mn>2</mn></msup><mi>n</mi><mo linebreak=\"goodbreak\">+</mo><mi>n</mi><mo>)</mo></mrow></math> nuclear reactions",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0375947426001387?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Nuclear Physics A",
+      "summary": "Publication date: November 2026Source: Nuclear Physics A, Volume 1075Author(s): N. Dzysiuk, I.M. Kadenko"
+    },
+    {
+      "title": "Unified description of the moments of inertia formulas in the Bohr and VMI models",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0375947426001417?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Nuclear Physics A",
+      "summary": "Publication date: November 2026Source: Nuclear Physics A, Volume 1075Author(s): Moh’d Abu El Sheikh, Abdurahim A. Okhunov, Riad S. Masharfe, Anashon A. Yokubbayev"
+    },
+    {
+      "title": "Nuclear Structure of <sup>118–132</sup>Xenon Nuclei: Insights from the IBM-2 Model",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0375947426001429?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Nuclear Physics A",
+      "summary": "Publication date: November 2026Source: Nuclear Physics A, Volume 1075Author(s): Ali N. Sabbar, Zainab S. Mohammad, Ali M. Abdul Hussain"
+    },
+    {
+      "title": "Identified-hadron production in <em>pp</em> collisions at <math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si1.svg\" class=\"math\"><mrow><msqrt><mi>s</mi></msqrt><mo linebreak=\"goodbreak\">=</mo><mn>13</mn></mrow></math> TeV and a systematic generator comparison with ALICE data",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0375947426001399?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Nuclear Physics A",
+      "summary": "Publication date: October 2026Source: Nuclear Physics A, Volume 1074Author(s): Haifa I. Alrebdi, Muhammad Ajaz"
+    },
+    {
+      "title": "Editorial Board",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0375947426001466?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Nuclear Physics A",
+      "summary": "Publication date: October 2026Source: Nuclear Physics A, Volume 1074Author(s): "
+    },
+    {
+      "title": "Subleading <em>D</em>-like Three-Nucleon Interactions",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0375947426001521?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Nuclear Physics A",
+      "summary": "Publication date: Available online 8 July 2026Source: Nuclear Physics AAuthor(s): Henri Paul Huesmann, Hermann Krebs, Evgeny Epelbaum"
+    },
+    {
+      "title": "Neutron and Photon-Activation Reaction Cross Sections of <sup>85</sup>Rb and <sup>87</sup>Rb with Covariance Analysis",
+      "link": "https://www.sciencedirect.com/science/article/pii/S037594742600151X?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Nuclear Physics A",
+      "summary": "Publication date: Available online 7 July 2026Source: Nuclear Physics AAuthor(s): Rahul Kumar, G.T. Bholane, T.S. Ganesapandy, A.B. Khaire, Prashant Ghule, F.M.D. Attar, S.S. Dahiwale, V.N. Bhoraskar, S.D. Dhole"
+    },
+    {
+      "title": "Quantum Theory of <em>γ</em>-Transitions and Nuclear Deformation in Radioactive <math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si2.svg\" class=\"math\"><msup><mrow></mrow><mrow><mn>204</mn><mo>−</mo><mn>228</mn></mrow></msup></math>Rn and <math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si4.svg\" class=\"math\"><msup><mrow></mrow><mrow><mn>212</mn><mo>−</mo><mn>232</mn></mrow></msup></math>Ra Isotopes",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0375947426001491?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Nuclear Physics A",
+      "summary": "Publication date: Available online 3 July 2026Source: Nuclear Physics AAuthor(s): J.M. Ndieula, A.A. Atangana Likéné, G.W. Kamkou, R. Yamapi, Saidou, M. Ndontchueng Moyo, C.J. Guembou Shouop"
     }
   ]
 }
