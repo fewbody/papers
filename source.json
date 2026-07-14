@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-13T04:24:36.915483",
+  "lastUpdated": "2026-07-14T03:51:40.383582",
   "papers": [
     {
       "title": "Increasing Octupole Collectivity across the $Z=64$ Isotopic Chain: B(E3) Values in $^{150}\\mathrm{Gd}$",
@@ -63756,6 +63756,48 @@
       "authors": "Unknown",
       "source": "Physics Letters B",
       "summary": "Publication date: September 2026Source: Physics Letters B, Volume 880Author(s): Fu Ma, Zheng-Qing Wang, Xiong-Hong He, Che Ming Ko, Yu-Gang Ma, Qi-Ye Shou, Kai-Jia Sun, Wenbin Zhao, Wen-Hao Zhou"
+    },
+    {
+      "title": "Electroweak radiative corrections to parity-violating electron-nucleus scattering",
+      "link": "http://link.aps.org/doi/10.1103/dyj9-k827",
+      "authors": "Brendan T. Reed and C. J. Horowitz",
+      "source": "Physical Review C",
+      "summary": "Author(s): Brendan T. Reed and C. J. HorowitzParity-violating electron scattering provides a largely model-independent way of measuring neutron densities in nuclei that has important implications for the structure of nuclei and neutron stars. In this paper we calculate radiative corrections to the parity-violating asymmetry ${A}_{\\mathrm{pv}}$…[Phys. Rev. C 114, 014312] Published Mon Jul 13, 2026"
+    },
+    {
+      "title": "Chiral three-nucleon forces for the new local position-space two-nucleon potential in <i>ab initio</i> many-body calculations",
+      "link": "http://link.aps.org/doi/10.1103/gjmd-fyjy",
+      "authors": "R. Z. Hu, J. G. Li, S. Q. Fan, and F. R. Xu",
+      "source": "Physical Review C",
+      "summary": "Author(s): R. Z. Hu, J. G. Li, S. Q. Fan, and F. R. XuThree-nucleon force (3NF) plays an important role in understanding the structure of finite nuclei and the saturation properties of infinite nuclear matter. More specifically, 3NF should be necessary for each two-nucleon force (2NF) to obtain more accurate description of nuclear systems. 3NF derived …[Phys. Rev. C 114, 014313] Published Mon Jul 13, 2026"
+    },
+    {
+      "title": "From $α$ decay to cluster decay: An extreme case of transfer learning",
+      "link": "http://link.aps.org/doi/10.1103/r796-y5tc",
+      "authors": "Yinu Zhang, Zhiyi Li, Kele Li, Jiaxuan Zhong, and Cenxi Yuan",
+      "source": "Physical Review C",
+      "summary": "Author(s): Yinu Zhang, Zhiyi Li, Kele Li, Jiaxuan Zhong, and Cenxi YuanWhen training data are limited, data-driven models are especially vulnerable to optimization-related fluctuations from random initialization and to sampling-induced bias from insufficient training data. We address both challenges with transfer learning (TL): deep neural networks (DNNs) are first pre…[Phys. Rev. C 114, 014314] Published Mon Jul 13, 2026"
+    },
+    {
+      "title": "Deformed halo nucleus $^{42}\\mathrm{Mg}$ in deformed relativistic Hartree-Bogoliubov theory in continuum with Lipkin-Nogami correction",
+      "link": "http://link.aps.org/doi/10.1103/p36h-kpgb",
+      "authors": "C. Zhou, P. Guo, X. F. Jiang, and S. Q. Zhang",
+      "source": "Physical Review C",
+      "summary": "Author(s): C. Zhou, P. Guo, X. F. Jiang, and S. Q. ZhangCombining the Lipkin-Nogami (LN) method with the deformed relativistic Hartree-Bogoliubov theory in continuum, the impact of the LN correction on the deformed halo nucleus $^{42}\\mathrm{Mg}$ is investigated. With the LN correction, it is found that the halo structure of $^{42}\\mathrm{Mg}$ persists, …[Phys. Rev. C 114, 014315] Published Mon Jul 13, 2026"
+    },
+    {
+      "title": "Initial results of the TRIUMF ultracold advanced neutron source",
+      "link": "http://link.aps.org/doi/10.1103/g41l-jmdx",
+      "authors": "B. Algohi <em>et al.</em> (TUCAN Collaboration)",
+      "source": "Physical Review C",
+      "summary": "Author(s): B. Algohi et al. (TUCAN Collaboration)We report the first results on ultracold neutron production from a new spallation-driven superfluid $^{4}\\mathrm{He}$ (He-II) source at TRIUMF, which is being prepared for a new, precise measurement of the neutron electric dipole moment (nEDM). A total of $(9.3±0.8)×{10}^{5}$ ultracold neutrons (UCN…[Phys. Rev. C 114, L012501] Published Mon Jul 13, 2026"
+    },
+    {
+      "title": "Study of unbound excited states in 50,52Ar and the shell closures at N = 32 and ...",
+      "link": "https://iopscience.iop.org/article/10.1088/1361-6471/ae7fa3",
+      "authors": "M Begala, D Sohler, Z Elekes, M M Juhász, Y Utsuno, K Yoshida, T Otsuka, K Ogata, P Doornenbal, A Obertelli, H Baba, F Browne, D Calvet, F Château, S Chen, N Chiga, A Corsi, M L Cortés, A Delbart, J-M Gheller, A Giganon, A Gillibert, C Hilaire, T Isobe, T Kobayashi, Y Kubota, V Lapoux, T Motobayashi, I Murray, H Otsu, V Panin, N Paul, W Rodriguez, H Sakurai, M Sasano, D Steppenbeck, L Stuhl, Y L Sun, Y Togano, T Uesaka, K Wimmer, K Yoneda, N L Achouri, O Aktas, T Aumann, L X Chung, F Flavigny, S Franchoo, I Gašparić, R-B Gerst, J Gibelin, K I Hahn, D Kim, T Koiwai, Y Kondo, P Koseoglou, J Lee, C Lehr, B D Linh, H N Liu, T Lokotko, M MacCormick, K Moschner, T Nakamura, S Y Park, D Rossi, E Sahin, P-A Söderström, S Takeuchi, H Törnqvist, V Vaquero, V Wagner, S Wang, V Werner, X Xu, H Yamada, D Yan, Z Yang, M Yasuda and L Zanetti",
+      "source": "Journal of Physics G: Nuclear and Particle Physics",
+      "summary": "Neutron-unbound states in Ar and Ar were investigated via the (p,2p) proton-knockout reaction using the invariant-mass spectroscopy technique. Two ( Ar) and three ( Ar) distinct, narrow resonances were observed in the vicinity of the neutron separation energy. Based on a comparison with theoretical level schemes and calculated (p,2p) cross sections, tentative spin-parity assignments have been proposed. The good degree of consistency between the predicted level structures and the observed states indicates that the large = 32 and = 34 shell gaps inherent in the theoretical calculations accurately describe the nuclear structure in this region. These results provide further support for the robustness of these subshell closures in the neutron-rich argon isotopes."
     }
   ]
 }
