@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-19T04:17:14.353249",
+  "lastUpdated": "2026-07-20T04:32:26.713660",
   "papers": [
     {
       "title": "Increasing Octupole Collectivity across the $Z=64$ Isotopic Chain: B(E3) Values in $^{150}\\mathrm{Gd}$",
@@ -64596,6 +64596,76 @@
       "authors": "Unknown",
       "source": "Physics Letters B",
       "summary": "Publication date: September 2026Source: Physics Letters B, Volume 880Author(s): Rizwana Ashraf, S.A. Mardan, A. Zahra, Rubab Manzoor, Mustafa Inc"
+    },
+    {
+      "title": "Growth of quartet correlations in neutron-rich Tellurium isotopes within quartet Bardeen-Cooper-Schrieffer theory",
+      "link": "https://arxiv.org/abs/2607.15700",
+      "authors": "Yixin Guo, Hiroyuki Sagawa, Masaaki Kimura",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2607.15700v1 Announce Type: new \nAbstract: Quartet correlations in neutron-rich Te isotopes are investigated within the quartet Bardeen-Cooper-Schrieffer (BCS) framework. Taking \\(^{100}\\)Sn as an inert core, we consider two valence protons and valence neutrons occupying the \\(2d_{5/2}\\oplus1g_{7/2}\\) model space, and solve the quartet BCS variational equations with a charge-independent isovector pairing interaction. The effective pairing strength is constrained from empirical neutron pairing gaps in the Te isotopic chain. We find that the valence quartet number increases as the valence neutron number is enlarged from \\(N_{\\rm val}=2\\) to \\(14\\). The same increasing behavior is also found for the condensed quartet component. The proton occupation of the \\(1g_{7/2}\\) orbit is strongly enhanced relative to the conventional like-particle BCS reference and is driven close to the degeneracy-weighted limit. These results suggest that additional valence neutrons enhance the quartet admixture in the correlated quartet BCS state, while redistributing the fixed proton weight from pair-like configurations to quartet configurations."
+    },
+    {
+      "title": "Breakdown of Smooth Shock Solutions in Transient Relativistic Hydrodynamics",
+      "link": "https://arxiv.org/abs/2607.15756",
+      "authors": "Davi D. de Oliveira, Gabriel S. Denicol",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2607.15756v1 Announce Type: new \nAbstract: In this work, we demonstrate that shock solutions in the Israel-Stewart framework lose regularity once the shock velocity reaches a critical value, and a discontinuity emerges in the solution, which can be interpreted as a second shock wave. This subshock arises as a consequence of the finite speed of information propagation inherent to the Israel-Stewart theory. We then perform numerical simulations to confirm the breakdown of solution continuity. Subsequently, we propose two regularization procedures to extend the domain of continuous shock solutions. The first employs a third-order extension, which introduces new kinetic fields, while the second incorporates a small numerical bulk viscosity. Both methods effectively increase the maximum propagation speed of the Israel-Stewart theory and extend the range over which regular shock solutions exist. Thus, we confirm that this loss of regularity is a direct consequence of the Israel-Stewart framework. These results suggest that Israel-Stewart theory may not provide an adequate description of ultra-relativistic shock waves."
+    },
+    {
+      "title": "Spin and orbital scissors modes in $^{166}$Er",
+      "link": "https://arxiv.org/abs/2607.15885",
+      "authors": "E. B. Balbutsev, I. V. Molodtsova",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2607.15885v1 Announce Type: new \nAbstract: Recently, low-energy dipole excitations in $^{166}$Er were investigated via nuclear resonance fluorescence [T. Shizuma {\\it et al}, Phys. Rev. C {\\bf 113}, 044325 (2026)]. The magnetic dipole strength associated with the nuclear scissors mode was extracted for excitation energies between 2.2 and 3.5 MeV. It was found that the $M1$ strength distribution is separated into two groups. We interpret this splitting as caused by the spin degrees of freedom instead of the nucleus nonaxiality suggested by authors."
+    },
+    {
+      "title": "The anomalous long lifetime of $^{14}$C revealed by ab initio nuclear lattice EFT",
+      "link": "https://arxiv.org/abs/2607.15984",
+      "authors": "Teng Wang, Serdar Elhatisari, Xu Feng, Bing-Nan Lu, Ulf-G. Mei{\\ss}ner",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2607.15984v1 Announce Type: new \nAbstract: The 5730-year half-life of $^{14}$C, the physical basis of radiocarbon dating, is anomalously long compared to typical nuclear-physics expectations. Its origin has remained a subject of debate for many decades. Here we report an \\textit{ab initio} nuclear lattice effective field theory (NLEFT) calculation of $^{14}$C $\\beta$ decay. Using systematically optimized interactions and transition operators consistently derived from chiral effective field theory, We obtain a result consistent with the Gamow-Teller matrix element $M_\\text{GT}^\\text{exp}\\simeq 2\\times 10^{-3}$ measured with the current uncertainty of $O(10^{-2})$. We first show that chiral interactions and weak currents beyond leading-order are essential for quenching the GT matrix element to the physical value, among which the optimization of three-nucleon forces is indispensable. We then illustrate that the quenching is deeply rooted in the ground-state structure of $^{14}$N as found in the nuclear shell model, where the competition between $S$- and $D$-wave components exists, sensitive to the interaction employed. The physical $^{14}$N ground state is found to be dominated by $D$-wave configurations, which constitutes the key factor for the quenching. The sensitivity of the decay matrix element to the fine-tuning of low-energy-constants is explored, revealing the prominent role of the $^3S_1$-channel two-nucleon contact force and the one-pion-exchange three-nucleon force. This work eliminates the gap between shell-model and \\textit{ab initio} studies of $^{14}$C $\\beta$ decay, provides a valid and straightforward explanation for the anomalous long lifetime of $^{14}$C, and turns NLEFT into a practical tool for the systematic study of nuclear transitions."
+    },
+    {
+      "title": "Collective Enhancement of Nuclear Excitation for a Nuclear Quantum Battery",
+      "link": "https://arxiv.org/abs/2607.15319",
+      "authors": "Pravin Kumar Dahal, Kieran Hymas, Jack Muir, James Q. Quach",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2607.15319v1 Announce Type: cross \nAbstract: Current implementations of quantum batteries are constrained by limited energy density and short retention times associated with the electronic or molecular excitations. Here we propose a nuclear quantum battery based on collective excitation of the $^{57}$Fe nuclei of density $n$ embedded in a planar hard X-ray waveguide. Using a Green function waveguide-QED description, we study charging via excitation beyond linear response, where saturation and drive back-action reshape the incident pulse. We introduce a self-consistent waveform-engineering protocol that inhibits local radiative decay in the waveguide thus promoting absorption into high-lying collective nuclear excitation manifolds. We show an enhanced excitation cross section of the nuclear ensemble which yields superlinear charging, with maximum studied energy density scaling approximately like $n \\sqrt{n}$. Our results provide a route to high-energy-density quantum charging at hard X-ray energies using contemporary X-ray sources and waveguide architectures by identifying nonlinear, collectively enhanced absorption as a key mechanism for nuclear quantum battery operation."
+    },
+    {
+      "title": "Solar-System Abundances of $p$-Nuclides Probe Collective Neutrino Oscillations in Supernovae",
+      "link": "https://arxiv.org/abs/2607.15392",
+      "authors": "Alexander Friedland, Derek J. Li, Giuseppe Lucente, Payel Mukhopadhyay, Ian Padilla-Gay, Amol V. Patwardhan",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2607.15392v1 Announce Type: cross \nAbstract: Direct evidence for collective neutrino oscillations in core-collapse supernovae remains elusive. We show that this quantum phenomenon leaves a footprint on the abundance pattern of proton-rich nuclides in the solar system. Modeling the $\\nu p$-process using a $20\\,M_\\odot$ progenitor, we map out the dependence of the total yields on the starting radius of the oscillations, self-consistently coupling hydrodynamics and nucleosynthesis. The oscillations boost key $p$-nuclides ($^{92,94}\\text{Mo}$, $^{96,98}\\text{Ru}$) and long-lived $^{92}\\text{Nb}$ by up to two orders of magnitude, bringing their abundances into agreement with the observations. The best match is found when oscillations commence within $10\\text{ km}$ of the proto-neutron star surface, indicating fast collective oscillations."
+    },
+    {
+      "title": "Nonequilibrium approach to heavy-quark transport",
+      "link": "https://arxiv.org/abs/2607.15618",
+      "authors": "Juhee Hong",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2607.15618v1 Announce Type: cross \nAbstract: A nonequilibrium Green's function approach to heavy-quark transport is discussed within the framework of the Kadanoff-Baym equation. One- and two-loop self-energy diagrams with hard-thermal-loop resummed propagators are calculated in the real-time formalism. Under the quasiparticle approximation, the kinetic equation reduces to the Boltzmann equation that accounts for elastic scattering and medium-induced gluon emission from a single scattering. Numerical studies suggest that off-shell and memory effects in quark-gluon plasmas influence heavy-quark dynamics, particularly near the critical temperature."
+    },
+    {
+      "title": "Rapid structural evolution of neutron-rich silicon isotopes toward N = 28",
+      "link": "https://arxiv.org/abs/2607.16174",
+      "authors": "G. L. Zimba, H. Iwasaki, B. A. Brown, Y. Utsuno, N. Shimizu, N. Aoi, M. Basson, T. Beck, J. Chen, J. Chung-Jung, A. Douglas, A. Ertoprak, P. Farris, C. Fransen, A. Gade, S. A. Gillespie, A. Hill, K. Kolos, D. Lempke, I. Lihtar, T. Mijatovi\\'c, S. Neupane, S. Noji, T. Parry, A. Revel, R. Salinas, A. Sanchez, E. Schieb, D. Weisshaar, Y. Yamamoto",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2607.16174v1 Announce Type: cross \nAbstract: Neutron-rich Si isotopes represent a unique case of shell evolution, exhibiting a robust shell closure at $N=20$ and pronounced quadrupole collectivity at $N = 28$. We report lifetime measurements of excited states in $^{40}$Si and the first simultaneous lifetime and heavy-ion inelastic-scattering measurements in $^{41}$Si. In $^{40}$Si, the extracted lifetimes for the $2_1^+$ and $(2_2^+)$ states indicate moderate quadrupole collectivity at $N=26$, together with signatures of triaxiality. In $^{41}$Si, two near-degenerate states at 570 and 658~keV exhibit comparable $B(E2)$ strengths as extracted from inelastic scattering, while the measured lifetimes indicate dominant $M1$ decays. The combined lifetime and inelastic-scattering results suggest an evolution toward oblate shape, consistent with large-scale shell-model predictions."
+    },
+    {
+      "title": "Effect of the near-proton-emission threshold resonance in $^{11}$B on the branching ratio of beta-delayed proton emission from $^{11}$Be",
+      "link": "https://arxiv.org/abs/2411.10700",
+      "authors": "Nguyen Le Anh, Bui Minh Loc",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2411.10700v2 Announce Type: replace \nAbstract: Beta-delayed proton emission from neutron halo nuclei $^{11}\\mathrm{Be}$ represents a rare decay process. The existence of the narrow resonance near the proton-emission threshold in $^{11}\\mathrm{B}$ explains its unexpectedly high probability. However, the accurate value of the branching ratio remains challenging to determine. We aim to quantify the influence of the narrow resonance near the proton emission threshold on the result of the branching ratio. We employ the Skyrme Hartree-Fock calculation within the potential model to obtain the branching ratio. We derive the single-particle potentials for the halo neutron and the emitting proton with minimal adjustment. Slight variations in the resonance position significantly impact the branching ratio, with the upper limit reaching the order of $10^{-5}$. Experimental determination of the resonance energy, particularly whether it lies below $200$ keV, is crucial for determining the value of the branching ratio."
+    },
+    {
+      "title": "Corrigendum to “Accurate spontaneous fission half-lives from a microscopic large-scale nuclear structure model” [Physics Letters B 140287 (2026)]",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326005885?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: September 2026Source: Physics Letters B, Volume 880Author(s): A. Sánchez-Fernández, S. Bara, W. Ryssens, S. Goriely"
     }
   ]
 }
