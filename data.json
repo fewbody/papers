@@ -1,292 +1,68 @@
 {
-  "lastUpdated": "2026-07-24T04:08:18.961367",
+  "lastUpdated": "2026-07-25T03:57:16.144483",
   "papers": [
     {
-      "title": "Gauge Auxiliary-Field Quantum Monte Carlo Method for Many-Fermion Systems",
-      "link": "https://arxiv.org/abs/2607.20917",
-      "authors": "Zhaozhan Zhang",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2607.20917v1 Announce Type: new \nAbstract: We propose novel Quantum Monte Carlo (QMC) methods for interacting many-fermion systems by leveraging the stochastic gauge freedom, originally developed in Gaussian phase-space QMC, within the phaseless auxiliary-field QMC (AFQMC) framework. In particular, we reinterpret the conventional force bias in phaseless AFQMC as a drift gauge and explore Fermi gauges based on natural orbitals of a reduced one-body density matrix defined via a mixed estimator, yielding stochastic, time-dependent Hartree-Fock-like dynamics. We propose a symmetry-projection sampling scheme to enhance the sampling efficiency. As a proof of concept, we apply these gauge-augmented AFQMC methods to a simple shell-model Hamiltonian: the Lipkin-Meshkov-Glick model. Numerical results illustrate the potential of stochastic gauges to enhance accuracy and reduce fluctuations, underscoring the promise for advancing these new techniques toward more realistic shell-model applications."
+      "title": "Neutron skin thickness and its volume and surface contributions in berkelium isotopes",
+      "link": "http://link.aps.org/doi/10.1103/yb8k-7tpg",
+      "authors": "Peng Wang, Zi-Dan Huang, Shuang-Quan Zhang, and Ting-Ting Sun",
+      "source": "Physical Review C",
+      "summary": "Author(s): Peng Wang, Zi-Dan Huang, Shuang-Quan Zhang, and Ting-Ting SunAccurate determination of the neutron skin thickness $(\\mathrm{Δ}{R}_{\\mathrm{np}})$ in finite nuclei is essential for constraining the density dependence of the nuclear symmetry energy. This work presents a systematic investigation of $\\mathrm{Δ}{R}_{\\mathrm{np}}$ for the transuranium berkelium (Bk…[Phys. Rev. C 114, 014328] Published Fri Jul 24, 2026"
     },
     {
-      "title": "Searching for initial state fluctuations in heavy ion collisions at FAIR energy using Principal Component Analysis",
-      "link": "https://arxiv.org/abs/2607.20971",
-      "authors": "Ekata Nandy, Subhasis Chattopadhyay",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2607.20971v1 Announce Type: new \nAbstract: In high energy heavy ion collisions, the initial configurations of the colliding nuclei play an important role in determining the reaction type and the products of the reaction. The initial arrangement of nucleons within the overlap region of two colliding nuclei is generally asymmetric and such asymmetries reflect themselves in the measurement final state momentum anisotropy. Also initial distribution of the nucleons are subjected to large quantum fluctuation causing large energy deposition in a small region. The final state observables related momentum anisotropies although sensitive to such localized fluctuations but their true effect gets diluted because these observables are calculated by averaging over a set of events. Also, such fluctuations in the initial states are random and uncontrolled. Thus, identifying their effect from event-averaged final state observable is difficult. However, it would be interesting to know the origin of such fluctuations and how these fluctuation are eventually translated to the final state. In this work, we at first introduce such localized fluctuations in the initial configurations, also called hot spots, by implementing spatial rearrangements of nucleon position in the colliding nuclei in the central Pb+Pb collisions at E$_{lab}$=20 AGeV ($\\sqrt{s}$=6.27 GeV) using the UrQMD event generator. Then the final state distributions of one or two dimensional variables e.g., ($\\eta$, $\\phi$, $p_T$) and ($\\eta-p_T$, $\\phi-p_T$, $\\eta-\\phi$) of the produced pions are analysed using the principal component analysis (PCA) technique. The eigenvalues of the principal components have been studied for various initial configurations, event fractions containing hot spots in the initial condition and for event centralities with an aim to find it's sensitivity to the initial hot spot configurations."
+      "title": "Effect of molecular covalent bonds on the $α$ cluster structure in light nuclei",
+      "link": "http://link.aps.org/doi/10.1103/wsyy-p1ly",
+      "authors": "X. P. Di, D. Q. Fang, W. B. He, B. Zhou, and Y. G. Ma",
+      "source": "Physical Review C",
+      "summary": "Author(s): X. P. Di, D. Q. Fang, W. B. He, B. Zhou, and Y. G. MaThe cluster structure in light nuclei has been studied by using the extended quantum molecular dynamics model. It is found that the effective number of $α$ clusters in Be, B, C, N, O, and F isotope generally decreases with increasing isospin asymmetry and chain molecular structure exists in non-$α$ …[Phys. Rev. C 114, 014329] Published Fri Jul 24, 2026"
     },
     {
-      "title": "Impact of Baryon anti-Baryon annihilation on hyperon ($\\Lambda$, $\\bar\\Lambda$) production and apparent strangeness enhancement in $\\bar\\Lambda/\\bar{p}$ in heavy ion collisions at SPS energy",
-      "link": "https://arxiv.org/abs/2607.21146",
-      "authors": "Ekata Nandy, Subhasis Chattopadhyay",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2607.21146v1 Announce Type: new \nAbstract: A deconfined medium of quarks and gluon, called the Quark-Gluon Plasma (QGP) is produced when heavy-nuclei are collided at relativistic energies. The QGP formation is often characterized by a phenomenon called strangeness enhancement where, the relative production of strange-to-non-strange particles are enhanced in central collisions compared to peripheral or proton-proton interactions. Besides the enhancement in K/$\\pi$ ratios, a non-monotonic energy dependence was also reported for $\\bar{\\Lambda}$ to $\\bar{p}$ ratios at CERN SPS, attributed to a signature for the strangeness enhancement as well. As anti-particles are produced directly from the reaction, the $\\bar{\\Lambda}$/$\\bar{p}$ ratios are considered as a cleaner probe for the strangeness enhancement. However, at this energy range hadronic interactions have a dominant role to play and, importantly for $\\bar{\\Lambda}$ and $\\bar{p}$, processes like baryon-anti-baryon ($\\mathrm{B\\bar{B}}$) annihilation can have a significant impact. In this work, we use a hadronic transport model UrQMD, to investigate the role of baryon-anti-baryon ($\\mathrm{B\\bar{B}}$) annihilation on $\\Lambda$, $\\bar{\\Lambda}$ hyperon production and its effect on $\\bar{\\Lambda}$/$\\bar{p}$ ratios. The UrQMD calculations that include $\\mathrm{B\\bar{B}}$ annihilation can produce the trend of average transverse mass spectra for $\\Lambda$ and $\\bar{\\Lambda}$, as well as, the characteristic enhancement in $\\bar{\\Lambda}$/$\\bar{p}$ ratios in data as a function of centrality and collision energy. Furthermore, $\\bar{\\Lambda}$/$\\bar{p}$ ratios extracted from the feed-down corrected SPS data are seen to be in good agreement with UrQMD model calculations with $\\mathrm{B\\bar{B}}$ annihilation. This suggests that $\\bar{\\Lambda}$/$\\bar{p}$ enhancement is not necessarily because of strangeness enhancement and $\\mathrm{B\\bar{B}}$ annihilation has a significant role to play."
+      "title": "High-energy neutron emission and short-range nucleon-nucleon correlations. II. System-size effect",
+      "link": "http://link.aps.org/doi/10.1103/nqwp-y33m",
+      "authors": "R. Wada",
+      "source": "Physical Review C",
+      "summary": "Author(s): R. WadaHigh-energy neutron emissions from the reactions of $^{40}\\mathrm{Ar}$ on natural C, Cu, and Pb targets at ${E}_{\\mathrm{inc}}/A=$ 400 MeV are studied, searching for a possible signature of nucleon-nucleon short-range correlations (SRCs) in the high-energy, high-momentum tails in the neutron spectra…[Phys. Rev. C 114, 014631] Published Thu Jul 23, 2026"
     },
     {
-      "title": "Intrinsic coupling between transverse spherocity and elliptic flow in heavy-ion collisions",
-      "link": "https://arxiv.org/abs/2607.21161",
-      "authors": "Subikash Choudhury, Ekata Nandy",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2607.21161v1 Announce Type: new \nAbstract: Transverse spherocity ($S_{0}$) is an event-shape observable widely used to classify collision events according to their topology, particularly to distinguish jet-like from isotropic events. Low-spherocity events are generally interpreted as being associated with enhanced jet activity. This event classification has also been applied to heavy-ion collisions to investigate the influence of event topology on several observables, including elliptic flow and constituent-quark-number scaling. In this work, we demonstrate that such an interpretation requires careful reconsideration. Using toy Monte Carlo simulations, A Multiphase Transport (AMPT) model calculations, and an analytical formulation of the spherocity observable, we show that transverse spherocity is intrinsically related to the elliptic flow coefficient, $v_{2}$. This connection arises because the axis that minimizes the spherocity aligns with the event symmetry plane, causing events with larger elliptic anisotropy to naturally exhibit smaller spherocity values even in the absence of genuine jet-like topologies. We further show that this intrinsic relation gives rise to an inherent anti-correlation between transverse spherocity and $v_{2}$, implying that several characteristics previously attributed to the enhanced jet-like nature of low-spherocity events in heavy-ion collisions can instead be understood as consequences of collective anisotropic flow. Our results indicate that, in heavy-ion collisions, transverse spherocity should be interpreted primarily as a probe of the collective momentum-space anisotropy rather than as a direct measure of jetty event topology. Consequently, physics conclusions drawn from spherocity-selected events should explicitly account for its intrinsic correlation with elliptic flow."
-    },
-    {
-      "title": "Enhanced hydrodynamic predictions for $v_{02}(p_T)$",
-      "link": "https://arxiv.org/abs/2607.21321",
-      "authors": "Rupam Samanta, Tribhuban Parida, Jean-Yves Ollitrault",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2607.21321v1 Announce Type: new \nAbstract: We present hydrodynamic predictions for the new observable $v_{02}(p_T)$, which measures the correlation of particle spectra with elliptic flow. We implement a data-driven correction so as to match hydrodynamic calculations to elliptic flow ($v_2(p_T)$) data. The corrected results are in fair agreement with $v_0(p_T)$ data up to high $p_T$. We make predictions for $v_{02}(p_T)$ of unidentified charged hadrons up to $p_T=10$~GeV$/c$, and of pions, kaons and protons up to $p_T=5-6$~GeV$/c$, in several centrality windows, for Pb+Pb collisions at $\\sqrt{s_{NN}}=5.02$~TeV. For $p_T>4$~GeV$/c$, we predict a decrease of $v_{02}(p_T)$ of charged hadrons in mid-central collisions, and meson-baryon splitting. We also predict a non-monotonic variation of $v_{02}(p_T)$ for protons at low $p_T$ above $30\\%$ centrality. This is a specific feature of this new observable, which is not observed for the usual flow observables $v_2(p_T)$ and $v_0(p_T)$."
-    },
-    {
-      "title": "Reaction-constrained composition \\(g\\)-modes in neutron stars with antikaon condensates, hyperons, and \\(\\Delta(1232)\\) resonances",
-      "link": "https://arxiv.org/abs/2607.20693",
-      "authors": "Prashant Thakur, Ishfaq Ahmad Rather",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2607.20693v1 Announce Type: cross \nAbstract: We study core composition \\(g_1\\) modes of cold, nonrotating neutron stars containing antikaon condensates, hyperons, and \\(\\Delta(1232)\\) baryons and present, to our knowledge, the first calculation in full general relativity of the continuous-composition \\(g_1\\)-mode frequency and gravitational-wave damping time for stars with a \\(K^-\\) condensate. Using the BigApple relativistic mean-field equation of state, we compute frequencies, damping times, and frozen-composition tidal overlaps, and identify the buoyancy channels with a species-resolved Ledoux decomposition validated by mode-frequency sensitivities. We compare fully frozen matter with a fast-\\(K\\) limit for \\(n\\leftrightarrow p+K^-\\) and a strong-equilibrium limit for the \\(\\Delta\\) quartet. Fast-\\(K\\) equilibration retains \\(36\\%\\)--\\(44\\%\\) of the peak local kaon buoyancy and \\(65.7\\%\\)--\\(73.4\\%\\) of the frozen terminal-configuration frequencies, while increasing the damping times by factors of \\(14.4\\)--\\(31.8\\); the mode remains above the nucleonic band. Strong \\(\\Delta\\) equilibration removes most of the direct \\(\\Delta\\)-induced enhancement, returning the \\(N\\Delta\\) mode toward the nucleonic band, whereas the high-frequency \\(NY\\Delta\\) branch survives through the frozen \\(\\Lambda\\) gradient. Eigenfunction tracking confirms a continuous \\(g_1\\) branch, and representative DD-ME2 calculations reproduce this hierarchy. The direct full-GR frozen-composition phase shifts satisfy \\(|\\Delta\\Phi_{g_1}|\\leq1.410\\times10^{-3}\\) rad, a factor of 21 below the \\(0.03\\)-rad favorable-event scale for the Einstein Telescope. An exotic species therefore produces a distinct composition mode only if its composition gradient, or a coupled slowly equilibrating gradient, survives over the oscillation period."
-    },
-    {
-      "title": "Flavour current correlators and the non-Abelian hydrodynamic approximation: the charged sector",
-      "link": "https://arxiv.org/abs/2607.20991",
-      "authors": "Thomas Apostolidis, Matti J\\\"arvinen, Elias Kiritsis, Francesco Nitti, Andrea Olzi, Edwan Pr\\'eau",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2607.20991v1 Announce Type: cross \nAbstract: Flavor-current correlators are studied in strongly-coupled dense (holographic) matter, at finite quark chemical potential $\\mu_q$ and finite isospin asymmetry. The non-Abelian hydrodynamic description of the charged currents is derived in the presence of an isospin chemical potential $\\mu_3$. The two-point correlators of charged currents are then computed holographically at finite quark and isospin chemical potentials. In the near-extremal hydrodynamic regime, $\\omega, k, T, \\mu_3 \\ll \\mu \\equiv \\sqrt{\\mu_q^2+\\mu_3^2}$, relevant for cold strongly coupled matter, the IR properties of the correlators are studied. It is shown that in this regime, the correlators agree with the non-Abelian hydrodynamic predictions. Therefore, the traditional regime of validity of standard hydrodynamics extends beyond $\\omega, k \\ll T \\ll \\mu$ to the so-called extended hydrodynamic regime $T\\ll \\omega, k \\ll \\mu$. The holographic product formula is applied to the present non-Abelian system, and is used to propose an extended hydrodynamic approximation capturing both hydrodynamic-like poles and the leading effect of AdS$_2$ poles, by resumming the low-$\\omega$ logarithms. The results are verified through a detailed numerical analysis of the exact correlators and quasi-normal mode spectrum."
-    },
-    {
-      "title": "Advanced Statistical Analysis of Linear and Nonlinear Regge Trajectories for Light Non-strange Mesons",
-      "link": "https://arxiv.org/abs/2607.21035",
-      "authors": "S. S. Afonin",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2607.21035v1 Announce Type: cross \nAbstract: A rigorous statistical analysis of Regge-type trajectories for light non-strange meson mass spectra is carried out, which explicitly accounts for experimental uncertainties. We test three scenarios: a linear model with distinct radial ($n$) and orbital ($l$) slopes (Model 1), a linear model with a universal slope (Model 2), and a nonlinear model featuring a universal slope and a Dirac-Coulomb-type term $\\propto (l+1)^{-1}$ (Model 3). Optimization is performed using a nonlinear $\\chi^2$ minimization framework, where the intrinsic theoretical model uncertainty is determined self-consistently by enforcing $\\chi^2/\\text{dof} = 1$. To ensure robust model selection, we employ the Akaike and Bayesian information criteria alongside complementary statistical tests. Our analysis demonstrates that moderate deviations from linearity in the Regge spectrum are predominantly localized within the $S$-wave resonance sector. These distortions are successfully accommodated by the nonlinear correction in Model 3, from which an approximate Coulomb-type degeneracy, $m^2(n,l) \\propto n+l$, emerges as a statistically robust feature. Furthermore, we show that the $l$-dependent correction to the principal quantum number in light non-strange mesons is consistent with the leading-order relativistic correction to the Coulomb problem."
-    },
-    {
-      "title": "Spin and momentum fraction carried by partons in the nucleon",
-      "link": "https://arxiv.org/abs/2607.21230",
-      "authors": "Constantia Alexandrou (University of Cyprus,The Cyprus Institute), Simone Bacchio (The Cyprus Institute), Jacob Finkenrath (Wuppertal University), Christos Iona (University of Cyprus,The Cyprus Institute), Giannis Koutsou (The Cyprus Institute), Christian Kummer (The Cyprus Institute), Yan Li (The Cyprus Institute), Bhavna Prasad (The Cyprus Institute), Gregoris Spanoudes (University of Cyprus)",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2607.21230v1 Announce Type: cross \nAbstract: We determine the momentum fraction and angular momentum carried by quarks and gluons in the proton in lattice QCD. We use four ensembles simulated with up, down, strange and charm quarks with their masses tuned to their physical values. These ensembles have similar physical volume and different lattice spacings allowing us to take the continuum limit directly at the physical pion mass point. We extract the quark and gluon momentum fractions and total angular momentum in the continuum limit as well as the intrinsic quark spin and orbital angular momentum contributions to the proton spin. We find the total momentum fraction $\\langle x_N \\rangle= 0.995(60)(29)$ and the total spin $J_N = 0.507(43)(65)$, showing that both the momentum and spin sum rules are satisfied. We compare our results to those extracted from phenomenological analyses."
-    },
-    {
-      "title": "Fault-tolerant quantum algorithms for simulating atomic nuclei",
-      "link": "https://arxiv.org/abs/2607.21563",
-      "authors": "James Benstead, Michael Garn, Neil Gaspar, Sean Greenaway, Angus Kan, Lloyd La Ronde, Chandan Sarma, Paul Stevenson",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2607.21563v1 Announce Type: cross \nAbstract: To maximize the value of fault-tolerant quantum computers, it is essential to develop concrete applications beyond well-established domains such as chemistry and condensed-matter physics. Here we construct and compile quantum algorithms to simulate the structure of atomic nuclei -- a topic that has received relatively little attention from the quantum computing community despite its similarities to the electronic structure problem in chemistry -- via effective shell-model Hamiltonians and no-core-shell-model Hamiltonians with three-body interactions derived from chiral effective field theory. Furthermore, we provide quantum resource estimates, in terms of Toffoli gate and qubit counts, for these algorithms, which, to our knowledge, are the first such estimates for fault-tolerant quantum simulation of atomic nuclei. Notably, the estimates for $^{32}$Mg and $^{219}$At shell-model Hamiltonians are comparable to recent estimates of Femoco simulations, a standard benchmark in chemistry. For no-core-shell-model Hamiltonians suitable for light nuclei (up to $^{40}$Ca or so), we find that resource requirements are significantly higher, suggesting that more bespoke strategies are required to make such simulations practicable. Throughout this work, we draw upon the similarities between nuclear and electronic structure problems, while also highlighting challenges that are specific to the former. We hope this work will spur long-term collaborations between the nuclear and quantum computing community with the ultimate goal of realizing useful nuclear simulations on quantum computers."
-    },
-    {
-      "title": "Compositeness of near-threshold $s$-wave resonances",
-      "link": "https://arxiv.org/abs/2403.12635",
-      "authors": "Tomona Kinugawa, Tetsuo Hyodo",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2403.12635v3 Announce Type: replace-cross \nAbstract: The near-threshold clustering phenomenon is well understood by the low-energy universality, for shallow bound states below the threshold. Nevertheless, the characteristics of resonances slightly above the threshold still lack thorough elucidation. We introduce a novel probabilistic interpretation scheme for complex compositeness of resonances, in which resonances with large decay widths fall outside the domain where their internal structure can be interpreted probabilistically. Employing this scheme to analyze resonances via the effective range expansion, we demonstrate that near-threshold resonances have a small composite fraction, in sharp contrast to shallow bound states below the threshold."
-    },
-    {
-      "title": "Work and heat exchanged during sudden quenches of strongly coupled quantum systems",
-      "link": "https://arxiv.org/abs/2502.19418",
-      "authors": "Zohreh Davoudi, Christopher Jarzynski, Niklas Mueller, Greeshma Oruganti, Connor Powers, Nicole Yunger Halpern",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2502.19418v2 Announce Type: replace-cross \nAbstract: How should one define thermodynamic quantities (internal energy, work, heat, etc.) for quantum systems coupled to their environments strongly? We examine three (classically equivalent) definitions of a quantum system's internal energy under strong-coupling conditions. Each internal-energy definition implies a definition of work and a definition of heat. Our study focuses on quenches, common processes in which the Hamiltonian changes abruptly. In these processes, the first law of thermodynamics holds for each set of definitions by construction. However, we prove that only two sets obey the second law. We illustrate our findings using a simple spin model. Our results guide studies of thermodynamic quantities in strongly coupled quantum systems."
-    },
-    {
-      "title": "Cross section measurements of the 100$$^{100}$$Mo(γ$$\\gamma $$,n) and 59$$^{59}$$Co(γ$$\\gamma $$,n) reactions using bremsstrahlung photons",
-      "link": "https://epja.epj.org/10.1140/epja/s10050-026-01888-3",
-      "authors": "B. Ballester, S. Heinitz, M. Kerveno, A. Tsinganis, R. Beyer, A. R. Junghans, A. Stankovskiy, J. Wagemans",
-      "source": "European Physical Journal A",
-      "summary": "Authors: B. Ballester, S. Heinitz, M. Kerveno, A. Tsinganis, R. Beyer, A. R. Junghans, A. Stankovskiy and J. Wagemans.The European Physical Journal A Vol. 62 , page 120Published online: 22/6/2026"
-    },
-    {
-      "title": "Correction to: Superallowed beta-decay between isobaric analog states up to A = 99",
-      "link": "https://epja.epj.org/10.1140/epja/s10050-026-01886-5",
-      "authors": "Thomas Faestermann",
-      "source": "European Physical Journal A",
-      "summary": "Authors: Thomas Faestermann.The European Physical Journal A Vol. 62 , page 121Published online: 22/6/2026"
-    },
-    {
-      "title": "High-precision mass and β-$$\\beta ^-$$ decay Q-value measurement of 129$$^{129}$$Sb and its isomer",
-      "link": "https://epja.epj.org/10.1140/epja/s10050-026-01883-8",
-      "authors": "M. Winter, Z. Ge, T. Eronen, A. Kankainen, P. Ascher, O. Beliuskina, A. de Roubin, M. Flayol, M. Gerbaux, W. Gins, S. Grévy, M. Hukkanen, A. Husson, A. Jaries, A. Jokinen, I. D. Moore, D. A. Nesterenko, A. Raggio, J. Ruotsalainen, J. Romero, M. Stryjczyk, V.  A. Virtanen, A. Zadvornaya",
-      "source": "European Physical Journal A",
-      "summary": "Authors: M. Winter, Z. Ge, T. Eronen, A. Kankainen, P. Ascher, O. Beliuskina, A. de Roubin, M. Flayol, M. Gerbaux, W. Gins, S. Grévy, M. Hukkanen, A. Husson, A. Jaries, A. Jokinen, I. D. Moore, D. A. Nesterenko, A. Raggio, J. Ruotsalainen, J. Romero, M. Stryjczyk, V.  A. Virtanen and A. Zadvornaya.The European Physical Journal A Vol. 62 , page 123Published online: 23/6/2026"
-    },
-    {
-      "title": "Numerical study of computational cost of maintaining adiabaticity for long paths",
-      "link": "https://epja.epj.org/10.1140/epja/s10050-026-01879-4",
-      "authors": "Thomas D. Cohen, Hyunwoo Oh, Veronica Wang",
-      "source": "European Physical Journal A",
-      "summary": "Authors: Thomas D. Cohen, Hyunwoo Oh and Veronica Wang.The European Physical Journal A Vol. 62 , page 122Published online: 23/6/2026"
-    },
-    {
-      "title": "Large-scale shell-model investigation of 2ν$$2\\nu $$ECEC in 132$$^{132}$$Ba and 78$$^{78}$$Kr",
-      "link": "https://epja.epj.org/10.1140/epja/s10050-026-01899-0",
-      "authors": "Deepak Patel, Praveen C. Srivastava",
-      "source": "European Physical Journal A",
-      "summary": "Authors: Deepak Patel and Praveen C. Srivastava.The European Physical Journal A Vol. 62 , page 124Published online: 24/6/2026"
-    },
-    {
-      "title": "Study of singly charmed pentaquark using the hypercentral constituent quark model approach",
-      "link": "https://epja.epj.org/10.1140/epja/s10050-026-01894-5",
-      "authors": "Hardik Rathod, Ajay Kumar Rai",
-      "source": "European Physical Journal A",
-      "summary": "Authors: Hardik Rathod and Ajay Kumar Rai.The European Physical Journal A Vol. 62 , page 125Published online: 24/6/2026"
-    },
-    {
-      "title": "Impact of momentum-dependent drag coefficient on energy loss of charm and bottom quarks in QGP",
-      "link": "https://epja.epj.org/10.1140/epja/s10050-026-01893-6",
-      "authors": "Marjan Rahimi Nezhad, Fatemeh Taghavi-Shahri, Kurosh Javidan",
-      "source": "European Physical Journal A",
-      "summary": "Authors: Marjan Rahimi Nezhad, Fatemeh Taghavi-Shahri and Kurosh Javidan.The European Physical Journal A Vol. 62 , page 126Published online: 25/6/2026"
-    },
-    {
-      "title": "The 0+$$0^+$$-spectrum in rare earth nuclei within the pseudo-SU(3) shell model",
-      "link": "https://epja.epj.org/10.1140/epja/s10050-026-01891-8",
-      "authors": "Peter O. Hess, Sahila Chopra",
-      "source": "European Physical Journal A",
-      "summary": "Authors: Peter O. Hess and Sahila Chopra.The European Physical Journal A Vol. 62 , page 127Published online: 27/6/2026"
-    },
-    {
-      "title": "Study on the neutron characteristics of D-D reaction for incident deuteron energies up to 10 MeV",
-      "link": "https://epja.epj.org/10.1140/epja/s10050-026-01889-2",
-      "authors": "Qiao-yue Jiang, Zheng Wei, Meng-huai Wang, Pei-sheng Zhang, Kang Wu, Jun Ma, Xiao-xue Yu, Yi-xuan Wang, Ze-en Yao, Jun-run Wang, Yu Zhang, Jian-dong Luo, Hao-yu Lei, Zhe Pan",
-      "source": "European Physical Journal A",
-      "summary": "Authors: Qiao-yue Jiang, Zheng Wei, Meng-huai Wang, Pei-sheng Zhang, Kang Wu, Jun Ma, Xiao-xue Yu, Yi-xuan Wang, Ze-en Yao, Jun-run Wang, Yu Zhang, Jian-dong Luo, Hao-yu Lei and Zhe Pan.The European Physical Journal A Vol. 62 , page 128Published online: 29/6/2026"
-    },
-    {
-      "title": "Spectra of light and heavy mesons with J≤5$$J \\le 5$$ in a relativistic Bethe–Salpeter approach",
-      "link": "https://epja.epj.org/10.1140/epja/s10050-026-01880-x",
-      "authors": "Stephan Hagel, Christian S. Fischer, Markus Q. Huber, Jonathan Y. Yigzaw",
-      "source": "European Physical Journal A",
-      "summary": "Authors: Stephan Hagel, Christian S. Fischer, Markus Q. Huber and Jonathan Y. Yigzaw.The European Physical Journal A Vol. 62 , page 129Published online: 1/7/2026"
-    },
-    {
-      "title": "Coupled charm and charmonium transport in a strongly coupled quark–gluon plasma",
-      "link": "https://epja.epj.org/10.1140/epja/s10050-026-01897-2",
-      "authors": "Kaiyu Fu, Biaogang Wu, Ralf Rapp",
-      "source": "European Physical Journal A",
-      "summary": "Authors: Kaiyu Fu, Biaogang Wu and Ralf Rapp.The European Physical Journal A Vol. 62 , page 132Published online: 2/7/2026\n       Keywords:"
-    },
-    {
-      "title": "New NanoSIMS multielement isotope data reveal CO novae as key sources of 13C-rich presolar silicon carbide grains",
-      "link": "https://epja.epj.org/10.1140/epja/s10050-026-01882-9",
-      "authors": "Jordi José, Nan Liu, Conel M. O’D. Alexander, Jianhua Wang",
-      "source": "European Physical Journal A",
-      "summary": "Authors: Jordi José, Nan Liu, Conel M. O’D. Alexander and Jianhua Wang.The European Physical Journal A Vol. 62 , page 130Published online: 2/7/2026"
-    },
-    {
-      "title": "Studies of stretched M4 resonances in light nuclei via γ$$\\gamma $$-ray and particle spectroscopy",
-      "link": "https://epja.epj.org/10.1140/epja/s10050-026-01892-7",
-      "authors": "N. Cieplicka-Oryńczak, S. Ziliani, B. Fornal, S. Leoni, Y. Jaganathen, M. Płoszajczak, M. Ciemała, M. Kmiecik, A. Maj, J. Łukasik, P. Pawłowski, B. Sowicki, B. Wasilewska, M. Ziębliński, P. Bednarczyk, C. Boiano, S. Bottoni, A. Bracco, S. Brambilla, I. Burducea, F. Camera, I. Ciepał, C. Clisu, F. C. L. Crespi, K. Dhanmeher, N. Florea, E. Gamba, J. Grębosz, M. N. Harakeh, D. A. Iancu, Ł. W. Iskra, M. Krzysiek, P. Kulessa, N. Marginean, R. Marginean, I. Matea, M. Matejska-Minda, K. Mazurek, B. Million, W. Parol, M. Sferrazza, L. Stan, B. Włoch",
-      "source": "European Physical Journal A",
-      "summary": "Authors: N. Cieplicka-Oryńczak, S. Ziliani, B. Fornal, S. Leoni, Y. Jaganathen, M. Płoszajczak, M. Ciemała, M. Kmiecik, A. Maj, J. Łukasik, P. Pawłowski, B. Sowicki, B. Wasilewska, M. Ziębliński, P. Bednarczyk, C. Boiano, S. Bottoni, A. Bracco, S. Brambilla, I. Burducea, F. Camera, I. Ciepał, C. Clisu, F. C. L. Crespi, K. Dhanmeher, N. Florea, E. Gamba, J. Grębosz, M. N. Harakeh, D. A. Iancu, Ł. W. Iskra, M. Krzysiek, P. Kulessa, N. Marginean, R. Marginean, I. Matea, M. Matejska-Minda, K. Mazurek, B. Million, W. Parol, M. Sferrazza, L. Stan and B. Włoch.The European Physical Journal A Vol. 62 , page 131Published online: 2/7/2026\n       Keywords:"
-    },
-    {
-      "title": "The finite amplitude method for nuclear collective motion",
-      "link": "https://epja.epj.org/10.1140/epja/s10050-026-01862-z",
-      "authors": "Takashi Nakatsukasa, Nobuo Hinohara",
-      "source": "European Physical Journal A",
-      "summary": "Authors: Takashi Nakatsukasa and Nobuo Hinohara.The European Physical Journal A Vol. 62 , page 133Published online: 3/7/2026"
-    },
-    {
-      "title": "New measurement system for the spin correlation coefficients in deuteron–proton elastic scattering",
-      "link": "https://epja.epj.org/10.1140/epja/s10050-026-01902-8",
-      "authors": "Y. Saito, K. Sekiguchi, A. Watanabe, K. Suzuki, H. Sugahara, D. Takahashi, K. Tateishi, S. Otsuka, H. Sakai, N. Sakamoto, T. Wakasa, H. Nishibata, K. Aradono, Y. Nagao, K. Hirasawa, Y. Maeda, H. Umetsu, J. Solà Cava, S. Heihoff, A. A. Filin, E. Epelbaum, J. Golak, R. Skibiński, H. Witała",
-      "source": "European Physical Journal A",
-      "summary": "Authors: Y. Saito, K. Sekiguchi, A. Watanabe, K. Suzuki, H. Sugahara, D. Takahashi, K. Tateishi, S. Otsuka, H. Sakai, N. Sakamoto, T. Wakasa, H. Nishibata, K. Aradono, Y. Nagao, K. Hirasawa, Y. Maeda, H. Umetsu, J. Solà Cava, S. Heihoff, A. A. Filin, E. Epelbaum, J. Golak, R. Skibiński and H. Witała.The European Physical Journal A Vol. 62 , page 134Published online: 8/7/2026\n       Keywords:"
-    },
-    {
-      "title": "Microscopic analysis of yrast and near yrast band structures in even–even 188-196$$^{188-196}$$Hg isotopes",
-      "link": "https://epja.epj.org/10.1140/epja/s10050-026-01904-6",
-      "authors": "Umera Nawaz, Manvi Rajput, Suram Singh, Amit Kumar, G. H. Bhat, Arun Bharti, J. A. Sheikh",
-      "source": "European Physical Journal A",
-      "summary": "Authors: Umera Nawaz, Manvi Rajput, Suram Singh, Amit Kumar, G. H. Bhat, Arun Bharti and J. A. Sheikh.The European Physical Journal A Vol. 62 , page 135Published online: 10/7/2026"
-    },
-    {
-      "title": "Identification of MNT fragments produced by an energy-degraded 238U$$^{238}\\textrm{U}$$ beam on a 209Bi$$^{209}\\textrm{Bi}$$ target at the FRS Ion Catcher",
-      "link": "https://epja.epj.org/10.1140/epja/s10050-026-01914-4",
-      "authors": "A. Shraier, P. Constantin, T. Dickel, I. Mardor, A. Mollaebrahimi, D. Amanbayev, S. Ayet San Andrés, J. Bergmann, Z. Ge, E. Haettner, D. Kar, G. Kripko-Koncz, D. Kumar, K. Mahajan, D. J. Morrissey, M. Narang, W. R. Plaß, C. Scheidenberger, M. Simonov, N. Tortorelli, J. Yu, J. Ahokas, B. Amorim, S. Bagchi, M. Bajzek, D. L. Balabanski, K. Botsiou, V. Charviakova, T. Eronen, S. Glöckner, C. Hornung, N. Hubbard, A. Jaries, N. Kalantar-Nayestanaki, A. Kankainen, A. Karmakar, R. Lozeva, J. L. Rodríguez-Sánchez, I. Mitsiou, M. P. Reiter, E. Piasetzky, V. Piau, Zs. Podolyák, R. Prajapat, D. Prajapati, S. Purushothaman, M. Reponen, E. Rocco, J. Ruotsalainen, D. Kostyleva, S. K. Singh, A. Spătaru, A. State, I. Stefănescu, Y. K. Tanaka, L. Trache, L. Welde, J. Zhao",
-      "source": "European Physical Journal A",
-      "summary": "Authors: A. Shraier, P. Constantin, T. Dickel, I. Mardor, A. Mollaebrahimi, D. Amanbayev, S. Ayet San Andrés, J. Bergmann, Z. Ge, E. Haettner, D. Kar, G. Kripko-Koncz, D. Kumar, K. Mahajan, D. J. Morrissey, M. Narang, W. R. Plaß, C. Scheidenberger, M. Simonov, N. Tortorelli, J. Yu, J. Ahokas, B. Amorim, S. Bagchi, M. Bajzek, D. L. Balabanski, K. Botsiou, V. Charviakova, T. Eronen, S. Glöckner, C. Hornung, N. Hubbard, A. Jaries, N. Kalantar-Nayestanaki, A. Kankainen, A. Karmakar, R. Lozeva, J. L. Rodríguez-Sánchez, I. Mitsiou, M. P. Reiter, E. Piasetzky, V. Piau, Zs. Podolyák, R. Prajapat, D. Prajapati, S. Purushothaman, M. Reponen, E. Rocco, J. Ruotsalainen, D. Kostyleva, S. K. Singh, A. Spătaru, A. State, I. Stefănescu, Y. K. Tanaka, L. Trache, L. Welde, J. Zhao and  .The European Physical Journal A Vol. 62 , page 138Published online: 13/7/2026\n       Keywords:"
-    },
-    {
-      "title": "Nuclear structure and properties in superstrong magnetic fields",
-      "link": "https://epja.epj.org/10.1140/epja/s10050-026-01895-4",
-      "authors": "Wei Jiang, Yu Guo, Yan-jun Chen",
-      "source": "European Physical Journal A",
-      "summary": "Authors: Wei Jiang, Yu Guo and Yan-jun Chen.The European Physical Journal A Vol. 62 , page 136Published online: 13/7/2026"
-    },
-    {
-      "title": "Abnormal dense and dilute nuclear systems",
-      "link": "https://epja.epj.org/10.1140/epja/s10050-026-01848-x",
-      "authors": "E. E. Kolomeitsev, D. N. Voskresensky",
-      "source": "European Physical Journal A",
-      "summary": "Authors: E. E. Kolomeitsev and D. N. Voskresensky.The European Physical Journal A Vol. 62 , page 137Published online: 13/7/2026\n       Keywords:"
-    },
-    {
-      "title": "Impact of 3D macro physics and nuclear physics on the s-process during He-flashes in Asymptotic Giant Branch stars",
-      "link": "https://epja.epj.org/10.1140/epja/s10050-026-01903-7",
-      "authors": "Umberto Battino, Joshua Issa, Falk Herwig, Andreas Best",
-      "source": "European Physical Journal A",
-      "summary": "Authors: Umberto Battino, Joshua Issa, Falk Herwig and Andreas Best.The European Physical Journal A Vol. 62 , page 139Published online: 14/7/2026\n       Keywords:"
-    },
-    {
-      "title": "Deformation evolution and charge radii in even–even W, Os, and Pt isotopes",
-      "link": "https://epja.epj.org/10.1140/epja/s10050-026-01917-1",
-      "authors": "HuiWen Deng, Yue Shi",
-      "source": "European Physical Journal A",
-      "summary": "Authors: HuiWen Deng and Yue Shi.The European Physical Journal A Vol. 62 , page 140Published online: 18/7/2026"
-    },
-    {
-      "title": "Contact interaction treatment of the nucleon Faddeev equation",
-      "link": "https://epja.epj.org/10.1140/epja/s10050-026-01898-1",
-      "authors": "Xin-Yu Bai, Ya Lu, Zhao-Qian Yao, Craig D. Roberts, Sebastian M. Schmidt",
-      "source": "European Physical Journal A",
-      "summary": "Authors: Xin-Yu Bai, Ya Lu, Zhao-Qian Yao, Craig D. Roberts and Sebastian M. Schmidt.The European Physical Journal A Vol. 62 , page 141Published online: 19/7/2026"
-    },
-    {
-      "title": "Shell-model description of collective deformation variables β$$\\beta $$ and γ$$\\gamma $$ in 164-188$$^{164-188}$$Hf nuclei",
-      "link": "https://epja.epj.org/10.1140/epja/s10050-026-01913-5",
-      "authors": "Carlos E. Vargas",
-      "source": "European Physical Journal A",
-      "summary": "Authors: Carlos E. Vargas.The European Physical Journal A Vol. 62 , page 142Published online: 20/7/2026"
-    },
-    {
-      "title": "The weak s-process in massive stars, product for galactic chemical evolution and seed for explosive nucleosynthesis",
-      "link": "https://epja.epj.org/10.1140/epja/s10050-026-01900-w",
-      "authors": "Marco Pignatari, Lorenzo Roberti, Taoyu Jiao",
-      "source": "European Physical Journal A",
-      "summary": "Authors: Marco Pignatari, Lorenzo Roberti and Taoyu Jiao.The European Physical Journal A Vol. 62 , page 143Published online: 20/7/2026"
-    },
-    {
-      "title": "On time-evolution in quantum gravity",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326006192?dgcid=rss_sd_all",
+      "title": "A local boundary signature of Berry holonomy in projective quantum geometry",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326006271?dgcid=rss_sd_all",
       "authors": "Unknown",
       "source": "Physics Letters B",
-      "summary": "Publication date: September 2026Source: Physics Letters B, Volume 880Author(s): Lasha Berezhiani, Gia Dvali, Otari Sakhelashvili"
+      "summary": "Publication date: September 2026Source: Physics Letters B, Volume 880Author(s): Samak Boonpan"
     },
     {
-      "title": "Bulk-boundary decompositions and exact perfect fluid stellar distributions",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326006155?dgcid=rss_sd_all",
+      "title": "Shadow, quasinormal modes, sparsity, and energy emission rate of Euler-Heisenberg black hole surrounded by perfect fluid dark matter",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326006064?dgcid=rss_sd_all",
       "authors": "Unknown",
       "source": "Physics Letters B",
-      "summary": "Publication date: September 2026Source: Physics Letters B, Volume 880Author(s): Sudan Hansraj, Christian Boehmer, Ndumiso Buthelezi"
+      "summary": "Publication date: September 2026Source: Physics Letters B, Volume 880Author(s): Edilberto O. Silva, Faizuddin Ahmed"
     },
     {
-      "title": "Quantum-state texture in Schwarzschild-de Sitter spacetime",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326006210?dgcid=rss_sd_all",
+      "title": "Study of <em>χ<sub>bJ</sub></em>(<em>nP</em>) → <em>ω</em>Υ(1<em>S</em>) via intermediate meson loop mechanism",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326006283?dgcid=rss_sd_all",
       "authors": "Unknown",
       "source": "Physics Letters B",
-      "summary": "Publication date: September 2026Source: Physics Letters B, Volume 880Author(s): Zhiming Huang"
+      "summary": "Publication date: September 2026Source: Physics Letters B, Volume 880Author(s): Run-Hao Chen, Hao-Dong Cai, Gang Li, Shi-Dong Liu"
     },
     {
-      "title": "Benchmarking state-of-the-art theory and empirical models of pionless neutrino-argon scattering in GENIE",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326006015?dgcid=rss_sd_all",
+      "title": "Diagnosing unmodeled neutrino physics via DUNE and T2HK complementarity",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326006106?dgcid=rss_sd_all",
       "authors": "Unknown",
       "source": "Physics Letters B",
-      "summary": "Publication date: September 2026Source: Physics Letters B, Volume 880Author(s): Liang Liu, Steven Gardiner, Steven Dytman"
+      "summary": "Publication date: September 2026Source: Physics Letters B, Volume 880Author(s): João Paulo Pinheiro, Ushak Rahaman"
     },
     {
-      "title": "Imprints of the Lorentz-symmetry breaking on the precessing jet nozzle of M87*",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326006234?dgcid=rss_sd_all",
+      "title": "Low-energy scattering of the <em>J</em>/<em>ψπ</em> and <em>J</em>/<em>ψK</em> systems",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326006167?dgcid=rss_sd_all",
       "authors": "Unknown",
       "source": "Physics Letters B",
-      "summary": "Publication date: September 2026Source: Physics Letters B, Volume 880Author(s): Tao-Tao Sui, Xiang-Cheng Meng, Xin-Yang Wang"
+      "summary": "Publication date: September 2026Source: Physics Letters B, Volume 880Author(s): Jiang Yan, Xiong-Hui Cao, Meng-Lin Du, Feng-Kun Guo"
+    },
+    {
+      "title": "Effect of the projectile breakup in the <sup>6</sup>He<math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si2.svg\" class=\"math\"><msup><mo>+</mo><mn>58</mn></msup></math>Ni scattering",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0375947426001557?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Nuclear Physics A",
+      "summary": "Publication date: Available online 23 July 2026Source: Nuclear Physics AAuthor(s): O.C.B. Santos, R. Lichtenthäler, K.C.C. Pires, U. Umbelino, M. Rodríguez-Gallardo, A.S. Serra, V. Morcelle"
     }
   ]
 }
