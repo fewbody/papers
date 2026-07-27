@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-26T04:21:07.077579",
+  "lastUpdated": "2026-07-27T04:32:01.450764",
   "papers": [
     {
       "title": "Increasing Octupole Collectivity across the $Z=64$ Isotopic Chain: B(E3) Values in $^{150}\\mathrm{Gd}$",
@@ -65548,6 +65548,69 @@
       "authors": "Unknown",
       "source": "Physics Letters B",
       "summary": "Publication date: September 2026Source: Physics Letters B, Volume 880Author(s): Pranav Prasanthan, Hussain Gohar, Vincenzo Salzano"
+    },
+    {
+      "title": "Deformation, halo, and bubble structure: A paradigm shift of exotic phenomena in light to medium mass nuclei",
+      "link": "https://arxiv.org/abs/2607.21730",
+      "authors": "R. Barman, R. Chatterjee, W. Horiuchi, M. Kimura, G. Singh, Jagjit Singh,  Shubhchintak",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2607.21730v1 Announce Type: new \nAbstract: The emergence of exotic nuclear structures, such as deformation, one- and two-neutron halos, and bubble configurations, marks a paradigm shift in our understanding of light- to medium-mass nuclei far from stability, particularly near and within the island of inversion extending across $N=20-28$. In this review, we integrate microscopic structure calculations using the antisymmetrized molecular dynamics method with reaction theories such as the Glauber model for high-energy collisions, and highlight the use of the fully quantum mechanical finite-range distorted wave Born approximation for calculating both inclusive and exclusive Coulomb breakup observables for these medium mass systems. These theoretical frameworks enable precise probing of nuclear density profiles through observables such as total reaction cross sections, neutron removal cross sections, relative energy spectra, parallel momentum distributions, and angular distributions. Applications to several nuclei in the island of inversion reveal enhanced halo extensions, neutron-neutron correlations in Borromean nuclei, and central density depletions in bubbles, challenging traditional shell-model paradigms. Furthermore, the sensitivity of astrophysical reaction rates to these exotic inputs is explored, demonstrating their role in the refinement of r-process nucleosynthesis models and elemental abundance predictions. This unified approach not only bridges nuclear structure and reactions, but also highlights the driplines as frontiers for unraveling nuclear matter under extreme conditions, with implications for rare-isotope beam experiments and beyond."
+    },
+    {
+      "title": "Single-particle structure of the semi-magic nucleus ${}^{90}$Zr from a nonlocal dispersive optical model",
+      "link": "https://arxiv.org/abs/2607.21875",
+      "authors": "R. A. Ramon, M. C. Atkinson, W. H. Dickhoff",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2607.21875v1 Announce Type: new \nAbstract: A nonlocal dispersive-optical-model (DOM) analysis has been carried out for neutrons and protons in the semi-magic nucleus $^{90}$Zr. Elastic-scattering angular distributions, total and reaction cross sections, single-particle energies, the neutron and proton numbers, the charge distribution, and the binding energy have been fitted to extract the neutron and proton self-energies both above and below the Fermi energy. The resulting spectroscopic factors and other DOM ingredients yield a good description of the $(e,e'p)$ cross sections when the open-shell proton system is described with an extension of the DOM that treats pairing. The distinct difference between the open-shell proton system and a closed one is illustrated by the smooth transition from mostly full to mostly empty orbits."
+    },
+    {
+      "title": "Phaseless auxiliary-field quantum Monte Carlo in the Hartree-Fock-Bogoliubov manifold",
+      "link": "https://arxiv.org/abs/2607.21929",
+      "authors": "Zhaozhan Zhang",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2607.21929v1 Announce Type: new \nAbstract: We formulate and implement the phaseless auxiliary-field quantum Monte Carlo (AFQMC) method in the Hartree-Fock-Bogoliubov (HFB) manifold for systems with strong pairing correlations. Our formulation introduces a more flexible representation of HFB walkers with an explicit analytical expression for the normalization factor derived from the representation matrix with respect to the reference vacuum. We also extend our previously developed stochastic gauge formalism from the Slater determinant manifold to the HFB framework, providing additional flexibility for controlling stochastic fluctuations. Benchmark calculations for the Richardson model demonstrate the accuracy and numerical stability of the method."
+    },
+    {
+      "title": "Nuclear incompressibility and fourth moment of the nuclear density in Skyrme functionals",
+      "link": "https://arxiv.org/abs/2607.22003",
+      "authors": "Soonchul Choi, Tae-Sun Park, Panagiota Papakonstantinou",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2607.22003v1 Announce Type: new \nAbstract: Recent experimental advances could soon allow the accurate extraction of not only the root-mean-square radius but also the fourth radial moment of the nuclear electric charge density distribution. The fourth radial moment of the nuclear density distribution, $R_4\\equiv\\sqrt[4]{\\left}$, provides a sensitive probe of the nuclear surface thickness, as it is more susceptible to the large-$r$ distributions than the root-mean-square radius ($R_2$). In this work, we examine the utility of $R_4$ for constraining the nuclear equation of state (EoS) at subsaturation densities, specifically for the proton distribution and within the framework of Skyrme energy density functionals. Using a statistical analysis based on predictions from one hundred Skyrme functional models, we demonstrate strong correlations between the energy per particle curvature $K(\\rho)$ at $\\rho = 0.08 \\text{ fm}^{-3}$ and $R_4$ (or the ratio $R_{4/2}=R_4/R_2$) in representative nuclei such as $\\text{}^{48}\\text{Ca}$ and $\\text{}^{208}\\text{Pb}$. We establish that $R_{4/2}$, being sensitive to the density tail, serves as an efficient proxy for sub-saturation $K(\\rho)$ within the tested Skyrme functional space. Knowledge of $R_{4/2}$ within 0.5\\% precision or better, for example in $^{48}$Ca or $^{208}$Pb, could constrain the curvature of the energy per particle of symmetric matter at $0.08$ fm$^{-3}$ within 20 MeV or less."
+    },
+    {
+      "title": "Lattice study of spin interactions between heavy quarks in the quark-gluon plasma",
+      "link": "https://arxiv.org/abs/2607.21729",
+      "authors": "Dibyendu Bala, Olaf Kaczmarek, Sayantan Sharma, Swagatam Tah",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2607.21729v1 Announce Type: cross \nAbstract: We calculate the spin-dependent potential, which is the $\\mathcal{O}(1/M^2)$ correction term to the thermal potential between a static quark-antiquark pair within non-relativistic QCD. At leading order in hard thermal loop perturbation theory, we show that this spin-dependent potential has an imaginary part which is different in magnitude for pseudoscalar and vector quarkonium states. For the first time, we extract the imaginary part non-perturbatively using lattice techniques, in the deconfined phase of quenched QCD at $T\\sim 470$ MeV, after performing a continuum estimation and subsequent renormalization. We have found that the spin-dependent potential in the quark-gluon plasma phase is complex, and its imaginary part has a remarkably significant contribution over the thermal static potential for charmonium states. Consequences of this thermal spin-dependent potential on the quarkonium spectral functions are also discussed."
+    },
+    {
+      "title": "Momentum anisotropy from Resistive Magnetohydrodynamics",
+      "link": "https://arxiv.org/abs/2607.21879",
+      "authors": "Khwahish Kushwah, Gabriel S. Denicol",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2607.21879v1 Announce Type: cross \nAbstract: We derive relativistic resistive magnetohydrodynamics framework for a two-component ultrarelativistic plasma of massless, oppositely charged particles directly from the Boltzmann-Vlasov equation using the 14-moment approximation. The resulting second-order equations couple the net-charge diffusion current to the shear-stress tensor through the electric field, with all transport coefficients given in closed microscopic form. In the homogeneous limit, the charge-current dynamics is well described by relaxation-type Ohm's law for moderate field strengths, while large viscosity drives the system into an underdamped oscillatory regime absent from the standard Israel-Stewart formulation. Most strikingly, a purely electric field generates sizable momentum anisotropy even without any underlying flow gradient. Under Bjorken expansion this field-induced anisotropy persists but becomes subleading to the hydrodynamic expansion source."
+    },
+    {
+      "title": "Resonances at finite temperature from the lattice",
+      "link": "https://arxiv.org/abs/2607.22346",
+      "authors": "Jakob Hoffmann, Peter Lowdon, Owe Philipsen",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2607.22346v1 Announce Type: cross \nAbstract: The properties of hadronic resonances at finite temperature constitute an important probe of the thermal QCD medium. In this work we use the concept of thermoparticles, which characterise thermally-modified but stable particle-like states, to define the notion of two-particle scattering at finite temperature, and establish a unitarity relation for the thermal scattering amplitude. We derive a finite-temperature generalisation of the vacuum two-particle quantisation condition via a skeleton expansion of the finite-volume correlation function. Solving this condition at the finite-volume energy levels of the system constrains the form of the thermal scattering amplitude, and hence the properties of resonances. In contrast to the vacuum case, the kinematic function containing the leading finite-volume corrections is finite at all energies, reflecting the fact that thermoparticles have broadened spectral peaks due to their interactions with the thermal medium. Since all lattice simulations involve a finite temporal extent, our approach can also be used to study finite-temporal size effects in vacuum analyses."
+    },
+    {
+      "title": "Finite Formation Time Antenna Radiation: Color Spectators Break Single-Emitter BDMPS-Z",
+      "link": "https://arxiv.org/abs/2607.22502",
+      "authors": "Fabio Dom\\'inguez, Pablo Guerrero-Rodr\\'iguez, Carlos A. Salgado",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2607.22502v1 Announce Type: cross \nAbstract: We compute the direct contribution to the squared matrix element for the in-medium soft gluon emission off a color-singlet quark-antiquark pair. To do this, we incorporate medium interactions that take place during the finite formation time of the antenna, thereby accounting for a largely neglected source of modifications with respect to the vacuum baseline. As a consequence, non-trivial correlations with the spectator (i.e.\\ non-emitting) leg of the antenna emerge, greatly increasing the complexity of the result even at leading-$N_c$ order. The observed modifications entail a significant departure from the limit of instantaneous antenna formation, where the calculation effectively reduces to the well-known BDMPS-Z spectrum."
+    },
+    {
+      "title": "Dynamical redistribution of quantum resources in tree-level Bhabha scattering",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326006362?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: September 2026Source: Physics Letters B, Volume 880Author(s): Zan Cao, Meng-Long Song, Xue-Ke Song, Liu Ye, Dong Wang"
     }
   ]
 }
