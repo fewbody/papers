@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-03T04:23:54.059664",
+  "lastUpdated": "2026-08-04T03:58:21.072426",
   "papers": [
     {
       "title": "Increasing Octupole Collectivity across the $Z=64$ Isotopic Chain: B(E3) Values in $^{150}\\mathrm{Gd}$",
@@ -66626,6 +66626,90 @@
       "authors": "Unknown",
       "source": "Few-Body Systems",
       "summary": "Motivated by the discovery of several kaon-like states observed at BESIII and LHCb, this study explores S-wave and P-wave tetraquark states with quark contents $$ ss\\bar{s}\\bar{q} $$ and $$ sq\\bar{q}\\bar{q} $$ using potential-based phenomenology. The tetraquarks are modeled as diquark-antidiquark systems in antitriplet-triplet and sextet-antisextet color configurations. The mass spectra are calculated using the Cornell potential, while decay properties are analyzed through Fierz rearrangement. A comparison with experimentally observed states is provided to enhance our understanding of light-light tetraquark systems with non-homogeneous quark compositions."
+    },
+    {
+      "title": "Comparison of relativistic and nonrelativistic Faddeev calculations for proton-deuteron elastic scattering",
+      "link": "http://link.aps.org/doi/10.1103/cjf3-hk9v",
+      "authors": "H. Kamada, A. Arslanaliev, Y. Kostylenko, A. V. Shebeko, J. Golak, R. Skibiński, K. Topolnicki, H. Witała, V. Chahar, D. F. Ramírez Jiménez, and W. N. Polyzou",
+      "source": "Physical Review C",
+      "summary": "Author(s): H. Kamada, A. Arslanaliev, Y. Kostylenko, A. V. Shebeko, J. Golak, R. Skibiński, K. Topolnicki, H. Witała, V. Chahar, D. F. Ramírez Jiménez, and W. N. PolyzouThis investigation compares nonrelativistic and relativistic nucleon-nucleon potentials in the context of proton-deuteron scattering. Conventional NN potentials (e.g., CDBonn, AV18, Nijmegen) rely on the nonrelativistic Schrödinger equation, whereas the Kharkiv potential is intrinsically relativisti…[Phys. Rev. C 114, 024001] Published Mon Aug 03, 2026"
+    },
+    {
+      "title": "Probing quadruple deformation in transitional nuclei via angular momentum projection",
+      "link": "http://link.aps.org/doi/10.1103/29sg-clv3",
+      "authors": "Xian-Zhi Zhao, Sheng-Nan Wang, and Yu Zhang",
+      "source": "Physical Review C",
+      "summary": "Author(s): Xian-Zhi Zhao, Sheng-Nan Wang, and Yu ZhangWithin the interacting boson model (IBM), a geometric analysis of transitional nuclei is carried out through angular momentum projection of the intrinsic coherent state. The results indicate that $K$-mixing effects in the calculations are typically negligible, validating the use of $K$-fixed project…[Phys. Rev. C 114, 024301] Published Mon Aug 03, 2026"
+    },
+    {
+      "title": "Efficient emulation of nuclear ground states with neural-network variational Monte Carlo and eigenvector continuation",
+      "link": "http://link.aps.org/doi/10.1103/8s5q-rssh",
+      "authors": "Mao Li (李茂), Yilong Yang (杨一龙), and Pengwei Zhao (赵鹏巍)",
+      "source": "Physical Review C",
+      "summary": "Author(s): Mao Li (李茂), Yilong Yang (杨一龙), and Pengwei Zhao (赵鹏巍)An efficient emulator for ab initio calculations of nuclear ground-state properties is developed by integrating the neural-network variational Monte Carlo framework, FeynmanNet, with the eigenvector continuation. It enables the calculation of observables for different Hamiltonians with minimal compu…[Phys. Rev. C 114, 024302] Published Mon Aug 03, 2026"
+    },
+    {
+      "title": "Complete set of low-spin single-particle excitations in $^{115}\\mathrm{I}$ and their evolution toward termination",
+      "link": "http://link.aps.org/doi/10.1103/44zk-rh97",
+      "authors": "P. M. Jodidar <em>et al.</em>",
+      "source": "Physical Review C",
+      "summary": "Author(s): P. M. Jodidar et al.The very neutron-deficient $^{115}\\mathrm{I}$ nucleus has been studied using the $^{58}\\mathrm{Ni}(^{64}\\mathrm{Zn},$ $1α3\\mathrm{p})$ reaction and JUROGAM 3 $γ$-ray detector array coupled to the MARA recoil-mass separator. The previously known bands have been largely revised and have been extended …[Phys. Rev. C 114, 024303] Published Mon Aug 03, 2026"
+    },
+    {
+      "title": "Systematic study of proton radioactivity using the transfer matrix method",
+      "link": "http://link.aps.org/doi/10.1103/n2xs-8s5j",
+      "authors": "Haitao Yang, Zhongxia Zhao, Zhangyan Li, Xiaopan Li, Gongming Yu, and Xiaojun Bao",
+      "source": "Physical Review C",
+      "summary": "Author(s): Haitao Yang, Zhongxia Zhao, Zhangyan Li, Xiaopan Li, Gongming Yu, and Xiaojun BaoProton radioactivity provides a sensitive probe of single-particle structure beyond the proton drip line, but global half-life descriptions are often limited by the approximate treatment of nuclear-structure effects. We find that introducing an ${E}_{\\mathrm{mic}}$-dependent proton preformation fact…[Phys. Rev. C 114, 024304] Published Mon Aug 03, 2026"
+    },
+    {
+      "title": "$l$-forbidden $M1$ strengths near $^{100}\\mathrm{Sn}$ from knockout reactions in Cd and Sn",
+      "link": "http://link.aps.org/doi/10.1103/jd5v-hg3c",
+      "authors": "T. J. Gray, K. L. Jones, R. Grzywacz, B. A. Brown, A. Gade, B. C. He, T. Miyagi, A. Peter, M. J. Basson, T. Beck, C. M. Campbell, G. Cerizza, J. Chung-Jung, I. Cox, P. Farris, R. Ghimire, S. Gillespie, M. Grinder, A. Hill, S. D. Pain, A. Palmisano-Kyle, K. P. Rykaczewski, D. Weisshaar, and M. Williams",
+      "source": "Physical Review C",
+      "summary": "Author(s): T. J. Gray, K. L. Jones, R. Grzywacz, B. A. Brown, A. Gade, B. C. He, T. Miyagi, A. Peter, M. J. Basson, T. Beck, C. M. Campbell, G. Cerizza, J. Chung-Jung, I. Cox, P. Farris, R. Ghimire, S. Gillespie, M. Grinder, A. Hill, S. D. Pain, A. Palmisano-Kyle, K. P. Rykaczewski, D. Weisshaar, and M. WilliamsNeutron knockout reactions on beams of $^{104,102}\\mathrm{Cd}$ and $^{104}\\mathrm{Sn}$ are presented. States in the residual $^{103,101}\\mathrm{Cd}$ and $^{103}\\mathrm{Sn}$ nuclei are populated, including low-lying $7/{2}^{+}$ states of $ν{g}_{7/2}$ character. These states have half-lives $≈400$ ps …[Phys. Rev. C 114, 024305] Published Mon Aug 03, 2026"
+    },
+    {
+      "title": "Gamow shell model calculations for $^{13}\\mathrm{O}$($p,p$) and $^{14}\\mathrm{O}$($p,p$) reactions within the coupled-channel representation",
+      "link": "http://link.aps.org/doi/10.1103/yytr-2rg3",
+      "authors": "N. Chen, J. G. Li, N. Michel, M. R. Xie, Q. Yuan, and W. Zuo",
+      "source": "Physical Review C",
+      "summary": "Author(s): N. Chen, J. G. Li, N. Michel, M. R. Xie, Q. Yuan, and W. ZuoWe present coupled-channel Gamow shell model (GSM-CC) calculations of the $^{13}\\mathrm{O}$($p,p$) and $^{14}\\mathrm{O}$($p,p$) elastic-scattering reactions in the $\\mathrm{core}+\\mathrm{valence}$ nucleon picture. Within this unified framework, we investigate the structural and scattering properties…[Phys. Rev. C 114, 024306] Published Mon Aug 03, 2026"
+    },
+    {
+      "title": "High-spin states in $^{60}\\mathrm{Cu}$ and implications for states in the mirror nucleus $^{60}\\mathrm{Ga}$",
+      "link": "http://link.aps.org/doi/10.1103/mfz2-qldg",
+      "authors": "D. Rudolph, I. Ragnarsson, C. J. Chiara, W. Reviol, C. Andreoiu, M. P. Carpenter, R. J. Charity, J. Ekman, C. Fahlander, R. du Rietz, D. Seweryniak, and L. G. Sobotka",
+      "source": "Physical Review C",
+      "summary": "Author(s): D. Rudolph, I. Ragnarsson, C. J. Chiara, W. Reviol, C. Andreoiu, M. P. Carpenter, R. J. Charity, J. Ekman, C. Fahlander, R. du Rietz, D. Seweryniak, and L. G. SobotkaHigh-spin states in $^{60}\\mathrm{Cu}$ are investigated on the basis of reaction-channel-selected $γ$-ray spectroscopy. Data stem from three experiments that used the same fusion-evaporation reaction at similar beam energies. The Gammasphere $γ$-ray spectrometer was combined with the Microball CsI(T…[Phys. Rev. C 114, 024307] Published Mon Aug 03, 2026"
+    },
+    {
+      "title": "Strangeness production as a function of charged-particle multiplicity in proton-proton collisions at $\\sqrt{s}=5.02 \\mathrm{TeV}$",
+      "link": "http://link.aps.org/doi/10.1103/xtf2-bsc9",
+      "authors": "I. J. Abualrob <em>et al.</em> (ALICE Collaboration)",
+      "source": "Physical Review C",
+      "summary": "Author(s): I. J. Abualrob et al. (ALICE Collaboration)(Multi-)strange particle production rates and transverse momentum distributions are measured at midrapidity $(|y|&lt;0.5)$ as a function of the charged-particle multiplicity density by the ALICE experiment at the CERN Large Hadron Collider (LHC), using proton-proton collisions at a center-of-mass en…[Phys. Rev. C 114, 024901] Published Mon Aug 03, 2026"
+    },
+    {
+      "title": "Deciphering the universal scaling of particle transverse momentum spectra in heavy-ion collisions",
+      "link": "http://link.aps.org/doi/10.1103/2dp4-q43h",
+      "authors": "Xi-Yao Guo, Hua Zheng, Wen-Chao Zhang, Li-Lin Zhu, Xing-Quan Liu, Zhi-Guang Tan, Dai-Mei Zhou, and Ben-Hao Sa",
+      "source": "Physical Review C",
+      "summary": "Author(s): Xi-Yao Guo, Hua Zheng, Wen-Chao Zhang, Li-Lin Zhu, Xing-Quan Liu, Zhi-Guang Tan, Dai-Mei Zhou, and Ben-Hao SaWe systematically investigate the scaling properties of the transverse momentum spectra for pions, kaons, and protons in $\\mathrm{Au}+\\mathrm{Au}$ collisions at $\\sqrt{{s}_{NN}}=7.7$, 11.5, 14.5, 19.6, 27, 39, 62.4, and 200 GeV, as well as in $\\mathrm{U}+\\mathrm{U}$ collisions at $\\sqrt{{s}_{NN}}=19…[Phys. Rev. C 114, 024902] Published Mon Aug 03, 2026"
+    },
+    {
+      "title": "Semi-inclusive deep-inelastic scattering on a polarized spin-1 target. I. Cross section and spin observables",
+      "link": "http://link.aps.org/doi/10.1103/cwp5-7c96",
+      "authors": "W. Cosyn and C. Weiss",
+      "source": "Physical Review C",
+      "summary": "Author(s): W. Cosyn and C. WeissWe develop the theoretical framework for semi-inclusive deep-inelastic scattering on a polarized spin-1 target and apply it to scattering on the polarized deuteron with spectator nucleon tagging. In Part I (this article) we present the general form of the semi-inclusive cross section and polarizatio…[Phys. Rev. C 114, 025201] Published Mon Aug 03, 2026"
+    },
+    {
+      "title": "Semi-inclusive deep-inelastic scattering on a polarized spin-1 target. II. Deuteron and spectator nucleon tagging",
+      "link": "http://link.aps.org/doi/10.1103/nf26-tkx7",
+      "authors": "W. Cosyn and C. Weiss",
+      "source": "Physical Review C",
+      "summary": "Author(s): W. Cosyn and C. WeissWe develop the theoretical framework for semi-inclusive deep-inelastic scattering on a polarized spin-1 target and apply it to scattering on the polarized deuteron with spectator nucleon tagging. In Part I (previous article), we present the general form of the semi-inclusive cross section and polari…[Phys. Rev. C 114, 025202] Published Mon Aug 03, 2026"
     }
   ]
 }

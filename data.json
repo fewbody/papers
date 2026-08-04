@@ -1,145 +1,89 @@
 {
-  "lastUpdated": "2026-08-03T04:23:54.192627",
+  "lastUpdated": "2026-08-04T03:58:21.195645",
   "papers": [
     {
-      "title": "Intruder structure, deformation, and $E2$ strengths in $^{14}\\mathrm{C}$ from an ab initio perspective",
-      "link": "https://arxiv.org/abs/2607.28901",
-      "authors": "Mark A. Caprio",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2607.28901v1 Announce Type: new \nAbstract: The semimagic nucleus $^{14}\\mathrm{C}$ lies just above the $N=8$ island of inversion, raising the possibility of low-lying intruder states and associated deformation. Through ab initio no-core configuration interaction calculations, we shed light on the role of intruder structure, quadrupole deformation, and Elliott SU(3) symmetry in $^{14}\\mathrm{C}$. The results also highlight the influence of mixing between normal and intruder states on the strengths of the $E2$ transitions from the first two $2^+$ states."
+      "title": "Comparison of relativistic and nonrelativistic Faddeev calculations for proton-deuteron elastic scattering",
+      "link": "http://link.aps.org/doi/10.1103/cjf3-hk9v",
+      "authors": "H. Kamada, A. Arslanaliev, Y. Kostylenko, A. V. Shebeko, J. Golak, R. Skibiński, K. Topolnicki, H. Witała, V. Chahar, D. F. Ramírez Jiménez, and W. N. Polyzou",
+      "source": "Physical Review C",
+      "summary": "Author(s): H. Kamada, A. Arslanaliev, Y. Kostylenko, A. V. Shebeko, J. Golak, R. Skibiński, K. Topolnicki, H. Witała, V. Chahar, D. F. Ramírez Jiménez, and W. N. PolyzouThis investigation compares nonrelativistic and relativistic nucleon-nucleon potentials in the context of proton-deuteron scattering. Conventional NN potentials (e.g., CDBonn, AV18, Nijmegen) rely on the nonrelativistic Schrödinger equation, whereas the Kharkiv potential is intrinsically relativisti…[Phys. Rev. C 114, 024001] Published Mon Aug 03, 2026"
     },
     {
-      "title": "Two unitary limits in low-energy $s$-wave neutron scattering on superfluid nuclei",
-      "link": "https://arxiv.org/abs/2607.28937",
-      "authors": "Yoshihiko Kobayashi, Masayuki Matsuo",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2607.28937v1 Announce Type: new \nAbstract: Low-energy $s$-wave scattering in weakly bound superfluid nuclei is strongly influenced by pairing correlations. In this work, we present an analytical study of low-energy $s$-wave quasiparticle scattering within the coordinate space Hartree-Fock-Bogoliubov framework using a schematic square-well model. Analytical expressions for the phase shift, elastic cross section, scattering length, and effective range are derived in a unified manner. We demonstrate that pairing correlations give rise to two distinct unitary limits, characterized by the divergence of the scattering length. One corresponds to the particle-like unitary limit, which persists even without pairing and is well described by the effective range expansion. The other is a pairing-induced hole-like unitary limit associated with quasiparticle resonances, leading to a breakdown of the effective range expansion. These results clarify the validity of the effective range expansion and highlight the essential role of resonance poles in describing low-energy $s$-wave quasiparticle scattering in superfluid nuclei."
+      "title": "Probing quadruple deformation in transitional nuclei via angular momentum projection",
+      "link": "http://link.aps.org/doi/10.1103/29sg-clv3",
+      "authors": "Xian-Zhi Zhao, Sheng-Nan Wang, and Yu Zhang",
+      "source": "Physical Review C",
+      "summary": "Author(s): Xian-Zhi Zhao, Sheng-Nan Wang, and Yu ZhangWithin the interacting boson model (IBM), a geometric analysis of transitional nuclei is carried out through angular momentum projection of the intrinsic coherent state. The results indicate that $K$-mixing effects in the calculations are typically negligible, validating the use of $K$-fixed project…[Phys. Rev. C 114, 024301] Published Mon Aug 03, 2026"
     },
     {
-      "title": "Nuclear mass staggering explains missing stable technetium and promethium",
-      "link": "https://arxiv.org/abs/2607.29081",
-      "authors": "Daiki Nishimura, Takumi Hasegawa, Rinku Prajapat",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2607.29081v1 Announce Type: new \nAbstract: Technetium (Tc) and promethium (Pm) are the only elements that lack stable isotopes in the range up to bismuth, a long-standing puzzle in physics and chemistry. We treat this absence as a problem of selecting the lowest-mass integer proton number Z in beta-stable isobaric chains with odd mass number A. Three-point mass parabolas identify two-unit jumps in the local minimum, whereas a five-point decomposition separates the smooth quadratic component from odd-Z/odd-N mass staggering, defined here as the mass shift of odd-Z isobars relative to neighboring odd-N isobars. With this decomposition, a fitted bulk-plus-shell mass model reproduces the smooth trend and shell-driven bending near magic numbers, including conventional shell-closure skips. This model, however, does not include odd-Z/odd-N staggering and cannot account for the Tc and Pm skips. The separated odd-Z/odd-N staggering remains positive across the Tc and Pm regions and is large enough for the lowest-mass integer-Z sequence to skip Tc and Pm. Shell-model occupation analysis suggests that this regional staggering reflects an orbital-dependent tensor-force monopole effect in the proton-neutron interaction. We identify tensor-force-driven odd-Z/odd-N mass staggering as the origin of the Tc and Pm skips in the odd-A sequence of lowest-mass isobars."
+      "title": "Efficient emulation of nuclear ground states with neural-network variational Monte Carlo and eigenvector continuation",
+      "link": "http://link.aps.org/doi/10.1103/8s5q-rssh",
+      "authors": "Mao Li (李茂), Yilong Yang (杨一龙), and Pengwei Zhao (赵鹏巍)",
+      "source": "Physical Review C",
+      "summary": "Author(s): Mao Li (李茂), Yilong Yang (杨一龙), and Pengwei Zhao (赵鹏巍)An efficient emulator for ab initio calculations of nuclear ground-state properties is developed by integrating the neural-network variational Monte Carlo framework, FeynmanNet, with the eigenvector continuation. It enables the calculation of observables for different Hamiltonians with minimal compu…[Phys. Rev. C 114, 024302] Published Mon Aug 03, 2026"
     },
     {
-      "title": "Revisiting the Equation-of-Motion Method: A Universal Framework for Correlated Quantum Systems",
-      "link": "https://arxiv.org/abs/2607.29396",
-      "authors": "Andrea Porro",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2607.29396v1 Announce Type: new \nAbstract: A general implementation of the equation-of-motion (EOM) formalism for correlated many-body states is presented and applied to the description of collective excitations in atomic nuclei. While EOM approaches are traditionally formulated on top of independent-particle reference states, the present work extends the method to correlated reference states generated by modern many-body solvers. This formulation enables a consistent treatment of ground-state correlations and excited-state dynamics within a unified framework. Particular emphasis is placed on collective nuclear excitations employing chiral nuclear Hamiltonians in an ab initio context. The approach is motivated by the renewed interest in EOM techniques across several fields, including quantum chemistry and quantum computing, where they provide efficient and systematically improvable descriptions of excitation spectra. The present results demonstrate that the EOM framework offers a flexible and powerful tool for the microscopic description of nuclear spectroscopy beyond the traditional mean-field paradigm."
+      "title": "Complete set of low-spin single-particle excitations in $^{115}\\mathrm{I}$ and their evolution toward termination",
+      "link": "http://link.aps.org/doi/10.1103/44zk-rh97",
+      "authors": "P. M. Jodidar <em>et al.</em>",
+      "source": "Physical Review C",
+      "summary": "Author(s): P. M. Jodidar et al.The very neutron-deficient $^{115}\\mathrm{I}$ nucleus has been studied using the $^{58}\\mathrm{Ni}(^{64}\\mathrm{Zn},$ $1α3\\mathrm{p})$ reaction and JUROGAM 3 $γ$-ray detector array coupled to the MARA recoil-mass separator. The previously known bands have been largely revised and have been extended …[Phys. Rev. C 114, 024303] Published Mon Aug 03, 2026"
     },
     {
-      "title": "Explicitly on-shell currents in relativistic mean field models",
-      "link": "https://arxiv.org/abs/2607.29634",
-      "authors": "Alexis Nikolakopoulos, Ryan Plestid",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2607.29634v1 Announce Type: new \nAbstract: Relativistic mean field models are a useful tool for modeling semi-leptonic scattering and photo production on nuclei. When using free-nucleon currents, it is often claimed that there exist so-called ``off-shell ambiguities''. Here we show that when the current is defined in terms of free-nucleon creation and annihilation operators, all ambiguities related to on-shell vs. off-shell Dirac algebra disappear. Genuine ambiguities persist because the current itself depends on the mean field responsible for nuclear binding; these would be fixed if a consistent background-field dependent current were used. As applications, we consider elastic scattering from a nucleus, and (very large) ambiguities that were previous reported in the literature in the context of coherent pion photoproduction. We explain how these ambiguities are removed by the procedure introduced herein."
+      "title": "Systematic study of proton radioactivity using the transfer matrix method",
+      "link": "http://link.aps.org/doi/10.1103/n2xs-8s5j",
+      "authors": "Haitao Yang, Zhongxia Zhao, Zhangyan Li, Xiaopan Li, Gongming Yu, and Xiaojun Bao",
+      "source": "Physical Review C",
+      "summary": "Author(s): Haitao Yang, Zhongxia Zhao, Zhangyan Li, Xiaopan Li, Gongming Yu, and Xiaojun BaoProton radioactivity provides a sensitive probe of single-particle structure beyond the proton drip line, but global half-life descriptions are often limited by the approximate treatment of nuclear-structure effects. We find that introducing an ${E}_{\\mathrm{mic}}$-dependent proton preformation fact…[Phys. Rev. C 114, 024304] Published Mon Aug 03, 2026"
     },
     {
-      "title": "Algebraic Diagrammatic Construction of the Multichannel Dyson Equation",
-      "link": "https://arxiv.org/abs/2607.26609",
-      "authors": "Thibault Demartini, J. Arjan Berger, Guillaume Blanchon, Thomas Duguet, Denis Lacroix, Pina Romaniello, Vittorio Som\\`a",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2607.26609v1 Announce Type: cross \nAbstract: The multichannel Dyson equation (MCDE) was recently introduced as a new approximation scheme to compute the one-body Green function in many-body systems, as reported by Riva et al. in Physical Review Letters, volume 131, article 216401, published in 2023. The physical content of this novel approximation scheme is further clarified by recovering it from an extended version of the algebraic diagrammatic construction (ADC) truncation scheme. It is thus demonstrated that the MCDE approximation lies in between the so-called ADC(2) and ADC(3) truncations of the dynamical self energy. Building on this clarification, the MCDE approximation is tested on the periodic one-dimensional Hubbard model with 4, 6, and 8 site lattices and shown to deliver an improved treatment over ADC(2) of both the quasiparticle peaks and the so-called satellites in the spectral strength distribution."
+      "title": "$l$-forbidden $M1$ strengths near $^{100}\\mathrm{Sn}$ from knockout reactions in Cd and Sn",
+      "link": "http://link.aps.org/doi/10.1103/jd5v-hg3c",
+      "authors": "T. J. Gray, K. L. Jones, R. Grzywacz, B. A. Brown, A. Gade, B. C. He, T. Miyagi, A. Peter, M. J. Basson, T. Beck, C. M. Campbell, G. Cerizza, J. Chung-Jung, I. Cox, P. Farris, R. Ghimire, S. Gillespie, M. Grinder, A. Hill, S. D. Pain, A. Palmisano-Kyle, K. P. Rykaczewski, D. Weisshaar, and M. Williams",
+      "source": "Physical Review C",
+      "summary": "Author(s): T. J. Gray, K. L. Jones, R. Grzywacz, B. A. Brown, A. Gade, B. C. He, T. Miyagi, A. Peter, M. J. Basson, T. Beck, C. M. Campbell, G. Cerizza, J. Chung-Jung, I. Cox, P. Farris, R. Ghimire, S. Gillespie, M. Grinder, A. Hill, S. D. Pain, A. Palmisano-Kyle, K. P. Rykaczewski, D. Weisshaar, and M. WilliamsNeutron knockout reactions on beams of $^{104,102}\\mathrm{Cd}$ and $^{104}\\mathrm{Sn}$ are presented. States in the residual $^{103,101}\\mathrm{Cd}$ and $^{103}\\mathrm{Sn}$ nuclei are populated, including low-lying $7/{2}^{+}$ states of $ν{g}_{7/2}$ character. These states have half-lives $≈400$ ps …[Phys. Rev. C 114, 024305] Published Mon Aug 03, 2026"
     },
     {
-      "title": "Transcorrelated Random-Phase Approximation",
-      "link": "https://arxiv.org/abs/2607.28845",
-      "authors": "Abdallah Ammar, Enzo Monino, Anthony Scemama, Emmanuel Giner, Pierre-Fran\\c{c}ois Loos",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2607.28845v1 Announce Type: cross \nAbstract: We extend the random-phase approximation (RPA) to the non-Hermitian transcorrelated (TC) Hamiltonian, which explicitly includes three-body interactions generated by a Jastrow correlation factor. We consider both the direct RPA (dRPA) and RPA with exchange (RPAx). We apply the resulting TC-dRPA and TC-RPAx methods to calculate ground-state correlation energies and vertical excitation energies for atoms (\\ce{He} and \\ce{Ne}) and small molecules (\\ce{H2O}, \\ce{NH3}, \\ce{CH4}, and \\ce{H2CO}). For ground-state correlation energies, the TC treatment substantially improves accuracy and accelerates basis set convergence, reducing errors by nearly an order of magnitude relative to conventional RPA calculations. By contrast, it yields only marginal improvements in vertical excitation energies. We attribute this limited effect to the ground-state optimization of the Jastrow factor, which does not adequately capture the distinct electronic character of excited states. These results establish TC-RPA as an accurate and computationally efficient approach to ground-state energetics, while highlighting the need for state-specific Jastrow optimization to achieve reliable descriptions of excited states."
+      "title": "Gamow shell model calculations for $^{13}\\mathrm{O}$($p,p$) and $^{14}\\mathrm{O}$($p,p$) reactions within the coupled-channel representation",
+      "link": "http://link.aps.org/doi/10.1103/yytr-2rg3",
+      "authors": "N. Chen, J. G. Li, N. Michel, M. R. Xie, Q. Yuan, and W. Zuo",
+      "source": "Physical Review C",
+      "summary": "Author(s): N. Chen, J. G. Li, N. Michel, M. R. Xie, Q. Yuan, and W. ZuoWe present coupled-channel Gamow shell model (GSM-CC) calculations of the $^{13}\\mathrm{O}$($p,p$) and $^{14}\\mathrm{O}$($p,p$) elastic-scattering reactions in the $\\mathrm{core}+\\mathrm{valence}$ nucleon picture. Within this unified framework, we investigate the structural and scattering properties…[Phys. Rev. C 114, 024306] Published Mon Aug 03, 2026"
     },
     {
-      "title": "Weak Bose-Einstein condensation in a rigidly rotating magnetized charged Bose gas",
-      "link": "https://arxiv.org/abs/2607.29297",
-      "authors": "E. Siri, N. Sadooghi",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2607.29297v1 Announce Type: cross \nAbstract: We investigate the weak Bose-Einstein condensation (BEC) scenario of a noninteracting charged Bose gas simultaneously subjected to a strong magnetic field and rigid rotation. Using standard methods of finite-temperature quantum field theory and the generalized Fock-Schwinger formalism, we derive the corresponding thermodynamic potential in the nonrelativistic and lowest Landau level approximations. An appropriate modification of the effective chemical potential yields a consistent thermodynamic description and naturally introduces a magnetorotational fugacity. Within the high-temperature approximation, rigid rotation enters the thermodynamics solely through the Tolman-Ehrenfest local temperature. We demonstrate that rigid rotation does not qualitatively modify the weak BEC scenario induced by Landau quantization. The magnetorotational fugacity remains below unity throughout the phenomenologically relevant temperature range, while the continuous evolution of the ground state population and the absence of a singularity in the specific heat provide complementary signatures of the persistence of weak BEC. We further study the thermodynamic properties of the system under conditions relevant to quark-gluon plasma and neutron-star matter. We show that rotational effects are much more pronounced in the former. Our analysis reveals a new magnetic response to rigid rotation: while magnetic fields enhance diamagnetism, rotation drives it toward paramagnetism. This behavior reflects a competition between magnetic quantization and rotational orbital motion, emphasizing the role of rotation in shaping the magnetic response of bosonic matter."
+      "title": "High-spin states in $^{60}\\mathrm{Cu}$ and implications for states in the mirror nucleus $^{60}\\mathrm{Ga}$",
+      "link": "http://link.aps.org/doi/10.1103/mfz2-qldg",
+      "authors": "D. Rudolph, I. Ragnarsson, C. J. Chiara, W. Reviol, C. Andreoiu, M. P. Carpenter, R. J. Charity, J. Ekman, C. Fahlander, R. du Rietz, D. Seweryniak, and L. G. Sobotka",
+      "source": "Physical Review C",
+      "summary": "Author(s): D. Rudolph, I. Ragnarsson, C. J. Chiara, W. Reviol, C. Andreoiu, M. P. Carpenter, R. J. Charity, J. Ekman, C. Fahlander, R. du Rietz, D. Seweryniak, and L. G. SobotkaHigh-spin states in $^{60}\\mathrm{Cu}$ are investigated on the basis of reaction-channel-selected $γ$-ray spectroscopy. Data stem from three experiments that used the same fusion-evaporation reaction at similar beam energies. The Gammasphere $γ$-ray spectrometer was combined with the Microball CsI(T…[Phys. Rev. C 114, 024307] Published Mon Aug 03, 2026"
     },
     {
-      "title": "Nonlinear polarization effects on plasma screening for thermonuclear reactions",
-      "link": "https://arxiv.org/abs/2607.29362",
-      "authors": "Hanxiang Huang, Binbing Wu, Zhengfeng Fan, Congzhang Gao, Jie Liu, Baisong Xie",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2607.29362v1 Announce Type: cross \nAbstract: We investigate two-center plasma screening effects on thermonuclear reactions of D-T, p-$^{11}$B, and $^{12}$C-$^{12}$C, spanning from classical to degenerate regimes. The two-center screening potential is obtained within a finite-temperature Thomas-Fermi-Dirac framework, capturing two-ion correlations as the leading-order many-body effect. Combining the resulting screened Coulomb potential with a complex Woods-Saxon nuclear potential, we solve the stationary Schr\\\"{o}dinger equation to obtain the fusion tunneling probabilities and the corresponding reaction rates. Compared to Debye-H\\\"{u}ckel results, the present screening potential is stronger in weakly coupled and weakly degenerate regimes but weaker in strongly coupled and strongly degenerate regimes. Consequently, the fusion enhancement factors are amplified in the former but suppressed in the latter. An underlying interplay between two mechanisms is identified: the nonlinear polarization of ions tends to reduce the screening effect, whereas the nonlinear polarization of electrons tends to enhance it. This subtle competition is governed by the plasma coupling strength and degeneracy. These findings highlight that a two-center treatment is important for predicting fusion rates in dense plasmas."
+      "title": "Strangeness production as a function of charged-particle multiplicity in proton-proton collisions at $\\sqrt{s}=5.02 \\mathrm{TeV}$",
+      "link": "http://link.aps.org/doi/10.1103/xtf2-bsc9",
+      "authors": "I. J. Abualrob <em>et al.</em> (ALICE Collaboration)",
+      "source": "Physical Review C",
+      "summary": "Author(s): I. J. Abualrob et al. (ALICE Collaboration)(Multi-)strange particle production rates and transverse momentum distributions are measured at midrapidity $(|y|&lt;0.5)$ as a function of the charged-particle multiplicity density by the ALICE experiment at the CERN Large Hadron Collider (LHC), using proton-proton collisions at a center-of-mass en…[Phys. Rev. C 114, 024901] Published Mon Aug 03, 2026"
     },
     {
-      "title": "Electromagnetic measurement of the temperature of quark-gluon plasma produced in central ultrarelativistic nuclear collisions",
-      "link": "https://arxiv.org/abs/2205.12299",
-      "authors": "Jean-Fran\\c{c}ois Paquet, Steffen A. Bass",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2205.12299v2 Announce Type: replace \nAbstract: Ultrarelativistic collisions of large nuclei produce a short-lived plasma of deconfined quarks and gluons. Of all the GeV-energy photons detected in these nuclear collisions, only a small number are emitted directly by the quark-gluon plasma. The characteristic near-exponential energy spectrum of these photons is often associated with an effective temperature whose interpretation is complicated by spacetime averaging, Doppler shifts and other factors. We show that the Doppler shift's effect on the slope of the photon spectrum is generally modest and can either increase or decrease the slope, in contrast to the commonly assumed blue-shifting of the photon spectrum. We make the case that a minimal degree of modelling of quark-gluon plasma expansion provides a reasonable mapping between the slope of the photon energy spectrum and the maximum temperature of the plasma, as long as the slope is extracted at a reasonably high photon energy and thermal photons can be isolated from non-thermal sources. Validating our approach using state-of-the-art numerical calculations of photon production, we highlight the challenges of contamination from non-thermal sources."
+      "title": "Deciphering the universal scaling of particle transverse momentum spectra in heavy-ion collisions",
+      "link": "http://link.aps.org/doi/10.1103/2dp4-q43h",
+      "authors": "Xi-Yao Guo, Hua Zheng, Wen-Chao Zhang, Li-Lin Zhu, Xing-Quan Liu, Zhi-Guang Tan, Dai-Mei Zhou, and Ben-Hao Sa",
+      "source": "Physical Review C",
+      "summary": "Author(s): Xi-Yao Guo, Hua Zheng, Wen-Chao Zhang, Li-Lin Zhu, Xing-Quan Liu, Zhi-Guang Tan, Dai-Mei Zhou, and Ben-Hao SaWe systematically investigate the scaling properties of the transverse momentum spectra for pions, kaons, and protons in $\\mathrm{Au}+\\mathrm{Au}$ collisions at $\\sqrt{{s}_{NN}}=7.7$, 11.5, 14.5, 19.6, 27, 39, 62.4, and 200 GeV, as well as in $\\mathrm{U}+\\mathrm{U}$ collisions at $\\sqrt{{s}_{NN}}=19…[Phys. Rev. C 114, 024902] Published Mon Aug 03, 2026"
     },
     {
-      "title": "Dineutron clusters",
-      "link": "https://epja.epj.org/10.1140/epja/s10050-026-01887-4",
-      "authors": "Takashi Nakamura, Kouichi Hagino, Yosuke Kondo",
-      "source": "European Physical Journal A",
-      "summary": "Authors: Takashi Nakamura, Kouichi Hagino and Yosuke Kondo.The European Physical Journal A Vol. 62 , page 144Published online: 21/7/2026\n       Keywords:"
+      "title": "Semi-inclusive deep-inelastic scattering on a polarized spin-1 target. I. Cross section and spin observables",
+      "link": "http://link.aps.org/doi/10.1103/cwp5-7c96",
+      "authors": "W. Cosyn and C. Weiss",
+      "source": "Physical Review C",
+      "summary": "Author(s): W. Cosyn and C. WeissWe develop the theoretical framework for semi-inclusive deep-inelastic scattering on a polarized spin-1 target and apply it to scattering on the polarized deuteron with spectator nucleon tagging. In Part I (this article) we present the general form of the semi-inclusive cross section and polarizatio…[Phys. Rev. C 114, 025201] Published Mon Aug 03, 2026"
     },
     {
-      "title": "An analytic model for nucleus–nucleus reaction cross sections",
-      "link": "https://epja.epj.org/10.1140/epja/s10050-026-01906-4",
-      "authors": "E. C. Simpson",
-      "source": "European Physical Journal A",
-      "summary": "Authors: E. C. Simpson.The European Physical Journal A Vol. 62 , page 146Published online: 22/7/2026\n       Keywords:"
-    },
-    {
-      "title": "Finite-box effects in the axial-vector form factor: a case study for the nucleon",
-      "link": "https://epja.epj.org/10.1140/epja/s10050-026-01811-w",
-      "authors": "Felix Hermsen, Tobias Isken, Matthias F. M. Lutz, Rob G. E. Timmermans",
-      "source": "European Physical Journal A",
-      "summary": "Authors: Felix Hermsen, Tobias Isken, Matthias F. M. Lutz and Rob G. E. Timmermans.The European Physical Journal A Vol. 62 , page 145Published online: 22/7/2026"
-    },
-    {
-      "title": "Experimental 183$$^\\text {183}$$W(n, n’ γ$$\\gamma $$) and (n, 2n γ$$\\gamma $$) reaction cross sections",
-      "link": "https://epja.epj.org/10.1140/epja/s10050-026-01901-9",
-      "authors": "Greg Henning, A. Bacquias, D. Bernard, C. Borcea, M. Boromiza, R. Capote, A. Coman, C. de Saint Jean, Ph. Dessagne, M. Dupuis, J.-C. Drohé, K. H. Guber, S. Hilaire, M. Kerveno, M. Kavatsyuk, T. Kawano, A. Negret, G. Noguere, M. Nyman, A. Oprea, C. Paradela, A. J. M. Plompen, P. Romain, G. Rudolf, P. Scholtes",
-      "source": "European Physical Journal A",
-      "summary": "Authors: Greg Henning, A. Bacquias, D. Bernard, C. Borcea, M. Boromiza, R. Capote, A. Coman, C. de Saint Jean, Ph. Dessagne, M. Dupuis, J.-C. Drohé, K. H. Guber, S. Hilaire, M. Kerveno, M. Kavatsyuk, T. Kawano, A. Negret, G. Noguere, M. Nyman, A. Oprea, C. Paradela, A. J. M. Plompen, P. Romain, G. Rudolf and P. Scholtes.The European Physical Journal A Vol. 62 , page 147Published online: 26/7/2026\n       Keywords:"
-    },
-    {
-      "title": "Neutron-induced reaction cross-sections of natCd with fast neutrons based on the 9Be(p, n) reaction",
-      "link": "https://epja.epj.org/10.1140/epja/s10050-026-01910-8",
-      "authors": "Haladhara Naik, Guinyun Kim, Muhammad Zaman, Muhammad Nadeem, Muhammad Sahid",
-      "source": "European Physical Journal A",
-      "summary": "Authors: Haladhara Naik, Guinyun Kim, Muhammad Zaman, Muhammad Nadeem and Muhammad Sahid.The European Physical Journal A Vol. 62 , page 148Published online: 26/7/2026\n       Keywords:"
-    },
-    {
-      "title": "Seed-robust PINN determination of s-wave bound states and jost-function-based vertex constants in Λ208$$_{\\Lambda }^{208}$$Pb",
-      "link": "https://epja.epj.org/10.1140/epja/s10050-026-01918-0",
-      "authors": "J. T. Tshipi, A. S. Cornell",
-      "source": "European Physical Journal A",
-      "summary": "Authors: J. T. Tshipi and A. S. Cornell.The European Physical Journal A Vol. 62 , page 149Published online: 27/7/2026"
-    },
-    {
-      "title": "Sequential kinetic freeze-out in p-Pb collisions at the LHC from identified-hadron spectra",
-      "link": "https://epja.epj.org/10.1140/epja/s10050-026-01925-1",
-      "authors": "Sameer Ahmad Mir, Iqbal Mohi Ud Din, Saeed Uddin",
-      "source": "European Physical Journal A",
-      "summary": "Authors: Sameer Ahmad Mir, Iqbal Mohi Ud Din and Saeed Uddin.The European Physical Journal A Vol. 62 , page 150Published online: 27/7/2026"
-    },
-    {
-      "title": "On fast charged particles scattering on periodic atomic planes",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326006556?dgcid=rss_sd_all",
-      "authors": "Unknown",
-      "source": "Physics Letters B",
-      "summary": "Publication date: September 2026Source: Physics Letters B, Volume 880Author(s): Viktoriia D. Omelchenko"
-    },
-    {
-      "title": "Semiclassical Analysis of Fusion Dynamics of ⁶Li with ⁹⁶Zr, ¹⁴⁴Sm, and ²⁰⁹Bi Targets using Phenomenological Potentials at Near Barrier Energies",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0375947426001648?dgcid=rss_sd_all",
-      "authors": "Unknown",
-      "source": "Nuclear Physics A",
-      "summary": "Publication date: Available online 1 August 2026Source: Nuclear Physics AAuthor(s): Nisha Malik, Rajesh Kharab"
-    },
-    {
-      "title": "Probing Kaons as Light-Strange Tetraquarks Through Spectral and Decay Dynamics",
-      "link": "https://link.springer.com/article/10.1007/s00601-026-02072-5",
-      "authors": "Unknown",
-      "source": "Few-Body Systems",
-      "summary": "Motivated by the discovery of several kaon-like states observed at BESIII and LHCb, this study explores S-wave and P-wave tetraquark states with quark contents $$ ss\\bar{s}\\bar{q} $$ and $$ sq\\bar{q}\\bar{q} $$ using potential-based phenomenology. The tetraquarks are modeled as diquark-antidiquark systems in antitriplet-triplet and sextet-antisextet color configurations. The mass spectra are calculated using the Cornell potential, while decay properties are analyzed through Fierz rearrangement. A comparison with experimentally observed states is provided to enhance our understanding of light-light tetraquark systems with non-homogeneous quark compositions."
+      "title": "Semi-inclusive deep-inelastic scattering on a polarized spin-1 target. II. Deuteron and spectator nucleon tagging",
+      "link": "http://link.aps.org/doi/10.1103/nf26-tkx7",
+      "authors": "W. Cosyn and C. Weiss",
+      "source": "Physical Review C",
+      "summary": "Author(s): W. Cosyn and C. WeissWe develop the theoretical framework for semi-inclusive deep-inelastic scattering on a polarized spin-1 target and apply it to scattering on the polarized deuteron with spectator nucleon tagging. In Part I (previous article), we present the general form of the semi-inclusive cross section and polari…[Phys. Rev. C 114, 025202] Published Mon Aug 03, 2026"
     }
   ]
 }
