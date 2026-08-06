@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-05T03:53:51.364603",
+  "lastUpdated": "2026-08-06T03:58:34.841002",
   "papers": [
     {
       "title": "Increasing Octupole Collectivity across the $Z=64$ Isotopic Chain: B(E3) Values in $^{150}\\mathrm{Gd}$",
@@ -67018,6 +67018,167 @@
       "authors": "Shu-Xiang Ma, 淑祥 马, Jian-Hua Gao and 建华 高",
       "source": "Chinese Physics C",
       "summary": "We investigate the frame dependence of distribution functions within the framework of generalized chiral kinetic theory. Based on the derived transformation rules governing the choice of frame, we analytically obtain the global equilibrium solutions in the presence of vorticity and electromagnetic fields. Our results show that, under the assumption of varying electromagnetic fields, these equilibrium solutions can be uniquely determined."
+    },
+    {
+      "title": "SU3HOB-cgvcs: harmonic-oscillator brackets in the SU(3) basis with isofactors from an external SU(3)$\\,\\supset\\,$SO(3) Clebsch--Gordan library",
+      "link": "https://arxiv.org/abs/2608.02640",
+      "authors": "Augustinas Step\\v{s}ys, Saulius Mickevi\\v{c}ius, Darius Germanas",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2608.02640v1 Announce Type: new \nAbstract: \\DeclareRobustCommand{\\Su}{\\code{Su3cgvcs}}\n  We present SU3HOB-cgvcs, a Fortran~2008 package that computes the general Talmi--Moshinsky harmonic-oscillator transformation brackets, for an arbitrary mass-ratio parameter $d$. These brackets arte constructed in the $\\su{SU}(3)$ basis by the method of Kalinauskas et al. . The transformation is reduced to a single sum over Wigner $d$-functions of the reflection-containing Talmi--Moshinsky matrix weighted by products of $\\su{SU}(3)\\supset\\su{SO}(3)$ isofactors of the chain $\\su{U}(6)\\supset\\su{U}(3)\\times\\su{U}(2)$. SU3HOB-cgvcs obtains these isofactors from the established external Clebsch--Gordan library \\Su{} . In this library they are computed there by the vector-coherent-state (VCS) method. We bridge \\Su{} formalism to ours and this requires two fixes: reinserting a sign/phase factor that depends on each state's radial-quantum number and handling the trivial $(0,0)$ representation analytically. The package reproduces, bracket for bracket to machine precision ($\\sim\\!10^{-13}$), the general Talmi--Moshinsky bracket code of Kamuntavi\\v{c}ius et al. , and demonstrates that a self-contained SU(3)-scheme HOB code can be built on top of a general-purpose SU(3) Clebsch--Gordan library."
+    },
+    {
+      "title": "Predominant Nuclear Excitation by Electron Capture Driven by Beam-Induced Return Currents",
+      "link": "https://arxiv.org/abs/2608.02998",
+      "authors": "Y. Y. Xu, J. T. Qi, H. Peng, K. Jiang, R. Li, Q. Xiao, T. P. Yu, T. W. Huang",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2608.02998v1 Announce Type: new \nAbstract: Predicted nearly five decades ago, nuclear excitation by electron capture (NEEC) remains experimentally elusive because its weak resonant signal is obscured by competing electron-driven excitation channels. Here we show that beam-induced surface return currents naturally overcome this limitation by creating a self-organized resonant electron source for the 8.36-eV nuclear transition in solid-density 229Th. A relativistic electron beam drives localized return currents along the solid surface, which simultaneously generate capture vacancies through impact ionization and provide resonant electrons for NEEC via a drifted Fermi distribution. Their spatial separation from the driving beam and the Pauli exclusion principle strongly suppress competing nuclear excitation by inelastic electron scattering. For experimentally available parameters, we predict 2.40*10^5 NEEC events with a NEEC fraction of 97.68%, and show that the excitation yield can be tuned over several orders of magnitude while preserving NEEC dominance. These results establish beam-induced return currents as a controllable route to resonant nuclear excitation in solids and open a new avenue for studying electron-driven nuclear processes."
+    },
+    {
+      "title": "Does strange meson condensation reduce the moment of inertia of massive proto neutron stars? insights at S = 1 and YL = 0.4",
+      "link": "https://arxiv.org/abs/2608.03022",
+      "authors": "Nie-Cheng Jian, Xian-Feng Zhao",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2608.03022v1 Announce Type: new \nAbstract: We investigate the effects of strange mesons (sigma-star and phi) on the structural and rotational properties of massive proto neutron stars (PNSs) within the relativistic mean-field (RMF) framework. Using the TW99 parametrization with entropy per baryon S=1 and lepton fraction YL=0.4, we solve the TOV equations and compute the moment of inertia via the Hartle-Thorne approximation. Among eight parametrizations, TW99 is chosen as it gives the largest maximum mass. Our results show that strange mesons soften the equation of state at high densities, reducing both the maximum mass and radius. The moment of inertia peaks at a lower central density than the maximum mass, and strange mesons shift this peak toward higher densities while slightly lowering its value. The relative change in I is negligible for PNSs below 2.1 solar mass, but decreases to about -0.6 at 2.7 solar mass, indicating that strangeness effects are most relevant for the most massive stars. Our findings provide useful constraints on the rotational evolution of massive PNSs and their potential gravitational-wave signatures."
+    },
+    {
+      "title": "Microscopic Statistical Calculation of Nuclear Level Density Based on Relativistic Density Functional Theory",
+      "link": "https://arxiv.org/abs/2608.03663",
+      "authors": "Zi-Cheng Wang, Peng-Xiang Du, Jian Li, T. M. Shneidman, Shan-Gui Zhou",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2608.03663v1 Announce Type: new \nAbstract: A microscopic statistical model based on the relativistic density functional theory (RDFT) is developed to calculate the nuclear level density (NLD). The approach employs self-consistent single-particle levels obtained from RDFT as input, incorporates pairing correlations within a finite-temperature Bardeen-Cooper-Schrieffer (BCS) theory, and accounts for rotational and vibrational collective enhancement effects. The spin cut-off parameter is calculated from the single-particle levels, thereby naturally retaining the shell effects and the structural characteristics of different nuclei. Using the shape-coexisting nucleus 98Sr as a representative example, the microscopic origin of the deformation effect on the NLD is investigated. In addition, the calculated NLDs are systematically compared with those from various phenomenological and microscopic models, as well as with available experimental data. The results indicate that although certain discrepancies exist among different models, they exhibit consistent overall evolutionary trends. Meanwhile, the RDFT-based microscopic statistical approach is capable of providing a reasonable description of the experimental NLDs as well as the s- and p-wave neutron resonance spacings."
+    },
+    {
+      "title": "Finite-spectrum Lorentz integral transform calculation of the $^{4}$He photoabsorption cross section in the no-core shell model",
+      "link": "https://arxiv.org/abs/2608.03686",
+      "authors": "P. Yin, H. T. Zhao, C. Y. Zhai, J. P. Vary, H. Li, J. M. Dong, H. J. Ong, X. Zhao, P. J. Fasano, A. M. Shirokov, J. Chen, D. Y. Tao, B. Zhou, C. Ji",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2608.03686v1 Announce Type: new \nAbstract: We develop and validate a finite-spectrum implementation of the Lorentz integral transform (LIT) within the \\textit{ab initio} no-core shell model (NCSM) for calculating the photoabsorption cross section of $^4$He. A large set of $1^-$ eigenstates is explicitly calculated in the NCSM, and the LIT is constructed from their excitation energies and the corresponding $E1$ transition strengths. This finite-spectrum approach is complementary to conventional inhomogeneous-equation and Lanczos-based implementations of the LIT method for photoabsorption cross sections. Using the Daejeon16 interaction, we extract the photoabsorption cross section and examine its stability with respect to the model-space truncation, excitation-energy cutoff, and LIT parameters. The reliability of the finite-spectrum extraction is assessed by comparing the $E1$ polarizability and bremsstrahlung sum rule obtained from the discrete NCSM spectrum with the same quantities obtained by integrating the extracted cross section. The extracted cross section captures the principal features of the available $^4$He photonuclear data in the giant-dipole-resonance region and is consistent, in the low-energy rise and main-peak region, with earlier chiral-interaction NCSM-LIT results obtained from Lanczos-based evaluations, while the present calculation with the Daejeon16 interaction exhibits a more pronounced high-energy shoulder. The present work provides a controlled finite-spectrum NCSM-LIT route from explicitly calculated many-body eigenstates and transition strengths to photoabsorption cross sections."
+    },
+    {
+      "title": "Constructing Effective Interactions via Projection-Based Inversion",
+      "link": "https://arxiv.org/abs/2608.03748",
+      "authors": "Hang Yu, Serdar Elhatisari, Sebastian K\\\"onig, Dean Lee, Yuan-Zhuo Ma, Takayuki Miyagi",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2608.03748v1 Announce Type: new \nAbstract: We present a numerical prescription for extracting continuum scattering information from discrete spectra by constraining effective interactions inspired by effective field theory (EFT). Using a Multiparameter Eigenvalue Problem (MEP) emulator, we map energies to a sum of contact potentials by recasting the inverse problem as a linear eigenvalue equation. Because our method determines the effective interaction rather than the scattering amplitude, it can handle non-perturbative Coulomb interactions and different types of truncated Hilbert spaces without analytic quantization conditions. It therefore allows standard bound-state codes to be used for scattering calculations without modification. We validate this prescription across multiple ab initio frameworks using neutron-alpha scattering, alpha-alpha scattering with full Coulomb, and a prediction of proton-$^{14}$O resonances."
+    },
+    {
+      "title": "Local Spin Polarization in Anisotropic Gubser Flow: Suppression Mechanism and Formulation Dependence",
+      "link": "https://arxiv.org/abs/2608.03945",
+      "authors": "Kenji Fukushima, Shi Pu, Dong-Lin Wang",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2608.03945v1 Announce Type: new \nAbstract: We analytically study the longitudinal spin polarization in relativistic heavy-ion collisions using a perturbed Gubser flow solution. In the large-system-size limit, we derive analytical expression of the local spin polarization along the beam direction. In our treatment, the contributions from thermal vorticity and thermal shear are of comparable magnitudes. The thermal vorticity yields the polarization with a sign opposite to that observed experimentally, while the thermal shear counteracts this effect, helping recover the desired sign. We find that the choice of the reference unit vector aligned with the fluid velocity gives the experimentally observed sign only at low transverse momenta, whereas another formulation with the unit vector fixed along the laboratory time direction yields the desired sign for a wide range of transverse momenta. Notably, a recent formulation with the unit vector normal to the freeze-out hypersurface exhibits an exact cancellation between contributions from thermal vorticity and thermal shear at leading order in the large-system-size limit. We identify a general cancellation pattern with acceleration dominance, which is manifest particularly in the latter two formulations. Thus, the total polarization originates from non-acceleration effects, which need not be substantial even when the elliptic flow is finite, as clearly demonstrated in our analytical results. For comparison, we also discuss the spin polarization in the Hubble flow with rotation."
+    },
+    {
+      "title": "The Momentum Fraction, Helicity and Transversity Isovector Moments of Nucleons from \\texorpdfstring{$2+1$}{2+1}-flavor Lattice QCD",
+      "link": "https://arxiv.org/abs/2608.02836",
+      "authors": "Santanu Mondal, Rajan Gupta, Sungwoo Park, Jun-sik Yoo, Tanmoy Bhattacharya, Boram Yoon, B\\'alint Jo\\'o, Frank Winter",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2608.02836v1 Announce Type: cross \nAbstract: Results for the isovector momentum fraction, $\\langle x \\rangle_{u-d}$, helicity moment, $\\langle x \\rangle_{\\Delta u-\\Delta d}$, and the transversity moment, $\\langle x\\rangle_{\\delta u-\\delta d}$, of the nucleon are presented using high-statistics data on thirteen NME ensembles of gauge configurations generated by the JLab/W\\&amp;M/LANL/MIT/Marseille collaborations using $2+1$-flavors of dynamical Wilson-clover quarks. The much higher statistics facilitated better control over all systematics compared to our previous lattice calculation. The least controlled systematic---excited-state contamination---is quantified by studying the variation of the results as a function of three estimates of the mass gap of the first excited state, obtained from two- and three-point correlation functions. The final results are obtained using a simultaneous fit to extrapolate in the lattice spacing, $a$, pion and kaon masses, $M_\\pi$ and $M_K$, and the finite volume parameter, $M_\\pi L$. The data show no significant finite-volume correction, and some dependence on the lattice spacing and the renormalization factors. The largest systematic uncertainty is due to possible remaining excited states contributions. Our final results, in the $\\overline{\\rm MS}$ scheme at 2~GeV, are $\\langle x \\rangle_{u-d} = 0.154(10)(9)$, $\\langle x \\rangle_{\\Delta u-\\Delta d} = 0.177(10)(15)$ and $\\langle x \\rangle_{\\delta u-\\delta d} = 0.197(12)(18)$, where the first error is the overall statistical uncertainty and the second represents the various systematic uncertainties added in quadrature. Results for the momentum fraction and helicity moment are consistent with phenomenological global fit values, while the transversity moment is a prediction."
+    },
+    {
+      "title": "The Utility of Sparse Error Detection in Quantum Simulations",
+      "link": "https://arxiv.org/abs/2608.02944",
+      "authors": "Henry Froland, Dorota M. Grabowska, Sebastian Grieninger, Jeremy Hartse, Anne L. Lashbrook, Zhiyao Li, Ziyuan Li, Sarah J. M. Powell, Martin J. Savage, Xiaojun Yao, Nikita A. Zemlevskiy",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2608.02944v1 Announce Type: cross \nAbstract: The recent success of error detecting codes points toward their potential application to fault-tolerant simulations of nature. In this work, we examine the utility of sparse error detection for simulating lattice gauge theories using quantum computers. In particular, we study the time evolution of the lattice Schwinger model embedded into the Iceberg code family, $[[N+2, N, 2]]$, as well as the Hypercube code family, $[[2^N, N, 2]]$. The lattice of electrons and positrons in the axial gauge is embedded into a single code block or into multiple code blocks, and this work finds that large codeblocks are advantageous in the absence of connectivity constraints. Noisy classical simulations with realistic near-term error rates, infrequent syndrome measurements and physics-aware postselection are found to improve observable estimation. Under realistic noise rates for near-term quantum computers, this work finds that sparse error detection in quantum simulations has the potential to improve accuracy of observable estimation. Additional rounds of error detection are found to systematically drive errors in observables to the noise floor set by the code. These findings suggest that incorporating minimal implementations of fault tolerance in the near-term will enhance the performance of quantum simulations in nuclear physics and high-energy physics."
+    },
+    {
+      "title": "Critical coupling with zero-mode corrections in discretized light-cone quantized $\\phi^4$ theory",
+      "link": "https://arxiv.org/abs/2608.02972",
+      "authors": "Shreeram Jawadekar, Mamoon A. Sharaf, James P. Vary",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2608.02972v1 Announce Type: cross \nAbstract: We present an advancement for solving the Discretized Light-Cone Quantization (DLCQ) Hamiltonian for mass spectra in 2D $\\phi^4$ theory that incorporates perturbative zero-mode contributions. We demonstrate that this correction accelerates numerical convergence of the mass eigenstates with increasing resolution and yields a critical coupling of comparable accuracy with a substantial reduction in computational costs. Specifically, with more than one order of magnitude reduction in basis space dimensionality we achieve an extrapolated critical coupling of $23.10 \\pm 0.25$ compared with $23.53 \\pm 0.26$ in the larger basis but without zero-mode correction. We employ Gaussian Process Regression for extrapolation to the continuum limit. The approach we present here is prospective for studies of higher-dimensional gauge theories."
+    },
+    {
+      "title": "Faddeev equations for the $J/\\psi\\,NN$ and $\\phi\\,NN$ three-body systems in momentum space",
+      "link": "https://arxiv.org/abs/2608.03162",
+      "authors": "Xu Zhang",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2608.03162v1 Announce Type: cross \nAbstract: We construct Faddeev equations for the $J/\\psi\\,NN$ and $\\phi\\,NN$ three-body systems in momentum space. The two-body subsystem $t$-matrix is obtained by solving the Lippmann-Schwinger equations. The $NN$ interactions are constructed using the Malfliet-Tjon potential. The $J/\\psi\\,N$ interaction potentials in the ${}^4S_{3/2}$ and ${}^2S_{1/2}$ channels are taken from HAL QCD. The $\\phi\\,N$ interaction potential in the ${}^4S_{3/2}$ channel is also taken from HAL QCD. The ${}^2S_{1/2}$ $\\phi N$ interaction is obtained from the combination of the $\\phi p$ correlation function analysis and the HAL QCD results, as well as from the assumption that the spin-spin parts of the $\\phi N$ and $J/\\psi N$ interactions are inversely proportional to the respective hadron masses. The Faddeev equations are solved to find bound states in the $J/\\psi\\,NN$ and $\\phi\\,NN$ three-body systems. The numerical results suggest that there exist bound states in the $\\phi\\,NN$ three-body system, while there is no bound state in the $J/\\psi\\,NN$ system."
+    },
+    {
+      "title": "On the nature of fully-charmed four-quark exotic state $X(6900)$ from its photoproduction off nuclei",
+      "link": "https://arxiv.org/abs/2608.03374",
+      "authors": "E. Ya. Paryev",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2608.03374v1 Announce Type: cross \nAbstract: The possibility to study the nature of fully-charmed tetraquark state $X(6900)$ from its inclusive photoproduction off nuclei near the kinematic threshold is investigated within the collision model based on the nuclear spectral function. The model accounts for $X(6900)$ production in direct photon--nucleon interactions as well as three different scenarios for its internal structure: compact tetraquark, molecule of the two hidden-charm $J/\\psi$ and $\\psi(3770)$ mesons and the mixture of both of them. We calculate within these scenarios the absolute and relative excitation functions on $^{12}$C and $^{184}$W nuclei at near-threshold photon energies of 30--40 GeV, the absolute momentum differential cross sections and ratios of them for the $X(6900)$ meson production off these target nuclei at laboratory polar angles of 0$^{\\circ}$--5$^{\\circ}$ and for photon energy of 35 GeV as well as the A-dependences of its transparency ratios at photon energy of 35 GeV. We show that these observables reveal a definite sensitivity to the $X(6900)$ intrinsic structure. Therefore, they might be useful for the determination of this structure from the comparison of them with the experimental data from the future experiments at the upcoming experimental facilities, such as the planned electron-ion colliders in the United States and China."
+    },
+    {
+      "title": "Statistical and non-statistical $\\gamma$-decay properties of $^{64}$Zn",
+      "link": "https://arxiv.org/abs/2608.03943",
+      "authors": "A. C. Larsen, M. Guttormsen, T. K. Eriksen, G. M. Tveten, H. Utsunomiya, J. K. Dahl, N. Shimizu, T. Ari-izumi, F. L. Bello Garrote, L. T. Bell, M. M. Bj{\\o}r{\\o}en, F. W. Furmyr, D. Gjestvang, A. G\\\"orgen, V. W. Ingeberg, K. C. W. Li, E. Lima, M. Markova, E. F. Matthews, A. H. Mj{\\o}s, S. Miyamoto, V. Modamio, T. Renstr{\\o}m, E. Sahin, S. Siem, M. Wiedeking",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2608.03943v2 Announce Type: cross \nAbstract: We present a study on the $\\gamma$-decay properties of $^{64}$Zn using the Oslo method on $^{64}$Zn($p,p^\\prime \\gamma$) data combined with $^{64}$Zn$(\\gamma,n)$ cross-section measurements at the NewSUBARU facility. With the Oslo method, we have measured the $\\gamma$-ray strength function ($\\gamma$SF) and the nuclear level density (NLD) below the neutron threshold. We observe that the NLD trend in the quasi-continuum region of $^{64}$Zn is best characterized by a constant-temperature-like model. %with temperature parameter $T_{\\rm CT}=1.21(5)$ MeV. Surprisingly, we find that $\\gamma$-ray transitions from the quasi-continuum decaying directly to the $0^+$ ground state seem to be strongly hindered with a hindrance factor of $\\kappa \\approx 0.5$, which could be an indication of non-statistical effects in the ground-state decay due to, \\textit{e.g.}, differences in nuclear shapes. For $\\gamma$ energies above the neutron separation energy, the NewSUBARU ($\\gamma, n$) data set probes a significant part of the giant dipole resonance. Furthermore, we find that the Oslo-method $\\gamma$SF shows a rather smooth behavior, with a clear low-energy enhancement (LEE) for $E_{\\gamma} < 4$ MeV."
+    },
+    {
+      "title": "Anisotropy effects on heavy quark dynamics in Gribov modified gluon plasma",
+      "link": "https://iopscience.iop.org/article/10.1088/1361-6471/ae8ff4",
+      "authors": "Sumit, Jai Prakash, Santosh Kumar Das and Najmul Haque",
+      "source": "Journal of Physics G: Nuclear and Particle Physics",
+      "summary": "In the early stages of relativistic heavy-ion collisions, the quark-gluon plasma’s momentum distribution is anisotropic, leading to instabilities driven by chromomagnetic plasma modes. In this work, we consider the anisotropic momentum distribution of the medium constituents to investigate its effects on charm and bottom quark dynamics using the nonperturbative Gribov resummation approach within the Fokker–Planck equation framework. Specifically, we investigate the impact of nonperturbative effects and weak anisotropies on the heavy-quark transport coefficients, accounting for the angular dependence of the anisotropy vector relative to the heavy-quark motion direction. Furthermore, the calculated drag and diffusion coefficients are used to estimate heavy-quark energy loss and the nuclear modification factor, accounting for both elastic and inelastic collisions. Our findings indicate that momentum anisotropy, angular dependence, and nonperturbative effects—captured through the scattering amplitudes—play a significant role in determining the transport properties of heavy quarks."
+    },
+    {
+      "title": "Null strings gauged and reloaded, II: Consistent classical treatment of the null strings",
+      "link": "https://www.sciencedirect.com/science/article/pii/S037026932600626X?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: September 2026Source: Physics Letters B, Volume 880Author(s): M.M. Sheikh-Jabbari, H. Yavartanoo"
+    },
+    {
+      "title": "Kink collisions in a two-dimensional gravity model",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326006660?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: September 2026Source: Physics Letters B, Volume 880Author(s): Zhen-Tao He, Yuan Zhong"
+    },
+    {
+      "title": "Scaling solutions of matter form factors in asymptotically safe quantum gravity",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326006659?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: September 2026Source: Physics Letters B, Volume 880Author(s): Alfio M. Bonanno, Diego Buccio, Emiliano M. Glaviano, Frank Saueressig"
+    },
+    {
+      "title": "Attractive and repulsive Yang-Mills–Higgs magnetic monopoles on IR<sup>3</sup>",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326006465?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: September 2026Source: Physics Letters B, Volume 880Author(s): Francisco Navarro-Lérida, Eugen Radu, D.H. Tchrakian"
+    },
+    {
+      "title": "Constraints on the Inert Doublet Model of dark matter with very high-energy gamma-ray observatories",
+      "link": "https://www.sciencedirect.com/science/article/pii/S037026932600660X?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: September 2026Source: Physics Letters B, Volume 880Author(s): Lucca Radicce Justino, Clarissa Siqueira, Aion Viana"
+    },
+    {
+      "title": "Inflationary dynamics in modified gravity: Implications from swampland/landscape criteria and P-ACT-LBBK18 observational data",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326006489?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: September 2026Source: Physics Letters B, Volume 880Author(s): Saeed Noori Gashti"
+    },
+    {
+      "title": "Physical viability of dark energy compact stars in <em>f</em>(<em>R</em>) gravity using Durgapal-Fuloria solutions",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326006258?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: September 2026Source: Physics Letters B, Volume 880Author(s): Shah Muhammad, M. Ilyas, Euaggelos E. Zotos"
+    },
+    {
+      "title": "Growth factor in teleparallel Gauss-Bonnet gravity",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326006581?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: September 2026Source: Physics Letters B, Volume 880Author(s): Shivam Kumar Mishra, Jackson Levi Said, B. Mishra"
+    },
+    {
+      "title": "NN and 3N tensor force in the <math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si3.svg\" class=\"math\"><mrow><mi>N</mi><mo linebreak=\"goodbreak\">=</mo><mn>34</mn></mrow></math> shell evolution: An <em>ab initio</em> perspective",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326006520?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: September 2026Source: Physics Letters B, Volume 880Author(s): Anil Kumar, Takayuki Miyagi, Noritaka Shimizu"
     }
   ]
 }
