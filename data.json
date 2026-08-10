@@ -1,12 +1,19 @@
 {
-  "lastUpdated": "2026-08-09T02:58:12.404272",
+  "lastUpdated": "2026-08-10T03:07:08.941317",
   "papers": [
     {
-      "title": "First law for nonsingular black holes in 2D dilaton gravity",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326006775?dgcid=rss_sd_all",
+      "title": "Structure of the semi-magic <sup>203</sup>Ir and <sup>202</sup>Os nuclei",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326006416?dgcid=rss_sd_all",
       "authors": "Unknown",
       "source": "Physics Letters B",
-      "summary": "Publication date: September 2026Source: Physics Letters B, Volume 880Author(s): Peng Yu, Yuan Zhong"
+      "summary": "Publication date: September 2026Source: Physics Letters B, Volume 880Author(s): G. Bartram, Zs. Podolyák, H.M. Albers, M. Górska, E. Haettner, N. Hubbard, M. Polettini, C.J. Wilson, J. Acosta, G. Aggez, M. Al-Aqeel, B. Alayed, A. Alharbi, S. Alhomaidhi, F. Amjad, T. Arici, M. Armstrong, M. Bajzek, A.M. Banerjee, J. Bardak"
+    },
+    {
+      "title": "Hierarchical Fractional <i>N</i>-Body Dynamics: Structural Analogies and Computational Benchmarks Against Classical Gravitational Few-Body Problems",
+      "link": "https://link.springer.com/article/10.1007/s00601-026-02074-3",
+      "authors": "Unknown",
+      "source": "Few-Body Systems",
+      "summary": "We present a systematic comparison of the hierarchical fractional N-body framework of Chishtie (Phys. Open 27, 100391, [4]) with three classical benchmarks in gravitational few-body dynamics, establishing structural analogies with the Kepler two-body radial free-fall, Euler’s two-fixed-centre problem, and Hill’s restricted lunar theory, together with quantitative computational benchmarks. The framework derives exact closed-form solutions to hierarchical configurations through Riesz fractional dynamics, yielding the fundamental scaling law $$\\alpha _k = 2 - 2/(N_k+1)$$ connecting the correlation exponent to subsystem particle number. For the hierarchical three-body configuration with $$N_k= 2$$, the effective radial ODE is $$\\ddot{r} = -(2/N_k)\\omega ^2 r^{(1-N_k)/N_k}$$ and the parametric solution $$r_3(\\theta ) = a^4\\sin ^4\\theta $$ conserves energy at the double-precision floor ($$\\textrm{std}/E_0 \\sim 10^{-16}$$) with Chebyshev cubic inversion residuals below $$3\\times 10^{-15}$$. The effective potential satisfies the virial relation $$\\langle T\\rangle /\\langle V\\rangle = 1/(2N_k)$$ exactly over the finite infall interval, providing an independent consistency check on the framework. The parametric structure is closely analogous to that of the Kepler radial free-fall via eccentric anomaly representation and to the Euler two-fixed-centre problem at equal masses and large separation ($$r_3 \\gg c$$, quadrupole/monopole ratio $$0.49\\%$$ at the reference separation); the Hill radius arises naturally as the inner-subsystem scale at hierarchical level k. The universal near-collision velocity exponent $$\\gamma = 1$$ is confirmed analytically for all $$N_k\\ge 1$$; the fitted position exponent increases monotonically from 1.02 ($$N_k=1$$) to 1.22 ($$N_k=5$$), remaining within the theoretically predicted interval (1, 2) throughout. Computational benchmarks demonstrate speedups of 212–505 times over DOP853 adaptive integration across all tested configurations while maintaining energy conservation at $$\\textrm{std}/E_0 \\le 1.82\\times 10^{-16}$$ across 15 parameter combinations."
     }
   ]
 }
