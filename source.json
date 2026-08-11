@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-10T03:07:08.809720",
+  "lastUpdated": "2026-08-11T03:00:07.510898",
   "papers": [
     {
       "title": "Increasing Octupole Collectivity across the $Z=64$ Isotopic Chain: B(E3) Values in $^{150}\\mathrm{Gd}$",
@@ -67501,6 +67501,244 @@
       "authors": "Unknown",
       "source": "Few-Body Systems",
       "summary": "We present a systematic comparison of the hierarchical fractional N-body framework of Chishtie (Phys. Open 27, 100391, [4]) with three classical benchmarks in gravitational few-body dynamics, establishing structural analogies with the Kepler two-body radial free-fall, Euler’s two-fixed-centre problem, and Hill’s restricted lunar theory, together with quantitative computational benchmarks. The framework derives exact closed-form solutions to hierarchical configurations through Riesz fractional dynamics, yielding the fundamental scaling law $$\\alpha _k = 2 - 2/(N_k+1)$$ connecting the correlation exponent to subsystem particle number. For the hierarchical three-body configuration with $$N_k= 2$$, the effective radial ODE is $$\\ddot{r} = -(2/N_k)\\omega ^2 r^{(1-N_k)/N_k}$$ and the parametric solution $$r_3(\\theta ) = a^4\\sin ^4\\theta $$ conserves energy at the double-precision floor ($$\\textrm{std}/E_0 \\sim 10^{-16}$$) with Chebyshev cubic inversion residuals below $$3\\times 10^{-15}$$. The effective potential satisfies the virial relation $$\\langle T\\rangle /\\langle V\\rangle = 1/(2N_k)$$ exactly over the finite infall interval, providing an independent consistency check on the framework. The parametric structure is closely analogous to that of the Kepler radial free-fall via eccentric anomaly representation and to the Euler two-fixed-centre problem at equal masses and large separation ($$r_3 \\gg c$$, quadrupole/monopole ratio $$0.49\\%$$ at the reference separation); the Hill radius arises naturally as the inner-subsystem scale at hierarchical level k. The universal near-collision velocity exponent $$\\gamma = 1$$ is confirmed analytically for all $$N_k\\ge 1$$; the fitted position exponent increases monotonically from 1.02 ($$N_k=1$$) to 1.22 ($$N_k=5$$), remaining within the theoretically predicted interval (1, 2) throughout. Computational benchmarks demonstrate speedups of 212–505 times over DOP853 adaptive integration across all tested configurations while maintaining energy conservation at $$\\textrm{std}/E_0 \\le 1.82\\times 10^{-16}$$ across 15 parameter combinations."
+    },
+    {
+      "title": "Microscopic study of charge properties in halo nuclei",
+      "link": "http://link.aps.org/doi/10.1103/vnmp-n6vf",
+      "authors": "Yun Dong Wang, Hui Hui Xie, Tian Shuai Shang, Peng Xiang Du, Jian Li, Haozhao Liang, and Kaiyuan Zhang",
+      "source": "Physical Review C",
+      "summary": "Author(s): Yun Dong Wang, Hui Hui Xie, Tian Shuai Shang, Peng Xiang Du, Jian Li, Haozhao Liang, and Kaiyuan ZhangEmploying the relativistic continuum Hartree-Bogoliubov (RCHB) theory with intrinsic electromagnetic structure corrections, this work primarily investigates the charge properties of halo nuclei along the Ne and P isotopic chains. Our results characterize halo nuclei by an extended tail in the charge…[Phys. Rev. C 114, 024315] Published Mon Aug 10, 2026"
+    },
+    {
+      "title": "Possible $α$-decay chains of superheavy nuclei $^{293,294,296,298}119$",
+      "link": "http://link.aps.org/doi/10.1103/7g19-974w",
+      "authors": "A. N. Bezbakh, G. G. Adamian, and N. V. Antonenko",
+      "source": "Physical Review C",
+      "summary": "Author(s): A. N. Bezbakh, G. G. Adamian, and N. V. AntonenkoOne- and two-quasiparticle spectra are calculated in superheavy nuclei $^{293}119$ and $^{294,296,298}119$, respectively, within the two-center shell model. Possible $α$-decay chains of those 119 nuclei are analyzed. The role of isomeric states in the $α$-decay spectra is considered. The calculated …[Phys. Rev. C 114, 024316] Published Mon Aug 10, 2026"
+    },
+    {
+      "title": "Low-energy neutrino responses for $^{71}\\mathrm{Ga}$ by electron capture rates, charge exchange reactions, and nuclear shell model calculations",
+      "link": "http://link.aps.org/doi/10.1103/7cw1-f5dj",
+      "authors": "Yoritaka Iwata, Hiroyasu Ejiri, and Shahariar Sarkar",
+      "source": "Physical Review C",
+      "summary": "Author(s): Yoritaka Iwata, Hiroyasu Ejiri, and Shahariar SarkarWeak Gamow-Teller (GT) responses for low-lying states in $^{71}\\mathrm{Ga}$ are crucial for studying low-energy solar neutrinos and the Ga anomaly, i.e., the possible transition to the sterile state. The structures for the ground state, the first excited state, and the second excited state are evalu…[Phys. Rev. C 114, 024317] Published Mon Aug 10, 2026"
+    },
+    {
+      "title": "Extension of relativistic Hartree-Fock-Bogoliubov theory incorporating axially symmetric octupole deformation",
+      "link": "http://link.aps.org/doi/10.1103/9vfy-1c91",
+      "authors": "Yong Peng (彭永), Jing Geng (耿晶), and Wen Hui Long (龙文辉)",
+      "source": "Physical Review C",
+      "summary": "Author(s): Yong Peng (彭永), Jing Geng (耿晶), and Wen Hui Long (龙文辉)The relativistic Hartree-Fock-Bogoliubov (RHFB) framework has been extended to incorporate axially symmetric octupole deformation, leading to the development of the O-RHFB model. This model is applied to analyze the onset of octupole deformation in $^{228}\\mathrm{Th}$ and the proton-drip-line candid…[Phys. Rev. C 114, 024318] Published Mon Aug 10, 2026"
+    },
+    {
+      "title": "Assessing continuum channel importance in continuum-discretized coupled-channels via dynamic polarization potential decomposition",
+      "link": "http://link.aps.org/doi/10.1103/ypj3-p6kw",
+      "authors": "Jin Lei and Hao Liu",
+      "source": "Physical Review C",
+      "summary": "Author(s): Jin Lei and Hao LiuA recurring question in continuum-discretized coupled-channels calculations is which continuum channels carry the breakup coupling, both to interpret the reaction and to decide which channels a model space can safely omit. The standard answer is bin deletion: remove a channel, re-solve the coupled e…[Phys. Rev. C 114, 024605] Published Mon Aug 10, 2026"
+    },
+    {
+      "title": "Diffusion-based point-cloud generation of heavy-ion events",
+      "link": "http://link.aps.org/doi/10.1103/nmmz-bwcs",
+      "authors": "Rita Sadek, Vinicius Mikuni, and Mateusz Płoskoń",
+      "source": "Physical Review C",
+      "summary": "Author(s): Rita Sadek, Vinicius Mikuni, and Mateusz PłoskońHeavy-ion collisions produce final states with thousands to tens of thousands of particles, making their simulation among the most computationally intensive tasks in high-energy nuclear physics. We present a fast, high-fidelity generative model for heavy-ion events based on a score-driven diffusion …[Phys. Rev. C 114, 024904] Published Mon Aug 10, 2026"
+    },
+    {
+      "title": "Characterization of low-energy ionization signals in silicon detectors for the Nab experiment",
+      "link": "http://link.aps.org/doi/10.1103/lqlg-b7cx",
+      "authors": "R. J. Taylor, August Mendelsohn, Arlee Shelby, William C. McCray, Jin Ha Choi, Nicholas Macsai, Grant Riley, Erick Smith, Stefan Baeßler, Leah J. Broussard, Christopher B. Crawford, Michael Gericke, Francisco M. Gonzalez, David Harrison, Leendert Hayen, Mark Makela, Russell Mammei, David G. Mathews, Dinko Poc̆anić, Glenn Randall, Americo Salas-Bacci, W. Scott Wilburn, and A. R. Young",
+      "source": "Physical Review C",
+      "summary": "Author(s): R. J. Taylor, August Mendelsohn, Arlee Shelby, William C. McCray, Jin Ha Choi, Nicholas Macsai, Grant Riley, Erick Smith, Stefan Baeßler, Leah J. Broussard, Christopher B. Crawford, Michael Gericke, Francisco M. Gonzalez, David Harrison, Leendert Hayen, Mark Makela, Russell Mammei, David G. Mathews, Dinko Poc̆anić, Glenn Randall, Americo Salas-Bacci, W. Scott Wilburn, and A. R. YoungThe Nab (Neutron a b) experiment is designed to measure the beta-antineutrino angular correlation in free neutron $β$ decay with an ultimate precision goal of 0.1%, providing input for tests of Cabibbo-Kobayashi-Maskawa matrix unitarity. This measurement is performed via detection of electrons and p…[Phys. Rev. C 114, 025501] Published Mon Aug 10, 2026"
+    },
+    {
+      "title": "Nuclear level density and $γ$-ray strength function of $^{97}\\mathrm{Zr}$",
+      "link": "http://link.aps.org/doi/10.1103/bmw2-h889",
+      "authors": "A. Sebastian, M. K. Smith, A. Spyrou, H. C. Berg, D. L. Bleuel, C. Dembski, P. DeYoung, P. Giuliani, E. C. Good, S. N. Liddick, S. Lyons, D. Muecher, T. H. Ogunbeku, J. Owens-Fryar, A. L. Richard, D. Santiago-Gonzalez, G. Savard, A. Sweet, A. Tsantiri, and S. Uthayakumaar",
+      "source": "Physical Review C",
+      "summary": "Author(s): A. Sebastian, M. K. Smith, A. Spyrou, H. C. Berg, D. L. Bleuel, C. Dembski, P. DeYoung, P. Giuliani, E. C. Good, S. N. Liddick, S. Lyons, D. Muecher, T. H. Ogunbeku, J. Owens-Fryar, A. L. Richard, D. Santiago-Gonzalez, G. Savard, A. Sweet, A. Tsantiri, and S. UthayakumaarIn this work, we use the $β$-Oslo method to investigate the nuclear level density and $γ$-ray strength function of $^{97}\\mathrm{Zr}$. The measurement was performed using the Summing NaI detector at Argonne National Laboratory. The nucleus of interest was populated via the $β$ decay of $^{97}\\mathrm…[Phys. Rev. C 114, 025802] Published Mon Aug 10, 2026"
+    },
+    {
+      "title": "Pair transfer and reaction dynamics in $^{40,48}\\mathrm{Ca}+^{96}\\mathrm{Zr}$ collisions below the Coulomb barrier",
+      "link": "http://link.aps.org/doi/10.1103/fjpt-m78n",
+      "authors": "Ibrahim Abdurrahman, Andrzej Makowski, Guillaume Scamps, Kyle Godbey, and Piotr Magierski",
+      "source": "Physical Review C",
+      "summary": "Author(s): Ibrahim Abdurrahman, Andrzej Makowski, Guillaume Scamps, Kyle Godbey, and Piotr MagierskiSub-barrier fusion reactions are ideal for probing the effects of pairing correlations on simultaneous neutron transfer. Previous calculations using the BCS approximation showed an enhancement of pair transfer, relative to treatments with no pairing, but failed to reproduce the observed enhancement …[Phys. Rev. C 114, L021602] Published Mon Aug 10, 2026"
+    },
+    {
+      "title": "Reconstructability and directed flow of short-lived resonances in Au+Au collisions at 19.6 and 200 GeV",
+      "link": "https://arxiv.org/abs/2608.06444",
+      "authors": "Junyi Han, Xialei Jiang, Hongcan Li, Yaping Wang",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2608.06444v1 Announce Type: new \nAbstract: We present a systematic study of the reconstructability and directed flow of hadronic resonances in Au+Au collisions within the UrQMD transport model. The main objective of this work is to investigate how the hadronic stage influences both resonance reconstructability and the final-state directed flow.\n  A set of short-lived hadronic resonances, including $\\rho^0$, $K^{*0}$, and $\\Lambda(1520)$, is investigated to quantify their yields and reconstructable fractions as a function of charged-particle multiplicity, characterized by $(dN_{ch}/d\\eta)^{1/3}$. We compare results at $\\sqrt{s_{NN}} = 19.6$ and $200 ~\\mathrm{GeV}$ to investigate possible energy-dependent differences in the reconstructability. Such differences reflect variations in the properties of the hadronic medium. The results are further examined as a function of resonance lifetime, revealing a clear ordering of reconstructability among different resonances. Overall, the reconstructability is found to be primarily governed by resonance lifetime. The directed-flow analysis reveals clear differences between resonances and their corresponding stable hadrons in mid-central collisions, while these differences become significantly weaker in peripheral collisions, highlighting the important role of hadronic evolution in shaping the final-state directed flow. These studies provide a unified picture of how the hadronic stage influences both resonance reconstructability and directed flow, offering new insights into resonance observables in relativistic heavy-ion collisions."
+    },
+    {
+      "title": "Momentum Distributions and Spatial Signatures of Proton Halos in the sd Shell",
+      "link": "https://arxiv.org/abs/2608.06524",
+      "authors": "Taslima S. C. Diba, Carlos A. Bertulani, Ronaldo V. Lobato",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2608.06524v1 Announce Type: new \nAbstract: We perform a theoretical study of intermediate-energy quasifree one-proton knockout reactions on proton targets. Single-particle wave functions constrained by the experimental proton separation energies are employed to calculate longitudinal momentum distributions, one-proton removal cross sections, and full momentum-space profiles for $^{26}$P, $^{27}$S and $^{31}$Ar nuclei. To establish robust criteria to identify proton halos, the analysis is extended beyond the traditional momentum-width approach by investigating the spatial extension of the valence proton through root-mean-square radii and the probability that the proton resides outside the core nucleus, $P(r>R_{\\rm core})$. We also examine Coulomb-barrier systematics, mirror-nucleus comparisons, realistic spectroscopic mixtures, finite experimental momentum resolution, and uncertainties associated with the proton separation energy. Our calculations indicate that proton-halo structure cannot be identified reliably from a single observable. A consistent interpretation emerges only when momentum distributions, spatial observables, Coulomb effects, and many-body structure are considered simultaneously. Within the present model, $^{26}$P exhibits the strongest proton-halo signatures, while $^{27}$S retains pronounced halo-like features despite its larger Coulomb barrier. The more strongly confined $^{31}$Ar provides a useful comparison and illustrates the progressive suppression of halo observables with increasing binding and core charge."
+    },
+    {
+      "title": "Analysis of the strengths of the contact potential at N4LO through nuclear and neutron matter",
+      "link": "https://arxiv.org/abs/2608.06610",
+      "authors": "Francesca Sammarruca, Tomiwa Ajagbonna",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2608.06610v1 Announce Type: new \nAbstract: We examine the contact three-nucleon force at N4LO expressed as a density dependent potential. In Ref. [1], the necessary couplings (13, including two that appear in the leading three-nucleon force), were extracted from nd scattering observables. The contact strengths obtained through the three- nucleon continuum, without fi?ts to the triton, seem incompatible with the energy of nuclear and neutron matter. We take the opportunity to revisit the role of the cD, cE couplings of the leading three-nucleon force in nuclear matter and nuclei."
+    },
+    {
+      "title": "Laboratory-frame $T$-matrix and heavy quark drag in the quark-gluon plasma",
+      "link": "https://arxiv.org/abs/2608.06731",
+      "authors": "Anurag Tiwari, Min He",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2608.06731v1 Announce Type: new \nAbstract: Non-perturbative scattering $T$-matrix is a core input for the evaluation of transport phenomena in a strongly-coupled medium. Existing in-medium $T$-matrix calculations are typically formulated in the two-particle center-of-mass frame, where the scattering equation can be reduced to a lower-dimensional problem. However, a medium explicitly breaks Lorentz invariance and defines a preferred reference frame, entailing that physical observables be constructed from scattering amplitudes evaluated in the medium rest (laboratory) frame. In this work, by exploiting the rotational symmetry about the scattering-pair-momentum axis, we develop a practical framework for solving the in-medium two-body $T$-matrix directly in the laboratory frame while retaining the full dependence on the total pair-momentum and scattering geometry. We demonstrate that the resulting amplitudes differ significantly from conventional center-of-mass-frame results and, when applied to heavy-light quark scattering in the quark-gluon plasma (QGP), lead to 25-40% corrections to heavy-quark drag coefficients at low momenta, thereby removing a significant source of theoretical uncertainty in extracting the QGP transport properties with heavy-quark probes."
+    },
+    {
+      "title": "Quantum simulation of bottomonium dynamics in the quark-gluon plasma via the Lindblad equation",
+      "link": "https://arxiv.org/abs/2608.06754",
+      "authors": "Linyuan Wei, Jin Hu, Anping Huang, Yunpeng Liu, Baoyi Chen",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2608.06754v1 Announce Type: new \nAbstract: Quantum computing provides a powerful framework for simulating real-time dynamics in open quantum systems, offering key advantages for modeling heavy-quarkonium transport in high-energy nuclear collisions. In this work, we perform quantum simulations of the isotropic next-to-leading-order Lindblad equation for bottomonium in the quark-gluon plasma using a reduced spherical coordinate representation. We discretize operators and wavefunctions, map the physical state onto qubits, and execute time evolution via parameterized quantum gate operations. By extracting the $\\Upsilon(1S)$ survival probability, we quantitatively isolate the color-octet contribution, demonstrating that its overall impact is small in the final production of the bottomonium ground state $\\Upsilon(1S)$ in the hot QCD medium at temperatures accessible at the Large Hadron Collider. Additionally, we have further optimized the quantum simulation algorithm for the Lindblad equation. The improved algorithm requires only a single ancillary qubit to realize the Lindblad evolution, thereby minimizing the circuit significantly."
+    },
+    {
+      "title": "Microscopic description of the fission process including intrinsic excitations. Part I: 240Pu adiabatic and asymmetric fission path within the Schrodinger Collective Intrinsic Model",
+      "link": "https://arxiv.org/abs/2608.07121",
+      "authors": "P. Carpentier, N. Pillet, R. N. Bernard, L. M. Robledo, D. Lacroix, N. Dubray, D. Regnier, W. Younes",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2608.07121v1 Announce Type: new \nAbstract: This article is the first in a trilogy aimed at presenting the first practical implementation of the Schrodinger Collective-Intrinsic Model (SCIM) applied to nuclear fission. Within the SCIM framework, the many-body wave function explicitly couples collective motion to intrinsic excitations, necessitating sets of Hartree-Fock-Bogoliubov (HFB) configurations that remain continuous and regular across a broad deformation range, from the ground state to scission and beyond. This paper focuses on constructing adiabatic HFB paths suitable for subsequent SCIM dynamical calculations. Standard constrained adiabatic paths often suffer from discontinuities and irregularities, which prevent the direct application of the formalism. To address these challenges, we implement two recently proposed overlap-based protocols, the Link and Drop methods, and combine them into a new numerical procedure.A comparison with the exact Gaussian Overlap Approximation confirms that the resulting adiabatic kernels exhibit properties consistent with the assumptions of the SCIM formalism. The regularized path is then analyzed in the scission region. We identify characteristic structures in the proton and neutron chemical potentials, a pronounced neutron enrichment of the neck at scission, and fragment particle-number distributions displaying a strong odd-even staggering in the proton sector. Finally, using a microscopic fragment-separation procedure formulated in the canonical basis, we extract static scission properties including fragment deformation energies and both Coulomb and nuclear contributions to the fragment interaction energy. These results establish the adiabatic foundations required for future SCIM calculations with intrinsic excitations and provide a microscopic characterization of the scission region in 240Pu."
+    },
+    {
+      "title": "Microscopic description of the fission process including intrinsic excitations. Part II: 240Pu excited and asymmetric fission paths within the Schrodinger Collective",
+      "link": "https://arxiv.org/abs/2608.07131",
+      "authors": "P. Carpentier, N. Pillet, R. N. Bernard, L. M. Robledo, D. Lacroix, N. Dubray, D. Regnier, W. Younes",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2608.07131v1 Announce Type: new \nAbstract: This second article of the trilogy presents the implementation of a third protocol, referred to as Continuous Deflation, designed to construct continuous and regular excited paths within the Schrodinger Collective-Intrinsic Model (SCIM), with applications to nuclear fission. We show that the use of standard 2QP excitations, even when combined with particle-number projection, prevents a consistent application of the SCIM framework. Motivated by the central role of pair breaking in low-energy fission, we explore how to construct intrinsic excited states that incorporate this mechanism while satisfying the continuity and regularity state requirements of the SCIM. To this end, we first analyze the Deflation procedure alone, which constructs excited states through orthogonality constraints. We then extend this construction along a deformation path by introducing an additional continuity constraint, thereby defining the Continuous Deflation method, which generates continuous paths based on excited states. In particular, we construct ten such continuous paths built on top of the adiabatic and asymmetric fission path of 240Pu. The resulting excited states are systematically analyzed in terms of their microscopic structure. We then investigate several fragment properties near scission, including neutron and proton chemical potentials, neutron necking as well as fragment particle-number distributions, and compare them with their adiabatic counterparts."
+    },
+    {
+      "title": "Microscopic description of the fission process including intrinsic excitations. Part III: 240Pu fission dynamics along 1D asymmetric paths within the Schrodinger Collective Intrinsic Model",
+      "link": "https://arxiv.org/abs/2608.07137",
+      "authors": "P. Carpentier, N. Pillet, R. N. Bernard, L. M. Robledo, D. Lacroix, N. Dubray, D. Regnier, W. Younes",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2608.07137v1 Announce Type: new \nAbstract: This last article of the trilogy focuses on the dynamical equation of the Schrodinger Collective-Intrinsic Model (SCIM). First, we motivate and discuss the need to regularize the adiabatic and excited dynamical ingredients entering the collective-intrinsic Hamiltonian, namely the collective potential, the collective inertia tensor, and the collective dissipative tensor. In particular, we introduce a Savitzky-Golay low-pass filter to remove numerical fluctuations incompatible with the second-order truncation in the Symmetric Ordered Product of Operators used to derive the SCIM equations. The diagonal and off-diagonal properties of the three dynamical ingredients are then analyzed along the asymmetric fission path in 240Pu. This study highlights the dominant role of neutron and proton excitation channels, especially in the second well and scission regions, whereas proton-neutron couplings remain essentially negligible. Furthermore, in the adiabatic limit of the SCIM, we perform a comparison with the GOA which reveals very close predictions. Second, we discuss the construction of the initial wave packet and the numerical resolution of the collective-intrinsic Schrodinger equation. Using a continuity equation, we derive the probability fluxes associated with the different components of the wave function, which provide direct access to the contribution of the different excitations to the final observables for the fission problem. The excited states are found to account for more than 80% of the total flux at scission. Finally, we evaluate, the neutron and proton fragment distributions as well as the energy balance, including the total kinetic and excitation energies. The obtained results are found to be consistent with available experimental data and demonstrate the importance of explicitly including intrinsic excitations in the description of fission dynamics."
+    },
+    {
+      "title": "Millisecond-Scale Neural Operator Surrogates for Double-Null Free-Boundary Grad-Shafranov Equilibria",
+      "link": "https://arxiv.org/abs/2608.05555",
+      "authors": "Plamen G. Krastev (Harvard University)",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2608.05555v1 Announce Type: cross \nAbstract: The Grad-Shafranov (GS) equation governs ideal magnetohydrodynamic equilibrium in tokamak plasmas. Free-boundary GS solvers are central to diverted-equilibrium modeling, but nonlinear Picard iteration introduces computational cost and sample-dependent latency that can become prohibitive in optimization, modeling, and control-oriented loops. Here we train a geometrically conditioned Fourier Neural Operator (FNO) to learn a constrained forward map from spatial coordinates, scalar operating parameters $(P_{\\mathrm{axis}}, I_p, f_{\\mathrm{vac}})$, and prescribed X-point locations to the poloidal-flux field $\\psi(R,Z)$. The model is trained on a controlled family of constrained double-null free-boundary equilibria generated with \\textsc{FreeGS} for a single fixed machine geometry and prescribed topology. The best model achieves a mean relative $L^2$ error of $0.05\\%$, with test error following an empirical $N^{-0.68}$ power law over $N_{\\mathrm{train}}\\in\\{500,1000,2000,5000\\}$. It recovers both X-points to within $0.2$ cm and localizes the O-point to $0.03$ cm. As a physics-consistency diagnostic, the predicted fields satisfy an external finite-difference GS residual evaluation at the same level as the ground-truth fields, with mean normalized residual $2.29$, indistinguishable from the $2.29\\pm0.06$ \\textsc{FreeGS} baseline using the same diagnostic. The trained FNO evaluates one equilibrium in $2.77$ ms on GPU and $25.6$ ms on CPU, corresponding to speedups of ${\\sim}640\\times$ and ${\\sim}69\\times$ relative to \\textsc{FreeGS} as configured here, with near-deterministic latency (p95/median $=1.01$). These results show that neural-operator surrogates can provide accurate, geometrically precise, millisecond-scale equilibrium evaluations for magnetic-confinement fusion workflows within a prescribed topology and machine geometry."
+    },
+    {
+      "title": "Quantum Computers will constrain the Equation of State of Neutron Stars",
+      "link": "https://arxiv.org/abs/2608.06515",
+      "authors": "Adri\\'an Casta\\~no-Garc\\'ia, Nahia J. Dios-Bilbao, J. J. G\\'alvez-Viruet, Felipe J. Llanes-Estrada, Mar\\'io Logros\\'an-\\'Alvarez, Nicol\\'as M. Arenaza, Mar\\'ia G\\'omez-Rocha",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2608.06515v1 Announce Type: cross \nAbstract: The Equation of State (EoS) of Nuclear Matter at high densities, and particularly that of neutron stars, resists $\\mathit{ab}$ $\\mathit{initio}$ Quantum Chromodynamics (QCD) computations due to the notorious sign problem of Lattice Gauge Theory at finite chemical potential. A quantum computer deploying QCD in canonical quantization should be able to make substantial progress. We set some basic goals for a future quantum computer to predict the EoS, and thus the basic static observables of the star (mass, radius and Tidal deformability, for example). We then develop the basic theory to address the canonical Hamiltonian in Weyl (time-axial) gauge expressed in normal modes, together with the squared Gauss operator $\\mathcal{G}^2$ necessary to execute energy minimization algorithms restricted to the physical Fock subspace. Finally, we deploy our particle-quantum register encoding of a generic field theory to demonstrate QCD at finite chemical potential for a few (three-four) particles with a modest number of momentum modes, by simulating the quantum computer on a classical cluster. This opens the possibility for effective quantum computers to constrain the microscopic physics of neutron stars simultaneously to the operation of third--generation gravitational wave detectors such as the Einstein Telescope, providing more detailed predictions than has been possible until now."
+    },
+    {
+      "title": "$q\\bar{q}$ scattering phase shift in the $\\pi^0$ channel and ${\\pi}^0$ meson spectral function under external magnetic field and finite meson momentum",
+      "link": "https://arxiv.org/abs/2608.06788",
+      "authors": "Min Zhou, Zhiyang Liu, Yvming Tian, Chonglong Xie, Guoyun Shao, Shijun Mao",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2608.06788v1 Announce Type: cross \nAbstract: $q\\bar{q}$ scattering phase shift in the $\\pi^0$ channel $\\Phi_{\\pi^0}(\\omega^2,\\mathbf{k}_\\perp^2,k^2_3)$ and ${\\pi}^0$ meson spectral function $\\rho_{\\pi^0}(\\omega^2,\\mathbf{k}_\\perp^2,k^2_3)$ under external magnetic field $eB$ and finite meson momentum $\\mathbf{k}_\\perp^2,k^2_3$ are studied in the framework of a two-flavor Nambu-Jona-Lasinio (NJL) model. The $q\\bar{q}$ scattering phase shift in the $\\pi^0$ channel $\\Phi_{\\pi^0}$ is closely related to $\\pi^0$ spectral function $\\rho_{\\pi^0}$. We consider three situations, chiral broken phase ($T=\\mu=0$), chiral restoration phase ($T>T_{pc},\\ \\mu=0$) and chiral restoration phase ($T=0,\\ \\mu>\\mu_{pc}$). For $T=\\mu=0$ and $T>T_{pc},\\ \\mu=0$ cases, ${\\pi}^0$ meson spectral function $\\rho_{\\pi^0}$ shows a delta peak, several Breit-Wigner peaks and several non-Breit-Wigner peaks. The delta peak indicates the bound state of $\\pi^0$ meson, and the Breit-Wigner peak means the resonant state of $\\pi^0$ meson. For $T=0,\\ \\mu>\\mu_{pc}$ case, Pauli blocking effect plays a role, which changes the inner structure of these Breit-Wigner peaks and non-Breit-Wigner peaks. Such multiple peak structure is caused by the external magnetic field. The $q\\bar{q}$ scattering phase shift in the $\\pi^0$ channel $\\Phi_{\\pi^0}$ shows a jump from $0$ to $\\pi$ when $\\pi^0$ meson is in bound state. When $\\pi^0$ meson is in resonant state, $\\Phi_{\\pi^0}$ has the value $\\pi/2$ and changes continuously. In large $\\omega$ region, at the starting and end points of wide peaks of spectral function, $\\Phi_{\\pi^0}$ jumps abruptly (from $\\pi$ to finite value or from finite value to $0$), and such jumps are caused by the external magnetic field. Finite momentum $\\mathbf{k}_\\perp^2$ or $k^2_3$ modifies the spectral function $\\rho_{\\pi^0}$ and scattering phase shift $\\Phi_{\\pi^0}$, which demonstrates the anisotropy in the system induced by external magnetic field."
+    },
+    {
+      "title": "Chiral Doubling of Heavy-Light Hadrons and the New Beauty--Strange $B_{s0}^*(5700)^0$ Candidate",
+      "link": "https://arxiv.org/abs/2608.07268",
+      "authors": "Maciej A. Nowak, Ismail Zahed",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2608.07268v1 Announce Type: cross \nAbstract: The recent observation by the LHCb Collaboration of a new beauty--strange meson $B_{s0}^*(5700)^0$~\\cite{LHCb:2026Bs0star}, under the conditional assignment $J^P=0^+$ provides an important new test of the chiral organization of heavy-light hadrons. More than three decades ago it was proposed that the coexistence of heavy-quark spin symmetry and spontaneously broken chiral symmetry implies that every heavy-light spin multiplet should possess an opposite-parity partner separated by a nearly universal mass gap determined primarily by the dynamics of the light degrees of freedom~\\cite{Nowak:1993vc,Bardeen:1993ae}. This chiral doubling scenario was later developed into a quantitative heavy-hadron effective theory and extended to the complete charm and beauty spectra. In particular, the strange beauty sector was predicted to exhibit a parity splitting closely related to that of the strange charm sector, with only small $1/m_Q$ corrections. We briefly review the symmetry origin of chiral doubling, derive the universal parity splitting through the heavy-hadron chiral effective theory, and discuss the new LHCb observation in the context of the original theoretical predictions. Taken together with the established charm spectrum, if the new beauty-strange state is confirmed to have $J^P=0^+$, its mass is consistent with its interpretation as the chiral partner of the ground state $B_s^0$. Finally, we stress that the above confirmation of the spin and parity imposes in the chiral doubling scenario an existence of yet unobserved, very narrow beauty-strange meson with assignment $1^+$ at 5747 $\\pm$ 2 MeV. This work is dedicated to the memory of our friend and collaborator Mannque Rho (1936--2026)."
+    },
+    {
+      "title": "Critical dynamics of a scalar field near four spatial dimensions",
+      "link": "https://arxiv.org/abs/2608.07292",
+      "authors": "Laura Batini, Eduardo Grossi",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2608.07292v1 Announce Type: cross \nAbstract: The critical dynamics of a non-conserved order parameter is generally expected to become overdamped at long distances, even when propagating modes occur at microscopic or intermediate scales. We investigate the critical dynamics of a scalar field theory in thermal equilibrium which, in addition to local friction and noise, also contains a time-dependent second-order kinetic term. We show how to build a supersymmetric field-theory formulation. Using a two-loop expansion about four spatial dimensions, we show that the propagating and strictly overdamped limits share the same static Gaussian and Wilson-Fisher fixed points but realize distinct dynamical scaling regimes. The overdamped limit reproduces Model A. On the surface where local friction and noise vanish, the theory instead supports an interacting propagating fixed point whose dynamic exponent receives corrections at two loops. We demonstrate that coarse-graining does not generate a local dissipative operator on this surface, which therefore remains invariant under the RG flow. Local dissipation is nevertheless relevant at the propagating fixed point: an arbitrarily small equilibrium friction-noise perturbation drives the flow away from propagating scaling. Propagating critical dynamics thus defines a consistent but fine-tuned regime that is unstable to local equilibrium dissipation."
+    },
+    {
+      "title": "Oscillations of Dissipative Neutron Stars: The Impact of Hyperonic Reaction Rates",
+      "link": "https://arxiv.org/abs/2608.07311",
+      "authors": "Suprovo Ghosh, Alexander Haber, Nils Andersson, Andrew Rhys Counsell",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2608.07311v1 Announce Type: cross \nAbstract: Tidal excitations of stellar oscillation modes during binary neutron-star inspirals offer a powerful probe of the composition of dense matter at supranuclear densities. Chemical equilibration plays a crucial, but often neglected, role in stellar perturbation calculations. If the chemical equilibration timescale is comparable to the oscillation timescale, then viscous effects can damp the modes. If the reactions are fast, some modes can completely disappear since their restoring force vanishes. Typically, these calculations, however, assume either instantaneous chemical equilibrium or no equilibration (frozen composition). Motivated by this, we investigate the effects of finite reaction rates on the oscillation spectrum of neutron stars containing hyperonic matter. We calculate the dominant non-leptonic weak interaction rates and incorporate them into the relativistic perturbation equations through a complex, frequency-dependent dynamical sound speed. We show that finite-rate effects naturally manifest as bulk-viscous dissipation, modifying the properties of both the fundamental ($f$) and gravity ($g$) modes. We further examine the impact on the tidal response by matching stellar perturbations to near-zone boundary conditions, demonstrating how viscous dissipation gives rise to a tidal lag. These results provide a consistent framework connecting microscopic reaction rates and the resulting bulk viscosity to the tidal dynamics of compact binaries, and represent a step towards incorporating viscous dissipation into gravitational-wave models of binary neutron-star inspirals."
+    },
+    {
+      "title": "Polarized target nuclear magnetic resonance measurements with deep neural networks",
+      "link": "https://epja.epj.org/10.1140/epja/s10050-026-01937-x",
+      "authors": "D. Seay, I. P. Fernando, D. Keller",
+      "source": "European Physical Journal A",
+      "summary": "Authors: D. Seay, I. P. Fernando and D. Keller.The European Physical Journal A Vol. 62 , page 153Published online: 29/7/2026\n       Keywords:"
+    },
+    {
+      "title": "Energy and centrality dependence of thermodynamical observables from multiplicity in Pb+Pb$$\\mathrm Pb\\!+\\!Pb$$ and Au+Au$$\\mathrm Au\\!+\\!Au$$ collisions",
+      "link": "https://epja.epj.org/10.1140/epja/s10050-026-01922-4",
+      "authors": "Francisco Reyes Rodríguez, Eleazar Cuautle",
+      "source": "European Physical Journal A",
+      "summary": "Authors: Francisco Reyes Rodríguez and Eleazar Cuautle.The European Physical Journal A Vol. 62 , page 152Published online: 29/7/2026"
+    },
+    {
+      "title": "Pressure-dependent detector effects in beam-based neutron lifetime measurements",
+      "link": "https://epja.epj.org/10.1140/epja/s10050-026-01929-x",
+      "authors": "Ashish M. Desai",
+      "source": "European Physical Journal A",
+      "summary": "Authors: Ashish M. Desai.The European Physical Journal A Vol. 62 , page 154Published online: 30/7/2026"
+    },
+    {
+      "title": "Average number of prompt neutrons in the spontaneous fission of 260$$^{260}$$Rf",
+      "link": "https://epja.epj.org/10.1140/epja/s10050-026-01926-0",
+      "authors": "A. V. Isaev, R. S. Mukhin, A. V. Andreev, A. Rahmatinejad, T. M. Shneidman, H. M. Devaraja, M. A. Bychkov, M. L. Chelnokov, V. I. Chepigin, V. D. Danilkin, I. N. Izosimov, D. E. Katrasev, A. A. Kuznetsova, O. N. Malyshev, A. G. Popeko, Yu. A. Popov, B. Sailaubekov, E. A. Sokol, E. Teymurov, M. S. Tezekbayeva, I. I. Ulanova, A. I. Svirikhin",
+      "source": "European Physical Journal A",
+      "summary": "Authors: A. V. Isaev, R. S. Mukhin, A. V. Andreev, A. Rahmatinejad, T. M. Shneidman, H. M. Devaraja, M. A. Bychkov, M. L. Chelnokov, V. I. Chepigin, V. D. Danilkin, I. N. Izosimov, D. E. Katrasev, A. A. Kuznetsova, O. N. Malyshev, A. G. Popeko, Yu. A. Popov, B. Sailaubekov, E. A. Sokol, E. Teymurov, M. S. Tezekbayeva, I. I. Ulanova and A. I. Svirikhin.The European Physical Journal A Vol. 62 , page 155Published online: 31/7/2026"
+    },
+    {
+      "title": "Neutron-rich nuclei and neutron skins from chiral low-resolution interactions",
+      "link": "https://epja.epj.org/10.1140/epja/s10050-026-01905-5",
+      "authors": "P. Arthuis, K. Hebeler, A. Schwenk",
+      "source": "European Physical Journal A",
+      "summary": "Authors: P. Arthuis, K. Hebeler and A. Schwenk.The European Physical Journal A Vol. 62 , page 156Published online: 31/7/2026\n       Keywords:"
+    },
+    {
+      "title": "Electro- and photoproduction of muon pairs with μ$$\\mu $$CLAS12: double deeply virtual compton scattering, timelike compton scattering, and J/ψ$$J/\\psi $$ production",
+      "link": "https://epja.epj.org/10.1140/epja/s10050-026-01909-1",
+      "authors": "J. S. Alvarado, N. Baltzell, M. Bondi, P. Chatagnon, R. De Vita, M. Hoballah, V. Kubarovsky, R. Paremuzyan, S. Stepanyan, P. Achenbach, M. Arratia, M. Battaglieri, V. Bertone, A. Bianconi, M. E. Boglione, F. Bossù, G. Bracco, F. Bzeih, S. Bueltmann, V. Burkert, D. S. Carman, T. Cao, M. Carpinelli, E. Cisbani, G. Ciullo, E. Cline, M. Contalbrigo, A. D’Angelo, N. Dashyan, S. Diehl, M. Defurne, L. El Fassi, L. Elouadrhiri, M. Farooq, E. Ferrand, A. Filippi, M. Filippini, C. Fogler, G. Foti, S. Frantzen, A. Fulci, K. Gates, D. I. Glazier, K. Gnanvo, S. Grazzi, M. Hattawy, F. Hauenstein, H. S. Jo, M. Kerr, A. Kripko, L. Lanza, P. Lenisa, X. Li, N. Liyanage, R. M. Marinaro III, V. Martínez-Fernández, D. Martiryan, V. Mascagna, M. D. McCaughan, B. McKinnon, C. Mezrag, R. Milner, M. Mirazita, P. Musico, T. Nagorna, P. Nadel-Turonski, H. Nguyen, S. Niccolai, M. Osipenko, L. Pappalardo, C. Paudel, N. Pilleux, A. Pilloni, B. Pire, S. Plavully, L. Polizzi, R. Perrino, B. Raydo, M. Ripani, M. Ronayette, S. Schadmand, A. Schmidt, Y. G. Sharabian, E. Sidoretti, M. Spreafico, I. I. Strakovsky, P. Sznajder, R. Tyson, M. Taiuti, M. Ungaro, G. Urciuoli, S. Vallarino, L. Venturelli, T. Vittorini, E. Voutier, A. Vossen, J. Wagner, Y. Wang, X. Wei, N. Wuerfel, Z. Zhao",
+      "source": "European Physical Journal A",
+      "summary": "Authors: J. S. Alvarado, N. Baltzell, M. Bondi, P. Chatagnon, R. De Vita, M. Hoballah, V. Kubarovsky, R. Paremuzyan, S. Stepanyan, P. Achenbach, M. Arratia, M. Battaglieri, V. Bertone, A. Bianconi, M. E. Boglione, F. Bossù, G. Bracco, F. Bzeih, S. Bueltmann, V. Burkert, D. S. Carman, T. Cao, M. Carpinelli, E. Cisbani, G. Ciullo, E. Cline, M. Contalbrigo, A. D’Angelo, N. Dashyan, S. Diehl, M. Defurne, L. El Fassi, L. Elouadrhiri, M. Farooq, E. Ferrand, A. Filippi, M. Filippini, C. Fogler, G. Foti, S. Frantzen, A. Fulci, K. Gates, D. I. Glazier, K. Gnanvo, S. Grazzi, M. Hattawy, F. Hauenstein, H. S. Jo, M. Kerr, A. Kripko, L. Lanza, P. Lenisa, X. Li, N. Liyanage, R. M. Marinaro III, V. Martínez-Fernández, D. Martiryan, V. Mascagna, M. D. McCaughan, B. McKinnon, C. Mezrag, R. Milner, M. Mirazita, P. Musico, T. Nagorna, P. Nadel-Turonski, H. Nguyen, S. Niccolai, M. Osipenko, L. Pappalardo, C. Paudel, N. Pilleux, A. Pilloni, B. Pire, S. Plavully, L. Polizzi, R. Perrino, B. Raydo, M. Ripani, M. Ronayette, S. Schadmand, A. Schmidt, Y. G. Sharabian, E. Sidoretti, M. Spreafico, I. I. Strakovsky, P. Sznajder, R. Tyson, M. Taiuti, M. Ungaro, G. Urciuoli, S. Vallarino, L. Venturelli, T. Vittorini, E. Voutier, A. Vossen, J. Wagner, Y. Wang, X. Wei, N. Wuerfel and Z. Zhao.The European Physical Journal A Vol. 62 , page 157Published online: 1/8/2026\n       Keywords:"
+    },
+    {
+      "title": "Proton pickup and stripping in the 48Ca+197Au$$^{48}{\\textrm{Ca}} + {}^{197}{\\textrm{Au}}$$ reaction at 400 MeV",
+      "link": "https://epja.epj.org/10.1140/epja/s10050-026-01933-1",
+      "authors": "S. M. Lukyanov, A. K. Azhibekov, V. A. Maslov, A. Yeginbay, H. M. Devaraja, D. Aznabayev, D. Berikov, B. A. Duisebayev, T. Issatayev, K. Mendibayev, K. D. Molotorenko, Yu. E. Penionzhkevich, B. M. Sadykov, A. V. Shakhov, S. S. Stukalov, A. Temirzhanov, T. K. Zholdybayev, E. V. Mardyban, A. Rahmatinejad, T. M. Shneidman",
+      "source": "European Physical Journal A",
+      "summary": "Authors: S. M. Lukyanov, A. K. Azhibekov, V. A. Maslov, A. Yeginbay, H. M. Devaraja, D. Aznabayev, D. Berikov, B. A. Duisebayev, T. Issatayev, K. Mendibayev, K. D. Molotorenko, Yu. E. Penionzhkevich, B. M. Sadykov, A. V. Shakhov, S. S. Stukalov, A. Temirzhanov, T. K. Zholdybayev, E. V. Mardyban, A. Rahmatinejad and T. M. Shneidman.The European Physical Journal A Vol. 62 , page 158Published online: 3/8/2026"
+    },
+    {
+      "title": "Three-body form factors in the coupled-channels analysis of the 6Li+9Be$${}^{6}\\textrm{Li}+{}^{9}\\textrm{Be}$$ inelastic scattering at Elab=32$$E_{\\textrm{lab}}=32$$ MeV",
+      "link": "https://epja.epj.org/10.1140/epja/s10050-026-01935-z",
+      "authors": "B. A. Urazbekov, A. Azhibekov, B. K. Mauey, B. S. Baimurzinova",
+      "source": "European Physical Journal A",
+      "summary": "Authors: B. A. Urazbekov, A. Azhibekov, B. K. Mauey and B. S. Baimurzinova.The European Physical Journal A Vol. 62 , page 159Published online: 3/8/2026\n       Keywords:"
+    },
+    {
+      "title": "Microscopic calculations of the total astrophysical S factors for the 3H(d, n)4He and 3He(d, p)4He fusion reactions",
+      "link": "https://epja.epj.org/10.1140/epja/s10050-026-01916-2",
+      "authors": "Alexander S. Solovyev",
+      "source": "European Physical Journal A",
+      "summary": "Authors: Alexander S. Solovyev.The European Physical Journal A Vol. 62 , page 160Published online: 3/8/2026\n       Keywords:"
+    },
+    {
+      "title": "The B(E2) anomaly: evidence for a low-lying mixed-symmetry collective excitation mode",
+      "link": "https://epja.epj.org/10.1140/epja/s10050-026-01932-2",
+      "authors": "Bo Cederwall, Chong Qi",
+      "source": "European Physical Journal A",
+      "summary": "Authors: Bo Cederwall and Chong Qi.The European Physical Journal A Vol. 62 , page 161Published online: 4/8/2026"
+    },
+    {
+      "title": "Rotational susceptibility of a hot and dense hadronic matter",
+      "link": "https://epja.epj.org/10.1140/epja/s10050-026-01938-w",
+      "authors": "Bhagyarathi Sahoo, Kshitish Kumar Pradhan, Dushmanta Sahu, Raghunath Sahoo",
+      "source": "European Physical Journal A",
+      "summary": "Authors: Bhagyarathi Sahoo, Kshitish Kumar Pradhan, Dushmanta Sahu and Raghunath Sahoo.The European Physical Journal A Vol. 62 , page 162Published online: 6/8/2026"
     }
   ]
 }
