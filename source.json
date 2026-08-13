@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-12T03:18:00.301861",
+  "lastUpdated": "2026-08-13T03:22:26.327921",
   "papers": [
     {
       "title": "Increasing Octupole Collectivity across the $Z=64$ Isotopic Chain: B(E3) Values in $^{150}\\mathrm{Gd}$",
@@ -67886,6 +67886,125 @@
       "authors": "Unknown",
       "source": "Nuclear Physics A",
       "summary": "Publication date: Available online 10 August 2026Source: Nuclear Physics AAuthor(s): Joshua T. Majekodunmi, B. Mukeru"
+    },
+    {
+      "title": "Nucleon electromagnetic form-factors in a minimal Gari-Kr\\\"umpelmann model including the explicit two-pion continuum",
+      "link": "https://arxiv.org/abs/2608.10907",
+      "authors": "Wulf Kr\\\"umpelmann, Yong-Hui Lin, Ulf-G. Mei{\\ss}ner",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2608.10907v1 Announce Type: new \nAbstract: The Gari--Kr\\\"umpelmann (GK) model provided one of the first semiphenomenological descriptions of the electromagnetic nucleon form-factors over a wide range of momentum transfer. It combined vector-meson dominance at low and intermediate momentum transfer with perturbative-QCD constraints at large momentum transfer. The present work extends this framework by including the dispersive two-pion continuum explicitly in the isovector channel. The two-pion contribution is taken from modern dispersive analyses and embedded into the intrinsic high-$Q^2$ structure of the GK ansatz. The physical $\\rho$ dynamics is then interpreted as part of the correlated two-pion spectral function. The direct coupling terms remain essential for the transition to the asymptotic regime. This gives a cleaner separation between long-range continuum dynamics, coherent vector-meson contributions, and direct quark-current dynamics. With just 5 parameters, we can describe the large body on form-factor data and differential cross sections from electron-proton scattering in the space-like region."
+    },
+    {
+      "title": "Laser spectroscopy illuminates the $N=32$ shell closure",
+      "link": "https://arxiv.org/abs/2608.10943",
+      "authors": "Tim E. Lellinger, Liss V. Rodriguez, Patrick Muller, Osama Ahmad, Mark L. Bissell, Klaus Blaum, Emily Burbach, Bradley Cheal, Till Fabritz, Ronald F. Garcia Ruiz, Matthias Heinz, Jack Hughes, Phillip Imgram, Kristian Konig, Yinshen Liu, Bernhard Maass, Edward N. Matthews, Takayuki Miyagi, Witold Nazarewicz, Rainer Neugart, Gerda Neyens, Lukas Nies, Wilfried Nortershauser, Julian Palmes, Peter Plattner, Paul-Gerhard Reinhard, Laura Renth, Rodolfo Sanchez, Achim Schwenk, Julien Spahn, Xiaofei Yang, Deyan T. Yordanov",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2608.10943v1 Announce Type: new \nAbstract: Atomic nuclei are strongly correlated quantum many-body systems, and how their shell structure evolves with increasing neutron excess remains a central open question in nuclear physics. Calcium isotopes are an ideal testing ground: alongside the traditional magic numbers $N=20,28$, new shell closures have been proposed at $N=32,34$ ($^{52,54}\\mathrm{Ca}$). While the charge radius rises rapidly towards $N=32$, further moments and radii in the isotopic chain have remained inaccessible due to the low production yield of a few ions per second. Here we apply a highly sensitive collinear laser spectroscopy technique, which reveals a strikingly simple behaviour: adding one neutron to $^{52}\\mathrm{Ca}$ yields a pure single-particle magnetic dipole moment in $^{53}\\mathrm{Ca}$, while the charge-radius slope towards $^{54}\\mathrm{Ca}$ exceeds that towards $^{52}\\mathrm{Ca}$. This provides strong evidence for a robust $N=32$ shell closure and stringently constrains nuclear structure models."
+    },
+    {
+      "title": "Ground-State Energy Estimation of HeH$^{+}$, ArH$^{+}$, and H$_2$O via Sample-Based Quantum Diagonalization",
+      "link": "https://arxiv.org/abs/2608.06415",
+      "authors": "Jubin Park, Chae-Hyun Yoon, Minkyu Lee, Myung-Ki Cheoun",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2608.06415v1 Announce Type: cross \nAbstract: Accurate ground-state energies are essential for understanding molecular structure, chemical bonding, and reaction energetics in quantum chemistry. In this work, we investigate the ground-state properties of the molecular systems HeH$^+$, ArH$^+$, and H$_2$O using Sample-Based Quantum Diagonalization (SQD), a hybrid quantum-classical framework designed for near-term quantum devices. Unlike variational approaches such as VQE, which require deep parameterized circuits and repeated expectation-value measurements, SQD reconstructs a low-energy determinant subspace directly from measured bitstrings.\n  For the present calculations, bitstrings were generated on IBM quantum hardware using shallow local unitary cluster Jastrow (LUCJ) circuits whose parameters were constructed from the $t_1$ and $t_2$ amplitudes of coupled-cluster singles and doubles (CCSD) calculations based on restricted Hartree--Fock (RHF) references. From these samples, we compute ground-state potential-energy curves of HeH$^+$, ArH$^+$, and H$_2$O with the 6-31G and cc-pVDZ basis sets. For all three systems, the SQD results obtained with the cc-pVDZ basis closely follow the corresponding same-basis CCSD energies and reproduce the equilibrium-region trends of the potential-energy curves. HeH$^+$ and ArH$^+$ were chosen as simple yet astrophysically important molecular-ion benchmarks, while H$_2$O was included as a representative polyatomic molecule to assess the applicability of SQD beyond diatomic ionic systems. At the adopted equilibrium geometries, the deviations from the same-active-space CASCI references are 0.00, 2.51, and 6.34 mHa for HeH$^+$, ArH$^+$, and H$_2$O, respectively.\n  These results demonstrate the feasibility of hardware-assisted SQD for the present benchmark systems and motivate further studies of its accuracy and computational scaling for larger molecular active spaces."
+    },
+    {
+      "title": "Extraction of baryon number susceptibilities at finite density from heavy-ion collisions",
+      "link": "https://arxiv.org/abs/2608.10238",
+      "authors": "Gr\\'egoire Pihan, Roman Poberezhniuk, Volodymyr A. Kuznietsov, Volodymyr Vovchenko",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2608.10238v1 Announce Type: cross \nAbstract: We present, to our knowledge, the first Bayesian extraction of baryon number susceptibilities of QCD matter at finite baryon density from heavy-ion collision data on proton number cumulants. The framework embeds arbitrary equation-of-state susceptibilities $\\chi_n^B$ into realistic hydrodynamic particlization hypersurfaces through maximum-entropy freeze-out, maps the resulting (anti)baryon fluctuations onto protons, applies the experimental kinematic acceptance, and accounts for exact baryon number conservation. Applying the framework to measurements of (net-)proton number fluctuations in 0--5\\% central Au-Au collisions from the RHIC Beam Energy Scan in the collider mode, we extract, at each collision energy, the second-order susceptibility normalized by the hadron resonance gas value, $\\chi_{2}^B/\\bar{\\chi}_{2}^B$, and the higher-order susceptibility ratios $\\chi_{3}^B/\\chi_{1}^B$ and $\\chi_{4}^B/\\chi_{2}^B$. We obtain tight constraints on $\\chi_{2}^B$, with extracted values in quantitative agreement with lattice QCD based estimates along the chemical freeze-out line for $\\mu_B \\lesssim 300$~MeV. At larger $\\mu_B$, the extracted values indicate an enhancement of baryon number fluctuations relative to the noncritical lattice-based extrapolation and HRG baseline considered here. The third- and fourth-order susceptibilities are only weakly constrained. In particular, we find that the observed nonmonotonic collision-energy dependence of the proton factorial cumulant ratio $\\hat{C}_{3}/\\hat{C}_{1}$ can be described without irreducible three- or four-baryon correlations. This behavior emerges from the interplay between the energy dependence of $\\chi_{2}^B$ and exact baryon number conservation."
+    },
+    {
+      "title": "Event-by-event analysis of chiral charge separation in $p^{\\uparrow}+$Au collisions within an improved AMPT model",
+      "link": "https://arxiv.org/abs/2608.10496",
+      "authors": "Chen Gao, Gui-Zhen Wu, Yi Xu, Wei-Tian Deng",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2608.10496v1 Announce Type: cross \nAbstract: We study the charge separation induced by chiral magnetic effect (CME) in $p^{\\uparrow}$+Au collisions at $\\sqrt{s_{NN}}=200$ GeV event-by-event with an improved string-melting AMPT model. In this model, an impact-parameter-dependent formation-time delay is introduced to reduce the peak Bjorken energy density from $\\sim$2 to $\\sim$0.3 GeV/fm$^3$ and reproduces the illiptic flow $v_2(p_T)$ measured by PHENIX in $p+$Au simultaneously. The event-by-event CME source, whose quark momentum-exchange fraction scales with $|\\mathbf{B}|_{\\mathrm{event}}/|\\mathbf{B}|_{\\mathrm{max}}$ and is capped at the 7\\% value from Au+Au, transmits the field geometry directly to the observable. We find that the initial correlator shows a clear scheme hierarchy tracking $B^2$. The parton cascade preserves $\\sim$80--90\\% of the signal, while coalescence and ART hadronic rescattering dissipate the bulk, leaving $\\sim$10--30\\% in the final state. The $\\gamma_{OS}/\\gamma_{SS}$ splitting remains visible. These results support the use of the inter-scheme difference $\\Delta\\gamma_{\\mathrm{IV}}-\\Delta\\gamma_{\\mathrm{II}}$ as an essentially background-free CME observable as we proposed in previous work."
+    },
+    {
+      "title": "Probing vorticity and fluctuations in a rotating hadron resonance gas at LHC energy",
+      "link": "https://arxiv.org/abs/2608.10561",
+      "authors": "S. Ipsita Sahoo, Sanjeebani Biswal, D. Dutta, D. K. Mishra",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2608.10561v1 Announce Type: cross \nAbstract: A large vorticity produced in non-central ultra-relativistic heavy-ion collisions induces an effective chemical potential in both partonic and hadronic matter, thereby influencing the quark-hadron transition and its associated properties. In this work, we investigate the influence of rotation on hadron yields within the framework of Hadron Resonance Gas (HRG) model. Our results show that vorticity significantly modifies hadron yields and their ratios. Most notably, rotation enhances the $p/\\pi^+$ ratio while suppressing the $K^+/\\pi^+$ ratio, suggesting that these observables may serve as sensitive probes of the rotational properties of the medium created in heavy-ion collisions. To quantify the effect of rotation, the calculated dependence of the $p/\\pi^+$ ratio on vorticity is compared with the centrality dependence of the $p/\\pi$ ratio measured by the ALICE collaboration in Pb+Pb collisions at $\\sqrt{s_{_{NN}}}$ = 5.02 TeV. From this comparison, we estimate the maximum vorticity produced at freeze-out for different collision centralities. In case of peripheral collisions, the freeze-out vorticity ($\\omega$) is found to reach an upper bound value of approximately 0.088 GeV, whereas for central collisions it is about 0.028 GeV. Furthermore, we investigate the effect of rotation on fluctuations of conserved quantities and their correlations. This study provides a quantitative framework for assessing the role of rotation in the thermodynamics of hadronic matter and its phenomenological consequences for heavy-ion collisions."
+    },
+    {
+      "title": "Probing Gluon Linear Polarization with Dihadron Fragmentation in $\\chi_b$ Decays",
+      "link": "https://arxiv.org/abs/2608.10570",
+      "authors": "Zhi-Guo He, Guanghui Li, Yang Liu, Yu-Jie Tian, Xin-Kai Wen, Bin Yan",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2608.10570v1 Announce Type: cross \nAbstract: The dihadron fragmentation function (DiFF) of a linearly polarized gluon has not yet been accessed experimentally, leaving an important aspect of spin-dependent gluon hadronization unexplored. We show that, at leading order, the color-singlet decay channel of the $P$-wave bottomonium state $\\chi_{b0}$ produces two energetic gluons with correlated linear polarizations. Within collinear factorization, their fragmentation into separate dihadron pairs generates an Artru--Collins-type angular correlation that provides the first direct probe of the linearly polarized gluon DiFF, while the corresponding semi-inclusive decay rate constrains the unpolarized gluon DiFF. A spectator-model benchmark indicates percent-level asymmetries, potentially within reach of existing Belle data. A dedicated Belle~II data set would substantially improve the statistical precision, enabling more stringent constraints on the kinematic dependence of the linearly polarized gluon DiFF."
+    },
+    {
+      "title": "Scaling of soft QGP signatures in relativistic lead, xenon and oxygen collisions in EPOS4",
+      "link": "https://arxiv.org/abs/2608.10578",
+      "authors": "Salman Khurshid Malik, Fakhar Ul Haider, Pratibha Bhagat, Anju Bhasin, Ramni Gupta",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2608.10578v1 Announce Type: cross \nAbstract: The collective expansion and hydrodynamic evolution in heavy-ion collisions is well-established. However, whether femtometer-scale droplets of QGP are produced in small systems at high energies remains a fundamental open question. Analysis of Pb$-$Pb collisions at $\\sqrt{s_{\\mathrm{NN}}}$ = 5.02 TeV, Xe$-$Xe at $\\sqrt{s_{\\mathrm{NN}}}$ = 5.44 TeV and O$-$O collisions at $\\sqrt{s_{\\mathrm{NN}}}$ = 5.36 TeV using EPOS4 is reported to make predictions and postdictions. The results are compared with ALICE data for Pb$-$Pb and Xe$-$Xe collisions. Charged particle multiplicity (d$N_{\\mathrm{ch}}$/d$\\eta$), transverse-momentum ($p_{\\mathrm{T}}$) spectra for pions ($\\pi^{\\pm}$), kaons ($K^{\\pm}$), and protons ($\\text{p}(\\overline{\\text{p}})$) are studied. The inclusion of hadronic afterburner, UrQMD (Ultra-relativistic Quantum Molecular Dynamics) is found to be necessary to correctly describe baryon yields. $p_{\\mathrm{T}}$-fluctuations are also studied via normalized $p_{\\mathrm{T}}$ correlator, $\\sqrt{\\langle \\langle \\Delta p_{\\mathrm{T},i}\\Delta p_{\\mathrm{T},j} \\rangle \\rangle}\\mathrm{/} \\langle \\langle p_{\\mathrm{T}} \\rangle \\rangle$. Lastly, anisotropic flow harmonics ($v_{\\mathrm{2}} \\{2\\}$, $v_{\\mathrm{3}} \\{2\\}$) are computed as a function of $p_{\\mathrm{T}}$ and centrality. Since EPOS4 has not been extensively studied for flow observables, this study thereby provides a non-trivial assessment of its collective dynamics. The results are compared with experiment wherever data is available. Taken together, this study provides a unified description of soft observables from Pb$-$Pb through Xe$-$Xe down to O$-$O and offer quantitative guidance on how such collisions may inform of the properties of the QGP."
+    },
+    {
+      "title": "Evolution of the underlying event and non-extensive thermodynamics in pp collisions from RHIC to LHC energies",
+      "link": "https://arxiv.org/abs/2608.10717",
+      "authors": "Suraj Prasad, Aditya Nath Mishra, Guy Pai\\'c, Gergely G\\'abor Barnaf\\\"oldi",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2608.10717v1 Announce Type: cross \nAbstract: We investigate the geometrical and thermodynamical aspects of particle production in pp collisions over a broad center-of-mass energy, ranging from $\\sqrt{s}=62.4$ GeV to 13 TeV using PYTHIA8. We study the azimuthal dependence of charged-particle production relative to the leading particle. This includes the study of the Tsallis--Pareto parameters extracted from the charged-particle transverse-momentum spectra in fixed $\\Delta\\phi$ intervals relative to the leading charged particle. The simultaneous analysis of charged-particle multiplicity and event topology demonstrates that the underlying event (UE) dominated region can be extended beyond the conventional transverse side region across RHIC and LHC energies. To further disentangle effects from soft and hard particle production mechanisms, the study is performed in different transverse spherocity and charged-particle flattenicity classes. We demonstrate that the UE region extends beyond the conventional transverse region, validating an enlarged angular interval of $40^\\circ\\lesssim|\\Delta\\phi|\\lesssim140^\\circ$ from RHIC to LHC energies. Event-shape selections reveal that jetty events consistently exhibit larger $q$ and lower $T_{\\rm s}$ than isotropic events. The $\\Delta\\phi$ profiles of charged-particle multiplicity and transverse spherocity remain universal in shape across collision energies despite the strong increase in overall event activity, whereas the Tsallis parameters retain a residual, leading-particle-driven energy dependence in the near- and away-side regions."
+    },
+    {
+      "title": "Monsters and neutron stars",
+      "link": "https://arxiv.org/abs/2608.10904",
+      "authors": "Sourendu Gupta",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2608.10904v1 Announce Type: cross \nAbstract: Using dimensional arguments and other simple estimates, it is pointed out that a branch of nuclei with mass number A>10^7 could be metastable if they have close to maximal isospin. This branch is continuous with neutron stars. The fastest decay mode of these hypothetical metastable nuclei (which we call monsters) is through neutron evaporation. We present an estimate of the lifetime and show it could be more than 100 ps for A>10^{39}. We speculate about their creation in binary neutron star mergers, where we argue that their lifetimes could be extended further, and their presence could be detectable in gravity wave experiments of the near future."
+    },
+    {
+      "title": "Gluonic nucleon energy correlators and fracture functions for Color Glass Condensate",
+      "link": "https://arxiv.org/abs/2608.10955",
+      "authors": "Heikki M\\\"antysaari, Yu Shi, Yossathorn Tawabutr, Xuan-Bo Tong",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2608.10955v1 Announce Type: cross \nAbstract: Nucleon energy correlators (NECs) and fracture functions provide novel tools for probing nucleon and nuclear structure at small $x$ through measurements in the target fragmentation region (TFR) of deep inelastic scattering (DIS). We investigate gluonic NECs and fracture functions using the Color Glass Condensate effective theory at eikonal accuracy. We find that only the unpolarized and linearly polarized gluon components in an unpolarized target are nonvanishing at this order, and that both are determined by the adjoint dipole $S$-matrix. Furthermore, we show that the linearly polarized gluonic NEC $h_{1}^{t,g}$ generates a characteristic $\\cos 2\\phi$ azimuthal asymmetry in the DIS energy pattern in the TFR. Unlike analogous observables in the current fragmentation region, this asymmetry is governed by the ratio of the linearly polarized gluon NEC $h_{1}^{t,g}$ to the unpolarized quark NEC $f_{1}^{q}$, making it particularly sensitive to the saturation scale. Our numerical analysis shows that this asymmetry exhibits substantial nuclear suppression, providing a novel window into the onset of gluon saturation at the future Electron-Ion Collider."
+    },
+    {
+      "title": "Moment of Inertia of an Interacting Bose Gas",
+      "link": "https://arxiv.org/abs/2608.11129",
+      "authors": "Aleksandar Gecic, Victor E. Ambrus, Kenji Fukushima",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2608.11129v1 Announce Type: cross \nAbstract: The response of many-body quantum systems to rotation can be characterized by the moment of inertia. For a classical gas, the moment of inertia can be expressed as the integral of the enthalpy density multiplied by the squared radial distance from the rotation axis. In quantum field theory, the finite rotation in the grand canonical ensemble demands the causality bound. This constraint imposes technical challenges in treating transverse momenta discretized with the Bessel function zeros. However, we define the moment of inertia in the limit of zero angular velocity, in which the causality constraint is irrelevant and ordinary quantum field theoretical techniques can be applied. We evaluate the moment of inertia in the $\\phi^4$ theory and find that, surprisingly, the interacting effects including the ring-diagram resummation are consistent with the classical expectation and the moment of inertia density remains proportional to the enthalpy density."
+    },
+    {
+      "title": "QCD Vacuum in an Inhomogeneous Magnetic Field",
+      "link": "https://arxiv.org/abs/2608.11144",
+      "authors": "Prabal Adhikari, Brian C. Tiburzi",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2608.11144v1 Announce Type: cross \nAbstract: The effect of an inhomogeneous magnetic field on the QCD vacuum is addressed using the framework of chiral perturbation theory. The magnetic field is chosen to be localized along one spatial direction, with a profile for which the underlying quantum mechanical problem is exactly solvable. Particular attention is paid to regularization and renormalization using dimensional regularization. While the non-vanishing gradient of the magnetic field requires additional operators in chiral perturbation theory, their effect occurs at next-to-next-to-leading order in the chiral expansion. Consequently, the magnetic field dependence of equilibrium vacuum observables can be determined at next-to-leading order without undetermined parameters. We compute the zero-temperature free energy and chiral condensate for the inhomogeneous background, both as integrated quantities as well as spatially resolved local observables. Comparison with locally constant approximations enables a direct probe of the spatial response and nonlocal structure of the magnetized QCD vacuum. We additionally derive the induced vacuum current associated with the inhomogeneity of the magnetic field."
+    },
+    {
+      "title": "Longitudinal structure of the quark-gluon plasma from differently shaped nuclei",
+      "link": "https://arxiv.org/abs/2405.08749",
+      "authors": "Jiangyong Jia, Chunjian Zhang, Shengli Huang",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2405.08749v2 Announce Type: replace \nAbstract: Ultrarelativistic collisions of atomic nuclei produce the quark--gluon plasma (QGP), an extremely hot, dense state of matter. The QGP behaves like a nearly perfect fluid, so its final-state momentum distributions can be inverted to reveal its initial-state geometry. This programme has succeeded in the transverse plane but made less progress along the beam, where short-range nonflow correlations mask the longitudinal signal. Anisotropic flow has been successfully used to image the shapes of the colliding nuclei; here we use nuclear shape to image the QGP's 3D geometry---the same idea in reverse. We show in simulations that the nonflow can be removed by comparing collisions of nuclei with similar masses but different shapes. We find that nuclear deformation changes the magnitude of the elliptic flow but not its longitudinal profile, so the shape difference recovers the full longitudinal structure. The predicted two-particle decorrelation map reveals both a highly non-linear rapidity dependence inaccessible to conventional observables, and an unquantified bias in standard flow measurements themselves. Our strategy extends to the longitudinal dependence of the QGP's triangularity and size. Nuclear shape thus becomes a tool for 3D imaging of the QGP and the quantum fluctuations of the nuclear wavefunctions that seed it."
+    },
+    {
+      "title": "Ab initio optical potentials for magnesium isotopes at intermediate energies: from stability to the island of inversion",
+      "link": "https://iopscience.iop.org/article/10.1088/1361-6471/ae8ff2",
+      "authors": "G H Sargsyan, J I Fuentealba Bustamente, K Beyer and Ch Elster",
+      "source": "Journal of Physics G: Nuclear and Particle Physics",
+      "summary": "We present the first calculations of ab initio nonlocal optical potentials for Mg and Mg isotopes using the leading-order term of the spectator expansion of multiple-scattering theory. We use the structure input from the ab initio symmetry-adapted no-core shell model, which provides translationally invariant, off-shell scalar and spin-projected densities so that structure and reaction inputs are treated on equal footing with no adjustable parameters. This leading-order potential reproduces Mg neutron total, reaction, and elastic-scattering data at energies between 65 and 250 MeV and provides predictions for Mg and Mg. We compare our predictions with those from the uncertainty-quantified Koning-Delaroche and Weppner-Penney global optical potentials, as well as the ENDF nuclear data evaluations. These comparisons highlight some of the limitations of the global models, while also validating their use in reaction modeling near the N = 20 island of inversion."
+    },
+    {
+      "title": "Higher Wess–Zumino–Witten term from semistrict higher Chern–Simons theory",
+      "link": "https://www.sciencedirect.com/science/article/pii/S037026932600688X?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: September 2026Source: Physics Letters B, Volume 880Author(s): Mengyao Wu"
+    },
+    {
+      "title": "Measurement of forward photon production cross-section in <em>pp</em> collisions at <math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si3.svg\" class=\"math\"><msqrt><mi>s</mi></msqrt></math> = 510 GeV with RHICf detector",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326006593?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: September 2026Source: Physics Letters B, Volume 880Author(s): O. Adriani, E. Berti, L. Bonechi, R. D’Alessandro, Y. Goto, B. Hong, Y. Itow, K. Kasahara, M.H. Kim, Y. Kim, J.H. Lee, S. Lee, T. Ljubicic, H. Menjo, I. Nakagawa, A. Ogawa, S. Oh, K. Ohashi, R. Pak, T. Sako"
     }
   ]
 }
