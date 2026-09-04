@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-03T05:22:15.497898",
+  "lastUpdated": "2026-09-04T05:15:29.467540",
   "papers": [
     {
       "title": "Increasing Octupole Collectivity across the $Z=64$ Isotopic Chain: B(E3) Values in $^{150}\\mathrm{Gd}$",
@@ -70756,6 +70756,216 @@
       "authors": "Unknown",
       "source": "Nuclear Physics A",
       "summary": "Publication date: November 2026Source: Nuclear Physics A, Volume 1075Author(s): "
+    },
+    {
+      "title": "Identification of $^{17}\\mathrm{Na}$ Ground State and Mirror Symmetry Violation with $^{17}\\mathrm{C}$",
+      "link": "http://link.aps.org/doi/10.1103/3mqd-58tp",
+      "authors": "L. Ni <em>et al.</em>",
+      "source": "Physical Review Letter",
+      "summary": "Author(s): L. Ni et al.The ground state of the three-proton emitter $^{17}\\mathrm{Na}$ has been identified. Energy correlations between the protons and the $^{14}\\mathrm{O}$ residue indicate that its decay is sequential initiated by the emission of a single proton to the ground state of $^{16}\\mathrm{Ne}$ followed by simu…[Phys. Rev. Lett. 137, 102501] Published Wed Sep 02, 2026"
+    },
+    {
+      "title": "Reentrance of proton-neutron pairing in hot nuclear systems",
+      "link": "http://link.aps.org/doi/10.1103/g1j9-wwp2",
+      "authors": "T. Vu Dong, Alan A. Dzhioev, A. I. Vdovin, and N. Quang Hung",
+      "source": "Physical Review C",
+      "summary": "Author(s): T. Vu Dong, Alan A. Dzhioev, A. I. Vdovin, and N. Quang HungWe develop a generalized finite-temperature proton-neutron BCS framework using the superoperator formalism, incorporating both isovector and isoscalar monopole pairing channels. Numerical calculations for a schematic equidistant multilevel model and realistic even-even Ge isotopes demonstrate the em…[Phys. Rev. C 114, 034303] Published Thu Sep 03, 2026"
+    },
+    {
+      "title": "Impact of the small Dirac component on the valence electron density of actinides at their nuclei in solids",
+      "link": "http://link.aps.org/doi/10.1103/fmc6-8f4q",
+      "authors": "A. V. Nikolaev, U. N. Kurelchuk, and E. V. Tkalya",
+      "source": "Physical Review C",
+      "summary": "Author(s): A. V. Nikolaev, U. N. Kurelchuk, and E. V. TkalyaAn enhanced Full-Potential Linear Augmented Plane Wave (FLAPW) method is introduced which incorporates the small Dirac components of valence states—specifically the 6p1/2 semicore states—in actinide solids such as Ac, Th, ThO2, and UO2. By accounting for these small components, it is demonstrated that the valence electron density at the nucleus increases by a factor of 2.4 to 4.3, correcting standard approximations in computational physics that omit significant valence electron density near the atomic nucleus. These refined relativistic Dirac calculations offer improved theoretical precision for nuclear phenomena such as internal conversion, Mossbauer spectroscopy, and electron bridge effects, providing foundational electronic structure insights relevant to technologies like 229Th-based solid-state nuclear clocks.[Phys. Rev. C 114, 034601] Published Thu Sep 03, 2026"
+    },
+    {
+      "title": "Decay-resolved charge changes from radioactive decays in levitated microparticles",
+      "link": "http://link.aps.org/doi/10.1103/z83g-y4xn",
+      "authors": "Jiaxiang Wang, T. W. Penny, Yu-Han Tseng, Benjamin Siegel, and David C. Moore",
+      "source": "Physical Review C",
+      "summary": "Author(s): Jiaxiang Wang, T. W. Penny, Yu-Han Tseng, Benjamin Siegel, and David C. MooreWe have demonstrated a new way to reveal the electrical ‘fingerprint’ left by a single nuclear decay. When a radioactive atom implanted just beneath a surface decays, its products can eject a shower of secondary electrons from the surrounding material. Often undetected by conventional laboratory instruments, these electrons can create a substantial background in experiments that rely on precise electron counting. To study this process, we use a microscopic glass sphere suspended by laser light as a highly isolated charge detector with sub-electron charge sensitivity. We pair the sphere with a conventional scintillation detector that records the emitted radiation. By matching the timing of the two signals, we can link each charge change to a specific decay. We found that one alpha decay can knock more than 100 electrons from a material’s surface, while beta decays release far fewer. Measuring these electrical fingerprints one decay at a time could help experiments searching for rare events, including future sterile neutrino searches, to distinguish genuine signals from electrons released by radioactive impurities near detector surfaces.[Phys. Rev. C 114, 034602] Published Thu Sep 03, 2026"
+    },
+    {
+      "title": "A Practical Partial-Wave Method for Identifying Unstable Light Nucleus Resonances in Heavy-Ion Collisions",
+      "link": "https://arxiv.org/abs/2609.03499",
+      "authors": "Junlin Wu, Hongchan Li, Ke Mi, Yaping Wang, Guannan Xie",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2609.03499v1 Announce Type: new \nAbstract: The production of light nuclei in relativistic heavy-ion collisions provides valuable insights into the dynamics of the hot and dense matter created in these extreme environments. While stable light nuclei have been extensively studied, unstable light nuclei being short-lived resonance states remain largely unexplored and offer unique opportunities to probe final-state interactions and the freeze-out conditions. In this paper, we propose a partial-wave method, based on the Lednick\\'y--Lyuboshitz framework, to extract resonance signals of unstable light nuclei from two-particle correlation functions measured in heavy-ion collisions. By extending the LL model to higher order partial waves and directly incorporating experimental phase-shift data from low-energy nuclear scattering, our approach avoids the need for model-dependent potential parametrizations and enables a clean decomposition of the resonant partial wave from the non-resonant background. As a demonstration, we apply the method to the $p$-$^3$He and $p$-$^4$He systems, corresponding to the $^4$Li and $^5$Li ground-state resonances. Numerical results show that the resonance-induced correlation excess can be effectively isolated, with a peak in the correlation function appearing at $k \\approx 72$ MeV/$c$ for $^4$Li and $k \\approx 50$ MeV/$c$ for $^5$Li, consistent with the known resonance parameters. The extracted transverse momentum spectra and rapidity distributions are presented using the measured proton and light-nuclei spectra from STAR at $\\sqrt{s_{NN}} = 3$ GeV. The proposed method provides a practical tool for the experimental study of unstable light nuclei in relativistic heavy-ion collisions and can be extended to a broader range of resonance states."
+    },
+    {
+      "title": "Influence of configuration-interaction on isospin impurities and isospin symmetry breaking corrections to superallowed $0^+\\rightarrow 0^+$ beta decays",
+      "link": "https://arxiv.org/abs/2609.03545",
+      "authors": "Jakub Wysocki, Jan Mi\\'skiewicz, Jagjit Singh, Wojciech Satu{\\l}a",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2609.03545v1 Announce Type: new \nAbstract: The symmetry-conserving density functional theory (DFT)-based no-core configuration-interaction (DFT-NCCI) framework is applied for the first time to investigate the impact of configuration interaction (CI) on the Coulomb (isospin) impurity, $\\alpha_{\\rm C}$, in the ground and excited states of $^{10}$C, $^{10}$B, and $^{14}$N, as well as on the isospin-symmetry-breaking (ISB) correction to the superallowed $0^+ \\rightarrow 0^+$ $\\beta$ decay of $^{10}$C. We demonstrate, among other findings, that within the DFT-NCCI framework CI has a negligible effect on the ground-state isospin impurities, which are dominated by a single doorway state. In contrast, CI significantly modifies the impurities in excited states, including the isobaric analogue $I=0^+,\\,T=1$ state in $^{10}$B. Hence, it also has a non-negligible impact on the ISB correction to the superallowed $\\beta$ decay of $^{10}$C. Our calculations yield $\\bar{\\delta}_{\\rm C}=0.45(4)\\%$ when the Coulomb interaction is taken as the sole source of ISB, and $\\bar{\\delta}_{\\rm ISB}=0.46(6)\\%$ when short-range charge-symmetry-breaking (CSB) terms are included in addition. Hence, no statistically significant dependence of the ISB correction on the short-range CSB interaction is observed for this decay. Comparison with our previous results reveals a strong sensitivity to the nuclear symmetry energy, which governs the strength of the isospin-restoring force and whose value in finite nuclei remains difficult to constrain because of its intricate dependence on the momentum-dependent terms of the effective interaction."
+    },
+    {
+      "title": "\\texorpdfstring{$\\alpha$}{}-decay for superheavy nucleus: The alpha decay energy to the one-fourth power",
+      "link": "https://arxiv.org/abs/2609.03902",
+      "authors": "Jinyu Hu, Chen Wu",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2609.03902v1 Announce Type: new \nAbstract: Recently, Sobhani and Luo \\cite{sobhani2025unified} proposed a new empirical formula for $\\alpha$ decay based on the $Q_\\alpha^{-1/4}$ energy dependence, incorporating the proton number $Z$, neutron number $N$, and relative neutron excess $I = (N - Z)/(N + Z)$ as primary parameters. In this work, we extend this model by explicitly including the angular momentum of the emitted $\\alpha$ particle and the quadrupole deformation of the daughter nucleus. Using this improved formula to evaluate the $\\alpha$-decay half-lives of 400 nuclei yields a root-mean-square (RMS) deviation of 0.97 relative to experimental data. Furthermore, we employ support vector regression (SVR)-taking $Q_\\alpha^{-1/4}$, $N$, $Z$, angular momentum, and daughter-nucleus deformation as input features-which further reduces the RMS deviation to 0.56. Finally, we apply both the extended formula and the SVR model to predict the $\\alpha$-decay half-lives of even-even nuclei with $Z = 120$ and $Z = 122$. The predicted half-lives show good consistency with those from the Sobhani and Poenaru formulas, and both approaches strongly support $N = 184$ as the next neutron magic number."
+    },
+    {
+      "title": "Reduced-basis method for linear response within nuclear density functional theory",
+      "link": "https://arxiv.org/abs/2609.03903",
+      "authors": "Nobuo Hinohara, Xilin Zhang, Jonathan Engel",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2609.03903v1 Announce Type: new \nAbstract: Background: The quasiparticle random-phase approximation (QRPA) within nuclear density functional theory provides a powerful framework for describing collective excitations. Although the finite-amplitude method (FAM) efficiently solves the QRPA problem, repeated calculations for different external-field parameters remain computationally demanding.\n  Purpose: We construct a reduced basis method (RBM)-based emulator for the FAM that treats the complex energy of the external field as a model parameter to efficiently reproduce FAM amplitudes and QRPA eigenmodes.\n  Methods: High-fidelity FAM calculations are performed at a small set of training points in the complex-energy plane. The resulting FAM amplitudes form a non-orthogonal reduced basis. A variational equation yields an emulator that can predict the response at arbitrary complex energies and QRPA eigensolutions without additional full FAM calculations.\n  Results: The RBM emulator accurately reproduces FAM strength distributions in both giant-resonance and low-energy regions when the relevant energy domain is covered by the training set. It also reproduces imaginary QRPA modes associated with shape instabilities of the HFB state. Applied to the $K^\\pi=0^+$ mode of rare-earth Dy isotopes in a realistic model space, the emulator reproduces strength distributions and the lowest $0^+$ collective states with precision comparable to full FAM calculations, reducing the computational cost by more than an order of magnitude.\n  Conclusions: The RBM provides an efficient and accurate FAM emulator. Its ability to reproduce giant-resonance, low-energy, and imaginary-energy modes at drastically reduced computational cost makes it promising for density-functional optimization, calculations of collective inertia, and large-scale surveys of nuclear collective excitations."
+    },
+    {
+      "title": "Microscopic Calculation of Electric Quadrupole Effective Charges in Exotic Nuclei",
+      "link": "https://arxiv.org/abs/2609.04044",
+      "authors": "Jia Liu, Yong Peng, Xiao-Yan Zhu, Xiao-Hua Li, Wen Luo, Yi-Fei Niu, Wen-Hui Long",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2609.04044v1 Announce Type: new \nAbstract: Electric quadrupole ($E2$) effective charges are evaluated based on the self-consistent relativistic Hartree-Fock single-particle states, with core-polarization corrections resummed to all orders using the Tamm-Dancoff approximation (TDA). Configuration-interaction relativistic Hartree-Fock (CI-RHF) calculations employing the TDA effective charges well reproduce the $B(E2)$ strength for neon isotopes from stability to the neutron drip line. We find that polarization charges associated with continuum states are significantly quenched due to their extended density distributions and weak coupling to the core, underscoring the critical role of continuum effects in $E2$ transition evaluations for exotic nuclei. Moreover, the CI-RHF model predicts a suppressed $B(E2; 2^+_2 \\to 0^+_2)$ in $^{30}$Ne, together with strong in-band $B(E2)$ strengths of the yrast band, suggesting the coexistence of a nearly spherical excited $0^+_2$ state and a deformed ground state within the $N=20$ \"island of inversion\"."
+    },
+    {
+      "title": "B(E2) Serves as a Robust Signature of N = 32,34 Shell Evolution",
+      "link": "https://arxiv.org/abs/2609.04154",
+      "authors": "Jia Liu, Yi Fei Niu, Xiao Hua Lia, Wen Luo, Wen Hui Long",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2609.04154v1 Announce Type: new \nAbstract: Electric quadrupole transition probabilities $B(E2)$ serve as key probe of nuclear shell evolution, yet anomalous $B(E2)$ values in exotic nuclei complicate the identification of new magic numbers. In this letter, employing the configuration-interaction relativistic Hartree-Fock model, we demonstrate that effective charges are sensitive to orbital radii, and this orbital dependence is significantly amplified by the halo structure of valence nucleons. This mechanism is critical for reliably describing $E2$ transitions and understanding the unusual behavior of $B(E2)$ in exotic nuclei. Our calculations predict reduced $B(E2; 2^+_1 \\rightarrow 0^+_1)$ values in $^{52,54}\\text{Ca}$, signaling the emergence of subshell closures at $N=32$ and 34. Furthermore, the suppressed $B(E2; 7/2^{-}_{1} \\rightarrow 11/2^{-}_{1})$ transition in $^{53}\\text{Sc}$ underscores the robustness of the $N=32$ new magic number, whereas the enhanced transition strength in $^{55}\\text{Sc}$ indicates the rapid erosion of the $N=34$ shell gap with the occupancy of the proton orbital $\\pi1f_{7/2}$."
+    },
+    {
+      "title": "Quantum Complexity in Nuclear Scattering and Fission Dynamics",
+      "link": "https://arxiv.org/abs/2609.03240",
+      "authors": "Saurabh V. Kadam, Antonio Bjel\\v{c}i\\'c, Nicolas Schunck, Kyle Wendt",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2609.03240v1 Announce Type: cross \nAbstract: Quantum computers promise advantages for simulating strongly correlated quantum many-body systems, like atomic nuclei, that are beyond the reach of classical computers. Realizing this potential requires understanding the quantum complexity structure of the target problem. We investigate the time-evolution of two key indicators of quantum complexity, bipartite entanglement entropy and non-local magic (non-stabilizerness), in nuclear reaction dynamics. We analyze two representative dynamical processes: scattering in a one-dimensional model of strongly interacting fermions governed by the Negele potential, and a realistic simulation of $^{240}$Pu fission within time-dependent Hartree-Fock-Bogoliubov (TDHFB) theory. In the former case, we find that interactions dynamically generate both entanglement and non-local magic, leaving persistent signatures of quantum complexity in the outgoing states. In the latter, we observe that substantial quantum complexity survives in the spatial bipartition of daughter fragments well beyond scission. The presence of significant non-local magic and entanglement in both cases strongly indicate that quantum computers would provide substantial advantages for accurately simulating nuclear reaction dynamics."
+    },
+    {
+      "title": "CGC-py: A Monte Carlo Event Generator for Gluon Saturation Physics",
+      "link": "https://arxiv.org/abs/2609.03434",
+      "authors": "Haowu Duan, Cong Yi, Si-Wei Dai, Shu-Yi Wei, Wenbin Zhao, Liang Zheng",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2609.03434v1 Announce Type: cross \nAbstract: We develop CGC-py, a Monte Carlo event generator for deep-inelastic scattering. It couples the full Color Glass Condensate (CGC) cross section for $\\gamma^*p(A)\\to q\\bar q+X$ to a Parton-Branching transverse-momentum-dependent backward initial-state shower, while \\textsc{Pythia}~8 handles final-state radiation and hadronization. CGC-py retains the complete target-elastic and target-inelastic contributions without taking the back-to-back correlation limit, allowing single- and di-hadron observables to be generated consistently from the same event sample. We validate the generator through an analytic closure test of the single-inclusive quark spectrum and a comparison of charged-hadron spectra in $ep$ collisions with H1 data, finding excellent agreement. The predicted nuclear modification factor $R_{e\\mathrm{Au}}^h$ shows the expected saturation pattern: suppression at low $p_T^*$ followed by a rise toward unity at higher $p_T^*$. A comparison with a \\textsc{Pythia}~6 baseline, together with an $x_g$-rescaling study, indicates that small-$x$ CGC evolution and collinear DGLAP dynamics contribute comparably to the growth of the dihadron away-side width with energy. Genuine saturation-driven broadening emerges only at the highest energies considered. Within CGC-py, $e\\mathrm{Au}$ collisions exhibit an enhanced away-side width and a suppressed back-to-back yield relative to $ep$ collisions. These nuclear effects remain modest over EIC kinematics, motivating measurements at the most forward accessible kinematics and the use of complementary observables to maximize sensitivity to gluon saturation."
+    },
+    {
+      "title": "Ultra-compact twin stars with hybrid equations of state from bosonic dark matter",
+      "link": "https://arxiv.org/abs/2609.03964",
+      "authors": "Ishfaq Ahmad Rather, Sarah Louisa Pitz, J\\\"urgen Schaffner-Bielich",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2609.03964v1 Announce Type: cross \nAbstract: The properties of compact stars with a strong first-order phase transition to quark matter and with an additional fluid of self-interacting bosonic dark matter (DM) are studied. We find that the inclusion of DM changes considerably the stability of mass-radius configurations relative to the naive one-fluid criterion. For compact star configurations with similar masses and different radii, so-called twin stars, the presence of DM removes the unstable segment between the hadronic and the hybrid branch, so that the stable mass-radius sequence becomes continuous after the onset of the phase transition to quark matter. We furthermore find stable ultra-compact objects (UCOs), defined by a total compactness $C = M_\\text{tot}/R_\\text{grav} \\ge 1/3$. We observe two distinct classes of UCOs: a DM-halo class with $f_\\text{DM} \\gtrsim 0.9$, and a DM-core class at $f_\\text{DM} \\lesssim 0.02$. The two classes can be separated by the surface redshift of the normal matter, which reaches $z=0.73$--$0.77$ for the DM-core class and stays below $0.45$ for the DM-halo class. Finally, we find hybrid star solutions of 'ultimate twins' with similar mass and visible radius, but different dark matter content, leading to different tidal deformabilities and surface redshifts. Future X-ray and gravitational measurements of ultra-compact neutron stars with radii and masses outside the allowed neutron star range can thereby probe the presence and the properties of DM in addition to a first-order phase transition to quark matter."
+    },
+    {
+      "title": "TQ4Q2.0 Fragmentation Functions for Fully Heavy Tetraquark Production",
+      "link": "https://arxiv.org/abs/2609.04049",
+      "authors": "Francesco Giovanni Celiberto",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2609.04049v1 Announce Type: cross \nAbstract: We investigate the fragmentation dynamics underlying the production of fully heavy tetraquarks by means of the TQ4Q2.0 collinear FF set, covering scalar ($0^{++}$), axial-vector ($1^{+-}$), and tensor ($2^{++}$) configurations. The fragmentation inputs are determined within NRQCD factorization for the complete set of relevant partonic channels and are subsequently evolved across heavy-flavor thresholds through the HF-NRevo scheme. Perturbative uncertainties associated with fragmentation-scale variations are consistently propagated together with nonperturbative effects encoded in color-composite long-distance matrix elements. Attention is devoted to the axial-vector sector, whose fragmentation pattern makes it especially sensitive to intrinsic-charm contributions at LHC and FCC energies. TQ4Q2.0 therefore provides an uncertainty-aware framework for exploring fully heavy tetraquark production over a broad kinematic range and for connecting exotic-hadron spectroscopy with the partonic structure of the proton."
+    },
+    {
+      "title": "First Two-Hadron Form Factor from QCD",
+      "link": "https://arxiv.org/abs/2609.04142",
+      "authors": "Felipe G. Ortega-Gama, Ra\\'ul A. Brice\\~no, Ivan M. Burbano, Robert G. Edwards",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2609.04142v1 Announce Type: cross \nAbstract: We present the first QCD determination of an energy-dependent form factor for a two-hadron scattering state. In particular, we calculate the QCD contribution to the forward electromagnetic $\\pi^+\\pi^+ + \\gamma\\to\\pi^+\\pi^+$ amplitude at $m_\\pi\\approx 400$~MeV using lattice QCD. Because lattice calculations are performed in a finite Euclidean spacetime, where asymptotic scattering states are absent, this amplitude cannot be accessed directly from correlation functions. Instead, we can constrain this and related amplitudes nonperturbatively using a finite-volume formalism that requires two ingredients: the discrete finite-volume spectrum and finite-volume matrix elements of the electromagnetic current. We calculate three-point correlation functions coupling $\\pi^+\\pi^+$ finite-volume states and extract the corresponding electromagnetic matrix elements. Combining these results with the previously determined spectrum, we constrain the infinite-volume $\\pi^+\\pi^+ + \\gamma\\to\\pi^+\\pi^+$ amplitude in the forward limit. Using constraints from Lorentz symmetry, unitarity, and analyticity, we describe this amplitude in terms of a single real-valued energy-dependent two-hadron form factor. The resulting amplitude and form factor agree with the Ward-Takahashi identity across all energies and moving frames considered, providing the first QCD validation of this finite-volume approach and a pathway toward first-principles studies of the electromagnetic structure and electroweak responses of resonances and multi-hadron bound states."
+    },
+    {
+      "title": "Combination of searches for nonresonant Higgs boson pair production in proton–proton collisions at s ...",
+      "link": "https://iopscience.iop.org/article/10.1088/1361-6471/ae8ff1",
+      "authors": "The CMS Collaboration",
+      "source": "Journal of Physics G: Nuclear and Particle Physics",
+      "summary": "This paper presents a combination of searches for the nonresonant production of Higgs boson pairs (HH) in proton–proton collisions at a centre-of-mass energy of 13 TeV. The dataset was collected by the CMS experiment at the LHC from 2016 to 2018 and corresponds to a total integrated luminosity of 138 fb . The observed (expected) upper limit on the inclusive HH production cross-section relative to the standard model (SM) prediction is found to be 3.5 (2.5). Assuming all other Higgs boson couplings are equal to their SM values, the Higgs boson trilinear self-coupling modifier is constrained in the range at 95% confidence level (CL). Similarly, for the coupling modifier , which governs the interactions between two vector bosons and two Higgs bosons, we have excluded at more than five standard deviations for all values of . At 95% CL, assuming that the other couplings are equal to their SM values, is constrained in the range . This work also investigates HH production in several new physics scenarios, using the Higgs effective field theory (HEFT) framework. The HEFT framework is further exploited to study various ultraviolet complete models with an extended Higgs sector and set constraints on specific parameters. An extrapolation of the results in the expected integrated luminosity following the high-luminosity upgrade of the LHC is also reported."
+    },
+    {
+      "title": "Stability analysis of thin-shell wormholes in quantum-corrected Schwarzschild spacetime",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326007513?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: October 2026Source: Physics Letters B, Volume 881Author(s): S. Habib Mazharimousavi"
+    },
+    {
+      "title": "Leading four-Goldstone inelasticity in custodial partial waves",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326007653?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: October 2026Source: Physics Letters B, Volume 881Author(s): Samir Varma"
+    },
+    {
+      "title": "LHC Run-3, dark matter, and supersymmetric spectra in the supersymmetric Pati-Salam model",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326007410?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: October 2026Source: Physics Letters B, Volume 881Author(s): Ali Muhammad, Imtiaz Khan, Tianjun Li, Shabbar Raza, Mussawir Khan, Pirzada"
+    },
+    {
+      "title": "A practical methodology for Λ global polarization extraction in fixed-target experiments",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326007471?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: October 2026Source: Physics Letters B, Volume 881Author(s): Tan Lu, Chengdong Han, Chenlu Hu, Xionghong He, Diyu Shen, Subhash Singha, Shusu Shi, Xing Wu, Guannan Xie, Yapeng Zhang"
+    },
+    {
+      "title": "Thermodynamic reconstruction in observationally constrained dynamical dark energy models",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326007306?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: October 2026Source: Physics Letters B, Volume 881Author(s): Sonej Alam"
+    },
+    {
+      "title": "Damped critical-curve transients of a perturbed MOG black hole",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326007458?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: October 2026Source: Physics Letters B, Volume 881Author(s): Nikko John Leo S. Lobos"
+    },
+    {
+      "title": "Neural-network excited states of <math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si12.svg\" class=\"math\"><mrow><mi>A</mi><mo linebreak=\"goodbreak\">=</mo><mn>4</mn></mrow></math> nuclei and hypernuclei",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326007616?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: Available online 2 September 2026Source: Physics Letters BAuthor(s): Zi-Xiao Zhang, Yi-Long Yang, Xiao-Lu Qian, Wan-Bing He, Peng-Wei Zhao, Bing-Nan Lu, Yu-Gang Ma"
+    },
+    {
+      "title": "Topologically equivalent yet radiatively distinct orbits in EMRI system",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326007744?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: Available online 2 September 2026Source: Physics Letters BAuthor(s): Chao-Hui Wang, Shao-Wen Wei, Tao Zhu, Yu-Xiao Liu"
+    },
+    {
+      "title": "Innermost stable circular orbit of Kerr-Bertotti-Robinson black holes and inspirals from it: Exact solutions",
+      "link": "https://www.sciencedirect.com/science/article/pii/S037026932600763X?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: Available online 2 September 2026Source: Physics Letters BAuthor(s): Tower Wang"
+    },
+    {
+      "title": "Probing the Schwarzschild black hole in modified gravity by precessing motion",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326007665?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: Available online 2 September 2026Source: Physics Letters BAuthor(s): Bo Yang, Jie Li, Chunhua Jiang, Wenbin Lin"
+    },
+    {
+      "title": "Interior evolution of regular Schwarzschild black holes",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326007628?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: Available online 2 September 2026Source: Physics Letters BAuthor(s): J. Ovalle"
+    },
+    {
+      "title": "Testing Modified Teleparallel Gravity by Neutrino Oscillations",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326007677?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: Available online 2 September 2026Source: Physics Letters BAuthor(s): H. Yazdani Ahmadabadi, H. Mohseni Sadjadi"
+    },
+    {
+      "title": "New Supernova Constraints on Vector-Mediated Neutrinophilic Dark Sector",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326007732?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: Available online 2 September 2026Source: Physics Letters BAuthor(s): Christopher V. Cappiello, P.S. Bhupal Dev, Amol V. Patwardhan"
+    },
+    {
+      "title": "Differential neutron-scattering cross sections of <sup>181</sup>Ta at 148 keV",
+      "link": "https://www.sciencedirect.com/science/article/pii/S037594742600182X?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Nuclear Physics A",
+      "summary": "Publication date: Available online 2 September 2026Source: Nuclear Physics AAuthor(s): Cuong Van Trinh, Pham Ngoc Son, Nguyen Duy Quang, Nguyen Nhi Dien, Tran Tuan Anh, Pham Quang Huy, Phan Bao Quoc Hieu, Tuong Thi Thu Huong, Nguyen Kien Cuong, Hoang Minh Vu, Nguyen Ngoc Anh, Vu Duc Cong, Nguyen Quang Hung"
     }
   ]
 }
