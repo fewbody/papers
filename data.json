@@ -1,215 +1,68 @@
 {
-  "lastUpdated": "2026-09-04T05:15:29.607120",
+  "lastUpdated": "2026-09-05T05:05:01.405270",
   "papers": [
     {
-      "title": "Identification of $^{17}\\mathrm{Na}$ Ground State and Mirror Symmetry Violation with $^{17}\\mathrm{C}$",
-      "link": "http://link.aps.org/doi/10.1103/3mqd-58tp",
-      "authors": "L. Ni <em>et al.</em>",
-      "source": "Physical Review Letter",
-      "summary": "Author(s): L. Ni et al.The ground state of the three-proton emitter $^{17}\\mathrm{Na}$ has been identified. Energy correlations between the protons and the $^{14}\\mathrm{O}$ residue indicate that its decay is sequential initiated by the emission of a single proton to the ground state of $^{16}\\mathrm{Ne}$ followed by simu…[Phys. Rev. Lett. 137, 102501] Published Wed Sep 02, 2026"
-    },
-    {
-      "title": "Reentrance of proton-neutron pairing in hot nuclear systems",
-      "link": "http://link.aps.org/doi/10.1103/g1j9-wwp2",
-      "authors": "T. Vu Dong, Alan A. Dzhioev, A. I. Vdovin, and N. Quang Hung",
+      "title": "Three-body model study of $^{12}\\mathrm{Be}$ using the Faddeev method in momentum space",
+      "link": "http://link.aps.org/doi/10.1103/hsjg-f6kr",
+      "authors": "Ning Li, Chang Xu, Jun-Jie He, Liang-Kai Wu, Meng-Jiao Lyu, Jin Li, and Zhao-Jun Ma",
       "source": "Physical Review C",
-      "summary": "Author(s): T. Vu Dong, Alan A. Dzhioev, A. I. Vdovin, and N. Quang HungWe develop a generalized finite-temperature proton-neutron BCS framework using the superoperator formalism, incorporating both isovector and isoscalar monopole pairing channels. Numerical calculations for a schematic equidistant multilevel model and realistic even-even Ge isotopes demonstrate the em…[Phys. Rev. C 114, 034303] Published Thu Sep 03, 2026"
+      "summary": "Author(s): Ning Li, Chang Xu, Jun-Jie He, Liang-Kai Wu, Meng-Jiao Lyu, Jin Li, and Zhao-Jun MaWe employ the three-body model to the $^{12}\\mathrm{Be}$ nucleus by solving the Faddeev equations in momentum space using the partial-wave decomposition method. Four sets of interactions between the $^{10}\\mathrm{Be}$ core and the neutron, ${V}_{cn}$, are constructed in different ways to test the va…[Phys. Rev. C 114, 034003] Published Fri Sep 04, 2026"
     },
     {
-      "title": "Impact of the small Dirac component on the valence electron density of actinides at their nuclei in solids",
-      "link": "http://link.aps.org/doi/10.1103/fmc6-8f4q",
-      "authors": "A. V. Nikolaev, U. N. Kurelchuk, and E. V. Tkalya",
+      "title": "Comparative study of a quartet superfluid state: Quartet Bardeen-Cooper-Schrieffer theory and generalized Nambu-Gor'kov formalism",
+      "link": "http://link.aps.org/doi/10.1103/snvw-f54b",
+      "authors": "Yixin Guo (郭一昕), Hiroyuki Tajima (田島裕之), and Haozhao Liang (梁豪兆)",
       "source": "Physical Review C",
-      "summary": "Author(s): A. V. Nikolaev, U. N. Kurelchuk, and E. V. TkalyaAn enhanced Full-Potential Linear Augmented Plane Wave (FLAPW) method is introduced which incorporates the small Dirac components of valence states—specifically the 6p1/2 semicore states—in actinide solids such as Ac, Th, ThO2, and UO2. By accounting for these small components, it is demonstrated that the valence electron density at the nucleus increases by a factor of 2.4 to 4.3, correcting standard approximations in computational physics that omit significant valence electron density near the atomic nucleus. These refined relativistic Dirac calculations offer improved theoretical precision for nuclear phenomena such as internal conversion, Mossbauer spectroscopy, and electron bridge effects, providing foundational electronic structure insights relevant to technologies like 229Th-based solid-state nuclear clocks.[Phys. Rev. C 114, 034601] Published Thu Sep 03, 2026"
+      "summary": "Author(s): Yixin Guo (郭一昕), Hiroyuki Tajima (田島裕之), and Haozhao Liang (梁豪兆)We theoretically investigate a quartet superfluid state in fermionic matter by using the quartet Bardeen-Cooper-Schrieffer (BCS) variational theory and the Green's function method. We demonstrate that the quartet BCS theory with the multiple-infinite-product ansatz successfully reproduces an exact f…[Phys. Rev. C 114, 034304] Published Fri Sep 04, 2026"
     },
     {
-      "title": "Decay-resolved charge changes from radioactive decays in levitated microparticles",
-      "link": "http://link.aps.org/doi/10.1103/z83g-y4xn",
-      "authors": "Jiaxiang Wang, T. W. Penny, Yu-Han Tseng, Benjamin Siegel, and David C. Moore",
+      "title": "Isoscalar giant resonances in highly deformed $^{172}\\mathrm{Yb}$",
+      "link": "http://link.aps.org/doi/10.1103/sxf2-hl2p",
+      "authors": "K. Khokhar <em>et al.</em>",
       "source": "Physical Review C",
-      "summary": "Author(s): Jiaxiang Wang, T. W. Penny, Yu-Han Tseng, Benjamin Siegel, and David C. MooreWe have demonstrated a new way to reveal the electrical ‘fingerprint’ left by a single nuclear decay. When a radioactive atom implanted just beneath a surface decays, its products can eject a shower of secondary electrons from the surrounding material. Often undetected by conventional laboratory instruments, these electrons can create a substantial background in experiments that rely on precise electron counting. To study this process, we use a microscopic glass sphere suspended by laser light as a highly isolated charge detector with sub-electron charge sensitivity. We pair the sphere with a conventional scintillation detector that records the emitted radiation. By matching the timing of the two signals, we can link each charge change to a specific decay. We found that one alpha decay can knock more than 100 electrons from a material’s surface, while beta decays release far fewer. Measuring these electrical fingerprints one decay at a time could help experiments searching for rare events, including future sterile neutrino searches, to distinguish genuine signals from electrons released by radioactive impurities near detector surfaces.[Phys. Rev. C 114, 034602] Published Thu Sep 03, 2026"
+      "summary": "Author(s): K. Khokhar et al.To study the isoscalar giant resonances in a deformed case, background-free $α$-particle inelastic scattering measurements using a 386 MeV $α$ beam were performed on the highly deformed $^{172}\\mathrm{Yb}$ nucleus using the Grand Raiden spectrometer at the Research Center for Nuclear Physics (RCNP) …[Phys. Rev. C 114, 034305] Published Fri Sep 04, 2026"
     },
     {
-      "title": "A Practical Partial-Wave Method for Identifying Unstable Light Nucleus Resonances in Heavy-Ion Collisions",
-      "link": "https://arxiv.org/abs/2609.03499",
-      "authors": "Junlin Wu, Hongchan Li, Ke Mi, Yaping Wang, Guannan Xie",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2609.03499v1 Announce Type: new \nAbstract: The production of light nuclei in relativistic heavy-ion collisions provides valuable insights into the dynamics of the hot and dense matter created in these extreme environments. While stable light nuclei have been extensively studied, unstable light nuclei being short-lived resonance states remain largely unexplored and offer unique opportunities to probe final-state interactions and the freeze-out conditions. In this paper, we propose a partial-wave method, based on the Lednick\\'y--Lyuboshitz framework, to extract resonance signals of unstable light nuclei from two-particle correlation functions measured in heavy-ion collisions. By extending the LL model to higher order partial waves and directly incorporating experimental phase-shift data from low-energy nuclear scattering, our approach avoids the need for model-dependent potential parametrizations and enables a clean decomposition of the resonant partial wave from the non-resonant background. As a demonstration, we apply the method to the $p$-$^3$He and $p$-$^4$He systems, corresponding to the $^4$Li and $^5$Li ground-state resonances. Numerical results show that the resonance-induced correlation excess can be effectively isolated, with a peak in the correlation function appearing at $k \\approx 72$ MeV/$c$ for $^4$Li and $k \\approx 50$ MeV/$c$ for $^5$Li, consistent with the known resonance parameters. The extracted transverse momentum spectra and rapidity distributions are presented using the measured proton and light-nuclei spectra from STAR at $\\sqrt{s_{NN}} = 3$ GeV. The proposed method provides a practical tool for the experimental study of unstable light nuclei in relativistic heavy-ion collisions and can be extended to a broader range of resonance states."
-    },
-    {
-      "title": "Influence of configuration-interaction on isospin impurities and isospin symmetry breaking corrections to superallowed $0^+\\rightarrow 0^+$ beta decays",
-      "link": "https://arxiv.org/abs/2609.03545",
-      "authors": "Jakub Wysocki, Jan Mi\\'skiewicz, Jagjit Singh, Wojciech Satu{\\l}a",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2609.03545v1 Announce Type: new \nAbstract: The symmetry-conserving density functional theory (DFT)-based no-core configuration-interaction (DFT-NCCI) framework is applied for the first time to investigate the impact of configuration interaction (CI) on the Coulomb (isospin) impurity, $\\alpha_{\\rm C}$, in the ground and excited states of $^{10}$C, $^{10}$B, and $^{14}$N, as well as on the isospin-symmetry-breaking (ISB) correction to the superallowed $0^+ \\rightarrow 0^+$ $\\beta$ decay of $^{10}$C. We demonstrate, among other findings, that within the DFT-NCCI framework CI has a negligible effect on the ground-state isospin impurities, which are dominated by a single doorway state. In contrast, CI significantly modifies the impurities in excited states, including the isobaric analogue $I=0^+,\\,T=1$ state in $^{10}$B. Hence, it also has a non-negligible impact on the ISB correction to the superallowed $\\beta$ decay of $^{10}$C. Our calculations yield $\\bar{\\delta}_{\\rm C}=0.45(4)\\%$ when the Coulomb interaction is taken as the sole source of ISB, and $\\bar{\\delta}_{\\rm ISB}=0.46(6)\\%$ when short-range charge-symmetry-breaking (CSB) terms are included in addition. Hence, no statistically significant dependence of the ISB correction on the short-range CSB interaction is observed for this decay. Comparison with our previous results reveals a strong sensitivity to the nuclear symmetry energy, which governs the strength of the isospin-restoring force and whose value in finite nuclei remains difficult to constrain because of its intricate dependence on the momentum-dependent terms of the effective interaction."
-    },
-    {
-      "title": "\\texorpdfstring{$\\alpha$}{}-decay for superheavy nucleus: The alpha decay energy to the one-fourth power",
-      "link": "https://arxiv.org/abs/2609.03902",
-      "authors": "Jinyu Hu, Chen Wu",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2609.03902v1 Announce Type: new \nAbstract: Recently, Sobhani and Luo \\cite{sobhani2025unified} proposed a new empirical formula for $\\alpha$ decay based on the $Q_\\alpha^{-1/4}$ energy dependence, incorporating the proton number $Z$, neutron number $N$, and relative neutron excess $I = (N - Z)/(N + Z)$ as primary parameters. In this work, we extend this model by explicitly including the angular momentum of the emitted $\\alpha$ particle and the quadrupole deformation of the daughter nucleus. Using this improved formula to evaluate the $\\alpha$-decay half-lives of 400 nuclei yields a root-mean-square (RMS) deviation of 0.97 relative to experimental data. Furthermore, we employ support vector regression (SVR)-taking $Q_\\alpha^{-1/4}$, $N$, $Z$, angular momentum, and daughter-nucleus deformation as input features-which further reduces the RMS deviation to 0.56. Finally, we apply both the extended formula and the SVR model to predict the $\\alpha$-decay half-lives of even-even nuclei with $Z = 120$ and $Z = 122$. The predicted half-lives show good consistency with those from the Sobhani and Poenaru formulas, and both approaches strongly support $N = 184$ as the next neutron magic number."
-    },
-    {
-      "title": "Reduced-basis method for linear response within nuclear density functional theory",
-      "link": "https://arxiv.org/abs/2609.03903",
-      "authors": "Nobuo Hinohara, Xilin Zhang, Jonathan Engel",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2609.03903v1 Announce Type: new \nAbstract: Background: The quasiparticle random-phase approximation (QRPA) within nuclear density functional theory provides a powerful framework for describing collective excitations. Although the finite-amplitude method (FAM) efficiently solves the QRPA problem, repeated calculations for different external-field parameters remain computationally demanding.\n  Purpose: We construct a reduced basis method (RBM)-based emulator for the FAM that treats the complex energy of the external field as a model parameter to efficiently reproduce FAM amplitudes and QRPA eigenmodes.\n  Methods: High-fidelity FAM calculations are performed at a small set of training points in the complex-energy plane. The resulting FAM amplitudes form a non-orthogonal reduced basis. A variational equation yields an emulator that can predict the response at arbitrary complex energies and QRPA eigensolutions without additional full FAM calculations.\n  Results: The RBM emulator accurately reproduces FAM strength distributions in both giant-resonance and low-energy regions when the relevant energy domain is covered by the training set. It also reproduces imaginary QRPA modes associated with shape instabilities of the HFB state. Applied to the $K^\\pi=0^+$ mode of rare-earth Dy isotopes in a realistic model space, the emulator reproduces strength distributions and the lowest $0^+$ collective states with precision comparable to full FAM calculations, reducing the computational cost by more than an order of magnitude.\n  Conclusions: The RBM provides an efficient and accurate FAM emulator. Its ability to reproduce giant-resonance, low-energy, and imaginary-energy modes at drastically reduced computational cost makes it promising for density-functional optimization, calculations of collective inertia, and large-scale surveys of nuclear collective excitations."
-    },
-    {
-      "title": "Microscopic Calculation of Electric Quadrupole Effective Charges in Exotic Nuclei",
-      "link": "https://arxiv.org/abs/2609.04044",
-      "authors": "Jia Liu, Yong Peng, Xiao-Yan Zhu, Xiao-Hua Li, Wen Luo, Yi-Fei Niu, Wen-Hui Long",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2609.04044v1 Announce Type: new \nAbstract: Electric quadrupole ($E2$) effective charges are evaluated based on the self-consistent relativistic Hartree-Fock single-particle states, with core-polarization corrections resummed to all orders using the Tamm-Dancoff approximation (TDA). Configuration-interaction relativistic Hartree-Fock (CI-RHF) calculations employing the TDA effective charges well reproduce the $B(E2)$ strength for neon isotopes from stability to the neutron drip line. We find that polarization charges associated with continuum states are significantly quenched due to their extended density distributions and weak coupling to the core, underscoring the critical role of continuum effects in $E2$ transition evaluations for exotic nuclei. Moreover, the CI-RHF model predicts a suppressed $B(E2; 2^+_2 \\to 0^+_2)$ in $^{30}$Ne, together with strong in-band $B(E2)$ strengths of the yrast band, suggesting the coexistence of a nearly spherical excited $0^+_2$ state and a deformed ground state within the $N=20$ \"island of inversion\"."
-    },
-    {
-      "title": "B(E2) Serves as a Robust Signature of N = 32,34 Shell Evolution",
-      "link": "https://arxiv.org/abs/2609.04154",
-      "authors": "Jia Liu, Yi Fei Niu, Xiao Hua Lia, Wen Luo, Wen Hui Long",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2609.04154v1 Announce Type: new \nAbstract: Electric quadrupole transition probabilities $B(E2)$ serve as key probe of nuclear shell evolution, yet anomalous $B(E2)$ values in exotic nuclei complicate the identification of new magic numbers. In this letter, employing the configuration-interaction relativistic Hartree-Fock model, we demonstrate that effective charges are sensitive to orbital radii, and this orbital dependence is significantly amplified by the halo structure of valence nucleons. This mechanism is critical for reliably describing $E2$ transitions and understanding the unusual behavior of $B(E2)$ in exotic nuclei. Our calculations predict reduced $B(E2; 2^+_1 \\rightarrow 0^+_1)$ values in $^{52,54}\\text{Ca}$, signaling the emergence of subshell closures at $N=32$ and 34. Furthermore, the suppressed $B(E2; 7/2^{-}_{1} \\rightarrow 11/2^{-}_{1})$ transition in $^{53}\\text{Sc}$ underscores the robustness of the $N=32$ new magic number, whereas the enhanced transition strength in $^{55}\\text{Sc}$ indicates the rapid erosion of the $N=34$ shell gap with the occupancy of the proton orbital $\\pi1f_{7/2}$."
-    },
-    {
-      "title": "Quantum Complexity in Nuclear Scattering and Fission Dynamics",
-      "link": "https://arxiv.org/abs/2609.03240",
-      "authors": "Saurabh V. Kadam, Antonio Bjel\\v{c}i\\'c, Nicolas Schunck, Kyle Wendt",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2609.03240v1 Announce Type: cross \nAbstract: Quantum computers promise advantages for simulating strongly correlated quantum many-body systems, like atomic nuclei, that are beyond the reach of classical computers. Realizing this potential requires understanding the quantum complexity structure of the target problem. We investigate the time-evolution of two key indicators of quantum complexity, bipartite entanglement entropy and non-local magic (non-stabilizerness), in nuclear reaction dynamics. We analyze two representative dynamical processes: scattering in a one-dimensional model of strongly interacting fermions governed by the Negele potential, and a realistic simulation of $^{240}$Pu fission within time-dependent Hartree-Fock-Bogoliubov (TDHFB) theory. In the former case, we find that interactions dynamically generate both entanglement and non-local magic, leaving persistent signatures of quantum complexity in the outgoing states. In the latter, we observe that substantial quantum complexity survives in the spatial bipartition of daughter fragments well beyond scission. The presence of significant non-local magic and entanglement in both cases strongly indicate that quantum computers would provide substantial advantages for accurately simulating nuclear reaction dynamics."
-    },
-    {
-      "title": "CGC-py: A Monte Carlo Event Generator for Gluon Saturation Physics",
-      "link": "https://arxiv.org/abs/2609.03434",
-      "authors": "Haowu Duan, Cong Yi, Si-Wei Dai, Shu-Yi Wei, Wenbin Zhao, Liang Zheng",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2609.03434v1 Announce Type: cross \nAbstract: We develop CGC-py, a Monte Carlo event generator for deep-inelastic scattering. It couples the full Color Glass Condensate (CGC) cross section for $\\gamma^*p(A)\\to q\\bar q+X$ to a Parton-Branching transverse-momentum-dependent backward initial-state shower, while \\textsc{Pythia}~8 handles final-state radiation and hadronization. CGC-py retains the complete target-elastic and target-inelastic contributions without taking the back-to-back correlation limit, allowing single- and di-hadron observables to be generated consistently from the same event sample. We validate the generator through an analytic closure test of the single-inclusive quark spectrum and a comparison of charged-hadron spectra in $ep$ collisions with H1 data, finding excellent agreement. The predicted nuclear modification factor $R_{e\\mathrm{Au}}^h$ shows the expected saturation pattern: suppression at low $p_T^*$ followed by a rise toward unity at higher $p_T^*$. A comparison with a \\textsc{Pythia}~6 baseline, together with an $x_g$-rescaling study, indicates that small-$x$ CGC evolution and collinear DGLAP dynamics contribute comparably to the growth of the dihadron away-side width with energy. Genuine saturation-driven broadening emerges only at the highest energies considered. Within CGC-py, $e\\mathrm{Au}$ collisions exhibit an enhanced away-side width and a suppressed back-to-back yield relative to $ep$ collisions. These nuclear effects remain modest over EIC kinematics, motivating measurements at the most forward accessible kinematics and the use of complementary observables to maximize sensitivity to gluon saturation."
-    },
-    {
-      "title": "Ultra-compact twin stars with hybrid equations of state from bosonic dark matter",
-      "link": "https://arxiv.org/abs/2609.03964",
-      "authors": "Ishfaq Ahmad Rather, Sarah Louisa Pitz, J\\\"urgen Schaffner-Bielich",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2609.03964v1 Announce Type: cross \nAbstract: The properties of compact stars with a strong first-order phase transition to quark matter and with an additional fluid of self-interacting bosonic dark matter (DM) are studied. We find that the inclusion of DM changes considerably the stability of mass-radius configurations relative to the naive one-fluid criterion. For compact star configurations with similar masses and different radii, so-called twin stars, the presence of DM removes the unstable segment between the hadronic and the hybrid branch, so that the stable mass-radius sequence becomes continuous after the onset of the phase transition to quark matter. We furthermore find stable ultra-compact objects (UCOs), defined by a total compactness $C = M_\\text{tot}/R_\\text{grav} \\ge 1/3$. We observe two distinct classes of UCOs: a DM-halo class with $f_\\text{DM} \\gtrsim 0.9$, and a DM-core class at $f_\\text{DM} \\lesssim 0.02$. The two classes can be separated by the surface redshift of the normal matter, which reaches $z=0.73$--$0.77$ for the DM-core class and stays below $0.45$ for the DM-halo class. Finally, we find hybrid star solutions of 'ultimate twins' with similar mass and visible radius, but different dark matter content, leading to different tidal deformabilities and surface redshifts. Future X-ray and gravitational measurements of ultra-compact neutron stars with radii and masses outside the allowed neutron star range can thereby probe the presence and the properties of DM in addition to a first-order phase transition to quark matter."
-    },
-    {
-      "title": "TQ4Q2.0 Fragmentation Functions for Fully Heavy Tetraquark Production",
-      "link": "https://arxiv.org/abs/2609.04049",
-      "authors": "Francesco Giovanni Celiberto",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2609.04049v1 Announce Type: cross \nAbstract: We investigate the fragmentation dynamics underlying the production of fully heavy tetraquarks by means of the TQ4Q2.0 collinear FF set, covering scalar ($0^{++}$), axial-vector ($1^{+-}$), and tensor ($2^{++}$) configurations. The fragmentation inputs are determined within NRQCD factorization for the complete set of relevant partonic channels and are subsequently evolved across heavy-flavor thresholds through the HF-NRevo scheme. Perturbative uncertainties associated with fragmentation-scale variations are consistently propagated together with nonperturbative effects encoded in color-composite long-distance matrix elements. Attention is devoted to the axial-vector sector, whose fragmentation pattern makes it especially sensitive to intrinsic-charm contributions at LHC and FCC energies. TQ4Q2.0 therefore provides an uncertainty-aware framework for exploring fully heavy tetraquark production over a broad kinematic range and for connecting exotic-hadron spectroscopy with the partonic structure of the proton."
-    },
-    {
-      "title": "First Two-Hadron Form Factor from QCD",
-      "link": "https://arxiv.org/abs/2609.04142",
-      "authors": "Felipe G. Ortega-Gama, Ra\\'ul A. Brice\\~no, Ivan M. Burbano, Robert G. Edwards",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2609.04142v1 Announce Type: cross \nAbstract: We present the first QCD determination of an energy-dependent form factor for a two-hadron scattering state. In particular, we calculate the QCD contribution to the forward electromagnetic $\\pi^+\\pi^+ + \\gamma\\to\\pi^+\\pi^+$ amplitude at $m_\\pi\\approx 400$~MeV using lattice QCD. Because lattice calculations are performed in a finite Euclidean spacetime, where asymptotic scattering states are absent, this amplitude cannot be accessed directly from correlation functions. Instead, we can constrain this and related amplitudes nonperturbatively using a finite-volume formalism that requires two ingredients: the discrete finite-volume spectrum and finite-volume matrix elements of the electromagnetic current. We calculate three-point correlation functions coupling $\\pi^+\\pi^+$ finite-volume states and extract the corresponding electromagnetic matrix elements. Combining these results with the previously determined spectrum, we constrain the infinite-volume $\\pi^+\\pi^+ + \\gamma\\to\\pi^+\\pi^+$ amplitude in the forward limit. Using constraints from Lorentz symmetry, unitarity, and analyticity, we describe this amplitude in terms of a single real-valued energy-dependent two-hadron form factor. The resulting amplitude and form factor agree with the Ward-Takahashi identity across all energies and moving frames considered, providing the first QCD validation of this finite-volume approach and a pathway toward first-principles studies of the electromagnetic structure and electroweak responses of resonances and multi-hadron bound states."
-    },
-    {
-      "title": "Combination of searches for nonresonant Higgs boson pair production in proton–proton collisions at s ...",
-      "link": "https://iopscience.iop.org/article/10.1088/1361-6471/ae8ff1",
-      "authors": "The CMS Collaboration",
-      "source": "Journal of Physics G: Nuclear and Particle Physics",
-      "summary": "This paper presents a combination of searches for the nonresonant production of Higgs boson pairs (HH) in proton–proton collisions at a centre-of-mass energy of 13 TeV. The dataset was collected by the CMS experiment at the LHC from 2016 to 2018 and corresponds to a total integrated luminosity of 138 fb . The observed (expected) upper limit on the inclusive HH production cross-section relative to the standard model (SM) prediction is found to be 3.5 (2.5). Assuming all other Higgs boson couplings are equal to their SM values, the Higgs boson trilinear self-coupling modifier is constrained in the range at 95% confidence level (CL). Similarly, for the coupling modifier , which governs the interactions between two vector bosons and two Higgs bosons, we have excluded at more than five standard deviations for all values of . At 95% CL, assuming that the other couplings are equal to their SM values, is constrained in the range . This work also investigates HH production in several new physics scenarios, using the Higgs effective field theory (HEFT) framework. The HEFT framework is further exploited to study various ultraviolet complete models with an extended Higgs sector and set constraints on specific parameters. An extrapolation of the results in the expected integrated luminosity following the high-luminosity upgrade of the LHC is also reported."
-    },
-    {
-      "title": "Stability analysis of thin-shell wormholes in quantum-corrected Schwarzschild spacetime",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326007513?dgcid=rss_sd_all",
+      "title": "Extended-BMS anomalies and flat space holography",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326007550?dgcid=rss_sd_all",
       "authors": "Unknown",
       "source": "Physics Letters B",
-      "summary": "Publication date: October 2026Source: Physics Letters B, Volume 881Author(s): S. Habib Mazharimousavi"
+      "summary": "Publication date: October 2026Source: Physics Letters B, Volume 881Author(s): Laurent Baulieu, Luca Ciambelli, Tom Wetzstein"
     },
     {
-      "title": "Leading four-Goldstone inelasticity in custodial partial waves",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326007653?dgcid=rss_sd_all",
+      "title": "Microscopic study of quasifission dynamics in hot fusion reactions for synthesizing superheavy nuclei with <math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si8.svg\" class=\"math\"><mrow><mi>Z</mi><mo linebreak=\"goodbreak\">=</mo><mn>112</mn><mtext>--</mtext><mn>120</mn></mrow></math>",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326007422?dgcid=rss_sd_all",
       "authors": "Unknown",
       "source": "Physics Letters B",
-      "summary": "Publication date: October 2026Source: Physics Letters B, Volume 881Author(s): Samir Varma"
+      "summary": "Publication date: October 2026Source: Physics Letters B, Volume 881Author(s): Xiang-Quan Deng(邓祥), Lu Guo(郭璐)"
     },
     {
-      "title": "LHC Run-3, dark matter, and supersymmetric spectra in the supersymmetric Pati-Salam model",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326007410?dgcid=rss_sd_all",
+      "title": "Fractional stochastic hydrodynamics and Fokker-Planck dynamics of <math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si1.svg\" class=\"math\"><mrow><mn>2</mn><mi mathvariant=\"script\">D</mi></mrow></math> graphene Dirac quasiparticle models",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326007446?dgcid=rss_sd_all",
       "authors": "Unknown",
       "source": "Physics Letters B",
-      "summary": "Publication date: October 2026Source: Physics Letters B, Volume 881Author(s): Ali Muhammad, Imtiaz Khan, Tianjun Li, Shabbar Raza, Mussawir Khan, Pirzada"
+      "summary": "Publication date: October 2026Source: Physics Letters B, Volume 881Author(s): Abdelmalek Bouzenada, Rami Ahmad El-Nabulsi, Allan R.P. Moreira"
     },
     {
-      "title": "A practical methodology for Λ global polarization extraction in fixed-target experiments",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326007471?dgcid=rss_sd_all",
+      "title": "Dynamics of a spinless scalar particle in a Reissner–Nordström black hole background surrounded by quintessence",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326007562?dgcid=rss_sd_all",
       "authors": "Unknown",
       "source": "Physics Letters B",
-      "summary": "Publication date: October 2026Source: Physics Letters B, Volume 881Author(s): Tan Lu, Chengdong Han, Chenlu Hu, Xionghong He, Diyu Shen, Subhash Singha, Shusu Shi, Xing Wu, Guannan Xie, Yapeng Zhang"
+      "summary": "Publication date: October 2026Source: Physics Letters B, Volume 881Author(s): M.D. de Oliveira, Alexandre G.M. Schmidt"
     },
     {
-      "title": "Thermodynamic reconstruction in observationally constrained dynamical dark energy models",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326007306?dgcid=rss_sd_all",
+      "title": "Thermodynamic acceptability of spherically symmetric perfect-fluid solutions in general relativity",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326007719?dgcid=rss_sd_all",
       "authors": "Unknown",
       "source": "Physics Letters B",
-      "summary": "Publication date: October 2026Source: Physics Letters B, Volume 881Author(s): Sonej Alam"
+      "summary": "Publication date: October 2026Source: Physics Letters B, Volume 881Author(s): Dina Demissenova, Nurzada Beissen, Kuantay Boshkayev, Hernando Quevedo"
     },
     {
-      "title": "Damped critical-curve transients of a perturbed MOG black hole",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326007458?dgcid=rss_sd_all",
-      "authors": "Unknown",
-      "source": "Physics Letters B",
-      "summary": "Publication date: October 2026Source: Physics Letters B, Volume 881Author(s): Nikko John Leo S. Lobos"
-    },
-    {
-      "title": "Neural-network excited states of <math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si12.svg\" class=\"math\"><mrow><mi>A</mi><mo linebreak=\"goodbreak\">=</mo><mn>4</mn></mrow></math> nuclei and hypernuclei",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326007616?dgcid=rss_sd_all",
-      "authors": "Unknown",
-      "source": "Physics Letters B",
-      "summary": "Publication date: Available online 2 September 2026Source: Physics Letters BAuthor(s): Zi-Xiao Zhang, Yi-Long Yang, Xiao-Lu Qian, Wan-Bing He, Peng-Wei Zhao, Bing-Nan Lu, Yu-Gang Ma"
-    },
-    {
-      "title": "Topologically equivalent yet radiatively distinct orbits in EMRI system",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326007744?dgcid=rss_sd_all",
-      "authors": "Unknown",
-      "source": "Physics Letters B",
-      "summary": "Publication date: Available online 2 September 2026Source: Physics Letters BAuthor(s): Chao-Hui Wang, Shao-Wen Wei, Tao Zhu, Yu-Xiao Liu"
-    },
-    {
-      "title": "Innermost stable circular orbit of Kerr-Bertotti-Robinson black holes and inspirals from it: Exact solutions",
-      "link": "https://www.sciencedirect.com/science/article/pii/S037026932600763X?dgcid=rss_sd_all",
-      "authors": "Unknown",
-      "source": "Physics Letters B",
-      "summary": "Publication date: Available online 2 September 2026Source: Physics Letters BAuthor(s): Tower Wang"
-    },
-    {
-      "title": "Probing the Schwarzschild black hole in modified gravity by precessing motion",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326007665?dgcid=rss_sd_all",
-      "authors": "Unknown",
-      "source": "Physics Letters B",
-      "summary": "Publication date: Available online 2 September 2026Source: Physics Letters BAuthor(s): Bo Yang, Jie Li, Chunhua Jiang, Wenbin Lin"
-    },
-    {
-      "title": "Interior evolution of regular Schwarzschild black holes",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326007628?dgcid=rss_sd_all",
-      "authors": "Unknown",
-      "source": "Physics Letters B",
-      "summary": "Publication date: Available online 2 September 2026Source: Physics Letters BAuthor(s): J. Ovalle"
-    },
-    {
-      "title": "Testing Modified Teleparallel Gravity by Neutrino Oscillations",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326007677?dgcid=rss_sd_all",
-      "authors": "Unknown",
-      "source": "Physics Letters B",
-      "summary": "Publication date: Available online 2 September 2026Source: Physics Letters BAuthor(s): H. Yazdani Ahmadabadi, H. Mohseni Sadjadi"
-    },
-    {
-      "title": "New Supernova Constraints on Vector-Mediated Neutrinophilic Dark Sector",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326007732?dgcid=rss_sd_all",
-      "authors": "Unknown",
-      "source": "Physics Letters B",
-      "summary": "Publication date: Available online 2 September 2026Source: Physics Letters BAuthor(s): Christopher V. Cappiello, P.S. Bhupal Dev, Amol V. Patwardhan"
-    },
-    {
-      "title": "Differential neutron-scattering cross sections of <sup>181</sup>Ta at 148 keV",
-      "link": "https://www.sciencedirect.com/science/article/pii/S037594742600182X?dgcid=rss_sd_all",
-      "authors": "Unknown",
-      "source": "Nuclear Physics A",
-      "summary": "Publication date: Available online 2 September 2026Source: Nuclear Physics AAuthor(s): Cuong Van Trinh, Pham Ngoc Son, Nguyen Duy Quang, Nguyen Nhi Dien, Tran Tuan Anh, Pham Quang Huy, Phan Bao Quoc Hieu, Tuong Thi Thu Huong, Nguyen Kien Cuong, Hoang Minh Vu, Nguyen Ngoc Anh, Vu Duc Cong, Nguyen Quang Hung"
+      "title": "Observation of the in and *",
+      "link": "https://iopscience.iop.org/article/10.1088/1674-1137/ae8acd",
+      "authors": "M. Ablikim, M. N. Achasov, P. Adlarson, X. C. Ai, 小聪 艾, C. S. Akondi, R. Aliberti, A. Amoroso, Q. An, 琪 安, Y. H. An, M. S. Anderson, Y. Bai, 羽 白, O. Bakina, H. R. Bao, 浩然 包, X. L. Bao, 先岚 保, M. Barbagiovanni, V. Batozskaya, K. Begzsuren, N. Berger, M. Berlowski, M. B. Bertani, D. Bettoni, F. Bianchi, E. Bianco, A. Bortone, I. Boyko, R. Briere, A. Brueggemann, D. Cabiati, H. Cai, 浩 蔡, M. H. Cai, 铭航 蔡, X. Cai, 啸 蔡, A. Calcaterra, G. F. Cao, 国富 曹, N. Cao, 宁 曹, S. A. Cetin, X. Y. Chai, 新宇 柴, J. F. Chang, 劲帆 常, T. T. Chang, 甜甜 常, G. R. Che, 国荣 车, Y. Z. Che, 逾之 车, C. H. Chen, 春卉 陈, C. Chen, 超 陈, G. Chen, 刚 陈, H. S. Chen, 和生 陈, H. Y. Chen, 弘扬 陈, M. L. Chen, 玛丽 陈, S. J. Chen, 申见 陈, S. M. Chen, 少敏 陈, T. Chen, 通 陈, W. Chen, 旺 陈, X. R. Chen, 旭荣 陈, X. T. Chen, 肖婷 陈, X. Y. Chen, 心宇 陈, Y. B. Chen, 元柏 陈, Y. Q. Chen, Z. K. Chen, 梓康 陈, J. Cheng, 捷 程, L. N. Cheng, 利娜 程, S. K. Choi, X. Chu, 晓 初, G. Cibinetto, F. Cossio, J. Cottee-Meldrum, H. L. Dai, 洪亮 代, J. P. Dai, 建平 代, X. C. Dai, 鑫琛 戴, A. Dbeyssi, R. E. de Boer, D. Dedovich, C. Q. Deng, 创旗 邓, Z. Y. Deng, 子艳 邓, A. Denig, I. Denisenko, M. Destefanis, F. De Mori, E. Di Fiore, X. X. Ding, 晓萱 丁, Y. Ding, 勇 丁, Y. X. Ding, 玉鑫 丁, J. Dong, 静 董, L. Y. Dong, 燎原 董, M. Y. Dong, 明义 董, X. Dong, 翔 董, Z. J. Dong, 焯娟 董, M. C. Du, 蒙川 杜, S. X. Du, 书先 杜, S. X. Du, 少旭 杜, X. L. Du, 小龙 杜, Y. Q. Du, 一琦 杜, Y. Y. Duan, 尧予 段, Z. H. Duan, 宗欢 段, P. Egorov, G. F. Fan, 高峰 樊, J. J. Fan, 俊杰 樊, Y. H. Fan, 宇晗 范, J. Fang, 建 方, J. Fang, 进 方, S. S. Fang, 双世 房, W. X. Fang, 文兴 方, Y. Q. Fang, 亚泉 方, L. Fava, F. Feldbauer, G. Felici, C. Q. Feng, 常青 封, J. H. Feng, 俊华 冯, Q. X. Feng, 千禧 冯, Y. T. Feng, 玙潼 冯, M. Fritsch, C. D. Fu, 成栋 傅, J. L. Fu, 金林 傅, Y. W. Fu, 亦威 傅, H. Gao, 涵 高, Xu Gao, 旭 高, Y. Gao, 扬 高, Y. N. Gao, 原宁 高, Y. Y. Gao, 洋洋 高, Y. N. Gao, 语浓 高, Z. Gao, 枝 高, S. Garbolino, I. Garzia, L. Ge, 玲 葛, P. T. Ge, 潘婷 葛, Z. W. Ge, 振武 葛, C. Geng, 聪 耿, A. Gilman, K. Goetzen, J. Gollub, J. B. Gong, 家宝 龚, J. D. Gong, 家鼎 龚, L. Gong, 丽 龚, W. X. Gong, 文煊 龚, W. Gradl, M. Greco, M. D. Gu, 萌冬 顾, M. H. Gu, 旻皓 顾, C. Y. Guan, 春懿 关, A. Q. Guo, 爱强 郭, H. Guo, 昊 郭, J. N. Guo, 嘉宁 郭, L. B. Guo, 立波 郭, M. J. Guo, 梦娇 国, R. P. Guo, 如盼 郭, X. Guo, 旭 郭, Y. P. Guo, 玉萍 郭, Z. Guo, 震 郭, A. Guskov, J. Gutierrez, J. Y. Han, 靖宜 韩, T. T. Han, X. Han, 许 韩, F. Hanisch, K. D. Hao, 科迪 郝, X. Q. Hao, 喜庆 郝, F. A. Harris, C. Z. He, 承芝 何, K. K. He, 凯凯 何, K. L. He, 康林 何, F. H. Heinsius, C. H. Heinz, Y. K. Heng, 月昆 衡, C. Herold, P. C. Hong, 鹏程 洪, G. Y. Hou, 国一 侯, X. T. Hou, 贤涛 侯, Y. R. Hou, 颖锐 侯, Z. L. Hou, 治龙 侯, H. M. Hu, 海明 胡, J. F. Hu, 继峰 胡, Q. P. Hu, 启鹏 胡, S. L. Hu, 圣亮 胡, T. Hu, 涛 胡, Y. Hu, 誉 胡, Y. X. Hu, 宇轩 胡, Z. M. Hu, 忠敏 胡, G. S. Huang, 光顺 黄, K. X. Huang, 凯旋 黄, L. Q. Huang, 麟钦 黄, P. Huang, 盼 黄, X. T. Huang, 性涛 黄, Y. P. Huang, 燕萍 黄, Y. S. Huang, 永盛 黄, T. Hussain, N. Hüsken, N. in der Wiesche, J. Jackson, Q. Ji, 全 纪, Q. P. Ji, 清平 姬, W. Ji, 旺 季, X. B. Ji, 晓斌 季, X. L. Ji, 筱璐 季, Y. Y. Ji, 钰瑶 吉, L. K. Jia, 乐康 贾, X. Q. Jia, 晓倩 贾, D. Jiang, 地 姜, S. J. Jiang, 思婧 蒋, X. S. Jiang, 晓山 江, Y. Jiang, 艺 蒋, J. B. Jiao, 健斌 焦, J. K. Jiao, 俊坤 焦, Z. Jiao, 铮 焦, L. C. L. Jin, 程龙 金梁, S. Jin, 山 金, Y. Jin, 毅 金, M. Q. Jing, 茂强 荆, X. M. Jing, 新媚 景, T. Johansson, S. Kabana, X. L. Kang, 晓琳 康, X. S. Kang, 晓珅 康, B. C. Ke, 百谦 柯, V. Khachatryan, A. Khoukaz, O. B. Kolcu, B. Kopf, L. Kröger, L. Krümmel, Y. Y. Kuang, 洋洋 匡, X. Kui, 贤 奎, N. Kumar, A. Kupsc, W. Kühn, Q. Lan, 强 兰, W. N. Lan, 文宁 兰, T. T. Lei, 天天 雷, M. Lellmann, T. Lenz, C. Li, 翠 李, C. H. Li, 春花 李, C. K. Li, 春凯 李, Chunkai Li, 春凯 李, Cong Li, 聪 李, D. M. Li, 德民 李, F. Li, 飞 李, G. Li, 刚 李, H. B. Li, 海波 李, H. J. Li, 惠静 李, H. L. Li, 昊霖 李, H. N. Li, 衡讷 李, H. P. Li, 昊鹏 李, H. Li, 慧 李, J. N. Li, 佳宁 李, J. S. Li, 静舒 李, J. W. Li, 井文 李, K. Li, 科 李, K. L. Li, 凯璐 李, L. J. Li, 林健 李, L. K. Li, 龙科 李, L. Li, 蕾 李, M. H. Li, 明浩 李, M. R. Li, 明润 李, M. T. Li, 梦婷 李, P. L. Li, 佩莲 李, P. R. Li, 培荣 李, Q. M. Li, 启铭 李, Q. X. Li, 起鑫 李, R. Li, 燃 李, S. Li, 硕 李, S. X. Li, 素娴 李, S. Y. Li, 淑雨 李, S. S. Li, 珊珊 李, T. Li, 腾 李, T. Y. Li, 天佑 李, W. D. Li, 卫东 李, W. G. Li, 卫国 李, X. Li, 旭 李, X. H. Li, 旭红 李, X. K. Li, 小康 李, X. L. Li, 晓玲 李, X. Y. Li, 晓宇 李, X. Z. Li, 绪泽 李, Y. Li, 洋 李, Y. H. Li, 昱宏 黎, Y. B. Li, 郁博 李, Y. C. Li, 钰程 李, Y. G. Li, 彦谷 李, Y. P. Li, 雁鹏 李, Z. H. Li, 宗豪 李, Z. J. Li, 志军 李, Z. L. Li, 芝兰 李, Z. X. Li, 振轩 李, Z. Y. Li, 紫阳 李, C. Liang, 畅 梁, H. Liang, 昊 梁, Y. F. Liang, 勇飞 梁, Y. T. Liang, 羽铁 梁, Z. Z. Liang, 振卓 梁, G. R. Liao, 广睿 廖, L. B. Liao, 立波 廖, M. H. Liao, 明华 廖, Y. P. Liao, 一朴 廖, J. Libby, A. Limphirat, C. C. Lin, 长城 蔺, C. X. Lin, 创新 林, D. X. Lin, 德旭 林, T. Lin, 韬 林, B. J. Liu, 北江 刘, B. X. Liu, 宝鑫 刘, C. Liu, 成 刘, C. X. Liu, 春秀 刘, F. Liu, 芳 刘, F. H. Liu, 福虎 刘, F. Liu, 峰 刘, G. M. Liu, 国明 刘, H. Liu, 昊 刘, H. B. Liu, 宏邦 刘, H. M. Liu, 怀民 刘, H. H. Liu, 汇慧 刘, J. B. Liu, 建北 刘, J. J. Liu, 佳佳 刘, K. Liu, 凯 刘, K. Y. Liu, 魁勇 刘, K. Liu, 珂 刘, K. Liu, 坤 刘, L. Liu, 亮 刘, L. C. Liu, 良辰 刘, Lu Liu, 露 刘, M. H. Liu, P. L. Liu, 佩莲 刘, Q. Liu, 倩 刘, S. B. Liu, 树彬 刘, T. Liu, 桐 刘, W. M. Liu, 卫民 刘, W. T. Liu, 婉婷 刘, X. Liu, 翔 刘, X. K. Liu, 筱康 刘, X. L. Liu, 兴淋 刘, X. P. Liu, 新平 刘, X. T. Liu, 欣桐 刘, X. Y. Liu, 雪吟 刘, Y. Liu, 英 刘, Y. B. Liu, 玉斌 刘, Y. Liu, 义 刘, Z. A. Liu, 振安 刘, Z. D. Liu, 宗德 刘, Z. L. Liu, 智青 刘, Z. Q. Liu, 钟秀 刘, Z. X. Liu, 正扬 刘, Z. Y. Liu, 子强 刘, X. C. Lou, 辛丑 娄, H. J. Lu, 海江 吕, J. G. Lu, 军光 吕, X. L. Lu, 小玲 陆, Y. Lu, 宇 卢, Y. H. Lu, 泱宏 卢, Y. P. Lu, 云鹏 卢, Z. H. Lu, 泽辉 卢, C. L. Luo, 成林 罗, J. R. Luo, 家瑞 罗, J. S. Luo, 家顺 罗, M. X. Luo, 民兴 罗, T. Luo, 涛 罗, X. L. Luo, 小兰 罗, Z. Y. Lv, 在裕 吕, X. R. Lyu, 晓睿 吕, Y. F. Lyu, 翌丰 吕, Y. H. Lyu, 云鹤 吕, F. C. Ma, 凤才 马, H. L. Ma, 海龙 马, H. Ma, 衡 马, J. L. Ma, 俊力 马, L. L. Ma, 连良 马, L. R. Ma, 立瑞 马, Q. M. Ma, 秋梅 马, R. Q. Ma, 润秋 马, R. Y. Ma, 若云 马, T. Ma, 腾 马, X. T. Ma, 晓天 马, X. Y. Ma, 骁妍 马, F. E. Maas, I. MacKay, M. Maggiora, S. Maity, S. Malde, L. M. Mansur, Y. J. Mao, 亚军 冒, Z. P. Mao, 泽普 毛, S. Marcello, A. Marshall, F. M. Melendi, Y. H. Meng, 琰皓 孟, Z. X. Meng, 召霞 孟, G. Mezzadri, H. Miao, 晗 妙, T. J. Min, 天觉 闵, R. E. Mitchell, X. H. Mo, 晓虎 莫, B. Moses, N. Yu. Muchnoi, J. Muskalla, Y. Nefedov, F. Nerling, H. Neuwirth, Z. Ning, 哲 宁, S. Nisar, Q. L. Niu, 祺乐 牛, W. D. Niu, 文迪 牛, Y. Niu, 艳 牛, C. Normand, S. L. Olsen, Q. Ouyang, 阳群 欧, I. V. Ovtin, S. Pacetti, Y. Pan, 越 潘, C. Y. Pang, 彩莹 庞, A. Pathak, Y. P. Pei, 宇鹏 裴, M. Pelizaeus, G. L. Peng, 高乐 彭, H. P. Peng, 海平 彭, X. J. Peng, 宣嘉 彭, Y. Y. Peng, 云翊 彭, K. Peters, K. Petridis, J. L. Ping, 加伦 平, R. G. Ping, 荣刚 平, S. Plura, V. Prasad, L. Pöpping, F. Z. Qi, 法制 齐, H. R. Qi, 红荣 漆, S. Qian, 森 钱, W. B. Qian, 文斌 钱, C. F. Qiao, 从丰 乔, J. H. Qiao, 佳辉 乔, J. J. Qin, 佳佳 秦, J. L. Qin, 嘉良 覃, L. Q. Qin, 丽清 秦, L. Y. Qin, 龙宇 秦, P. B. Qin, 鹏勃 秦, X. P. Qin, 潇萍 覃, X. S. Qin, 小帅 秦, Z. H. Qin, 中华 秦, J. F. Qiu, 进发 邱, Z. H. Qu, 子皓 屈, J. Rademacker, K. Ravindran, C. F. Redmer, A. Rivetti, M. Rolo, G. Rong, 刚 荣, S. S. Rong, 少石 荣, F. Rosini, Ch. Rosner, M. Q. Ruan, 曼奇 阮, W. R. Ruangyoo, N. Salone, A. Sarantsev, Y. Schelhaas, M. Schernau, K. Schoenning, M. Scodeggio, W. Shan, 葳 单, X. Y. Shan, 心钰 单, Z. J. Shang, 子杰 尚, J. F. Shangguan, 剑锋 上官, L. G. Shao, 立港 邵, M. Shao, 明 邵, C. P. Shen, 成平 沈, H. F. Shen, 宏飞 沈, W. H. Shen, 文涵 沈, X. Y. Shen, 肖雁 沈, B. A. Shi, 伯安 施, Ch. Y. Shi, 超逸 石, H. Shi, 华 史, J. L. Shi, 家磊 石, J. Y. Shi, 京燕 石, M. H. Shi, 明辉 时, S. Shi, 硕 石, S. Y. Shi, 书宇 史, X. Shi, 欣 史, H. L. Song, 海林 宋, J. J. Song, 娇娇 宋, M. H. Song, 铭昊 宋, T. Z. Song, 天资 宋, W. M. Song, 维民 宋, Y. X. Song, 昀轩 宋, Z. R. Song, 子荣 宋, S. Sosio, S. Spataro, S. Stansilaus, F. Stieler, M. Stolte, S. S. Su, 闪闪 苏, G. B. Sun, 光豹 孙, G. X. Sun, 功星 孙, H. Sun, 昊 孙, H. K. Sun, 浩凯 孙, J. F. Sun, 俊峰 孙, K. Sun, 开 孙, L. Sun, 亮 孙, R. Sun, 睿 孙, S. S. Sun, 胜森 孙, T. Sun, W. Y. Sun, 文玉 孙, Y. C. Sun, 雨长 孙, Y. H. Sun, 益华 孙, Y. J. Sun, 勇杰 孙, Y. Z. Sun, 永昭 孙, Z. Q. Sun, 泽群 孙, Z. T. Sun, 振田 孙, H. Tabaharizato, N. T. Tagsinsit, C. J. Tang, 昌建 唐, G. Y. Tang, 光毅 唐, J. Tang, 健 唐, J. J. Tang, 嘉骏 唐, L. F. Tang, 林发 唐, Y. A. Tang, 迎澳 唐, Z. H. Tang, 梓涵 唐, L. Y. Tao, 璐燕 陶, M. Tat, J. X. Teng, 佳秀 滕, J. Y. Tian, 济源 田, W. H. Tian, 文辉 田, Y. Tian, 野 田, Z. F. Tian, 喆飞 田, K. Yu. Todyshev, I. Uman, E. van der Smagt, B. Wang, 博 王, B. Wang, 斌 王, B. Wang, 博 王, C. Wang, 程 王, C. Wang, 超 王, C. Wang, 聪 王, D. Y. Wang, 大勇 王, F. K. Wang, 福凯 王, H. J. Wang, 泓鉴 王, H. R. Wang, 皓冉 王, J. Wang, 杰 王, J. J. Wang, 家驹 王, J. P. Wang, 吉鹏 王, K. Wang, 科 王, L. L. Wang, 亮亮 王, L. W. Wang, 璐怡 王, M. Wang, 萌 王, Mi Wang, 咪 王, N. Y. Wang, 南洋 王, P. Wang, 品 汪, S. Wang, 石 王, S. Wang, 顺 王, T. Wang, 婷 王, W. Wang, 为 王, W. P. Wang, 维平 王, X. F. Wang, 雄飞 王, X. L. Wang, 小龙 王, X. N. Wang, 新南 王, X. Wang, 心 王, Y. Wang, 亦 王, Y. D. Wang, 雅迪 王, Y. F. Wang, 贻芳 王, Y. H. Wang, 英豪 王, Y. J. Wang, 祎景 王, Y. L. Wang, 艺龙 王, Y. N. Wang, 亚男 王, Y. N. Wang, 燕宁 王, Y. Q. Wang, 亚乾 王, Y. Wang, 义 王, Y. Wang, 源 王, Z. Wang, 铮 王, Z. L. Wang, 治浪 王, Z. Q. Wang, 紫祺 王, Z. Y. Wang, 至勇 王, Z. Wang, 旨 王, Ziyi Wang, 子一 王, D. Wei, 栋 魏, D. H. Wei, 代会 魏, D. J. Wei, 德杰 魏, H. R. Wei, F. Weidner, H. R. Wen, 焕然 文, S. P. Wen, 硕频 文, U. Wiedner, G. Wilkinson, J. F. Wu, 金飞 吴, L. H. Wu, 灵慧 伍, L. J. Wu, 连近 吴, L. J. Wu, 廉杰 武, S. G. Wu, 韶光 吴, S. M. Wu, 蜀明 吴, X. W. Wu, 潇 吴, Z. Wu, 智 吴, H. L. Xia, 惠亮 夏, L. Xia, 磊 夏, B. H. Xiang, 本后 向, D. Xiao, 栋 肖, G. Y. Xiao, 光延 肖, H. Xiao, 浩 肖, Y. L. Xiao, 云龙 肖, Z. J. Xiao, 振军 肖, C. Xie, 陈 谢, K. J. Xie, 凯吉 谢, Y. Xie, 勇 谢, Y. G. Xie, 宇广 谢, Y. H. Xie, 跃红 谢, Z. P. Xie, 智鹏 谢, T. Y. Xing, 天宇 邢, D. B. Xiong, 东波 熊, G. F. Xu, 国发 许, H. Y. Xu, 皓月 许, Q. J. Xu, 庆君 徐, Q. N. Xu, T. D. Xu, 腾达 徐, X. P. Xu, 新平 徐, Y. Xu, 月 徐, Y. C. Xu, 英超 胥, Z. S. Xu, 昭燊 许, F. Yan, 芳 严, L. Yan, 亮 严, W. B. Yan, 文标 鄢, W. C. Yan, 文成 闫, W. H. Yan, 文昊 闫, W. P. Yan, 文鹏 闫, X. Q. Yan, 薛强 严, Y. Y. Yan, H. J. Yang, 海军 杨, H. L. Yang, 昊霖 杨, H. X. Yang, 洪勋 杨, J. H. Yang, 君辉 杨, R. J. Yang, 润佳 杨, X. Y. Yang, 晓艺 杨, Y. Yang, 莹 杨, Y. G. Yang, 雅鸽 杨, Y. H. Yang, 耘赫 杨, Y. M. Yang, 一鸣 杨, Y. Q. Yang, 永强 杨, Y. Z. Yang, 颖喆 杨, Y. H. Yang, 友华 杨, Z. Y. Yang, W. J. Yao, 文静 姚, Z. P. Yao, 志鹏 姚, M. Ye, 梅 叶, M. H. Ye, 铭汉 叶, Z. J. Ye, 子健 叶, K. Yi, 凯 易, J. H. Yin, 俊昊 殷, Q. Q. Yin, 琪钦 尹, Z. Y. You, 郑昀 尤, B. X. Yu, 伯祥 俞, C. X. Yu, 纯旭 喻, G. Yu, J. S. Yu, 洁晟 俞, L. W. Yu, 丽雯 喻, T. Yu, 涛 于, X. D. Yu, 旭东 余, Y. C. Yu, 烨淳 郁, Y. C. Yu, 勇超 于, C. Z. Yuan, 长征 苑, H. Yuan, 昊 袁, J. Yuan, 菁 袁, J. Yuan, 杰 袁, L. Yuan, 丽 袁, M. K. Yuan, 铭宽 袁, S. H. Yuan, 升豪 袁, Y. Yuan, 野 袁, C. X. Yue, 崇兴 岳, Ying Yue, 颖 岳, A. A. Zafar, F. R. Zeng, 凡蕊 曾, S. H. Zeng, X. Zeng, 鑫 曾, Y. J. Zeng, 溢嘉 曾, Y. J. Zeng, 宇杰 曾, Y. C. Zhai, 云聪 翟, Y. H. Zhan, 永华 詹, B. L. Zhang, 伯伦 张, B. X. Zhang, 丙新 张, D. H. Zhang, 丹昊 张, G. Y. Zhang, 广义 张, G. Y. Zhang, 耕源 张, H. Zhang, 豪 张, H. C. Zhang, 航畅 张, H. H. Zhang, 宏浩 张, H. L. Zhang, 瀚林 张, H. Q. Zhang, 华桥 张, H. R. Zhang, 浩然 张, H. Y. Zhang, 红宇 章, H. Zhang, 晗 张, J. Zhang, 晋 张, J. J. Zhang, 进军 张, J. L. Zhang, 杰磊 张, J. Q. Zhang, 敬庆 张, J. S. Zhang, 家声 张, J. W. Zhang, 家文 张, J. X. Zhang, 景旭 张, J. Y. Zhang, 建勇 张, J. Z. Zhang, 景芝 张, J. Y. Zhang, J. Zhang, 进 张, J. Y. Zhang, 纪元 张, L. M. Zhang, 黎明 张, L. Zhang, 雷 张, N. Zhang, P. Zhang, 鹏 张, Q. Zhang, 强 张, Q. Y. Zhang, 秋岩 张, Q. Z. Zhang, 铨正 张, R. Y. Zhang, 若愚 张, S. H. Zhang, 水涵 张, S. N. Zhang, S. L. Zhang, 书磊 张, X. M. Zhang, 晓梅 张, X. Y. Zhang, 学尧 张, Y. T. Zhang, 亚腾 张, Y. H. Zhang, 银鸿 张, Y. P. Zhang, 越鹏 张, Y. Zhang, 瑶 张, Y. Zhang, 宇 张, Y. Zhang, 雨 张, Z. Zhang, 哲 张, Z. D. Zhang, 正德 张, Z. H. Zhang, 泽恒 张, Z. L. Zhang, 兆领 张, Z. X. Zhang, 泽祥 张, Z. Y. Zhang, 振宇 张, Z. Z. Zhang, Z. K. Zhang, 兆轲 张, Z. L. Zhang, 志龙 张, Z. Y. Zhang, 子扬 张, G. Zhao, 子羽 张, J.-P. Zhao, 光 赵, J. Y. Zhao, 俊鹏 赵, J. Z. Zhao, 静宜 赵, L. Zhao, 京周 赵, L. Zhao, 玲 赵, M. G. Zhao, 雷 赵, R. P. Zhao, 明刚 赵, S. J. Zhao, 若平 赵, Y. B. Zhao, 豫斌 赵, Y. L. Zhao, 艳琳 赵, Y. P. Zhao, 祎鹏 赵, Y. X. Zhao, 宇翔 赵, Z. G. Zhao, 政国 赵, A. Zhemchugov, B. Zheng, 波 郑, B. M. Zheng, 变敏 郑, J. P. Zheng, 建平 郑, W. J. Zheng, 文静 郑, W. Q. Zheng, 稳倩 郑, X. R. Zheng, 心如 郑, Y. H. Zheng, 阳恒 郑, B. Zhong, 彬 钟, C. Zhong, 翠 钟, X. Zhong, 鑫 钟, H. Zhou, 航 周, J. Q. Zhou, 嘉奇 周, S. Zhou, 帅 周, X. Zhou, 详 周, X. K. Zhou, 晓康 周, X. R. Zhou, 小蓉 周, X. Y. Zhou, 兴玉 周, Y. X. Zhou, 亦雄 周, Y. Z. Zhou, 祎卓 周, A. N. Zhu, 傲男 朱, J. Zhu, 江 朱, K. Zhu, 凯 朱, K. J. Zhu, 科军 朱, K. S. Zhu, 康帅 朱, L. X. Zhu, 琳萱 朱, L. Zhu, 林 朱, S. H. Zhu, 世海 朱, T. J. Zhu, 腾蛟 朱, W. D. Zhu, 稳定 朱, W. J. Zhu, 文静 朱, W. Z. Zhu, 文卓 朱, Y. C. Zhu, 莹春 朱, Z. A. Zhu, 自安 朱, X. Y. Zhuang, 新宇 庄, M. Zhuge, 葛铭 诸, J. H. Zou, 佳恒 邹, J. Zu and (BESIII Collaboration)",
+      "source": "Chinese Physics C",
+      "summary": "Based on events collected with the BESIII detector, the and processes are studied. The is observed in both the and invariant mass spectra, with statistical significances greater than and , respectively. By combining measurements from these processes with those from the previously reported process, the mass and width of the are determined to be and , respectively. In addition, the decay with is observed with a statistical significance exceeding . The properties of the —decay pattern similarities to that of , are consistent with those of a pseudoscalar glueball."
     }
   ]
 }
