@@ -1,110 +1,145 @@
 {
-  "lastUpdated": "2026-09-11T05:26:48.725459",
+  "lastUpdated": "2026-09-12T05:16:58.920942",
   "papers": [
     {
-      "title": "Fission Modes and Fragment Shell Structures in $^{258}$Md$^*$ from Six-Dimensional Langevin Calculations",
-      "link": "https://arxiv.org/abs/2609.11100",
-      "authors": "K. Okada, K. Nishio, T. Wada, N. Carjan",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2609.11100v1 Announce Type: new \nAbstract: The fission of $^{258}$Md$^*$ is calculated in the excitation energy range of $E^*=6$--36 MeV using a six-dimensional Langevin equation. The calculated events are classified into two symmetric and two asymmetric fission modes based on the fragment mass and the quadrupole deformations of the two fragments at scission. The symmetric modes are separated by their total kinetic energies into the short (high TKE) and superlong (low TKE) modes, whereas the asymmetric modes differ in mass asymmetry. With increasing excitation energy, the yield of the short mode decreases, whereas the combined yield of the two asymmetric modes increases, as observed in the in-beam prompt-fission study of $^{258}$Md$^*$. From an analysis of the fragment shapes and associated single-particle levels, the short mode and the dominant asymmetric mode with the smaller mass asymmetry are found to involve a compact fragment characterized by deformed shell gaps at $Z=52$ and $N=84$, while the complementary fragments have different quadrupole deformations in the two modes."
+      "title": "Two-pion exchange contributions to the nucleon-nucleon interaction from the Roper resonance",
+      "link": "http://link.aps.org/doi/10.1103/l4x9-sr5s",
+      "authors": "Yang Xiao, Li-Sheng Geng, and U. van Kolck",
+      "source": "Physical Review C",
+      "summary": "Author(s): Yang Xiao, Li-Sheng Geng, and U. van KolckWe derive the long-range components of the nucleon-nucleon (NN) two-pion-exchange potential with an intermediate Roper resonance. Leading-order interactions in heavy-baryon chiral perturbation theory are considered. To assess the Roper contributions in a unified framework, we include the leading con…[Phys. Rev. C 114, 034006] Published Fri Sep 11, 2026"
     },
     {
-      "title": "Classification of fission modes in $^{236}$U using a six-dimensional Langevin approach",
-      "link": "https://arxiv.org/abs/2609.11103",
-      "authors": "K. Okada, K. Nishio, T. Wada, N. Carjan",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2609.11103v1 Announce Type: new \nAbstract: Thermal neutron-induced fission of $^{235}$U is studied using a six-dimensional Langevin approach based on the Cassini shape parametrization. Scission events are classified into Asymmetric 1 (AS1), Asymmetric 2 (AS2), and Superlong (SL) fission modes by applying the $k$-means algorithm to the fragment mass and the quadrupole deformations of both fragments. For each mode, proton and neutron single-particle levels are calculated for representative fragments to examine their shell structures. The AS1 heavy fragment exhibits proton gaps at $Z=50$ and 52 and neutron gaps at $N=82$ and 84, whereas well-developed gaps appear at $Z=56$ and $N=88$ in the AS2 heavy fragment. The mass splits of AS1 and AS2 are close to those of the conventional Standard I and Standard II modes, respectively. However, the average total kinetic energy is lower for AS1 than for AS2, opposite to the conventional ordering of Standard I and Standard II. This reversal reflects the more elongated shape of the AS1 light fragment. The SL mode is conventionally interpreted in terms of macroscopic liquid-drop effects, whereas the pronounced proton shell gap at $Z=46$ suggests that proton shell effects also contribute to the elongated symmetric configuration. The classification based on fragment mass and the quadrupole deformations of both fragments provides a basis for distinguishing fission modes and examining the corresponding fragment shell structures at scission."
+      "title": "Coulomb scaling, geometric normalization, and the limits of a single-Gaussian description of sub-barrier fusion across seven projectile species",
+      "link": "http://link.aps.org/doi/10.1103/cwbz-6mcl",
+      "authors": "A. M. Vinodkumar and B. R. S. Babu",
+      "source": "Physical Review C",
+      "summary": "Author(s): A. M. Vinodkumar and B. R. S. BabuWe analyze 67 heavy-ion fusion reactions with high-quality sub-barrier excitation functions using the single-Gaussian model of Jiang et al. [Phys. Rev. C 112, 034612 (2025)] and extract the barrier parameters ${R}_{g},{V}_{g},{W}_{g},{R}_{g}^{2}{W}_{g}$. The reactions involve seven projectiles, $^{1…[Phys. Rev. C 114, 034609] Published Fri Sep 11, 2026"
     },
     {
-      "title": "Gogny interaction from beginnings to current challenges",
-      "link": "https://arxiv.org/abs/2609.11425",
-      "authors": "Nathalie Pillet, Geoffrey Zietek, Luis Robledo, Marc Dupuis, Tomas R. Rodriguez",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2609.11425v1 Announce Type: new \nAbstract: The main goal of the present review article is to gather for the first time various facets of the phenomenological effective Gogny interaction which was originally proposed in the 70's. This involves both nuclear phenomena of interest that led to its creation and evolution as well as highly technical aspects that led the objectives to be achieved. With this in mind, we propose a discussion structured around four points. After a general introduction, the history and philosophy of the Gogny interaction is exposed. In particular, one highlights an intuitive way of guiding the determination of the parameters of the phenomenological interaction with the results obtained from a realistic interaction using Hartree-Fock calculations and second order corrections and a G-matrix. One also shows that physical phenomena such as pairing or fission were essential to improve the parameterization. The evolution of the original analytical form over the years is also discussed. The second point concern the emulator that was used for the generation of parameterizations. Its modifications, consistent with the evolution of the analytical form, are given. Other fitting procedures, more recent, are also evoked. The third key point is dedicated to the role of the nuclear matter in the fitting process and the acceptance of a parameterization. The objective of the last key point is to highlight some results obtained with the Gogny interaction in nuclear structure, fission and reactions that have allowed to interpret experimental data."
+      "title": "Improving the accuracy of $^{182,184,186}\\mathrm{W}$$(n,{n}^{′}γ)$ cross-section calculations",
+      "link": "http://link.aps.org/doi/10.1103/7hy4-lvxl",
+      "authors": "G. Henning, M. Dupuis, M. Kerveno, A. Bacquias, C. Borcea, M. Boromiza, R. Capote, A. Coman, Ph. Dessagne, C. de Saint Jean, J.-C. Drohé, K. H. Guber, S. Hilaire, T. Kawano, A. Negret, M. Nyman, A. J. M. Plompen, P. Romain, G. Rudolf, P. Scholtes, and P. Tamagno",
+      "source": "Physical Review C",
+      "summary": "Author(s): G. Henning, M. Dupuis, M. Kerveno, A. Bacquias, C. Borcea, M. Boromiza, R. Capote, A. Coman, Ph. Dessagne, C. de Saint Jean, J.-C. Drohé, K. H. Guber, S. Hilaire, T. Kawano, A. Negret, M. Nyman, A. J. M. Plompen, P. Romain, G. Rudolf, P. Scholtes, and P. TamagnoEvaluated nuclear databases currently in use for numerical simulations to develop new nuclear technology and design advanced nuclear reactors still present large uncertainties. Their improvement is necessary, in particular through better reaction models and experimental nuclear data. Among the react…[Phys. Rev. C 114, 034610] Published Fri Sep 11, 2026"
     },
     {
-      "title": "From Superfluid Coherence to High-$K$ Fragment Channels at Nuclear Scission",
-      "link": "https://arxiv.org/abs/2609.11485",
-      "authors": "M. Kowal, A. Augustyn, T. Cap, K. Pomorski",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2609.11485v1 Announce Type: new \nAbstract: The origin of fission-fragment spin remains unresolved. For $^{236}$U fission, we combine deformation-dependent finite-temperature pairing with a multidimensional scission-spectrum analysis. Near the pairing-quenching boundary, pair breaking exposes near-Fermi high-$\\Omega$ intruder orbitals and opens high-$K$ channels. The resulting maximum spectroscopic capacities range from a few to more than a dozen units of $\\hbar$. Rapid neck rupture acts as a non-adiabatic projection freeze-out, where pairing serves as a dynamical gate: its critical attenuation does not generate angular momentum but allows existing high-$K$ projections to be retained diabatically as local fragment-$K$ components while total angular momentum remains conserved."
+      "title": "Impact of potential parameter readjustment on the identification of coupling schemes in heavy-ion fusion reactions",
+      "link": "http://link.aps.org/doi/10.1103/48tj-7b1b",
+      "authors": "Zhixiu He, Huilin Zhang, and Yingchen Mao",
+      "source": "Physical Review C",
+      "summary": "Author(s): Zhixiu He, Huilin Zhang, and Yingchen MaoAlthough coupled-channels (CC) calculations have been widely used to describe sub-barrier fusion cross sections, theoretical interpretations can be affected by ambiguities arising from the choice of input potential parameters and explicit coupling schemes. In this work, we systematically investigate…[Phys. Rev. C 114, 034611] Published Fri Sep 11, 2026"
     },
     {
-      "title": "Study of the multiplicity dependence of non-flow correlations in pp collisions at $\\sqrt{s}=200$ GeV using PYTHIA",
-      "link": "https://arxiv.org/abs/2609.11526",
-      "authors": "Milan Stojanovic, Joern Putschke",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2609.11526v1 Announce Type: new \nAbstract: The observation of a near-side enhancement in long-range correlations within high-multiplicity pA and pp collisions, commonly referred to as the ridge, has motivated significant efforts to quantify possible collective effects in small systems. Estimation of non-flow contributions in two-particle correlation measurements in small systems at the LHC typically relies on the assumption that jet-induced non-flow correlations are independent of event multiplicity. Consequently, this assumption allows the high-multiplicity non-flow to be estimated and accounted for by directly using low-multiplicity events. In this paper, the validity of this assumption is studied examining the multiplicity dependence of non-flow contributions estimated via two-particle correlation functions in pp collisions at RHIC energies $\\sqrt{s} = 200$~GeV using the PYTHIA event generator. It is observed that selecting any specific multiplicity range inherently biases jet production dynamics. These biases introduce a non-trivial multiplicity dependence of the non-flow contribution at RHIC energies. The dependence of jet fragmentation and $p_{\\text{T}}$-differential cross sections on event multiplicity is studied using a variety of commonly used multiplicity estimators, including mid-rapidity charged-particle multiplicity, forward multiplicity, and underlying-event activity. The results indicate that non-flow contributions do not exhibit simple multiplicity scaling and challenge the applicability of standard subtraction procedures utilized at LHC energies at lower RHIC collision energies."
+      "title": "Microscopic study of baryon stopping in low-energy heavy-ion collisions within the UrQMD model",
+      "link": "http://link.aps.org/doi/10.1103/fp85-w4l2",
+      "authors": "Sudhir Pandurang Rode",
+      "source": "Physical Review C",
+      "summary": "Author(s): Sudhir Pandurang RodeIn low-energy heavy-ion collisions, baryon stopping is an important process, in which protons from the initial colliding nuclei are stopped at the midrapidity region. Quantifying such stopping can reveal information on the properties of the nuclear medium, such as net-baryon density. Although experi…[Phys. Rev. C 114, 034908] Published Fri Sep 11, 2026"
     },
     {
-      "title": "Nuclear-physics-guided Gaussian Processes",
-      "link": "https://arxiv.org/abs/2609.11714",
-      "authors": "Javier Rozal\\'en Sarmiento, Hristijan Kochankovski, Arnau Rios, \\`Angels Ramos",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2609.11714v1 Announce Type: new \nAbstract: Gaussian Process Regression is a powerful nonparametric Bayesian method that provides both predictions and principled uncertainty estimates in closed form. The majority of past applications have relied on agnostic priors, but physics knowledge can be systematically encoded into Gaussian Processes through physically-motivated mean functions and kernels. We exploit this capability in the context of nuclear physics, applying physics-guided Gaussian Process Regression to three problems: nucleon-nucleon scattering phase shifts, mass excesses, and the finite-temperature equation of state of dense matter. In each case, we demonstrate that encoding known theoretical structures yields substantial and systematic improvements in interpolation accuracy, uncertainty calibration, and extrapolation reliability over agnostic baselines. Our results highlight that the design of the prior, and in particular the mean function, is key for obtaining a reliable and well-calibrated Gaussian Process Regression."
+      "title": "Sensitivity of heavy-quark dipolar flow to its initial spatial distributions in $\\mathrm{Cu}+\\mathrm{Au}$ collisions",
+      "link": "http://link.aps.org/doi/10.1103/nrkh-pmwk",
+      "authors": "Ankit Kumar Panda and Tribhuban Parida",
+      "source": "Physical Review C",
+      "summary": "Author(s): Ankit Kumar Panda and Tribhuban ParidaWe investigate charm-quark dynamics in asymmetric $\\mathrm{Cu}+\\mathrm{Au}$ collisions at top energies available at the BNL Relativistic Heavy Ion Collider using a Langevin approach embedded in a realistic hydrodynamic background. The intrinsic asymmetry of the colliding nuclei leads to a spatially …[Phys. Rev. C 114, 034909] Published Fri Sep 11, 2026"
     },
     {
-      "title": "Computationally Efficient Description of Medium Response to Jets in Heavy Ion Collisions",
-      "link": "https://arxiv.org/abs/2609.10679",
-      "authors": "Jorge Casalderrey-Solana, Jos\\'e Guilherme Milhano, Daniel Pablos, Krishna Rajagopal, Xiaojun Yao",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2609.10679v1 Announce Type: cross \nAbstract: We develop an Efficient Wake procedure for computing the distribution of hadrons originating from jet wakes in heavy ion collisions - the hydrodynamic response of a droplet of quark-gluon plasma to the energy and momentum deposited in it by high-energy partons propagating through it. The procedure employs the linearity of linearized hydrodynamics and takes account of the effects of both longitudinal expansion and transverse radial flow on the hydrodynamic evolution of the wakes and on the resulting particle production at the freezeout hypersurface. It makes repeated use of template solutions to linearized hydrodynamics in a Bjorken flow background with no transverse flow, templates that need only be computed once, and uses suitable rotations and boosts to map fluctuations from these templates to fluctuations at a point on the freezeout hypersurface in a way that incorporates the effects of the radial flow. We benchmark this procedure by comparing its results to results obtained from full $(3+1)$-dimensional nonlinear hydrodynamics calculations, find reasonable agreement, and find that our Efficient Wake procedure yields a much better description of the distribution of hadrons originating from jet wakes than does the older oversimplified procedure employed in the Hybrid Model. And, the Efficient Wake procedure is computationally efficient: it is at least tens of thousands of times faster than full nonlinear hydrodynamics calculations. Hence, we anticipate that when our new procedure is implemented in Monte Carlo analyses of jets in heavy ion collisions, for example in the Hybrid Model, it will greatly improve the description of the soft component of many jet and jet substructure observables as compared to experimental data."
+      "title": "Cumulants of mean transverse momentum and elliptic flow in the hydrodynamic model of heavy-ion collisions",
+      "link": "http://link.aps.org/doi/10.1103/3d6w-hxs8",
+      "authors": "Tribhuban Parida and Piotr Bożek",
+      "source": "Physical Review C",
+      "summary": "Author(s): Tribhuban Parida and Piotr BożekHigher-order cumulants between the mean transverse momentum and elliptic flow are calculated in a relativistic viscous hydrodynamic model of relativistic heavy-ion collisions. The results of the hydrodynamic simulations are compared with calculations using event-by-event predictors of the final coll…[Phys. Rev. C 114, 034910] Published Fri Sep 11, 2026"
     },
     {
-      "title": "A detailed view at magnetic dipole strengths: The case of semi-magic $^{50}$Ti",
-      "link": "https://arxiv.org/abs/2609.10843",
-      "authors": "B. Kelly, M. Spieker, U. Friman-Gayer, L. T. Baby, T. Beck, A. L. Conley, S. W. Finch, J. Isaak,  Krishichayan, E. Litvinova, H. Pai, N. Pietralla, D. Savran, W. Tornow, N. Tsoneva, A. Volya, V. Werner",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2609.10843v1 Announce Type: cross \nAbstract: Magnetic dipole, $M1$, strengths were studied in semi-magic $^{50}$Ti up to the neutron-separation threshold by combining data from $(d,p)$ one-neutron transfer, $(\\gamma,\\gamma')$ real-photon scattering, $(e,e')$ inelastic scattering at extreme backward angles, and $(p,p')$ at $E_p = 210$ MeV and extreme forward angles. The combination of all probes provided unique access to the neutron spin-flip contribution and the possibility to evaluate its role in generating the spin-flip $M1$ strengths. The small contribution of the neutron $(1f_{7/2})^{-1}(1f_{5/2})^{+1}$ spin-flip transitions, which were probed with the $(d,p)$ reaction, to the overall strength in $^{50}$Ti questions the standard picture for the microscopic origin of spin-flip strength in the $fp$ shell. For $^{50}$Ti, this letter shows that $J^{\\pi} = 1^+$ states with larger neutron $(1f_{7/2})^{-1}(1f_{5/2})^{+1}$ spectroscopic factors do not correspond to the ones with the largest $B(M1;0^+_1 \\rightarrow 1^+_i)$ strengths."
+      "title": "Evolution of high-spin states in neutron-rich $^{195\\text{–}202}\\mathrm{Au}$ isotopes approaching the $N=126$ shell closure",
+      "link": "http://link.aps.org/doi/10.1103/nclr-tjv1",
+      "authors": "Y. Cho <em>et al.</em>",
+      "source": "Physical Review C",
+      "summary": "Author(s): Y. Cho et al.Background: The nuclear structure in the region southwest of the doubly magic $^{208}\\mathrm{Pb}$ is important to benchmark theoretical models relevant for neutron-rich heavy element formation and for the origin of the $A≈195$ peak in the mass abundance distribution. Although neutron-rich Pb, Tl, an…[Phys. Rev. C 114, 034313] Published Thu Sep 10, 2026"
     },
     {
-      "title": "Properties of the positive and negative parity charm-strange and bottom-strange mesons $D_s$, $D_s^*$, $D_{s0}^*$, $D_{s1}$, $B_s$, $B_s^*$, $B_{s0}^*$, $B_{s1}$ from lattice QCD: masses, decay constants, and compositeness",
-      "link": "https://arxiv.org/abs/2609.11026",
-      "authors": "Forrest Guyton, Stefan Meinel",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2609.11026v1 Announce Type: cross \nAbstract: We present a lattice-QCD determination of properties of the lightest scalar, pseudoscalar, vector, and axial-vector heavy-strange mesons. This includes the decay constants of all mesons, and the binding energies and Weinberg compositeness parameters of the positive-parity states. The calculations are performed with domain-wall fermions for the light and strange quarks and anisotropic clover actions for the charm and bottom quarks. We use seven ensembles generated by RBC/UKQCD with pion masses ranging from 431 MeV to 139 MeV and lattice spacings ranging from 0.114 fm to 0.073 fm, which allows us to perform combined chiral and continuum extrapolations. For the negative-parity mesons, we obtain $f_{D_s}=251.4(2.1)(0.4)(2.5)\\:{\\rm MeV}$, $f_{D_s^*}=272.5(4.3)(1.0)(2.7)\\:{\\rm MeV}$, $f_{B_s}=228.4(5.8)(0.5)(2.3)\\:{\\rm MeV}$, $f_{B_s^*}=229.2(4.4)(0.8)(2.3)\\:{\\rm MeV}$, $f_{D_s^*}/f_{D_s}=1.086(14)(11)$, and $f_{B_s^*}/f_{B_s}=1.003(22)(10)$. In the positive-parity sector, the finite-volume energies and decay constants are extracted using the GEVP from correlation matrices with three different types of hadron interpolating operators, including operators with covariant derivatives and meson-meson-scattering operators at both source and sink. After extrapolation to the physical point, we obtain $f_{D^*_{s0}}=136.6 (8.0)(4.0)(1.4)$ MeV, $f_{D_{s1}}=200 (33)(24)(2)$ MeV, $f_{B^*_{s0}}=207 (12)(8)(2)$ MeV, and $f_{B_{s1}}= 196 (16)(11)(2)$ MeV. Our results for $f_{B^*_{s0}}$ and $f_{B_{s1}}$ are the first from lattice QCD. L\\\"uscher's method is used to find the infinite-volume bound-state masses. At the physical point, we obtain $m_{D^*_{s0}}-m_D-m_K=-48 (14)(4)$ MeV, $m_{D_{s1}}-m_{D^*}-m_K=-61 (15)(2)$ MeV, $m_{B^*_{s0}}-m_B-m_K= -69 (13)(4)$ MeV, and $m_{B_{s1}}-m_{B^*}-m_K=-77 (10)(5)$ MeV. Our analysis shows consistency with the positive-parity states being predominantly molecular."
+      "title": "Scintillation response of cryogenic CsI to few-keV and sub-keV nuclear recoils",
+      "link": "http://link.aps.org/doi/10.1103/gkdb-l6v8",
+      "authors": "J. I. Collar, C. M. Lewis, A. Simón, and S. G. Yoon",
+      "source": "Physical Review C",
+      "summary": "Author(s): J. I. Collar, C. M. Lewis, A. Simón, and S. G. YoonMonochromatic neutron emissions from photonuclear sources $^{88}\\mathrm{Y}/\\mathrm{Be}$ and $^{124}\\mathrm{Sb}/\\mathrm{Be}$ are employed to obtain the response of pure (undoped) cesium iodide at 80 K. The use of a low-noise, high-quantum-efficiency avalanche photodiode in combination with a novel wa…[Phys. Rev. C 114, 034607] Published Thu Sep 10, 2026"
     },
     {
-      "title": "Qubit-Qutrit Quantum Tomography of hadronic $\\Lambda\\phi$ and $\\Lambda K^{\\ast 0}$ systems",
-      "link": "https://arxiv.org/abs/2609.11151",
-      "authors": "Veronica Kanachova, Feng Liu, Zhoudunming Tu",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2609.11151v1 Announce Type: cross \nAbstract: Quantum-information observables have emerged in recent years as new tools in nuclear and particle physics, from entanglement in top-quark pairs to spin correlations in $\\Lambda\\bar{\\Lambda}$ production. Extending these studies to unequal-spin hadronic final states poses a fundamental challenge: the $6\\times6$ density matrix of a qubit-qutrit system contains 35 independent spin parameters, but the decays of $\\Lambda V$ pairs, with $V=\\phi$ or $K^{*0}$, provide access to only 23 due to the hidden vector polarization from the strong decay. In this Letter, we formulate a qubit-qutrit quantum tomography (QQQT) technique for these spin-$\\tfrac{1}{2}\\otimes1$ systems and establish exact criteria for entanglement certification from the \\textit{incomplete} density matrix. Compared with the $\\Lambda\\bar{\\Lambda}$ system, QQQT of $\\Lambda\\phi$ and $\\Lambda K^{*0}$ provides a new probe of nonperturbative QCD hadronization, enabling a direct comparison of the spin evolution of entangled quark pairs produced from the vacuum as they hadronize into a baryon or a vector meson."
+      "title": "Probing near-barrier reaction dynamics with a $^{10}\\mathrm{B}$ projectile",
+      "link": "http://link.aps.org/doi/10.1103/dj7f-48fn",
+      "authors": "Prabhat Mishra, S. K. Pandit, V. V. Parkar, K. Mahata, A. Shrivastava, Satbir Kaur, D. Chattopadhyay, K. Ramachandran, Vineet Kumar, Arati Chavan, Sangeeta Dhuri, Prasanna M., and S. Rathi",
+      "source": "Physical Review C",
+      "summary": "Author(s): Prabhat Mishra, S. K. Pandit, V. V. Parkar, K. Mahata, A. Shrivastava, Satbir Kaur, D. Chattopadhyay, K. Ramachandran, Vineet Kumar, Arati Chavan, Sangeeta Dhuri, Prasanna M., and S. RathiCluster structure of atomic nuclei, which plays a crucial role in the reaction mechanism, can be probed using breakup and transfer followed by breakup processes. The reaction mechanism, including breakup and transfer breakup, involving the $^{10}\\mathrm{B}$ nucleus has been investigated by performin…[Phys. Rev. C 114, 034608] Published Thu Sep 10, 2026"
     },
     {
-      "title": "Collinear fragmentation of pseudoscalar quarkonia from NLO NRQCD",
-      "link": "https://arxiv.org/abs/2609.11604",
-      "authors": "Francesco Giovanni Celiberto, Francesca Lonigro",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2609.11604v1 Announce Type: cross \nAbstract: We discuss a new family of publicly available collinear fragmentation functions (FFs) for pseudoscalar quarkonia, the NRFF1.0 set. It builds upon the Heavy-Flavor Non-Relativistic evolution (HF-NRevo) scheme, designed to describe heavy-hadron formation through leading-power fragmentation at moderate and large transverse momentum. Heavy-quarkonium production naturally involves both perturbative and non-perturbative QCD dynamics, from the production of the heavy $Q\\bar{Q}$ pair to its formation into a physical bound state. Within NRFF1.0, Non-Relativistic Quantum Chromodynamics (NRQCD) provides the theoretical framework for calculating the FF inputs at the initial scale, which are subsequently evolved through the HF-NRevo scheme. This setup provides a precision baseline for investigating the underlying partonic hierarchy and jet structure across the moderate- to high-transverse-momentum regime. The explicit treatment of partonic channels and heavy-flavor thresholds makes this framework particularly suitable for exploring quarkonium-in-jet fragmentation, jet-quenching sensitivity, energy-loss mechanisms, and the emergence of medium-modified fragmentation patterns in the quark-gluon plasma."
+      "title": "Precise determination of electron-capture $Q$ value of $^{113}\\mathrm{Sn}$ decay related to electron neutrino mass measurements",
+      "link": "http://link.aps.org/doi/10.1103/bgj9-mzcq",
+      "authors": "Zhuang Ge, Tommi Eronen, Vasile Alin Sevestrean, Ovidiu Niţescu, Sabin Stoica, Marlom Ramalho, Jouni Suhonen, Anu Kankainen, Marjut Hukkanen, Arthur Jaries, Ari Jokinen, Joel Kostensalo, Jenni Kotila, Maxime Mougeot, Iain D. Moore, Wirunchana Rattanasakuldilok, Jouni Ruotsalainen, and Marek Stryjczyk",
+      "source": "Physical Review C",
+      "summary": "Author(s): Zhuang Ge, Tommi Eronen, Vasile Alin Sevestrean, Ovidiu Niţescu, Sabin Stoica, Marlom Ramalho, Jouni Suhonen, Anu Kankainen, Marjut Hukkanen, Arthur Jaries, Ari Jokinen, Joel Kostensalo, Jenni Kotila, Maxime Mougeot, Iain D. Moore, Wirunchana Rattanasakuldilok, Jouni Ruotsalainen, and Marek StryjczykHigh-precision measurements of nuclear decay energies can reveal rare low-Q transitions with enhanced sensitivity to the absolute neutrino mass. Using the JYFLTRAP double Penning trap and the PI-ICR technique, the electron-capture Q value of 113Sn was determined with an eightfold improvement in precision over the previous evaluation. Combining the new mass result with known excited states in 113In identifies two energetically allowed low-Q electron-capture branches. In particular, an allowed transition to the 1029.650-keV state has Q*EC=9.60(20) keV and lies close to the L-shell binding energies. Atomic and nuclear calculations show enhanced spectral sensitivity near the endpoint, making this decay an interesting complementary system for future direct neutrino-mass studies.[Phys. Rev. C 114, 035501] Published Thu Sep 10, 2026"
     },
     {
-      "title": "First flow harmonic of net baryon from directed diffusion of stopped baryons",
-      "link": "https://arxiv.org/abs/2211.15729",
-      "authors": "Tribhuban Parida, Sandeep Chatterjee",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2211.15729v2 Announce Type: replace \nAbstract: We propose a new ansatz for baryon deposition that incorporates salient features from the baryon junction picture. The deposited baryon is coupled to a tilted fireball and deployed to study the directed flow of identified hadrons in Au+Au collisions at $\\sqrt{s_{NN}}=7.7-200$ GeV. We find a parameter space in the model where the resulting hydrodynamic evolution generates a suitable flow to describe the directed flow $v_1$ of identified hadrons including the observed double sign change between $\\sqrt{s_{NN}}=7.7-39$ GeV of the rapidity slopes of the net proton and the net lambda $v_1$. Our model that includes stopping of baryons and their consequent diffusion within a relativistic hydrodynamic framework along with a crossover equation of state as obtained from lattice QCD calculations provides a noncritical baryonic baseline that is crucial in our ongoing searches for the QCD critical point and the initial strong electromagnetic field."
-    },
-    {
-      "title": "Updated Hadron List for Transport Simulations of Heavy-Ion Collisions",
-      "link": "https://arxiv.org/abs/2309.01737",
-      "authors": "Jordi Salinas San Mart\\'in, Renan Hirayama, Jan Hammelmann, Jamie M. Karthein, Paolo Parotto, Jacquelyn Noronha-Hostler, Claudia Ratti, Hannah Elfner",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2309.01737v2 Announce Type: replace \nAbstract: Hadronic transport approaches used in heavy-ion collision simulations rely on a consistent and accurate hadron list with decay channels. Hadron lists in common use are often experimentally outdated, or, as with the Particle Data Group (PDG) compilations, incompatible with transport codes without further adaptation. We construct PDG2021+, an updated hadron list including all states from the 2021 Particle Data Booklet, together with a binary-decay list designed for direct use in the SMASH transport framework. Using the hadron resonance gas model, we validate the PDG2021+ list against lattice quantum chromodynamics results and experimental yield data. We show that employing $1 \\to 2$-body decay chains as a proxy for the full decay processes has a suppressing effect in the low-$p_T$ region of the pion spectrum and introduces a $\\sim 3\\%$ systematic uncertainty in the pion $\\langle p_T \\rangle$. Moreover, the inclusion of additional states in PDG2021+ further shifts the pion $\\langle p_T \\rangle$. These result establish PDG2021+ as a robust, transport-ready hadron list and quantify the systematic effects of decay modeling on key heavy-ion observables."
-    },
-    {
-      "title": "Intrinsic pressure anisotropy in spherical Proca stars",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326007902?dgcid=rss_sd_all",
+      "title": "The Brink-Axel hypothesis and the <em>γ</em>-ray strength function between excited states of <sup>128</sup>Te",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326007926?dgcid=rss_sd_all",
       "authors": "Unknown",
       "source": "Physics Letters B",
-      "summary": "Publication date: Available online 9 September 2026Source: Physics Letters BAuthor(s): Ilídio Lopes"
+      "summary": "Publication date: Available online 10 September 2026Source: Physics Letters BAuthor(s): P.-A. Söderström, A. Kuşoğlu, D.L. Balabanski, S.-R. Ban, R. Corbu, M. Cuciuc, T. Petruse, A. Spataru, S. Aogaki, R. Borcea, M. Brezeanu, S. Calinescu, C. Costache, A. Dhal, I. Dinescu, N.M. Florea, T. Furuno, A. Gavrilescu, A. Gupta, Y. Honda"
     },
     {
-      "title": "Observational constraints on the reconstruction of the effective equation of state in light of DESI DR2",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326007914?dgcid=rss_sd_all",
+      "title": "ASEP/DSSYK duality and strange correlator",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326007896?dgcid=rss_sd_all",
       "authors": "Unknown",
       "source": "Physics Letters B",
-      "summary": "Publication date: Available online 9 September 2026Source: Physics Letters BAuthor(s): D. Revanth Kumar, Santosh Kumar Yadav, Anil Kumar Yadav"
+      "summary": "Publication date: Available online 10 September 2026Source: Physics Letters BAuthor(s): Kazumi Okuyama"
+    },
+    {
+      "title": "A unified description of proton-halo nucleus <sup>26</sup>P from structure to reactions",
+      "link": "https://www.sciencedirect.com/science/article/pii/S037026932600794X?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: Available online 10 September 2026Source: Physics Letters BAuthor(s): Zhe Wang, Jian-You Guo"
+    },
+    {
+      "title": "Higher spin Lagrangians from higher derivative diffeomorphisms",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326007938?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: Available online 10 September 2026Source: Physics Letters BAuthor(s): Will Barker, Dario Francia, Carlo Marzo, Alessandro Santoni"
+    },
+    {
+      "title": "Emergence of <em>α</em> + <em>t</em> + <em>t</em> Clustering in Highly Excited States of <sup>10</sup>Be",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326007884?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: Available online 10 September 2026Source: Physics Letters BAuthor(s): Zheng Cheng, Mengjiao Lyu, Takayuki Myo, Jiaqi Tian, Zhou Fang, Hongjian Zhu, Hisashi Horiuchi, Hiroshi Toki, Akinobu Doté, Masahiro Isaka, Hiroki Takemoto, Niu Wan, Qing Zhao"
+    },
+    {
+      "title": "Enhanced hydrodynamic predictions for <em>v</em><sub>02</sub>(<em>p<sub>T</sub></em>)",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326007951?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: Available online 10 September 2026Source: Physics Letters BAuthor(s): Rupam Samanta, Tribhuban Parida, Jean-Yves Ollitrault"
+    },
+    {
+      "title": "Corrigendum to “Polarized Electron Scattering from Light Nuclei at High Energies” [Nuclear Physics A 1075 (2026) 123488]",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0375947426001831?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Nuclear Physics A",
+      "summary": "Publication date: December 2026Source: Nuclear Physics A, Volume 1076Author(s): Minh Truong Vo, Vu Dong Tran, Quang Hung Nguyen"
+    },
+    {
+      "title": "Description of the process <math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si5.svg\" class=\"math\"><mrow><msup><mi>e</mi><mo>+</mo></msup><msup><mi>e</mi><mo>−</mo></msup><mo>→</mo><msup><mi>π</mi><mn>0</mn></msup><msup><mi>π</mi><mn>0</mn></msup><mi>γ</mi></mrow></math> in the extended NJL model",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0375947426001909?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Nuclear Physics A",
+      "summary": "Publication date: Available online 10 September 2026Source: Nuclear Physics AAuthor(s): M.K. Volkov, A.A. Pivovarov, K. Nurlan"
+    },
+    {
+      "title": "Flavor Decomposition of the Gravitational Form Factors and Mechanical Structure of the Proton",
+      "link": "https://link.springer.com/article/10.1007/s00601-026-02079-y",
+      "authors": "Unknown",
+      "source": "Few-Body Systems",
+      "summary": "We review in the present talk a series of recent works on the flavor decomposition of the gravitational form factors of the proton and its mechanical properties within the framework of the chiral quark-soliton model. Starting from the energy-momentum tensor operator derived from the QCD instanton vacuum, we carry out the twist projection of the energy-momentum tensor operator into its twist-2 and twist-4 components, which enables us to isolate the $$\\overline{c}$$ form factor originating from the twist-4 operator. We present the flavor-decomposed mass, spin, pressure, and shear-force distributions of the proton, together with the corresponding form factors. While the up quark dominates both the mass and the spin of the proton, the strange quark is found to contribute sizably to the D-term form factor. We also discuss the mechanical stability of the proton governed by the pressure and shear-force distributions."
     }
   ]
 }
