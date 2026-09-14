@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-13T05:30:48.021859",
+  "lastUpdated": "2026-09-14T05:35:01.687760",
   "papers": [
     {
       "title": "Increasing Octupole Collectivity across the $Z=64$ Isotopic Chain: B(E3) Values in $^{150}\\mathrm{Gd}$",
@@ -72310,6 +72310,97 @@
       "authors": "Unknown",
       "source": "Physics Letters B",
       "summary": "Publication date: Available online 11 September 2026Source: Physics Letters BAuthor(s): S. Habib Mazharimousavi"
+    },
+    {
+      "title": "Quantum convolutional neural network for predicting nuclear charge radii",
+      "link": "https://arxiv.org/abs/2609.12393",
+      "authors": "Jinzhe Wu, Jianping Zhao, Tianshuai Shang, Yanhua Lu, Yundong Wang, Jian Li, Haozhao Liang",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2609.12393v1 Announce Type: new \nAbstract: Quantum machine learning has the potential to become a new tool for understanding complex nuclear structures. In this work, we apply a hybrid quantum convolutional neural network (QCNN) to nuclear charge-radius prediction for the first time, aiming to explore the feasibility of quantum machine learning in nuclear-physics data analysis. Based on a classical convolutional neural network (CNN) framework, a small variational quantum convolutional filter is introduced as a quantum feature map to extract local correlations on the nuclear chart. The QCNN shows promising predictive accuracy and training stability, and provides a reliable description of the charge-radius evolution along several representative isotopic chains. These results support further investigation of quantum convolutional architectures for nuclear-structure data analysis."
+    },
+    {
+      "title": "Anisotropic chromo-field fluctuations and spin alignment of quarkonia",
+      "link": "https://arxiv.org/abs/2609.12638",
+      "authors": "Yuhao Liang, Shu Lin",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2609.12638v1 Announce Type: new \nAbstract: Spin correlations are believed to contribute significantly to vector-meson spin alignment. In this work, we study the generation of spin correlations through fluctuations of the chromomagnetic field in the quark-gluon plasma. We show that anisotropic fluctuations generically lead to finite vector-meson spin alignment. We study two sources of anisotropic chromomagnetic-field fluctuations: one arises from the motion of a vector meson relative to the medium, which makes isotropic fluctuations in the medium anisotropic in the meson rest frame; the other arises from QGP shear flow through viscous corrections to the chromomagnetic field fluctuations. We find both corrections to be sensitive to magnetic scale. We apply the mechanism to study spin alignment of J/{\\psi} in heavy ion collisions. With QGP evolution modeled by Bjorken flow, we obtain negative spin alignment from both sources, with the shear induced contribution numerically suppressed compared to the motion induced contribution."
+    },
+    {
+      "title": "Microscopic description of spin distributions in multinucleon tranfer reactions",
+      "link": "https://arxiv.org/abs/2609.12739",
+      "authors": "Kotaro Koga, Kazuyuki Sekizawa",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2609.12739v1 Announce Type: new \nAbstract: Background: The generation of spin distributions in fission fragments has attracted substantial interest in recent years and its mechanism is becoming clear alongside the refined description with microscopic theories. In contrast, the microscopic origin of spin distributions in reaction products remain largely unexplored. Methods: Three-dimensional TDHF calculations are performed for multinucleon transfer processes in the $^{40}\\text{Ca} + {}^{124}\\text{Sn}$ reaction at $E_{\\text{c.m.}} \\simeq 128.54\\,\\text{MeV}$ using the Skyrme SLy5 energy density functional. To obtain spin distributions in each transfer channel, the particle-number projection (PNP) and the angular-momentum projection (AMP) are simultaneously achieved for a reaction product. Results: By performing PNP+AMP for TDHF wave functions after collisions, spin-dependent transfer cross sections are calculated for projectile-like fragments (PLFs). From the results, we find that abundant spin distributions can be obtained from the TDHF wave functions. For one-nucleon addition and removal channels, the calculated spin values agree well with those of single-particle states in the $pf$- and $sd$-shell, respectively. Moreover, for a-few-nucleon transfer channels, we show that the obtained spin distributions can be well explained by combinations of total angular momenta of those single-particle states. Furthermore, as the number of transferred nucleons increases, we find that the calculated spin distributions exhibit a smooth singly-peaked shape with a long tail as a function of $J$, which resembles that of empirical spin distributions for thermally equilibrated fragments. An exploratory calculation for induced fission of $^{240}$Pu is also carried out, obtaining similar results as in multinucleon transfer reactions. (shorted due to the arXiv's word limit)"
+    },
+    {
+      "title": "Spin-orbital entanglement and spatial anisotropy of deuteron",
+      "link": "https://arxiv.org/abs/2609.12982",
+      "authors": "Ryota Tateishi, Tokuro Fukui",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2609.12982v1 Announce Type: new \nAbstract: Background: The nuclear tensor force couples the spin and orbital degrees of freedom, thereby generating spin-orbital (SO) entanglement. This interaction also induces spatial anisotropy of density distributions. While the tensor force underlies both phenomena, the direct connection between them remains unclear.\n  Purpose: We clarify the quantitative relationship between the SO entanglement and spatial anisotropy of the deuteron. This system provides a fully analytical description of both features.\n  Methods: We quantify the SO entanglement by the entanglement entropy and spatial anisotropy by the Kullback-Leibler (KL) divergence. Their evolution is traced by continuously varying the $S$-$D$ coupling in the deuteron.\n  Results: We derive analytical expressions for the entanglement entropy and KL divergence, both of which depend on $M$, the projection of the deuteron total angular momentum $J=1$. The stronger the tensor-force-induced $S$-$D$ coupling is, the larger both the entanglement entropy and KL divergence become.\n  Conclusions: The analytical results and the positive correlation between the two quantities clearly demonstrate that the two features stem from the same underlying coupling mechanism governed by the algebraic structure of the deuteron wave function."
+    },
+    {
+      "title": "One-point charge correlator as a probe for the odderon",
+      "link": "https://arxiv.org/abs/2609.12064",
+      "authors": "Haotian Cao, Zhong-Bo Kang, Diego Padilla, Jani Penttala",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2609.12064v1 Announce Type: cross \nAbstract: We propose the one-point charge correlator (OPCC) in transversely polarized deep inelastic scattering as a new probe of the spin-dependent odderon. The OPCC is an infrared and collinear safe observable constructed solely from the charge and angular information of final-state charged particles. Because the charge weight is odd under charge conjugation, the contribution of the C-even pomeron to the OPCC vanishes identically in the small-$x$ eikonal limit, whereas the contribution of the C-odd spin-dependent odderon survives. We define a transverse single-spin asymmetry by normalizing the spin-dependent OPCC to the unpolarized charged-hadron one-point energy correlator. At small $x$, this asymmetry reduces to a ratio of spin-dependent odderon and pomeron contributions. We provide illustrative estimates of this asymmetry for Electron-Ion Collider kinematics within the small-$x$ dipole framework with Balitsky--Kovchegov evolution to guide experimental studies. Dedicated measurements of the OPCC asymmetry with a transversely polarized proton beam would provide new quantitative constraints on the currently unconstrained spin-dependent odderon."
+    },
+    {
+      "title": "Driver and damping of the directed-flow response in heavy-ion collisions",
+      "link": "https://arxiv.org/abs/2609.12096",
+      "authors": "Kishora Nayak, Vipul Bairathi",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2609.12096v1 Announce Type: cross \nAbstract: The initial-state geometry plays a crucial role in driving directed flow, while the dissipative response of the medium dampens it. Both of these factors influence how the directed-flow slope varies with system size. We developed a method to differentiate between these driving and damping effects on charged-hadron directed flow in O+O, Cu+Cu, Ru+Ru, Au+Au, and U+U collisions at $\\sqrt{s_{\\mathrm{NN}}} = 200$~GeV using an improved version of the string-melting AMPT model. We formulated three scaling observables based on the entropy density, the number of participants, and the mass number. A dimensionless ratio was constructed, revealing the threshold mass number $A \\approx 35$ in central collisions from the entropy and participant scaling, indicating the onset of collective behavior. We constructed a kinetic-theory Knudsen-number ($\\mathrm{Kn}$) map to analyze the contributions of the initial-state driver, which grows as $\\mathrm{Kn}^{\\kappa}$ with $\\kappa \\approx 2$, and a final-state viscous damping of the hydrodynamic response with characteristic scale $\\mathrm{Kn}_0 \\approx 0.27$ for the directed flow slope. This damping scale is found to be about a factor of 2.5 smaller than the $\\mathrm{Kn}_0 \\approx 0.7$ extracted from the elliptic flow. Furthermore, we determined the ratio of shear viscosity to entropy density, $\\eta/s$, to be between 0.10 and 0.20, using an alternative method that does not rely on fitting flow harmonics."
+    },
+    {
+      "title": "Radiative corrections to weak interaction processes",
+      "link": "https://arxiv.org/abs/2609.12182",
+      "authors": "Chien-Yeah Seng",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2609.12182v1 Announce Type: cross \nAbstract: The search for physics beyond the Standard Model in low-energy weak interaction processes requires a precise knowledge of the Standard Model background at tree- and loop-level. In many such cases, radiative corrections represent one of the major sources of theory uncertainty due to the non-perturbative structures of nucleon or nuclei. In this review, I discuss several modern strategies based on dispersion relation, lattice gauge theory and nuclear many-body calculations to pin down the hadronic and nuclear uncertainties in the radiative corrections to low-energy weak interaction processes such as beta decays and parity-violating electron-nucleus scattering."
+    },
+    {
+      "title": "Tensor-polarized twist-3 distribution function $f_{LT}$ of spin-1 deuteron",
+      "link": "https://arxiv.org/abs/2609.12334",
+      "authors": "S. Kumano, Kenshi Kuroki",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2609.12334v1 Announce Type: cross \nAbstract: We investigate the twist-2 and twist-3 tensor-polarized partonic structures of the spin-1 deuteron. Using the operator product expansion with local operators, we derive a Wandzura-Wilczek (WW)-like twist-2 relation between the tensor-polarized twist-2 quark distribution $f_{1LL}$ and the twist-3 distribution $f_{LT}$, together with a Burkhardt-Cottingham (BC)-like sum rule. The local-operator formalism makes the Lorentz structure and rotational invariance manifest and provides useful constraints on the twist-3 sector. We then use a phenomenological parametrization of the twist-2 distribution $f_{1LL}(x)$, constrained by HERMES data on the deuteron structure function $b_1$ at $Q^2=2.5~\\text{GeV}^2$, to quantitatively estimate the twist-3 distribution $f_{LT}(x)$ within the WW approximation. The resulting $f_{LT}(x)$ has a shape and magnitude comparable to those of $f_{1LL}(x)$, indicating that subleading-twist effects may be relevant for future experiments at relatively low $Q^2$. In this contribution, we summarize the theoretical derivation of the WW-like relation and BC-like sum rule and present a phenomenological estimate of the tensor-polarized twist-3 quark distribution $f_{LT}$ in the deuteron."
+    },
+    {
+      "title": "Spin-polarization of the neutron ocean in magnetar crusts",
+      "link": "https://arxiv.org/abs/2609.12539",
+      "authors": "Juliette Servais, Nicolas Chamel",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2609.12539v1 Announce Type: cross \nAbstract: Magnetars, neutron stars harboring the strongest magnetic fields known in the Universe, are associated with a broad range of observational phenomena, from giant flares to fast radio bursts, and have also been proposed as potential sites of heavy-element nucleosynthesis. These phenomena are thought to be closely linked to the structure and composition of magnetar crusts. The outer crust consists of fully ionized nuclei embedded in a degenerate electron gas, while the inner crust additionally contains free neutrons. We investigate how strong magnetic fields modify magnetar crusts, accounting for the spin polarization of free neutrons. Arising from the coupling between the magnetic field and the neutron magnetic moment, neutron spin polarization lowers both the pressure and matter density marking the boundary between the outer and inner crusts for magnetic field strengths $B \\gtrsim 10^{17}~\\mathrm{G}$. As a consequence, the outer crust becomes thinner, the formation of the superheavy nuclei predicted in previous studies is suppressed, and the neutron ocean permeating the inner crust becomes spin-polarized. These effects may have important implications for the diverse manifestations of magnetars and for $r$-process nucleosynthesis in the ejecta of magnetar giant flares."
+    },
+    {
+      "title": "Identification of a nanosecond isomer of 164$$^{164}$$Tb",
+      "link": "https://epja.epj.org/10.1140/epja/s10050-026-01950-0",
+      "authors": "J. P. Bormans, J. E. L. Larsson, H. M. Albers, M. Górska, M. Polettini, D. Brugnara, N. Pietralla, Zs. Podolyák, P. H. Regan, B. Bles, C. Chatel, B. Das, T. Davinson, T. Dickel, E. Haettner, P. Herrmann, N. J. Hubbard, C. E. Jones, H. Schaffner, G. Aggez, U. Ahmed, M. Al-Aqeel, B. Alayed, A. Algora, S. Alhomaidhi, N. Alwadie, B. Amorim, M. Armstrong, M. Bajzek, J. Bardak, G. Bartram, G. Benzoni, D. Bittner, Z. Chen, D. Das, F. Drent, L. M. Fraile, E. M. Gandolfo, G. García De Lorenzo, J. Gellanki, J. Gerl, T. Grahn, C. Hornung, H. Huang, K. E. Ide, A. Jedele, D. Judson, A. Jungclaus, I. Kojouharov, P. Khandelwal, A. Košir, G. Košir, D. Kostyleva, G. Kumar, M. Kundu, M. Labiche, G. Li, Z. Liu, R. Lozeva, H. Mayr, M. Mikołajczuk, I. Mitsiou, A. I. Morales, F. Naqvi, B. S. Nara Singh, C. M. Nickel, S. E. A. Orrigo, R. D. Page, P. Papadakis, S. Pascu, C. M. Petrache, A. Pfeil, V. Piau, S. Pietri, W. Poklepa, R. Prajapat, D. Prajapati, M. Reece, E. Rocco, M. Satrazani, C. Scheidenberger, S. K. Singh, Y. K. Tanaka, E. Uusikylä, M. Vencelj, J. Vesic, K. Wang, V. Werner, K. Wimmer, K. Zagar, F. Zeng, W. Zhang, J. Zhao, P. Zheng, R. Zidarova",
+      "source": "European Physical Journal A",
+      "summary": "Authors: J. P. Bormans, J. E. L. Larsson, H. M. Albers, M. Górska, M. Polettini, D. Brugnara, N. Pietralla, Zs. Podolyák, P. H. Regan, B. Bles, C. Chatel, B. Das, T. Davinson, T. Dickel, E. Haettner, P. Herrmann, N. J. Hubbard, C. E. Jones, H. Schaffner, G. Aggez, U. Ahmed, M. Al-Aqeel, B. Alayed, A. Algora, S. Alhomaidhi, N. Alwadie, B. Amorim, M. Armstrong, M. Bajzek, J. Bardak, G. Bartram, G. Benzoni, D. Bittner, Z. Chen, D. Das, F. Drent, L. M. Fraile, E. M. Gandolfo, G. García De Lorenzo, J. Gellanki, J. Gerl, T. Grahn, C. Hornung, H. Huang, K. E. Ide, A. Jedele, D. Judson, A. Jungclaus, I. Kojouharov, P. Khandelwal, A. Košir, G. Košir, D. Kostyleva, G. Kumar, M. Kundu, M. Labiche, G. Li, Z. Liu, R. Lozeva, H. Mayr, M. Mikołajczuk, I. Mitsiou, A. I. Morales, F. Naqvi, B. S. Nara Singh, C. M. Nickel, S. E. A. Orrigo, R. D. Page, P. Papadakis, S. Pascu, C. M. Petrache, A. Pfeil, V. Piau, S. Pietri, W. Poklepa, R. Prajapat, D. Prajapati, M. Reece, E. Rocco, M. Satrazani, C. Scheidenberger, S. K. Singh, Y. K. Tanaka, E. Uusikylä, M. Vencelj, J. Vesic, K. Wang, V. Werner, K. Wimmer, K. Zagar, F. Zeng, W. Zhang, J. Zhao, P. Zheng and R. Zidarova.The European Physical Journal A Vol. 62 , page 187Published online: 3/9/2026"
+    },
+    {
+      "title": "Novel analysis of proton-γ$$\\gamma $$ coincidences for the β$$\\beta $$-delayed proton emission technique: the case of 46$$^{46}$$Mn",
+      "link": "https://epja.epj.org/10.1140/epja/s10050-026-01952-y",
+      "authors": "D. Godos, L. Acosta, P. Ascher, B. Blank, J. Giovinazzo, F. de Oliveira Santos, C. Fougères, A. M. Sánchez-Benítez, N. Adimi, A. Algora, M. Aouadi, N. Benouaret, C. Borcea, Y. Fujita, M. Gerbaux, T. Goigoux, S. Grévy, G. F. Grinyer, O. Kamalou, T. Kurtukian Nieto, A. T. Laffoley, C. Magron, D. Nishimura, S. E. A. Orrigo, T. Roger, B. Rubio, J.-C. Thomas, M. Vandebrouck",
+      "source": "European Physical Journal A",
+      "summary": "Authors: D. Godos, L. Acosta, P. Ascher, B. Blank, J. Giovinazzo, F. de Oliveira Santos, C. Fougères, A. M. Sánchez-Benítez, N. Adimi, A. Algora, M. Aouadi, N. Benouaret, C. Borcea, Y. Fujita, M. Gerbaux, T. Goigoux, S. Grévy, G. F. Grinyer, O. Kamalou, T. Kurtukian Nieto, A. T. Laffoley, C. Magron, D. Nishimura, S. E. A. Orrigo, T. Roger, B. Rubio, J.-C. Thomas and M. Vandebrouck.The European Physical Journal A Vol. 62 , page 188Published online: 3/9/2026"
+    },
+    {
+      "title": "New methods for recovering β$$\\beta $$-delayed neutron spectral information with a 3$$^3$$He long counter: TETRA benchmarked with MONSTER at ALTO",
+      "link": "https://epja.epj.org/10.1140/epja/s10050-026-01954-w",
+      "authors": "E. Cantacuzène, D. Verney, I. Matea, L. Plagnol, A. Pérez de Rada Fiol, M. Benhatchi, M. Cheikh Mhamed, C. Delafosse, I. Deloncle, N. De Séréville, C. Gaulard, V. Girard-Alcindor, J. Guillot, F. Hammache, C. Hiver, F. Ibrahim, M. Kaci, F. Le Blanc, M. Lebois, M. Mehdi, E. Minaya Ramirez, E. Morin, E. Nseir, G. Pasqualato, B. Pertille, B. Roussière, A. Segovia-Miranda, M. Sguazzin, T. Zanatta Martinez, D. Bachiller-Perea, T. Martinez, D. Cano Ott, J. Benito, A. Gottardo, D. Thisse, G. Tocabens, F. Didierjean",
+      "source": "European Physical Journal A",
+      "summary": "Authors: E. Cantacuzène, D. Verney, I. Matea, L. Plagnol, A. Pérez de Rada Fiol, M. Benhatchi, M. Cheikh Mhamed, C. Delafosse, I. Deloncle, N. De Séréville, C. Gaulard, V. Girard-Alcindor, J. Guillot, F. Hammache, C. Hiver, F. Ibrahim, M. Kaci, F. Le Blanc, M. Lebois, M. Mehdi, E. Minaya Ramirez, E. Morin, E. Nseir, G. Pasqualato, B. Pertille, B. Roussière, A. Segovia-Miranda, M. Sguazzin, T. Zanatta Martinez, D. Bachiller-Perea, T. Martinez, D. Cano Ott, J. Benito, A. Gottardo, D. Thisse, G. Tocabens and F. Didierjean.The European Physical Journal A Vol. 62 , page 189Published online: 4/9/2026\n       Keywords:"
+    },
+    {
+      "title": "Generalized parton distributions of valence, sea, and gluon components of the proton",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326008014?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: Available online 12 September 2026Source: Physics Letters BAuthor(s): Yiping Liu, Siqi Xu, Chandan Mondal, Xingbo Zhao, James P. Vary"
     }
   ]
 }
