@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-23T05:23:39.739124",
+  "lastUpdated": "2026-09-24T05:39:48.112330",
   "papers": [
     {
       "title": "Increasing Octupole Collectivity across the $Z=64$ Isotopic Chain: B(E3) Values in $^{150}\\mathrm{Gd}$",
@@ -73787,6 +73787,167 @@
       "authors": "Wen-Yuan Li, 文元 李, Ting Sun, 婷 孙, Sheng-Quan Wang, 声权 王, Jian-Ming Shen, 建明 申, Hua Zhou, 华 周, Xing-Gang Wu, 兴刚 吴 and Leonardo Di Giustino",
       "source": "Chinese Physics C",
       "summary": "The rare exclusive decay of the Higgs boson, , is a crucial channel for assessing the Yukawa coupling of the charm quark. In this article, we examine this process up to the next-to-next-to-leading order (NNLO) in QCD utilizing the Principle of Maximum Conformality (PMC). The PMC offers a systematic approach to eliminate renormalization scale uncertainties by resumming non-conformal β contributions into the QCD running coupling through the renormalization group equation (RGE). A PMC scale of is obtained, which reflects the low virtuality of the underlying QCD dynamics in the process. Notably, this is an order of magnitude smaller than the scale estimated using the conventional method, i.e., . By removing the non-conformal -terms from the perturbative QCD (pQCD) series, we observe that the PMC NLO QCD correction term is significantly enhanced, while the PMC NNLO QCD correction is suppressed. This indicates improved convergence of the pQCD series up to NNLO. Finally, we calculate the decay width eV, where the first uncertainty arises from the factorization scale , and the second is due to the estimation of unknown higher-order terms using the Pad approximant approach. The corresponding branching fraction is ."
+    },
+    {
+      "title": "Renormalization group evolution and power counting in nuclear matter",
+      "link": "http://link.aps.org/doi/10.1103/stw9-xhkh",
+      "authors": "Manuel Pavon Valderrama",
+      "source": "Physical Review C",
+      "summary": "Author(s): Manuel Pavon ValderramaIn nuclear matter, for interparticle separations larger than the healing distance (a characteristic long-distance scale of finite-density fermionic systems), the in-medium two-body wave function is essentially a free wave function. In terms of the renormalization group (RG), this implies that the ru…[Phys. Rev. C 114, 034010] Published Tue Sep 22, 2026"
+    },
+    {
+      "title": "Many-body perturbation theory for the nuclear equation of state up to fifth order",
+      "link": "http://link.aps.org/doi/10.1103/8fr2-cyf5",
+      "authors": "C. Drischler, K. S. McElvain, and P. Arthuis",
+      "source": "Physical Review C",
+      "summary": "Author(s): C. Drischler, K. S. McElvain, and P. ArthuisWe present an automated, GPU-accelerated framework for many-body perturbation theory (MBPT) calculations of the zero-temperature nuclear equation of state (EOS) based on chiral nucleon-nucleon and three-nucleon (3N) interactions. Automated diagram generation and evaluation enable the computation of …[Phys. Rev. C 114, 034326] Published Tue Sep 22, 2026"
+    },
+    {
+      "title": "Competing roles of Coulomb repulsion and shell closure in pseudospin symmetry breaking of proton resonant states",
+      "link": "http://link.aps.org/doi/10.1103/x57v-tlvg",
+      "authors": "Jin He, Quan Liu, and Jian-You Guo",
+      "source": "Physical Review C",
+      "summary": "Author(s): Jin He, Quan Liu, and Jian-You GuoBackground: Pseudospin symmetry (PSS) in proton resonant states remains largely unexplored due to the long-range Coulomb interaction and the inherent difficulties in modeling resonant phenomena.Purpose: We aim to clarify the interplay between the Coulomb field and nuclear shell effects in governing …[Phys. Rev. C 114, 034327] Published Tue Sep 22, 2026"
+    },
+    {
+      "title": "Improved $^{94}\\mathrm{Mo}$ neutron resonance parameters from neutron capture and transmission measurements at n_TOF and GELINA",
+      "link": "http://link.aps.org/doi/10.1103/y9zl-61c5",
+      "authors": "R. Mucciola <em>et al.</em> (n_TOF Collaboration)",
+      "source": "Physical Review C",
+      "summary": "Author(s): R. Mucciola et al. (n_TOF Collaboration)We report high-resolution measurements of the $^{94}\\mathrm{Mo}(n,γ)^{95}\\mathrm{Mo}$ cross section in the neutron energy range from a few eV up to about 250 keV, performed at the n_TOF facility (CERN), and of the $^{94}\\mathrm{Mo}(n,\\mathrm{tot})$ cross section up to 32 keV, measured at GELINA (JRC…[Phys. Rev. C 114, 034623] Published Tue Sep 22, 2026"
+    },
+    {
+      "title": "Calculation of $α$-decay half-lives for new superheavy nuclei with $Z=113–118$ with the GLDM-BNN hybrid model",
+      "link": "http://link.aps.org/doi/10.1103/nt1d-5848",
+      "authors": "Jia-Jia Liu, Yu-Hai Zhang, Dong-Hong Zhang, and Feng-Shou Zhang",
+      "source": "Physical Review C",
+      "summary": "Author(s): Jia-Jia Liu, Yu-Hai Zhang, Dong-Hong Zhang, and Feng-Shou ZhangThis work combines the generalized liquid drop model (GLDM) with the Bayesian neural network (BNN) to systematically investigate the $α$-decay half-lives of nuclei in the superheavy region. By training the BNN to learn the nonlinear relation between the residuals of theoretical results and experimen…[Phys. Rev. C 114, 034624] Published Tue Sep 22, 2026"
+    },
+    {
+      "title": "Secondary hadron-nucleus collisions of short-lived hadrons in ultrarelativistic fixed-target heavy-ion interactions",
+      "link": "http://link.aps.org/doi/10.1103/j659-ht4f",
+      "authors": "Sanatan Digal, P. S. Saumia, and Ajit M. Srivastava",
+      "source": "Physical Review C",
+      "summary": "Author(s): Sanatan Digal, P. S. Saumia, and Ajit M. SrivastavaUltrarelativistic heavy nuclei traversing a solid target undergo successive nuclear encounters separated by atomic lattice spacings. At sufficiently high beam energies, Lorentz contraction reduces the proper time between collisions to $\\mathcal{O}({10}^{4})\\phantom{\\rule{0.28em}{0ex}}\\mathrm{fm}/c$ …[Phys. Rev. C 114, 034915] Published Tue Sep 22, 2026"
+    },
+    {
+      "title": "Erratum: Spectroscopic study of the possibly triaxial transitional nucleus $^{75}\\mathrm{Ge}$ [Phys. Rev. C <b>97</b>, 034322 (2018)]",
+      "link": "http://link.aps.org/doi/10.1103/lvdv-6smk",
+      "authors": "C. Y. Niu (牛晨阳) <em>et al.</em>",
+      "source": "Physical Review C",
+      "summary": "Author(s): C. Y. Niu (牛晨阳) et al.[Phys. Rev. C 114, 039904] Published Tue Sep 22, 2026"
+    },
+    {
+      "title": "Complexity of Nuclear States for 48Ca",
+      "link": "https://arxiv.org/abs/2609.26982",
+      "authors": "L. L\\'opez-Hern\\'andez, D. A. Lara Bustillos, Carlos E. Vargas, V. Vel\\'azquez",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2609.26982v1 Announce Type: new \nAbstract: In complex systems theory, there are different ways to describe a system in terms of information, such as emergence (Shannon entropy), self-organization, and com- plexity. These measures provide information about the dynamic behavior of a complex system. We study the differences in entropy and complexity for many-body systems undergoing a transition from a regular to a chaotic regime. To do this, we analyze the eigenvectors of the 48 Ca nucleus for different quadrupole-type two-body interactions. We obtain the eigenvectors by diagonalizing the two-body Hamiltonian for 48 Ca us- ing the Antoine code. We then calculate the entropy and complexity for the different quadrupole-type interactions. The differences found in information entropy and com- plexity are clear when comparing a regular system with a chaotic one. We find that the complexity of the regular and chaotic states of 48 Ca shows differences associated with its internal interactions."
+    },
+    {
+      "title": "Multi-Model Analysis of the Astrophysical $S(E)$ Factor for the $^{9}\\mathrm{Be}(p,\\alpha)^{6}\\mathrm{Li}$ Reaction and Its Impact on Astrophysical Reaction Rates",
+      "link": "https://arxiv.org/abs/2609.27403",
+      "authors": "Xue-Jian Wang, Wei-Ke Nan, Qing Wang, Tian-Yu Tao, Qun-Gang Wen, Jian-You Guo, Cheng-Bo Li, Hui-Ming Jia",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2609.27403v1 Announce Type: new \nAbstract: The $^{9}\\mathrm{Be}(p,\\alpha)^{6}\\mathrm{Li}$ reaction is a destruction process for $^{9}\\text{Be}$ in stars and the Big Bang. The Trojan Horse Method (THM) is a well-established indirect technique that enables the determination of reaction cross sections within the Gamow energy region while avoiding the uncertainties associated with low-energy extrapolations of the $S(E)$ factor and electron-screening effects. In this work, the bare-nucleus THM data reported by Wen \\textit{et al.} are systematically analyzed using polynomial fitting, a double Breit--Wigner model, and the $R$-matrix formalism. The applicability and physical implications of these theoretical approaches in describing the low-energy $S(E)$ factor of the $^{9}\\mathrm{Be}(p,\\alpha)^{6}\\mathrm{Li}$ reaction are investigated and compared. Since the THM data have been incorporated into the NACRE II reaction-rate compilation, leading to improved accuracy in reaction-rate evaluations, the refined theoretical analysis presented here provides further insight into the underlying reaction dynamics and establishes a more reliable foundation for stellar reaction-rate calculations. The results obtained in this work offer valuable reference for future high-precision experimental investigations and the development of theoretical models in nuclear astrophysics."
+    },
+    {
+      "title": "Exploring the short-range correlations in $^{16}$O+$^{16}$O collisions at the LHC",
+      "link": "https://arxiv.org/abs/2609.27566",
+      "authors": "Qi Liu, Shanjin Wu, Huichao Song",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2609.27566v1 Announce Type: new \nAbstract: Short-range correlations (SRCs) dominate the nuclear force at short distances, including the repulsive core and intermediate-range attraction, and are one of the most fascinating aspects of the nucleon-nucleon (NN) interaction. In this work, we investigate the effects of SRCs on the final-state observables in $^{16}$O+$^{16}$O collisions at $\\sqrt{s_{NN}}=5.36$~TeV, using the iEBE-VISHNU hybrid model with {T\\raisebox{-0.5ex}{R}ENTo} initial conditions. We embed the nucleon configurations of $^{16}$O generated from variational Monte Carlo (VMC) simulations with realistic SRCs in the initial stage, along with uncorrelated VMC samples and Woods--Saxon distributions implementing a hard repulsive core or short-range attraction as comparison runs. We find that SRCs reduce both $v_2\\{2\\}$ and $v_2\\{4\\}$ in the most central collisions, with the decrease of $v_2\\{4\\}$ being more pronounced due to the event-by-event flow fluctuations. Meanwhile, SRCs noticeably enhance the correlation between the elliptic flow and the mean transverse momentum, $\\rho_2(v_2^2,[p_T])$. These effects are mainly attributed to the strong repulsive core of the SRCs, which suppresses the probability of finding nucleon pairs at short relative distances and renders the initial geometry more uniform. This interpretation is supported by the calculations based on Woods--Saxon distributions with a hard repulsive core, which reproduce similar results, while the contribution from a pure intermediate-range attraction is negligible. Our results demonstrate that relativistic nuclear collisions provide a complementary probe of the short-range structure of the nuclear force, beyond the traditional nuclear experiments at low energies."
+    },
+    {
+      "title": "Shell structure and spontaneous decay of superheavy $Z=124$ isotopes with the deformed relativistic Hartree-Bogoliubov theory in continuum",
+      "link": "https://arxiv.org/abs/2609.27737",
+      "authors": "Yumeng Wang, Lang Liu, Cong Pan",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2609.27737v1 Announce Type: new \nAbstract: Shell structure and spontaneous decay of $Z = 124$ isotopes are systematically investigated using the deformed relativistic Hartree-Bogoliubov theory in continuum (DRHBc) with the PC-PK1 density functional. By accounting for deformation and continuum effects, the neutron drip line is predicted to be located at $N = 320$, and eight potential multi-neutron emitters beyond the neutron drip line are identified. The results, compared with the spherically constrained case, highlight the critical role of deformation effects in determining the ground-state properties of superheavy nuclei. In addition, potential neutron shell closures emerge at $N = 258$ and $350$, alongside subshell closures at $N = 232$ and $320$. The results disfavor $Z = 124$ as a possible proton magic number and suggest $Z = 120$ and $138$ as more favorable candidates for proton shell closures in the superheavy region. Finally, the competition between $\\alpha$ decay, $\\beta$ decay, and spontaneous fission is analyzed by calculating half-lives within various semi-empirical formulas. The results indicate that $\\alpha$ decay is the predominant mode on the proton-rich side, whereas spontaneous fission and $\\beta^-$ decay gradually become dominant with increasing neutron number."
+    },
+    {
+      "title": "Strangeness Production in Heavy-Ion Collisions: Color Ropes or Hydrodynamic Evolution?",
+      "link": "https://arxiv.org/abs/2609.28070",
+      "authors": "Carl Rosenkvist, Hannah Elfner",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2609.28070v1 Announce Type: new \nAbstract: We investigate strangeness production and transverse dynamics in heavy-ion collisions at $\\sqrt{s_{\\mathrm{NN}}}\\approx 2.5-20~\\mathrm{GeV}$ using the transport approach SMASH (Simulating Many Accelerated Strongly-interacting Hadrons), its extension with rope hadronization, and the SMASH+vHLLE hybrid approach. Results from the Pythia-based heavy-ion model Angantyr, with and without rope hadronization, are included for comparison. We study midrapidity particle yields and average transverse masses as functions of the number of wounded nucleons, as well as their energy dependence.\n  For the $K^+/\\pi^+$ ratio, SMASH+vHLLE overpredicts strangeness production at low energies but describes the higher-energy behavior reasonably well. SMASH+Ropes reproduces the ratio up to $\\sqrt{s_{\\mathrm{NN}}}\\sim 10~\\mathrm{GeV}$ but does not capture the turnover at higher energies. In contrast, the transverse-mass observables favor the hybrid approach, while the non-thermal models considered here do not generate sufficient collective transverse expansion.\n  These results show that strangeness enhancement alone does not uniquely distinguish microscopic string interactions from a locally equilibrated medium. Simultaneously constraining strangeness production and transverse dynamics is therefore essential for disentangling thermal and non-thermal mechanisms in heavy-ion collisions."
+    },
+    {
+      "title": "The compressible liquid drop model with curvature included algebraically for the pasta phases in neutron stars",
+      "link": "https://arxiv.org/abs/2609.28162",
+      "authors": "Dmitry Kobyakov",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2609.28162v1 Announce Type: new \nAbstract: In the compressible liquid drop model (CLDM), the curvature energy term has been included in many works in the literature, and its effects on the presence of pasta phases have also been extensively investigated. However, the analytical part of the inclusion used to cease once a 4-order algebraic equation for the optimized size of the nucleus was written. In this paper, an optimization is suggested to the analytical part of the solution of the CLDM equations. Solving analytically the 4-order algebraic equation proves to be helpful for a straightforward identification of the denied parameter ranges in which the CLDM has no real-root solutions. Using a particular nuclear force derived from the chiral effective field theory, I investigate effects on the ground state of the nucleus curvature. Surprisingly, the inclusion has lead to a significant modification of the range of baryon density in which the bubble phases are found, disfavoring the bubble phases from the ground state. This shows a strong difference between the predictions of the CLDM with the nucleus size obtained when including the curvature term and that obtained from the $w_\\mathrm{s} = 2w_{\\mathrm{C+L}}$ approximation. The importance of the curvature energy in the CLDM is linked with its ability to change qualitatively the ground state. This paper presents an analytical extension to the CLDM solution, which is ready to be used with any other nuclear model in the future, in order to optimize the inclusion of the nuclear curvature energy, and is not limited to one nuclear model."
+    },
+    {
+      "title": "Fission Evaluation Tools and Analytics (FETA)",
+      "link": "https://arxiv.org/abs/2609.28259",
+      "authors": "N. Schunck",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2609.28259v1 Announce Type: new \nAbstract: We present a new Python package called FETA to compute fission observables. In comparison to existing fission event modeling codes on the market, FETA is a modular, flexible, and code-agnostic wrapper around a statistical reaction theory program. In this paper, we report on version 2.0 of FETA, which simulates the prompt decay of the fragments with the LLNL-developed Hauser-Feshbach code YAHFC. We discuss the design philosophy of FETA, present some validation results for the neutron-induced fission of 239Pu, and briefly outline the structure of the package."
+    },
+    {
+      "title": "Strange Quark Stars and Spontaneous Scalarization",
+      "link": "https://arxiv.org/abs/2609.28408",
+      "authors": "Mina Mehraeen Nazdik, Zeinab Rezaei",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2609.28408v1 Announce Type: new \nAbstract: Strange quark matter, as one of the most extreme dense states in astrophysics, can be explored through relativistic compact objects. Hypothetical relativistic stars composed of dense strange quark matter are characterized by the equation of state of that matter. The spontaneous scalarization of strange quark stars is influenced by the equation of state of strange quark matter. Here, we investigate how the equation of state of strange quark matter influences the spontaneous scalarization of these stars. Considering Normal, color-flavor-locked (CFL), and CFLm quark matter in the bag models and applying the scalar-tensor gravity, we calculate the structure of scalarized strange quark stars. We investigate how the effective bag constant, perturbative QCD parameter, CFL pairing gap, and strange quark mass control the mass-radius relation, the central scalar field, the scalarization thresholds, and the scalar charge. Our results demonstrate that strange quark stars in scalar-tensor gravity are viable, testable objects, and they establish a complete framework for constraining both the gravitational theory and the properties of cold quark matter with current and future multimessenger observations."
+    },
+    {
+      "title": "Analytical Solution of the Nonlinear Boltzmann Equation For Multicomponent Systems",
+      "link": "https://arxiv.org/abs/2609.26845",
+      "authors": "Linyuan Wei, Yi Wang, Jin Hu, Baoyi Chen",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2609.26845v1 Announce Type: cross \nAbstract: We present exact analytical solutions to the nonlinear relativistic Boltzmann equation for homogeneous, isotropic massless multi-component systems with non-isotropic scattering cross sections. For a two-component system, we identify three distinct classes of exact solutions, each corresponding to specific constraints among initial energy densities, particle number densities, and scattering cross sections. These solutions comprise the equilibrium state and two novel classes: a hybrid structure featuring a non-equilibrium Maxwell-Juttner distribution coupled with a nontrivial distribution; the former is unprecedented in kinetic theory, while the latter refers to nontrivial dynamics shared by both species, which is novel in the relativistic context."
+    },
+    {
+      "title": "Simulating the emission source function in very peripheral relativistic heavy-ion collisions",
+      "link": "https://arxiv.org/abs/2609.28394",
+      "authors": "Angel Reina Ram\\'irez, Volodymyr Magas, Juan M. Torres-Rincon",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2609.28394v1 Announce Type: cross \nAbstract: We present a microscopic femtoscopic investigation of the space-time emission source in low-multiplicity (80--90\\% centrality) $\\text{Pb}-\\text{Pb}$ collisions at $\\sqrt{s_{NN}} = 5.02~\\text{TeV}$, using a hybrid transport framework coupling SMASH initial conditions, 3+1D viscous hydrodynamics (vHLLE), and a SMASH hadronic cascade afterburner. Access to the full space-time evolution of the produced particles allows for the direct reconstruction of emission source functions in both the Longitudinally Comoving System and the Pair Rest Frame. We study identical pairs of mesons ($\\pi\\pi$, $KK$) and baryons ($pp$), as well as cross-species combinations, while explicitly isolating the contributions from primordial particles, hadronic rescattering, and long-lived resonance decays. Our analysis shows that simple Gaussian fits are inadequate for precision source analyses, whereas a combined Gaussian plus exponential parametrization better captures the compact core and the extended tail. Finally, the extracted Gaussian core radii, $R_{\\text{core}}$, for our very peripheral collisions demonstrate an approximate $m_T$-scaling behavior rather similar to the one observed in pp reactions."
+    },
+    {
+      "title": "Systematic parameterizations of giant dipole resonance for Lorentzian-type γ-ray strength function models",
+      "link": "https://iopscience.iop.org/article/10.1088/1361-6471/aea4cd",
+      "authors": "M Sepiani and M N Nasrabadi",
+      "source": "Journal of Physics G: Nuclear and Particle Physics",
+      "summary": "The giant dipole resonance (GDR) represents one of the most fundamental collective modes, serving as a cornerstone for understanding nuclear response to electromagnetic probes. The GDR is characterized by a set of parameters that fully determine Lorentzian-type models of the γ-ray strength function (γSF or GSF), a key ingredient in statistical nuclear reaction theory and in radiative and photonuclear reaction modeling. However, the scarcity of experimental data for GDR parameters poses a significant challenge, as they are available for only about 150 nuclei near stability. Consequently, the large-scale applications often rely on global systematic parameterizations, encompassing empirical formulas, semi-theoretical prescriptions and machine-learning-based predictions. Here, we present a comprehensive and unified assessment of all currently available GDR parameterization strategies by confronting their predictions with experimental GDR and GSF data across the nuclear chart. Our analysis reveals that no existing parameterization scheme exhibits universal predictive power, with apparent agreement largely confined to restricted mass regions, while systematic and often severe failures are observed for light nuclei (A 80) and are found to persist for some medium and heavy nuclei. In particular, the GDR width is shown to encode strong microscopic structure sensitivities that are fundamentally incompatible with the assumptions underlying global parametrizations. These results reveal a structural limitation in the widespread use of globally parameterized Lorentzian descriptions of the GSF and imply that a wide class of nuclear reaction and astrophysical rate calculations may rest on intrinsically inconsistent electromagnetic inputs. Our findings establish quantitative validity boundaries for existing parameterizations and highlight the need for a paradigm shift toward structure-aware descriptions of the GDR parameters."
+    },
+    {
+      "title": "The <em>ψ</em>(2S) state as a subthreshold pole in electron-positron annihilation into <math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si14.svg\" class=\"math\"><mrow><mi>D</mi><mover accent=\"true\"><mi>D</mi><mo>¯</mo></mover></mrow></math> final states",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326008270?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: Available online 22 September 2026Source: Physics Letters BAuthor(s): Peter Lichard"
+    },
+    {
+      "title": "Calculations of fusion capture of breakup fragments of the weakly bound projectile 11Be with several targets*",
+      "link": "https://iopscience.iop.org/article/10.1088/1674-1137/ae71a4",
+      "authors": "A. Gómez Camacho and J. Lubian",
+      "source": "Chinese Physics C",
+      "summary": "Calculations of the effect of the breakup reactions of the weakly bound projectile 11Be on total, complete, and incomplete fusion with targets 16O, 28Si, 58Ni, 144Sm, and 209Bi are presented. The calculations primarily focus on the relative effects of projectile neutron and 10Be fragments on incomplete fusion. In fact, the energy-dependent contributions to the incomplete fusion of the fragments exhibit highly interesting behaviors when targets of different masses and charges are considered. Incomplete fusion for neutron absorption becomes more important than that for for all targets at energies around and above the barrier. Indeed, neutron capture becomes increasingly important as the target becomes heavier. In addition, it is found that incomplete fusion becomes larger than complete fusion for energies lower than a certain value that depends on the target. Above this value, complete fusion overcomes incomplete fusion. As a final calculation, an energy-dependent systematic comparison of the total incomplete fusion, incomplete fusion of the neutron, and incomplete fusion of 10Be for the different targets is presented. The calculations are performed with two complementary theoretical approaches. The continuum discretized coupled channel model is used to determine the relative projectile-target radial wave functions, which are subsequently used in the angular-momentum-dependent model of fusion probabilities to calculate complete, incomplete, and total fusion cross sections."
+    },
+    {
+      "title": "Investigation of nonlinear collective dynamics in relativistic heavy-ion collisions using a multi-phase transport model*",
+      "link": "https://iopscience.iop.org/article/10.1088/1674-1137/ae7ff5",
+      "authors": "Zhi-Jie Yang, 治杰 杨, Hao-Jie Xu, 浩洁 徐, Jie Zhao, 杰 赵, Han-Lin Li and 汉林 李",
+      "source": "Chinese Physics C",
+      "summary": "The nonlinear response coefficient, , is a crucial observable for probing the dynamical properties of the quark-gluon plasma (QGP). Although traditionally interpreted as a signature of medium response, recent studies suggest that also encodes information about the intrinsic initial-state configuration of the colliding nuclei. In this study, we use A Multi-Phase Transport (AMPT) model to investigate the microscopic origin and stage-by-stage development of in U+ U and Au+ Au collisions at GeV. By tracking flow observables through the partonic cascade, quark coalescence, and hadronic rescattering phases, we map the conversion of initial geometric eccentricities into final-state momentum anisotropies. Our results demonstrate that the absolute magnitude of increases continuously during collective expansion, confirming its nature as a dynamically generated medium response. In contrast, the relative ratio of this coefficient between the U+U and Au+Au systems, , exhibits approximate stage independence over a broad centrality range, as quantified by a constant-fit test across the three AMPT evolution stages. This indicates that the ratio reduces common medium-response effects, such as overall amplification efficiency and viscous attenuation, and therefore retains stronger sensitivity to the relative initial-state geometry. These findings provide theoretical support for using nonlinear flow ratios to constrain higher-order nuclear structure, such as hexadecapole deformation, while also clarifying the residual stage dependence and nonflow limitations relevant to precision extractions."
+    },
+    {
+      "title": "Cumulative fission yield measurements on 238U induced by 2.9 MeV neutrons*",
+      "link": "https://iopscience.iop.org/article/10.1088/1674-1137/ae82e9",
+      "authors": "Xiao-Dong Pan, 小东 潘, Jiang-Long Pan, 江龙 潘, Bo Gao, 波 高, Yan-Liang Chang, 延亮 常, Chang-Lin Lan, 长林 兰, Bo Xie, 波 谢, Kuo-Zhi Xu, 阔之 徐, Muntazir Mehdi, Yang-Bo Nie, 阳波 聂, Shi-Long Liu, 世龙 刘, Xi-Chao Ruan and 锡超 阮",
+      "source": "Chinese Physics C",
+      "summary": "Neutron-induced fission data are widely used in reactor burnup, neutron fuel verification, and the identification of nuclear fuels. Due to the abundance of 238U, the most common isotope of uranium, cumulative data on 238U fission yield in the D-D neutron energy range are significant for fission research in Generation-IV (Gen-IV) reactors. In this article, measurements of the fission yield of the 238U(n, f) reaction at a neutron energy of 2.9 ± 0.3 MeV have been performed using the activation technique based on off-line γ-ray spectrometry. The neutron irradiation experiment was conducted using the CPNG-600 neutron generator at the China Institute of Atomic Energy (CIAE). A quasi-monoenergetic beam of neutrons was produced using the D(d, n)3He reaction. The γ-rays from the activation products were measured using a low-background HPGe spectrometer, and fluctuations in neutron flux were measured using an Au-Si surface barrier detector. After applying the required correction factor, highly accurate cumulative yields for seven fission products were derived. The obtained measurements were compared with the existing experimental values and yield estimates provided by the ENDF/B-VIII.0 library. Fission yields of the 238U(n, f) reaction were also determined with the help of the TALYS-1.96 code. The present outcomes provide reliable information to confirm the behavior of the energy-dependent fission yield and to supplement the nuclear reaction database for use in reactor design and operation."
+    },
+    {
+      "title": "Dynamic description and orientation effects in the near-Coulomb barrier 64Ni + 238U reaction*",
+      "link": "https://iopscience.iop.org/article/10.1088/1674-1137/ae8370",
+      "authors": "Yujie Feng, 玉洁 冯, Yingge Huang, 英格 黄, Fuchang Gu, 富昌 顾, Erxi Xiao, 尔熙 肖, Long Zhu, 龙 祝, Jun Su and 军 苏",
+      "source": "Chinese Physics C",
+      "summary": "The orientation dependence of the near-Coulomb-barrier reaction at is investigated within the Boltzmann–Uehling–Uhlenbeck transport framework. Three representative orientations of the deformed target are considered, and an event-by-event window analysis is performed to connect final-state observables with the underlying contact-stage dynamics. The calculated fragment mass distribution, mass–angle distribution, and mass–total-kinetic-energy correlation reproduce the main qualitative features of the available experimental data, including the double-humped mass structure and the weak population near mass symmetry. Within the present event-identification criterion and evolution time, no fusion events are identified. The x orientation gives the largest quasifission component and the strongest mass drift toward symmetry, the z orientation is intermediate, whereas the y orientation is dominated by quasielastic or weakly dissipative events. The analysis of the contact probability , contact time , and fragment Z, N, and indicates that the orientation dependence originates from the combined effects of contact formation, contact lifetime, and nucleon-exchange efficiency through the neck region. An additional reference calculation using an artificially spherical nucleus shows that, although the contact probability remains comparable to those of the x and z orientations, the contact time is significantly reduced. This result suggests that the deformation of primarily enhances the persistence of the dinuclear configuration rather than simply increasing the probability of initial contact formation. These results provide a dynamical interpretation of how the entrance-channel orientation governs the branching between quasielastic and quasifission trajectories."
     }
   ]
 }
