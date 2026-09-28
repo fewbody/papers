@@ -1,82 +1,54 @@
 {
-  "lastUpdated": "2026-09-27T06:01:29.430261",
+  "lastUpdated": "2026-09-28T06:07:34.222375",
   "papers": [
     {
-      "title": "t+t cluster states in 6$$^{6}$$He",
-      "link": "https://epja.epj.org/10.1140/epja/s10050-026-01907-3",
-      "authors": "W. H. Ma, D. Y. Tao, B. Zhou, J. S. Wang, Y. G. Ma, D. Q. Fang, W. B. He, Y. Y. Yang, J. B. Ma, S. L. Jin, P. Ma, J. X. Li, Y. S. Song, Q. Hu, Z. Bai, M. R. Huang, X. Q. Liu, Z. H. Gao, F. F. Duan, S. Y. Jin, S. W. Xu, G. M. Yu, T. F. Wang, Q. Wang",
-      "source": "European Physical Journal A",
-      "summary": "Authors: W. H. Ma, D. Y. Tao, B. Zhou, J. S. Wang, Y. G. Ma, D. Q. Fang, W. B. He, Y. Y. Yang, J. B. Ma, S. L. Jin, P. Ma, J. X. Li, Y. S. Song, Q. Hu, Z. Bai, M. R. Huang, X. Q. Liu, Z. H. Gao, F. F. Duan, S. Y. Jin, S. W. Xu, G. M. Yu, T. F. Wang and Q. Wang.The European Physical Journal A Vol. 62 , page 190Published online: 12/9/2026"
+      "title": "A new type of skin thickness in high-spin isomers to constrain equation of state of spin-polarized nuclear matter",
+      "link": "https://arxiv.org/abs/2609.30710",
+      "authors": "Toi Tachibana, Kouichi Hagino, Kenichi Yoshida, Qiang Zhao",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2609.30710v1 Announce Type: new \nAbstract: We explore experimental probes for constraining the equation of state (EOS) of spin-polarized nuclear matter, where spins of nucleons are aligned along a particular direction. For this purpose, we calculate the $12^+$ isomeric state of the \\ce{^{52}Fe} nucleus with the relativistic point-coupling model. We argue that the spin skin thickness of this high-spin state, that is, the difference between the radius of the spin-up density and that of the spin-down density, strongly correlates with the spin slope parameter of the EOS. This is in analogy to the well known linear correlation between the slope parameter of the symmetry energy and the neutron skin thickness of finite nuclei. We show that this correlation is retained even when one considers the difference of the radii between the $12^+$ and the ground states, even though the correlation is much weaker than in the case of the difference between the spin-up and the spin-down radii. We also discuss the mean-square charge radii of the $12^+$ state. We find that by taking the square of the radii the dependence on the spin slope parameter becomes much stronger, and thus it can serve as a good probe of the spin slope parameter given a high resolution of laser-spectroscopy experiments."
     },
     {
-      "title": "Quantum computing solution of the Bethe–Salpeter equation for relativistic scalar bound states via tensor-network VQE",
-      "link": "https://epja.epj.org/10.1140/epja/s10050-026-01957-7",
-      "authors": "Gerhard Hellstern",
-      "source": "European Physical Journal A",
-      "summary": "Authors: Gerhard Hellstern.The European Physical Journal A Vol. 62 , page 192Published online: 16/9/2026"
+      "title": "A Quantization-Constrained Parameter Method for Studying $\\alpha$ and Cluster Decay",
+      "link": "https://arxiv.org/abs/2609.30843",
+      "authors": "Nguyen Thi Huyen Nga, Le Hoang Chien, Nguyen Tri Toan Phuc, Chau Van Tao",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2609.30843v1 Announce Type: new \nAbstract: We propose a Quantization-Constrained Parameter Method (QCPM) for determining the Woods-Saxon (WS) potential depth $V_0$ and diffuseness $a$ in studies of $\\alpha$ and cluster decay half-lives. In this approach, the parameters are derived analytically by imposing the Bohr--Sommerfeld (BS) quantization condition, thereby eliminating the need for parameter fitting. The calculated diffuseness values exhibit a strong dependence on nuclear shell structure. The reliability of the QCPM-derived WS potential is validated through optical model analyses of elastic $\\alpha$ scattering data. The resulting $\\alpha$ and cluster decay half-lives show good agreement with experimental values. Our results highlight the significant role of daughter-nucleus deformation in improving the consistency between theoretical predictions and experimental data. In addition, we introduce a modified Woods--Saxon (mWS) potential that effectively approximates the surface behavior of folding potentials incorporating the nuclear medium effect. This modification leads to closer agreement with the measured half-lives. Free of adjustable parameters such as $V_0$ and $a$, the QCPM enhances the predictive power of phenomenological potentials for $\\alpha$ and cluster decay studies."
     },
     {
-      "title": "Measurement of double differential thick target neutron yields for 500 MeV/u 9$$^9$$Be incident on a lead target",
-      "link": "https://epja.epj.org/10.1140/epja/s10050-026-01962-w",
-      "authors": "Qin Li, Zhiqiang Chen, Rui Han, Bingyan Liu, Guoyu Tian, Hui Sun, Xin Zhang, Fudong Shi, Zekun Zhang, Peiyan Zhang",
-      "source": "European Physical Journal A",
-      "summary": "Authors: Qin Li, Zhiqiang Chen, Rui Han, Bingyan Liu, Guoyu Tian, Hui Sun, Xin Zhang, Fudong Shi, Zekun Zhang and Peiyan Zhang.The European Physical Journal A Vol. 62 , page 191Published online: 16/9/2026"
+      "title": "Set Transformer inference of the neutron star equation of state from stellar observations",
+      "link": "https://arxiv.org/abs/2609.31081",
+      "authors": "M\\'arcio Ferreira, Val\\'eria Carvalho, Micha{\\l} Bejger, Constan\\c{c}a Provid\\^encia",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2609.31081v1 Announce Type: new \nAbstract: We develop a permutation-invariant Set Transformer to reconstruct the equation of state (EoS) of dense matter from variable-size, unordered sets of neutron star (NS) observations. The model takes stellar masses together with radii, tidal deformabilities, or both, and predicts either the pressure $P(n)$ or the sound speed $c_s^2(n)$ on a fixed density grid, along with density-dependent uncertainties. Nothing in the architecture prescribes which star informs which density: self-attention couples all observations nonlinearly, and each density point reads the full set through its own learnable query, so the star-to-density mapping is learned from the data. Trained on independent piecewise-polytropic and Gaussian-process EoS ensembles, the model provides well-calibrated predictions whose uncertainty increases in density regions that stable stars cannot probe. Reconstruction errors decrease with the number of observations, while tidal deformability generally improves accuracy at a fixed observation count, even when it carries its own measurement noise. Sensitivity analysis reveals a density-local mapping: in the pressure models, predictions at density $n$ depend most strongly on stars whose central densities are near $n$. We also show that the sensitivity of the model to the inferred stellar compactness provides information on the minimum central density. These results demonstrate that set-based neural inference, in which the star-to-density mapping is learned rather than assumed, can extract physically interpretable EoS information with calibrated uncertainties."
     },
     {
-      "title": "Effects of the symmetry energy slope on the exotic content of the neutron stars",
-      "link": "https://epja.epj.org/10.1140/epja/s10050-026-01940-2",
-      "authors": "Luiz L. Lopes",
-      "source": "European Physical Journal A",
-      "summary": "Authors: Luiz L. Lopes.The European Physical Journal A Vol. 62 , page 194Published online: 17/9/2026"
+      "title": "Machine Learning $\\beta$-decay Half-lives and Their Application to $r$-Process Observables",
+      "link": "https://arxiv.org/abs/2609.30408",
+      "authors": "Mengke Li, Flora Wang, Jonathan Engel, Matthew Mumpowe, Rebecca Surman, Nicole Vassh",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2609.30408v1 Announce Type: cross \nAbstract: Accurately modeling $\\beta$-decay half-lives of highly neutron-rich nuclei is a critical challenge for understanding $r$-process nucleosynthesis and the resulting kilonova light curves. We introduce a data-driven approach to model $\\beta$ decay that uses Mixture Density Networks (MDNs) trained on the latest experimental measurements to extrapolate the half-lives of neutron rich nuclei. Unlike standard deterministic regression, the MDN directly parameterizes the probability distribution of the half-lives, providing intrinsic (aleatoric) uncertainty. We contrast the intrinsic uncertainty of a single model with the range of models produced by using random variations of the input training data samples. While all models show excellent agreement with experimental data, we find that varying the training data sets produces a wide range of extrapolations, particularly along data-poor regions such as the $N=126$ isotonic chain. We then propagate a selection of model results into $r$-process network calculations to evaluate their impact on isotopic abundances. Finally, by coupling the resulting isotopic abundances with thermalization efficiencies, we translate the effective nuclear heating rates into bolometric light curves. We compare the ranges of outcomes produced from the intrinsic uncertainty of a single model to those produced by multiple independent models trained on different training data sets."
     },
     {
-      "title": "Correction: The electromagnetic decay of 250m$$^{250m}$$No and the stability of neutron deficient Rf isotopes",
-      "link": "https://epja.epj.org/10.1140/epja/s10050-026-01961-x",
-      "authors": "A. Lopez-Martens, K. Hauschild, R. Chakma, M. L. Chelnokov, V. I. Chepigin, O. Dorvaux, B. J. P. Gall, A. V. Isaev, I. N. Izosimov, D. E. Katrasev, K. Kessaci, A. A. Kuznetsova, O. N. Malyshev, A. G. Popeko, Yu. A. Popov, E. A. Sokol, A. I. Svirikhin, M. S. Tezekbayeva, A. V. Yeremin",
-      "source": "European Physical Journal A",
-      "summary": "Authors: A. Lopez-Martens, K. Hauschild, R. Chakma, M. L. Chelnokov, V. I. Chepigin, O. Dorvaux, B. J. P. Gall, A. V. Isaev, I. N. Izosimov, D. E. Katrasev, K. Kessaci, A. A. Kuznetsova, O. N. Malyshev, A. G. Popeko, Yu. A. Popov, E. A. Sokol, A. I. Svirikhin, M. S. Tezekbayeva and A. V. Yeremin.The European Physical Journal A Vol. 62 , page 193Published online: 17/9/2026"
+      "title": "Neutron Economy and Freeze-out Dynamics in the Late-Time Cold r-Process",
+      "link": "https://arxiv.org/abs/2609.31465",
+      "authors": "Mengke Li, Bradley Meyer",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2609.31465v1 Announce Type: cross \nAbstract: Standard r-process models often treat the freeze-out phase as a passive, uniform smoothing of the global abundance pattern. We demonstrate, however, that the final pattern is instead actively sculpted by a dynamic ``neutron economy'' that operates well after the free neutron source is exhausted. By analyzing cold neutron star merger outflows, we identify a distinct neutron exporter-importer relationship: the second-peak region ($A \\sim 130$) transitions early into a $\\beta$-decay dominated regime, acting as a net exporter, while the third-peak ($A \\sim 195$) and Rare Earth ($A \\sim 164$) regions remain capture-dominated neutron importers. Targeted simulations reveal that the final peak structures emerge from a competition between two opposing forces: a global ``push'' driven by neutron capture shifting mass toward heavier nuclei, and a local ``pull'' from beta delayed neutron emission returning material back toward lighter masses. We identify $^{136}\\text{Pd}$, $^{135}\\text{Ag}$, and $^{130}\\text{Ru}$ as the primary exporters driving this economy, while third-peak fine structure is governed by $N=126$ isotones (Sm to Tb). Physically, this transport reflects a fundamental drive toward shell closure, where nuclei that overshoot the $N=82$ closed shell shed mass to migrate back toward this stable configuration, while nuclei in the third peak capture these redistributed neutrons to anchor themselves at the $N=126$ shell. Crucially, our models overproduce the odd-even staggering in the third peak compared to solar data. This discrepancy suggests current models likely overestimate the $\\beta$-delayed neutron emission probabilities ($P_n$) for these $N=126$ nuclei, highlighting them as high-priority targets for theoretical refinement and future FRIB experiments."
     },
     {
-      "title": "Topical collection on clustering as a window on the hierarchical structure of quantum systems",
-      "link": "https://epja.epj.org/10.1140/epja/s10050-026-01955-9",
-      "authors": "Takashi Nakamura, Hiroaki Ohnishi, Munekazu Horikoshi, Emiko Hiyama",
-      "source": "European Physical Journal A",
-      "summary": "Authors: Takashi Nakamura, Hiroaki Ohnishi, Munekazu Horikoshi and Emiko Hiyama.The European Physical Journal A Vol. 62 , page 195Published online: 17/9/2026\n       Keywords:"
+      "title": "An information bound for multiplicities in rapidity windows of the dipole cascade behind the entanglement entropy picture",
+      "link": "https://arxiv.org/abs/2609.31499",
+      "authors": "Olasantan Ebenezer Adelaja, Alex Prygarin, Karam Shekh Yusuf",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2609.31499v1 Announce Type: cross \nAbstract: In Mueller's dipole cascade without transverse dimensions, with one counted particle for each dipole produced in a window, the multiplicities in three consecutive rapidity windows are Poisson counts of one Gamma-distributed source. We show that at fixed middle multiplicity the outer two share less information than the Gaussian value $-\\tfrac12\\ln(1-\\rho^2)$ of their partial correlation, a value that second moments alone determine. For windows of one common width at a constant splitting rate this value never exceeds $\\tfrac12\\ln(4/3)$. The Gaussian value is not a bound on mutual information in general, and for a source of the same mean and variance with another law the information can exceed it. The law of the counts keeps its form under migration of particles across window edges and detection losses when both act on each particle independently of the others and of the source, and its factorial cumulants of second and third order test necessary conditions for it. In Monte Carlo simulations of the cascade with transverse dimensions at leading logarithmic accuracy and fixed coupling, the counts are not Poisson counts of one source, so the bound is a result of the model without them. In the model without transverse dimensions the law also fixes the normalized second factorial cumulant of one window at $1/k$, with $k$ the number of initial dipoles. The values of this cumulant formed from the mean and variance that H1 publishes for deep inelastic scattering lie far below the value one of a cascade from a single initial dipole with one counted particle for each dipole produced in a window. The quantity bounded is a classical conditional mutual information between counted multiplicities."
     },
     {
-      "title": "Conceptual design of a heavy-water-moderated “3$$^{3}$$He+CF4$$_4$$” scintillation neutron detector for nuclear astrophysics measurement",
-      "link": "https://epja.epj.org/10.1140/epja/s10050-026-01960-y",
-      "authors": "Jianqi Chen, Junsheng Jing, Yongce Gong",
-      "source": "European Physical Journal A",
-      "summary": "Authors: Jianqi Chen, Junsheng Jing and Yongce Gong.The European Physical Journal A Vol. 62 , page 196Published online: 18/9/2026\n       Keywords:"
-    },
-    {
-      "title": "Hadronic vacuum polarization in hydrogen-like atoms and ions amid the interplay of recoil and finite-size effects",
-      "link": "https://epja.epj.org/10.1140/epja/s10050-026-01956-8",
-      "authors": "Franziska Hagelstein, Vadim Lensky, Bogdan Malaescu, Vladimir Pascalutsa",
-      "source": "European Physical Journal A",
-      "summary": "Authors: Franziska Hagelstein, Vadim Lensky, Bogdan Malaescu and Vladimir Pascalutsa.The European Physical Journal A Vol. 62 , page 198Published online: 23/9/2026"
-    },
-    {
-      "title": "Quantum Monte Carlo calculations of Zemach moments in <em>A</em> ≤ 9 nuclei",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326008129?dgcid=rss_sd_all",
+      "title": "Sign of quadrupole deformation dictates pseudospin symmetry breaking in resonant states",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326008361?dgcid=rss_sd_all",
       "authors": "Unknown",
       "source": "Physics Letters B",
-      "summary": "Publication date: November 2026Source: Physics Letters B, Volume 882Author(s): Garrett B. King, Sonia Bacca, Graham Chambers-Wall, Alex Gnech, Saori Pastore, Maria Piarulli, R.B. Wiringa"
-    },
-    {
-      "title": "Parity-pseudospin triplet bands in <sup>153</sup>Eu",
-      "link": "https://www.sciencedirect.com/science/article/pii/S037026932600835X?dgcid=rss_sd_all",
-      "authors": "Unknown",
-      "source": "Physics Letters B",
-      "summary": "Publication date: November 2026Source: Physics Letters B, Volume 882Author(s): Z.Y. Wang, C. Liu, X.D. Wang, S.Y. Wang, S.W. Wei, Y. Zheng, B. Qi, E.H. Wang, Z.Y. Liu, W.Z. Xu, H.F. Bai, G.S. Li, X.C. Han, S. Wang, D.P. Sun, Z.Q. Li, H. Jia, G.Y. Li, X.L. Luo, Y.J. Li"
-    },
-    {
-      "title": "Analytical Solutions of the Dunkl–Schrödinger Equation for the Manning–Rosen Potential in Higher Dimensions: Bound States and Thermodynamic Properties",
-      "link": "https://link.springer.com/article/10.1007/s00601-026-02084-1",
-      "authors": "Unknown",
-      "source": "Few-Body Systems",
-      "summary": "The d-dimensional Dunkl–Schrödinger equation for the Manning–Rosen potential is solved analytically using the Greene–Aldrich approximation and a reduction to the Gauss hypergeometric equation. Closed-form bound-state energies and Jacobi-polynomial radial wave functions are obtained, recovering the standard results as $$\\nu _i\\rightarrow 0$$. Thermodynamic quantities are derived via a modified Bessel-function expansion and illustrated numerically for $$d = 2, 3, 4$$. We find that the Dunkl deformation systematically controls the depth and density of the bound-state spectrum: negative deformation parameters deepen the energy levels and can stabilize states that would otherwise merge into the continuum, while positive values weaken binding and dissolve near-threshold states. The heat capacity displays a Schottky-like peak whose position and amplitude depend sensitively on both the deformation parameter and the spatial dimension."
+      "summary": "Publication date: November 2026Source: Physics Letters B, Volume 882Author(s): Wei Zhou, Quan Liu, Meng-Jie Chen, Jian-You Guo"
     }
   ]
 }
