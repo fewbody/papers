@@ -1,26 +1,96 @@
 {
-  "lastUpdated": "2026-10-04T06:32:07.861927",
+  "lastUpdated": "2026-10-05T06:26:03.960388",
   "papers": [
     {
-      "title": "Particle Geodesics, Shadows and Accretion Disk Luminosity of a Dehnen (1,4,5/2)-Schwarzschild Black Hole",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326008610?dgcid=rss_sd_all",
+      "title": "Under the spell of chiral symmetry",
+      "link": "https://arxiv.org/abs/2610.02336",
+      "authors": "Vicente Vento",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2610.02336v1 Announce Type: new \nAbstract: In this reflection, I want to look back over more than thirty years, from 1978 to 2008, of my professional and personal relationship with Mannque Rho. I will briefly describe some of the original ideas that emerged from our collaboration: the Little Bag, the Cheshire Cat principle, and Skyrmion matter. I do not intend to be exhaustive, neither in content nor in references, which can be found in our published works. Instead, I want to retrace the path we took together through physics, accompanied by many good friends."
+    },
+    {
+      "title": "The causal diamond of relativistic hydrodynamics",
+      "link": "https://arxiv.org/abs/2610.02416",
+      "authors": "L. Gavassino",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2610.02416v1 Announce Type: new \nAbstract: The convergence of hydrodynamics is commonly investigated by Taylor-expanding the gapless dispersion relations $\\omega(k)$ around $k=0$. We show that this diagnostic can fail arbitrarily close to the hydrodynamic limit: sound modes can collide at arbitrarily small wave number, rendering $\\omega(k)$ nonanalytic, while the relationship between densities and fluxes remains analytic there. We instead formulate the gradient expansion off-shell (i.e. in the presence of external forces), directly at the level of the constitutive relations. For causal theories with relaxational spectra, we establish convergence for $|i\\omega|+w|ik|<1/\\tau_g$, where $w$ is the maximal information speed and $1/\\tau_g$ the nonhydrodynamic gap. On the naturally Lorentzian $\\{i\\omega,ik\\}$ plane, this region is a causal diamond, whose boundary marks the first possible encounter with nonhydrodynamic modes. Beyond it, analytic continuation reveals the nonhydrodynamic spectrum through singularities of the resummed constitutive relations. Thus, hydrodynamics is aware of the degrees of freedom beyond hydrodynamics, but this information becomes fully accessible only off-shell."
+    },
+    {
+      "title": "Real-time decay dynamics of the low-lying $1/2^+$ state in $^9$Be: Signatures of virtual-state behavior",
+      "link": "https://arxiv.org/abs/2610.02646",
+      "authors": "Yuma Kikuchi, Kiyoshi Kat\\=o, Takayuki Myo",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2610.02646v1 Announce Type: new \nAbstract: The low-lying $1/2^+$ state of $^9$Be has been interpreted either as a near-threshold resonance or as an $^8$Be+$n$ virtual state. Because both pictures can produce a pronounced threshold enhancement, its nature is difficult to determine from energy-domain observables alone. We investigate the low-lying $1/2^+$ state through its real-time decay dynamics and compare its behavior with that of the well-established $5/2^+$ resonance. A wave packet produced by electric-dipole excitation of the $^9$Be ground state is propagated in an $\\alpha+\\alpha+n$ three-body model. We analyze the survival probability, the fit-window dependence of the effective decay width, and time-dependent densities in different Jacobi-coordinate representations. The $1/2^+$ survival dynamics are further compared with an $s$-wave effective-range description motivated by the dominant $^8$Be+$n$ component found in our previous three-body studies. The $5/2^+$ channel shows approximately exponential late-time decay, with an effective width of $0.264$ MeV, close to the complex-scaled pole width of $0.285$ MeV. In contrast, the $1/2^+$ effective width decreases as the fitting interval is shifted to later times, and no stationary decay width is obtained. Its late-time survival probability is well described by the effective-range spectral distribution. The density evolution develops an $^8$Be+$n$-like asymptotic configuration while retaining a localized $p_{3/2}$ $\\alpha n$ component suggestive of a $^5$He+$\\alpha$-like configuration in the internal region. The $1/2^+$ decay differs qualitatively from resonance-like exponential decay and is consistent with near-threshold virtual-state dynamics. The distinct internal and asymptotic configurations revealed by the time-dependent densities provide complementary structural information beyond that contained in a single decay width."
+    },
+    {
+      "title": "Precise description of spontaneous fission half-lives of Rutherfordium isotopes within the relativistic Hartree-Bogoliubov theory",
+      "link": "https://arxiv.org/abs/2610.02761",
+      "authors": "Jie Zhao",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2610.02761v1 Announce Type: new \nAbstract: I investigate the spontaneous-fission (SF) half-lives of $^{254,256}$Rf within the multidimensionally constrained relativistic Hartree-Bogoliubov (MDC-RHB) model combined with the local quasiparticle random-phase approximation (LQRPA) method. The collective inertia is evaluated using the finite-amplitude method (FAM), which enables a fully self-consistent treatment of dynamical residual effects beyond the conventional cranking approximation. The effective collective potential is constructed by subtracting both the vibrational zero-point energy and rotational energy correction from the deformation energy surface. The SF half-lives are evaluated within the Wentzel-Kramers-Brillouin (WKB) approximation. Compared with the nonperturbative and perturbative cranking approximation, the FAM-LQRPA collective inertia is significantly enhanced, especially around the ground-state minimum, due to the dynamical residual interaction included in the QRPA. As a consequence, the predicted SF half-lives increase by several orders of magnitude and become consistent with experimental data. The calculated SF half-lives are 5.65 $\\mu$s for $^{254}$Rf and 0.95 ms for $^{256}$Rf, both within approximately two orders of magnitude of the corresponding experimental values. These results indicate that a self-consistent treatment of dynamical residual effects and beyond mean-field correlations is crucial for quantitative microscopic descriptions of SF within covariant density functional theory."
+    },
+    {
+      "title": "Energy-Resolved Spin and Parity Distributions of Fission Fragments",
+      "link": "https://arxiv.org/abs/2610.03018",
+      "authors": "Petar Marevi\\'c, Nicolas Schunck, Antonio Bjel\\v{c}i\\'c, Guillaume Scamps",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2610.03018v1 Announce Type: new \nAbstract: Fission fragments are born rotating rapidly, but the evolution of this spin with excitation energy and its impact on fission observables remain largely unknown. Combining state-of-the-art microscopic and statistical reaction theory, we simulate the full fission process - from the initial state, through scission, to fragment decay - and report the first microscopic, energy-resolved spin and parity distributions of the fragments produced in $^{239}$Pu(n,f). From thermal energy to $E_n = 10$ MeV, the spin of individual fragments evolves non-monotonically, tracking their deformation. The parity content, strongly non-statistical at thermal energy, remains correlated with spin throughout this range. For the first time, we quantify the impact of microscopic spin-parity distributions on prompt photon multiplicities, demonstrating the predictive potential of parameter-free microscopic inputs."
+    },
+    {
+      "title": "Total angular momentum distributions of fission fragments at scission in a 2-center basis",
+      "link": "https://arxiv.org/abs/2610.03270",
+      "authors": "Paul Carpentier, Nathalie Pillet, Pablo Nieto-Gallego",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2610.03270v1 Announce Type: new \nAbstract: In this article, we propose a new method to calculate the angular momentum distribution of fis- sion fragments adapted to the case of 2-center axial basis used to solve the Hartree-Fock-Bogoliubov equations in view of fission studies. As a first application, we have studied the properties of the fission fragment angular momentum distribution in the scission area of 240Pu using the Gogny D1S interaction. Here, a one dimensional asymmetric and adiabatic path (the lowest in energy), gener- ated by the newly proposed Link and Drop methods, has been considered. The major result of this study is the appearance of an odd-even angular momentum staggering in both fragments when going through scission. The odd-J components are progressively suppressed as the fragments separate, leading to an increasing dominance of even-J components. This behavior is systematically correlated with the rapid reduction of the intrinsic octupole deformation of the fragments, asso- ciated with the restoration of a more nearly reflection-symmetric shape. Finally, particle-number projection reveals the role of shell effects associated with specific fragment configurations in shaping the fragment angular momentum distributions."
+    },
+    {
+      "title": "Ab initio Green's function theory of superfluid neutron matter",
+      "link": "https://arxiv.org/abs/2610.03507",
+      "authors": "F. Marino, W. G. Jiang, C. Barbieri, G. Col\\`{o}",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2610.03507v1 Announce Type: new \nAbstract: At the low densities encountered in the inner crust of neutron stars, neutron matter becomes superfluid, directly influencing macroscopic phenomena such as star cooling. However, a precise quantitative understanding of this system has been hindered by uncontrolled many-body approximations. In this letter, we exploit the nonperturbative Gorkov algebraic diagrammatic construction method to provide a unified ab initio description of the equation of state and the single-particle spectral functions of homogeneous neutron matter, spanning from the dilute regime to saturation density. We identify clear microscopic signatures of superfluidity in the excitation spectrum and quantify the pairing gaps associated with realistic chiral Hamiltonians, estimating for the first time their sensitivity to the many-body truncation. Our robust handling of both dynamical and pairing correlations paves the way for exploring electroweak processes across the regimes relevant to neutron stars."
+    },
+    {
+      "title": "How Quantum Is Bottomonium in the Quark-Gluon Plasma?",
+      "link": "https://arxiv.org/abs/2610.02313",
+      "authors": "Nora Brambilla, Tom Magorsch",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2610.02313v1 Announce Type: cross \nAbstract: We study how much quantum structure bottomonium retains during its evolution in the quark-gluon plasma. Within the open quantum system framework, we simulate the Lindblad equation obtained from potential nonrelativistic QCD in the quantum Brownian regime. From the resulting real-time evolution of the bottomonium density matrix, we compute the Wigner transform and study its negativity as a measure of nonclassicality and a test of a key condition underlying classical Langevin-type approximations. We find that the medium suppresses the negativity, which nevertheless approaches a finite plateau close to that of the $1\\mathrm{S}$ state. The overlaps with the excited $2\\mathrm{S}$ and $3\\mathrm{S}$ states arise from near-canceling positive and negative phase-space contributions, driven by negative regions in the Wigner transforms of the bound-state projectors, while the $1\\mathrm{S}$ overlap is insensitive to such contributions. We further show that the position-space coherence is similarly suppressed and plateaus close to the 1S value. We trace the finite residual quantum structure to conditional purification: the medium preferentially dissolves weakly bound and unbound modes with large $\\langle r^2\\rangle$, driving the surviving singlet $\\mathrm{S}$-wave ensemble toward the $1\\mathrm{S}$ state. More broadly, these results reveal that classicalization is partial and observable dependent, a feature that is relevant across applications of open quantum system methods in fundamental physics."
+    },
+    {
+      "title": "AI-Assisted GPU optimization of the Stochastic Variational Method for Few-Body Boson System",
+      "link": "https://arxiv.org/abs/2610.02745",
+      "authors": "Noritaka Shimizu, Shigeyoshi Aoyama, Yusuke Tsunoda, Akira Nukada",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2610.02745v1 Announce Type: cross \nAbstract: The stochastic variational method (SVM) is one of the most powerful methods to solve quantum few-body systems precisely in various fields, such as nuclear and atomic physics. To the best of our knowledge, no SVM code optimized for GPUs has been reported. We developed a parallel SVM code for few-body clusters of $^4$He atoms and optimized it for two GPU architectures, NVIDIA GH200 and AMD Instinct MI300A, with the entire code written by an AI coding agent. On the algorithmic side, we introduce the secular-equation method with the Gu--Eisenstat prescription for solving the generalized eigenvalue problem within the SVM framework. The main part of the code tuning is to batch the many small matrices so that the GPUs are used efficiently, together with an array layout in memory optimized for coalesced addressing. For the five-body system with 4800 SVM basis states, the tuned SVM code runs 16.2 (14.7) times faster on the NVIDIA GH200 (AMD MI300A) than the same tuned code on the Intel Xeon Max CPU system, and 168 (153) times faster than the first working CPU implementation. The achieved performance brings 6-body and larger cluster systems within reach."
+    },
+    {
+      "title": "Twins in the Shadow: Phase Transitions in Proto-Neutron Stars",
+      "link": "https://arxiv.org/abs/2610.03148",
+      "authors": "Jannik Milthaler, Jan-Erik Christian, Pia Jakobus, Stephan Rosswog",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2610.03148v1 Announce Type: cross \nAbstract: We study the impact of a first-order phase transition from hadronic to deconfined quark matter on the evolution of proto-neutron stars. To maximize the applicability of our results, we construct an equation of state that is highly parameterizable, where we use a relativistic mean field approach to model hadronic matter and a constant speed of sound approach to model quark matter. We approximate the cooling behavior of proto-neutron stars as a sequence of decreasing entropy at constant baryonic mass. Some parameterizations lead to so-called \"twin-stars\", where two neutron stars have the same (gravitational) mass but different radii. Detecting them is regarded as a smoking gun signal for phase transition. We find, however, that proto-neutron star evolution suggests that gravitational twin stars are only possible if the hybrid star does not have, in addition, a baryonic twin. This rules out most twin star pairs, especially if the phase transition occurs at large densities. In a mass-radius diagram the unpopulated hybrid branch appears to be \"in the shadow\" of the hadronic branch."
+    },
+    {
+      "title": "Bogoliubov self-consistent $GW$ and second-order Green's function methods for attractive fermionic interactions",
+      "link": "https://arxiv.org/abs/2610.03357",
+      "authors": "Mauricio Rodr{\\'i}guez-Mayorga, Johannes T\\\"olle, Pierre-Fran\\c{c}ois Loos",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2610.03357v1 Announce Type: cross \nAbstract: Describing fermionic systems with attractive interactions, such as superconductors and atomic nuclei, beyond the mean-field level remains a central challenge. In this work, we investigate the performance of Bogoliubov fully self-consistent $GW$ (Bog.~sc$GW$) and second-order Green's function (Bog.~scGF2) methods, implemented within a unified imaginary-time and imaginary-frequency framework. Using the attractive Hubbard model as a benchmark against full configuration interaction (FCI), we find that Bog. scGF2 provides a more accurate description than Bog.~sc$GW$. In particular, Bog.~sc$GW$ systematically overestimates the correlation energy, with errors increasing rapidly as the attractive interaction strength grows. These results highlight the importance of exchange contributions in strongly correlated fermionic systems, even when exchange effects are included only at low order in perturbation theory."
+    },
+    {
+      "title": "Endpoint Obstructions to Upper Bounds on Wilsonian Thresholds from Finite Positive Effective Field Theory Moments",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326008713?dgcid=rss_sd_all",
       "authors": "Unknown",
       "source": "Physics Letters B",
-      "summary": "Publication date: Available online 3 October 2026Source: Physics Letters BAuthor(s): Hari Prasad Saikia, Mrinnoy M. Gohain, Saumen Acharjee, Prativa Gohain, Kalyan Bhuyan, Hassan Hassanabadi"
+      "summary": "Publication date: Available online 3 October 2026Source: Physics Letters BAuthor(s): Ilmo Sung"
     },
     {
-      "title": "Transfer-Reaction ANC Constraints on Resonant Proton Widths in the Astrophysical <sup>40</sup>Ca(p,<em>γ</em>)<sup>41</sup>Sc Reaction",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0375947426002071?dgcid=rss_sd_all",
+      "title": "Big Bang Nucleosynthesis constraints on f(Q,C) gravity",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326008737?dgcid=rss_sd_all",
       "authors": "Unknown",
-      "source": "Nuclear Physics A",
-      "summary": "Publication date: Available online 2 October 2026Source: Nuclear Physics AAuthor(s): Ali İhsan Kılıç, Burak Özcan, Ebru Fadime Kılıç Kuştan"
-    },
-    {
-      "title": "Resonant States in Light Hypernuclei",
-      "link": "https://link.springer.com/article/10.1007/s00601-026-02066-3",
-      "authors": "Unknown",
-      "source": "Few-Body Systems",
-      "summary": "Energies of strangeness $$S=-1$$ three- and four-body hypernuclei are calculated employing realistic nucleon–nucleon (NN) and hyperon–nucleon (YN) interactions derived from chiral effective field theory. Both bound and resonant state positions are determined, and the impact of the three-nucleon ($$NNN$$) force on these observables is investigated."
+      "source": "Physics Letters B",
+      "summary": "Publication date: Available online 3 October 2026Source: Physics Letters BAuthor(s): Subhajit Sarkar, Ujjal Debnath"
     }
   ]
 }
