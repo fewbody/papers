@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-09T06:59:53.096793",
+  "lastUpdated": "2026-10-10T06:33:14.216716",
   "papers": [
     {
       "title": "Increasing Octupole Collectivity across the $Z=64$ Isotopic Chain: B(E3) Values in $^{150}\\mathrm{Gd}$",
@@ -76097,6 +76097,55 @@
       "authors": "Unknown",
       "source": "Few-Body Systems",
       "summary": "The choreographic plane motion of four or more bodies with equal masses has been analytically described with a combination of attractive and repulsive linear forces. In this work, we describe families of choreographic solutions to the equations of motion in a plane with only attractive linear forces along the lines joining the bodies. The conditions that produce collisions between any of the four bodies can be isolated and thus avoided. The expressions of many relevant properties of the system can be obtained in closed form. The angular momentum kernel is evaluated in order to establish the set of choreographic solutions that satisfy the zero angular momentum condition. Depending on the initial parameters, there can be other symmetries and conserved quantities in addition to the energy, momentum and centre of mass. The masses and restoring force coefficients necessary conditions that allow choreographic behaviour are established. The curves admit a larger number of bodies. The analytic choreographic trajectories are similar to those obtained numerically under a Newtonian force. This all attractive forces scheme, albeit linear, moves us closer to the Newtonian gravitational paradigm."
+    },
+    {
+      "title": "Direct nuclear reaction as a tool for nuclear structure and astrophysics",
+      "link": "https://iopscience.iop.org/article/10.1088/1361-6471/aea4cb",
+      "authors": "Jie Chen, Yassid Ayyad, Weiping Liu, Daniel Bazin, Weike Nan, Junrui Ma, Xiaobin Li and Weikun Fei",
+      "source": "Journal of Physics G: Nuclear and Particle Physics",
+      "summary": "The study of nuclear structure has evolved significantly with the exploration of nuclei far from stability, revealing phenomena such as the modification of shell closures, the emergence of halos, and clustering. This review examines direct nuclear reactions as a primary experimental tool for probing these exotic structures and constraining astrophysical reaction rates, with an emphasis on the experimental observables that connect exotic nuclear structure, indirect astrophysical constraints, and modern inverse-kinematics instrumentation. We discuss the theoretical frameworks and experimental applications of elastic and inelastic scattering, transfer reactions, and knockout reactions. Special attention is given to the role of these mechanisms in mapping shell evolution and in characterizing nuclear deformation and -clustering. Furthermore, the review highlights the intersection of nuclear structure and astrophysics, detailing indirect approaches such as the asymptotic normalization coefficient technique and the Trojan horse method for determining key stellar reaction rates at low energies. Finally, state-of-the-art instrumentation is surveyed, including high-resolution spectrometers, active target time projection chambers, and storage rings, which enable high-precision measurements in inverse kinematics."
+    },
+    {
+      "title": "Uncovering hidden systematics in neural network models for high energy physics",
+      "link": "https://iopscience.iop.org/article/10.1088/1361-6471/aea9b2",
+      "authors": "Lucie Flek, Timo Saala, Alexander Schmidt, Matthias L Schott, Philipp Soldin, Christopher Wiebusch and Ulrich Willemsen",
+      "source": "Journal of Physics G: Nuclear and Particle Physics",
+      "summary": "Neural networks (NNs) are inherently multidimensional classifiers that learn complex, non-linear relationships among input observables. While their flexibility enables unprecedented performance in high-energy physics (HEP) analyses, it also makes them sensitive to small variations in their inputs. Consequently, the propagation and estimation of systematic uncertainties in NN-based models remain an open challenge. There are indications that uncertainties derived in control regions or from nominal variations of input features can underestimate the sensitivity of a trained model, potentially leaving relevant directions in feature space untested. Inspired by adversarial-attack studies in machine learning, we explore how subtle perturbations, bounded by feature-wise experimental resolution scales, can lead to changes in NN outputs while keeping one-dimensional distributions and linear correlations nearly unchanged. Using representative HEP tasks spanning event classification and object identification, we demonstrate that networks can be systematically ‘fooled’ within these prescribed envelopes. We introduce this construction as a stress test of hidden model sensitivity. The resulting performance shift is a worst-case envelope within the assumed, idealized uncertainty model; it is not by itself a calibrated experimental systematic uncertainty or evidence for a bias in nature."
+    },
+    {
+      "title": "Measurement of the Z <math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si7.svg\" class=\"math\"><mrow><mo>→</mo><msup><mi>μ</mi><mo>+</mo></msup><msup><mi>μ</mi><mo>−</mo></msup></mrow></math> angular coefficients in pp collisions at <math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si8.svg\" class=\"math\"><msqrt><mi>s</mi></msqrt></math>= 13 TeV as functions of transverse momentum and rapidity",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326008385?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: November 2026Source: Physics Letters B, Volume 882Author(s): A. Gevorgyan, A. Hayrapetyan, V. Makarenko, A. Tumasyan, W. Adam, L. Benato, T. Bergauer, M. Dragicevic, P.S. Hussain, M. Jeitler, N. Krammer, A. Li, D. Liko, M. Matthewman, J. Schieck, R. Schöfbeck, M. Shooshtari, M. Sonawane, N. Van Den Bossche, W. Waltenberger"
+    },
+    {
+      "title": "Timelike Thin-Shell Gravastar Configurations in Bumblebee Gravity",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326008890?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: Available online 9 October 2026Source: Physics Letters BAuthor(s): F.M. Belchior, A.R.P. Moreira, M. Sharif"
+    },
+    {
+      "title": "Parameter constraints on rotating ABG regular black holes from quasi-periodic oscillations",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326008877?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: Available online 9 October 2026Source: Physics Letters BAuthor(s): Meng-He Wu, Xiao-Mei Kuang"
+    },
+    {
+      "title": "A collider as a quantum computer",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326008920?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: Available online 9 October 2026Source: Physics Letters BAuthor(s): Wei Xie, Ji-Chong Yang"
+    },
+    {
+      "title": "Neutron Skin from Conserved Charge Measurements at Collider Experiments",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326008944?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: Available online 8 October 2026Source: Physics Letters BAuthor(s): Grégoire Pihan, Akihiko Monnai, Björn Schenke, Chun Shen"
     }
   ]
 }
