@@ -1,54 +1,40 @@
 {
-  "lastUpdated": "2026-10-10T06:33:14.373821",
+  "lastUpdated": "2026-10-11T06:38:58.559068",
   "papers": [
     {
-      "title": "Direct nuclear reaction as a tool for nuclear structure and astrophysics",
-      "link": "https://iopscience.iop.org/article/10.1088/1361-6471/aea4cb",
-      "authors": "Jie Chen, Yassid Ayyad, Weiping Liu, Daniel Bazin, Weike Nan, Junrui Ma, Xiaobin Li and Weikun Fei",
-      "source": "Journal of Physics G: Nuclear and Particle Physics",
-      "summary": "The study of nuclear structure has evolved significantly with the exploration of nuclei far from stability, revealing phenomena such as the modification of shell closures, the emergence of halos, and clustering. This review examines direct nuclear reactions as a primary experimental tool for probing these exotic structures and constraining astrophysical reaction rates, with an emphasis on the experimental observables that connect exotic nuclear structure, indirect astrophysical constraints, and modern inverse-kinematics instrumentation. We discuss the theoretical frameworks and experimental applications of elastic and inelastic scattering, transfer reactions, and knockout reactions. Special attention is given to the role of these mechanisms in mapping shell evolution and in characterizing nuclear deformation and -clustering. Furthermore, the review highlights the intersection of nuclear structure and astrophysics, detailing indirect approaches such as the asymptotic normalization coefficient technique and the Trojan horse method for determining key stellar reaction rates at low energies. Finally, state-of-the-art instrumentation is surveyed, including high-resolution spectrometers, active target time projection chambers, and storage rings, which enable high-precision measurements in inverse kinematics."
-    },
-    {
-      "title": "Uncovering hidden systematics in neural network models for high energy physics",
-      "link": "https://iopscience.iop.org/article/10.1088/1361-6471/aea9b2",
-      "authors": "Lucie Flek, Timo Saala, Alexander Schmidt, Matthias L Schott, Philipp Soldin, Christopher Wiebusch and Ulrich Willemsen",
-      "source": "Journal of Physics G: Nuclear and Particle Physics",
-      "summary": "Neural networks (NNs) are inherently multidimensional classifiers that learn complex, non-linear relationships among input observables. While their flexibility enables unprecedented performance in high-energy physics (HEP) analyses, it also makes them sensitive to small variations in their inputs. Consequently, the propagation and estimation of systematic uncertainties in NN-based models remain an open challenge. There are indications that uncertainties derived in control regions or from nominal variations of input features can underestimate the sensitivity of a trained model, potentially leaving relevant directions in feature space untested. Inspired by adversarial-attack studies in machine learning, we explore how subtle perturbations, bounded by feature-wise experimental resolution scales, can lead to changes in NN outputs while keeping one-dimensional distributions and linear correlations nearly unchanged. Using representative HEP tasks spanning event classification and object identification, we demonstrate that networks can be systematically ‘fooled’ within these prescribed envelopes. We introduce this construction as a stress test of hidden model sensitivity. The resulting performance shift is a worst-case envelope within the assumed, idealized uncertainty model; it is not by itself a calibrated experimental systematic uncertainty or evidence for a bias in nature."
-    },
-    {
-      "title": "Measurement of the Z <math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si7.svg\" class=\"math\"><mrow><mo>→</mo><msup><mi>μ</mi><mo>+</mo></msup><msup><mi>μ</mi><mo>−</mo></msup></mrow></math> angular coefficients in pp collisions at <math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si8.svg\" class=\"math\"><msqrt><mi>s</mi></msqrt></math>= 13 TeV as functions of transverse momentum and rapidity",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326008385?dgcid=rss_sd_all",
+      "title": "Coherent quantum state corrections in RN–black holes: Photon dynamics, shadow casts, and energy backreaction",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326008658?dgcid=rss_sd_all",
       "authors": "Unknown",
       "source": "Physics Letters B",
-      "summary": "Publication date: November 2026Source: Physics Letters B, Volume 882Author(s): A. Gevorgyan, A. Hayrapetyan, V. Makarenko, A. Tumasyan, W. Adam, L. Benato, T. Bergauer, M. Dragicevic, P.S. Hussain, M. Jeitler, N. Krammer, A. Li, D. Liko, M. Matthewman, J. Schieck, R. Schöfbeck, M. Shooshtari, M. Sonawane, N. Van Den Bossche, W. Waltenberger"
+      "summary": "Publication date: November 2026Source: Physics Letters B, Volume 882Author(s): A. Errehymy, Y. Khedif, M. Daoud, B. Turimov, S. Usanov, Z. Yasakov, F. Turaev"
     },
     {
-      "title": "Timelike Thin-Shell Gravastar Configurations in Bumblebee Gravity",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326008890?dgcid=rss_sd_all",
+      "title": "Exploring <math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si1.svg\" class=\"math\"><msub><mover accent=\"true\"><mrow><mi>R</mi></mrow><mo stretchy=\"true\">˜</mo></mover><mn>2</mn></msub></math> Leptoquarks and Majorana Neutrinos via same-sign dimuons at the HL-LHC",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326008786?dgcid=rss_sd_all",
       "authors": "Unknown",
       "source": "Physics Letters B",
-      "summary": "Publication date: Available online 9 October 2026Source: Physics Letters BAuthor(s): F.M. Belchior, A.R.P. Moreira, M. Sharif"
+      "summary": "Publication date: Available online 10 October 2026Source: Physics Letters BAuthor(s): Subham Saha, Arvind Bhaskar, Manimala Mitra"
     },
     {
-      "title": "Parameter constraints on rotating ABG regular black holes from quasi-periodic oscillations",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326008877?dgcid=rss_sd_all",
+      "title": "Coulomb Effects in Momentum-Space Femtoscopy: A Case Study of the <math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si1.svg\" class=\"math\"><mrow><mspace width=\"0.16em\"></mspace><mover><mrow><mspace width=\"-0.16em\"></mspace><mi>K</mi></mrow><mo stretchy=\"true\">‾</mo></mover><mstyle mathvariant=\"normal\"><mi>Ω</mi></mstyle></mrow></math> System",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326008919?dgcid=rss_sd_all",
       "authors": "Unknown",
       "source": "Physics Letters B",
-      "summary": "Publication date: Available online 9 October 2026Source: Physics Letters BAuthor(s): Meng-He Wu, Xiao-Mei Kuang"
+      "summary": "Publication date: Available online 9 October 2026Source: Physics Letters BAuthor(s): Pablo Encarnación, Amador García-Lorenzo, Miguel Albaladejo, Albert Feijoo, Juan Nieves, Isaac Vidaña"
     },
     {
-      "title": "A collider as a quantum computer",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326008920?dgcid=rss_sd_all",
+      "title": "Induced Field-Space Curvature from a Heavy Inflationary Trough",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326008853?dgcid=rss_sd_all",
       "authors": "Unknown",
       "source": "Physics Letters B",
-      "summary": "Publication date: Available online 9 October 2026Source: Physics Letters BAuthor(s): Wei Xie, Ji-Chong Yang"
+      "summary": "Publication date: Available online 9 October 2026Source: Physics Letters BAuthor(s): Shahid Hussain Gurmani, Imtiaz Khan, Asifa Ashraf, Farruh Atamurotov, Ahmadjon Abdujabbarov"
     },
     {
-      "title": "Neutron Skin from Conserved Charge Measurements at Collider Experiments",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326008944?dgcid=rss_sd_all",
+      "title": "Investigation of the impact of the nuclear surface-width parameter <em>b</em> on <em>α</em>-decay half-lives within the proximity potential model",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0375947426002113?dgcid=rss_sd_all",
       "authors": "Unknown",
-      "source": "Physics Letters B",
-      "summary": "Publication date: Available online 8 October 2026Source: Physics Letters BAuthor(s): Grégoire Pihan, Akihiko Monnai, Björn Schenke, Chun Shen"
+      "source": "Nuclear Physics A",
+      "summary": "Publication date: Available online 9 October 2026Source: Nuclear Physics AAuthor(s): Mostafa Bozorgi-Kasgari"
     }
   ]
 }
