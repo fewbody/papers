@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-12T06:48:03.660798",
+  "lastUpdated": "2026-10-13T07:14:17.395240",
   "papers": [
     {
       "title": "Increasing Octupole Collectivity across the $Z=64$ Isotopic Chain: B(E3) Values in $^{150}\\mathrm{Gd}$",
@@ -76279,6 +76279,34 @@
       "authors": "Unknown",
       "source": "Few-Body Systems",
       "summary": "A nonlocal two-body scattering problem for optical potentials of the Perey–Buck type is solved within a newly-developed version of the R-matrix approach. The approach is based on harmonic oscillator expansion of the scattering wave functions within the range of the optical potential. It results in structurally identical algebraic representations both for local and nonlocal optical potentials as well as for the kinetic energy and norm operators, which simplifies and optimizes the coding procedure. The method has been tested for proton scattering at 10, 30 and 90 MeV. With a sufficient number of harmonic oscillator basis states the new method reproduces differential cross sections obtained using available reaction codes. The nonlocal calculations were also used as a testing ground for local-equivalent models. It was found that below 30 MeV next-to-leading order models are sufficient to describe elastic scattering, while at 90 MeV this approximation works well only up to $$100^{\\circ }$$. The method developed could be used in reaction calculations within distorted-wave models and in combining scattering calculations with various few- and many-body structure methods that use harmonic oscillator expansions."
+    },
+    {
+      "title": "Momentum Dependence of Heavy Quark Diffusion in a Thermal Gluonic Plasma on the Lattice",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326009044?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: Available online 12 October 2026Source: Physics Letters BAuthor(s): Harshit Pandey, Sayantan Sharma"
+    },
+    {
+      "title": "Theory-Constrained Hierarchical Inference of Primordial Black Holes in <em>f</em>(<em>Q, T</em>) Gravity with GWTC-3",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326009020?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: Available online 11 October 2026Source: Physics Letters BAuthor(s): S. Davood Sadatian, S. Mohamad Reza Hosseini"
+    },
+    {
+      "title": "Unveiling inner shadows and polarization signatures of rotating Einstein–Gauss–Bonnet black holes*",
+      "link": "https://iopscience.iop.org/article/10.1088/1674-1137/ae7d00",
+      "authors": "Bing-Bing Chen, 兵兵 陈, Chen-Yu Yang, 晨昱 杨, Deyou Chen, 德友 陈, Ke-Jian He and 柯腱 何",
+      "source": "Chinese Physics C",
+      "summary": "Based on the backward ray-tracing method, we investigate the intensity and polarization images of a rotating Einstein–Gauss–Bonnet (EGB) black hole surrounded by a thin accretion disk. We examine the effects of the GB parameter ξ, the spin parameter a, and the viewing inclination on the horizon-scale image of the black hole. Our results show that ξ mainly affects the size of the inner shadow, while the spin parameter controls its deformation. The photon-ring morphology is more sensitive to the viewing inclination than to the GB coupling. For polarized emission, the polarized-intensity distribution is consistent with the total-intensity distribution of the thin-disk image, but the polarization direction near the inner shadow and photon-ring regions responds clearly to changes in ξ. Finally, we conclude that, compared to relying on either accretion-disk images or polarization images alone, the simultaneous combination and synergistic analysis of both can more profoundly reveal the optical properties of rotating EGB black holes, providing a stronger theoretical basis for identifying such black holes through future high-resolution observations."
+    },
+    {
+      "title": "Coupling and breakup effects of deuteron on d + 11B system*",
+      "link": "https://iopscience.iop.org/article/10.1088/1674-1137/ae82e8",
+      "authors": "Rehab Yajzey, Hamdah Taresh Alanazi, Awad A. Ibraheem and Sh. Hamada",
+      "source": "Chinese Physics C",
+      "summary": "In the present study, we examine the reaction dynamics of the d + 11B system with a special focus on the interplay between deuteron breakup and nucleon transfer mechanisms. Elastic scattering data at Ed = 21.5 MeV are analyzed using the continuum-discretized coupled-channel (CDCC) framework to assess the role of breakup couplings. In addition, coupled-reaction-channel (CRC) calculations are performed for the 11B(d, p)12B neutron stripping reaction at 21.5 MeV, the 11B(d, t)10B neutron pickup reaction at 18 MeV, and the 11B(d, 3He)10Be proton pickup reaction at 22 MeV. The CDCC calculations successfully reproduce the elastic angular distribution at forward angles without introducing renormalization factors, confirming the importance of continuum coupling effects. Nevertheless, deviations observed at larger angles suggest that breakup alone is insufficient. The (d, p) neutron stripping channel has negligible influence on the elastic scattering at this energy, whereas the (d, t) neutron pickup channel significantly modifies the calculated elastic cross sections over a broad angular range. The proton pickup channel produces only a minor effect. The present analysis demonstrates that neutron pickup, rather than stripping, is the primary transfer mechanism affecting d + 11B elastic scattering at this incident energy."
     }
   ]
 }
