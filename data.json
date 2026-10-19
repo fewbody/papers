@@ -1,75 +1,110 @@
 {
-  "lastUpdated": "2026-10-18T05:16:40.861115",
+  "lastUpdated": "2026-10-19T05:30:30.028779",
   "papers": [
     {
-      "title": "Three-nucleon dynamics in $\\mathit{dp}$ breakup collisions at 190 MeV/nucleon using the WASA detector at COSY-Jülich",
-      "link": "http://link.aps.org/doi/10.1103/k3z6-gvpd",
-      "authors": "P. Adlarson <em>et al.</em> (WASA-at-COSY Collaboration)",
-      "source": "Physical Review C",
-      "summary": "Author(s): P. Adlarson et al. (WASA-at-COSY Collaboration)The differential cross section for the $^{1}\\mathrm{H}(d,pp)n$ breakup reaction at deuteron beam energy of 380 MeV has been determined with high statistical precision for 189 angular configurations of outgoing protons in the region of forward laboratory angles. The cross-section data were compared t…[Phys. Rev. C 114, 044003] Published Fri Oct 16, 2026"
+      "title": "Exploring QCD Matter through Energy Correlators of Soft Hadrons",
+      "link": "https://arxiv.org/abs/2610.22477",
+      "authors": "Yiyang Peng, Jo\\~{a}o Barata, Andrey V. Sadofyev, Huichao Song",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2610.22477v1 Announce Type: new \nAbstract: We propose energy-energy correlators (EECs) of soft hadrons and their azimuthal harmonics as new soft observables to probe the collective flow and correlations beyond flow for large and small systems created in high energy nuclear collisions. We separate the soft EEC into a disconnected contribution determined by the mean energy flow and a connected contribution encoding correlations beyond it. Viscous hydrodynamic simulations demonstrate that the soft EEC of a fluid system is governed by the disconnected contribution, while its elliptic and triangular harmonics respond to the initial geometry and shear viscosity as traditional flow harmonics do. Comparisons between iEBE-VISHNU and PYTHIA for p+p, O+O, and Pb+Pb collisions show that the disconnected contribution dominates at large angles in all systems, whereas connected correlations beyond the mean energy flow grow toward small angles and small systems, most strongly for the harmonics. Soft EECs thus provide a unique window into collective flow and correlations beyond it across collision systems."
     },
     {
-      "title": "Highly deformed rotational structure in the near-spherical nucleus $^{123}\\mathrm{Te}$ at high spin",
-      "link": "http://link.aps.org/doi/10.1103/7pjh-r134",
-      "authors": "A. K. Singh, Atreyee Dey, I. Ragnarsson, R. V. F. Janssens, A. Al-Khatib, A. Neußer-Neffgen, C. R. Hansen, A. Bracco, F. Camera, G. Benzoni, and P. Fallon",
-      "source": "Physical Review C",
-      "summary": "Author(s): A. K. Singh, Atreyee Dey, I. Ragnarsson, R. V. F. Janssens, A. Al-Khatib, A. Neußer-Neffgen, C. R. Hansen, A. Bracco, F. Camera, G. Benzoni, and P. FallonHigh-spin states in $^{123}\\mathrm{Te}$ were populated in the $^{82}\\mathrm{Se}(^{48}\\mathrm{Ca},α3n)^{123}\\mathrm{Te}$ reaction at a beam energy of 205 MeV, and $γ$-ray coincidence events were measured with the Gammasphere array. The level scheme has been extended to spin $I≈50$ through the identif…[Phys. Rev. C 114, 044319] Published Fri Oct 16, 2026"
+      "title": "$N\\Lambda$ interaction from a quark model: $p\\Lambda$ femtoscopy and the hypertriton",
+      "link": "https://arxiv.org/abs/2610.23041",
+      "authors": "Ye Yan, Qian Wu, Qi Huang, Hongxia Huang, Jialun Ping",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2610.23041v1 Announce Type: new \nAbstract: Understanding the low-energy nucleon--$\\Lambda$ interaction is essential for describing hypernuclear structures, while its spin dependence remains insufficiently constrained by experimental data. In this work, we investigate the $N\\Lambda$ interaction using the quark delocalization color screening model and explore its implications for $p\\Lambda$ femtoscopy and the hypertriton. The energy and scattering phase shifts of the $N\\Lambda$ system are calculated, revealing weak attraction in both the $J^P=0^+$ and $1^+$ channels, but no bound states. The corresponding scattering lengths and effective ranges are found to be $-2.36$ fm and $1.61$ fm for $J^P=0^+$, and $-0.95$ fm and $1.46$ fm for $J^P=1^+$, respectively. Using the Gel'fand--Levitan--Marchenko inverse-scattering method, effective $N\\Lambda$ potentials are reconstructed from the coupled-channel scattering phase shifts and applied to calculate the $p\\Lambda$ femtoscopic correlation function. Comparison with experimental data suggests that the spin-triplet attraction may be underestimated in the present model. Furthermore, employing the Gaussian Expansion Method, we investigate the $NN\\Lambda$ three-body system and obtain a weakly bound hypertriton with a $\\Lambda$ separation energy of $1.06$--$1.16$ MeV. These results demonstrate that $p\\Lambda$ femtoscopic correlations and hypertriton binding provide complementary probes of the spin-dependent $N\\Lambda$ interaction, offering valuable constraints on its low-energy behavior."
     },
     {
-      "title": "Antimagnetic rotation of neutron-deficient Cd isotopes",
-      "link": "http://link.aps.org/doi/10.1103/plkq-hhtl",
-      "authors": "Zheng Qiao, Ke-Yan Ma, and Guo-Mo Zeng",
-      "source": "Physical Review C",
-      "summary": "Author(s): Zheng Qiao, Ke-Yan Ma, and Guo-Mo ZengThe antimagnetic rotation (AMR) on the neutron-deficient Cd isotopes is investigated. The observed negative-parity yrast band with $α=−1/2$ in $^{103}\\mathrm{Cd}$ and the positive-parity band with $α=0$ in $^{104}\\mathrm{Cd}$ are fitted by using the cranked shell model plus a particle-number conserv…[Phys. Rev. C 114, 044320] Published Fri Oct 16, 2026"
+      "title": "Isovector Monopole Resonance",
+      "link": "https://arxiv.org/abs/2610.23211",
+      "authors": "Xavier Roca Maza, Gianluca Col\\`o",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2610.23211v1 Announce Type: new \nAbstract: We present a theoretical study of the three isospin channels of the isovector giant monopole resonance (IVGMR) within self-consistent Skyrme Hartree-Fock plus Random-Phase Approximation. A modified charge-exchange monopole operator is introduced to remove the dominant isobaric-analog-state contribution, thereby isolating the genuine radial isovector response. We derive the associated non-energy- and energy-weighted sum rules and establish approximate relations between the charge-exchange and non-charge-exchange strengths. The relative locations of the three IVGMR centroids are interpreted in terms of Coulomb displacement energies, the neutron-proton mass difference, and the finite-nucleus symmetry potential. Calculations for \\(^{48}\\)Ca, \\(^{90}\\)Zr, and \\(^{208}\\)Pb show that the non-charge-exchange centroid is accurately approximated by the average of the two charge-exchange centroids in medium-heavy and heavy nuclei. Using a broad set of Skyrme energy-density functionals, we find that the centroid energies of the three channels display a weak model dependence for a fixed nucleus, whereas the non-charge-exchange monopole polarizability exhibits a clear sensitivity to the density dependence of the symmetry energy. These results clarify the isospin structure of the IVGMR and support its use as a complementary probe of isovector nuclear properties."
     },
     {
-      "title": "Nonlocality in prior-form distorted-wave Born approximation",
-      "link": "http://link.aps.org/doi/10.1103/8lpg-kcff",
-      "authors": "Jin Lei and Zhongzhou Ren",
-      "source": "Physical Review C",
-      "summary": "Author(s): Jin Lei and Zhongzhou RenIn the distorted wave Born approximation, the optical potentials of the entrance and exit channels are constrained by elastic scattering only on the energy shell, so their interior behavior, which a local Woods-Saxon form fixes by convention, is in fact left undetermined. We represent this off-shell…[Phys. Rev. C 114, 044620] Published Fri Oct 16, 2026"
+      "title": "Effects of kinematic cuts on $v_0(p_T)$",
+      "link": "https://arxiv.org/abs/2610.23427",
+      "authors": "Tribhuban Parida, Rupam Samanta, Jean-Yves Ollitrault",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2610.23427v1 Announce Type: new \nAbstract: We show that the analysis of $v_0(p_T)$ is biased when low-$p_T$ particles are not detected. The low-$p_T$ threshold shifts $v_0(p_T)$ by a constant negative value, which depends on the threshold. We evaluate the shift using hydrodynamic simulations. Correcting for this bias significantly improves agreement between ALICE and ATLAS results for $v_0(p_T)$ in Pb+Pb collisions."
     },
     {
-      "title": "Environment-induced phase modulation of threshold resonances in low-energy $^{2}\\mathrm{H}+^{2}\\mathrm{H}$ nuclear reactions",
-      "link": "http://link.aps.org/doi/10.1103/k3b2-vhsv",
-      "authors": "A. I. Kilic",
-      "source": "Physical Review C",
-      "summary": "Author(s): A. I. KilicLow-energy $\\mathrm{D}+\\mathrm{D}$ reactions in condensed-matter environments (where $\\mathrm{D}$ denotes $^{2}\\mathrm{H}$) exhibit several reported features, including suppression of the neutron channel, enhanced angular anisotropy, plateaulike relative-yield behavior, and nonmonotonic time evoluti…[Phys. Rev. C 114, 044621] Published Fri Oct 16, 2026"
+      "title": "Andreev Beta Conversion and Bulk Viscosity in Superfluid Neutron-Star Matter",
+      "link": "https://arxiv.org/abs/2610.23581",
+      "authors": "Tingyu Zhang, Honoka Hoshino, Hiroyuki Tajima, Motoi Tachibana, Mariusz Sadzikowski",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2610.23581v1 Announce Type: new \nAbstract: Bulk viscosity in neutron-star matter is attributed to the phase lag between a density oscillation and weak beta equilibration. We point out a distinct coherent channel when the baryonic component that stores the condensate is superfluid: an effective beta-conversion event between a neutron condensate and normal protons can proceed as an Andreev process, converting a particle-like excitation into a hole-like excitation while adding or removing a Cooper pair from the condensate. The resulting Andreev contribution to beta equilibration is fourth order in the effective conversion vertex, is enhanced by anomalous neutron Green's functions, and is not captured by standard Urca process. We identify the density, temperature, and oscillation-frequency regimes where this channel can dominate viscous damping of neutron-star oscillations and mergers."
     },
     {
-      "title": "Production cross sections of neutron-rich nuclides near the $N=126$ neutron-shell closure from 1000 MeV/u $^{208}\\mathrm{Pb}$ on $^{9}\\mathrm{Be}$",
-      "link": "http://link.aps.org/doi/10.1103/p27s-fp1j",
-      "authors": "Suraj Kumar Singh <em>et al.</em> (HISPEC/DESPEC Collaboration, Super-FRS Experiment Collaboration)",
-      "source": "Physical Review C",
-      "summary": "Author(s): Suraj Kumar Singh et al. (HISPEC/DESPEC Collaboration, Super-FRS Experiment Collaboration)The production cross sections of neutron-rich nuclides near the $N=126$ neutron shell closure have been measured for the elements ranging from tungsten ($Z=74$) to gold ($Z=79)$ in the fragmentation of a $1000\\phantom{\\rule{0.28em}{0ex}}\\mathrm{MeV}/\\mathrm{u} ^{208}\\mathrm{Pb}$ beam on a $^{9}\\math…[Phys. Rev. C 114, 044622] Published Fri Oct 16, 2026"
+      "title": "Revisiting the Wess-Zumino-Witten Term in Nuclear and Quark Matter under Magnetic Fields and Rotation",
+      "link": "https://arxiv.org/abs/2607.04929",
+      "authors": "Markus A. G. Amano, Minoru Eto, Muneto Nitta, Shin Sasaki",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2607.04929v2 Announce Type: cross \nAbstract: We study anomalous Wess-Zumino-Witten terms associated with the chiral anomaly in dense QCD matter under magnetic fields and rotation. By introducing electromagnetic, baryon number, and isospin background gauge fields, we write down the topological couplings of neutral mesons for the $N_f=2$ and $N_f=3$ cases. The resulting terms contain characteristic contributions proportional to $\\vec{B} \\cdot \\vec{\\nabla} \\phi$ and $\\vec{\\Omega} \\cdot \\vec{\\nabla} \\phi$, where $\\phi$ denotes $\\pi^0$, $\\eta$, or $\\eta'$. These results are relevant to chiral soliton lattices in dense rotating matter."
     },
     {
-      "title": "Rapidity-even dipolar flow in relativistic heavy-ion collisions",
-      "link": "http://link.aps.org/doi/10.1103/tsmh-216s",
-      "authors": "Niseem Magdy",
-      "source": "Physical Review C",
-      "summary": "Author(s): Niseem MagdyRapidity-even directed flow, ${v}_{1}^{\\mathrm{even}}$, provides a sensitive probe of fluctuation-driven dipolar asymmetry in relativistic heavy-ion collisions, but its extraction is complicated by strong first-harmonic nonflow correlations, particularly those associated with global momentum conserv…[Phys. Rev. C 114, 044905] Published Fri Oct 16, 2026"
+      "title": "Leading-twist proton parton distribution amplitude from scalar and axial-vector diquark correlations",
+      "link": "https://arxiv.org/abs/2610.22994",
+      "authors": "B. Almeida-Zamora, L. Albino, C. Mezrag, J. Segovia",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2610.22994v1 Announce Type: cross \nAbstract: We compute the leading-twist proton parton distribution amplitude (PDA) using algebraic representations of the nucleon Faddeev wave function inspired by perturbation-theory integral representations. The PDA is obtained from a light-front projection of the covariant quark--diquark Faddeev amplitude and analysed in terms of its scalar- and axial-vector-diquark components. We derive analytic expressions for the corresponding diquark distribution amplitudes and their contributions to the proton PDA. The resulting distribution is broad and concave, with its maximum $(x_1,x_2,x_3)\\approx(0.55,0.20,0.25)$ displaced from the symmetric configuration $(1/3,1/3,1/3)$, which corresponds to the maximum of the perturbative-QCD asymptotic form. Scalar-diquark correlations generate a strong asymmetry in the longitudinal momentum distribution, whereas axial-vector correlations redistribute momentum among the valence quarks and significantly reduce this asymmetry. We calculate low-order Mellin moments and obtain a compact parametrisation of the proton PDA at the hadronic scale, $\\mu_0=0.51\\,\\mathrm{GeV}$. We then perform the leading-order QCD evolution of its normalized shape to $\\mu=2\\,\\mathrm{GeV}$, finding that evolution reduces the momentum asymmetry while preserving a clear imprint of the non-perturbative quark--diquark correlations. The results provide insight into the role of such correlations in shaping the proton light-front structure and furnish non-perturbative input for studies of hard exclusive baryonic processes."
     },
     {
-      "title": "Thermal quarkyonic matter and its implications for neutron star structure",
-      "link": "http://link.aps.org/doi/10.1103/8vvd-gx4f",
-      "authors": "K. Folias and Ch. C. Moustakidis",
-      "source": "Physical Review C",
-      "summary": "Author(s): K. Folias and Ch. C. MoustakidisThe structure and basic properties of dense nuclear matter still remain one of the open problems of physics. In particular, the composition of the matter that composes neutron stars is under theoretical and experimental investigation. Among the theories that have been proposed, apart from the classi…[Phys. Rev. C 114, 045807] Published Fri Oct 16, 2026"
+      "title": "Anisotropic hadronic matter in external magnetic fields",
+      "link": "https://arxiv.org/abs/2610.23120",
+      "authors": "Dushmanta Sahu, Jayanta Dey",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2610.23120v1 Announce Type: cross \nAbstract: Strong magnetic fields generated in non-central heavy-ion collisions break rotational symmetry and can imprint anisotropy on the produced quantum chromodynamics (QCD) matter. Within a hadron resonance gas framework in the presence of an external magnetic field, we investigate the resulting anisotropy in the equation of state, isothermal compressibility, speed of sound, and conserved-charge fluctuations. We find that the electric-charge susceptibility ratio $\\chi_4^Q/\\chi_2^Q$ develops a pronounced directional dependence, driven primarily by the Landau-level structure of charged pions. For physically relevant magnetic fields, this anisotropy reaches $\\sim 10 - 15 \\%$ at $T\\simeq0.16$ GeV. The ratio of electric-charge susceptibility can be expressed as $\\chi_4^Q/\\chi_2^Q=C_4^Q/C_2^Q=\\kappa_Q\\sigma_Q^2$, where $C_2^Q$ and $C_4^Q$ are the second- and fourth-order cumulants, and $\\kappa_Q$ and $\\sigma_Q$ are the kurtosis and variance of the event-by-event net-electric-charge distribution. The reaction-plane dependence of this ratio provides an experimentally accessible signature of magnetic-field-induced anisotropy. Our results identify higher-order electric-charge fluctuations as a promising probe of the imprint of strong electromagnetic fields on the matter produced in heavy-ion collisions at RHIC and the LHC."
     },
     {
-      "title": "Effective Field Theory of Protonium",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326009214?dgcid=rss_sd_all",
+      "title": "Two-nucleon scattering amplitudes at light quark masses from lattice QCD",
+      "link": "https://arxiv.org/abs/2610.23332",
+      "authors": "Jorge Baeza-Ballesteros (BaSc), Andr\\'e Bai\\~ao-Raposo (BaSc), Davide Laudicina (BaSc), Malcolm Lazarow (BaSc), Miguel Salg (BaSc), John Bulava (BaSc), Jeremy R. Green (BaSc), Andrew Hanlon (BaSc), Renwick J. Hudspith (BaSc), Daniel Mohler (BaSc), Colin Morningstar (BaSc), Amy Nicholson (BaSc), Fernando Romero-L\\'opez (BaSc), Thomas R. Richardson (BaSc), Andr\\'e Walker-Loud (BaSc), Hartmut Wittig (BaSc), for the Baryon Scattering (BaSc),  Collaboration",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2610.23332v1 Announce Type: cross \nAbstract: We present a lattice-QCD determination of nucleon-nucleon scattering amplitudes at pion masses of $M_\\pi \\approx 200$ MeV and $M_\\pi \\approx 280$ MeV at a single lattice spacing $a \\approx 0.064$ fm on two CLS ensembles. The finite-volume energy spectra are extracted from large Hermitian correlation matrices constructed within the distillation framework using an extensive basis of two-nucleon interpolating operators. To reliably relate the finite-volume spectra to the infinite-volume scattering amplitudes, we employ two recently developed formalisms that explicitly account for the long-range interaction generated by one-pion exchange: the plane-wave quantization condition and the relativistic left-hand-cut formalism. We discuss the quark-mass dependence of the nucleon-nucleon scattering lengths, effective ranges, shape parameters and pole positions. At all pion masses considered, our analysis prefers virtual states in both isospin channels by more than $1\\sigma$. Comparing also results from our previous calculation at $M_\\pi \\approx 710$ MeV, we observe that the inverse scattering lengths and binding momenta approach their physical-point phenomenological values monotonically as the pion mass is varied."
+    },
+    {
+      "title": "Impact of neutron captures on the r-process: I. Propagation of statistical model uncertainties",
+      "link": "https://arxiv.org/abs/2610.23395",
+      "authors": "Yu An, Jan Kuske, Almudena Arcones",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2610.23395v1 Announce Type: cross \nAbstract: Background: The r-process is responsible for producing about half of the elements heavier than iron in the Universe, but the underlying nuclear physics is still largely inaccessible to experiments and relies on theoretical calculations. Purpose: We aim to quantify the impact of statistical model uncertainties on the r-process with a large set of neutron-capture rates within the Hauser-Feshbach framework with varied statistical model parameters. Propagating neutron-capture rates to r-process calculations of various astrophysical sites allows us to link abundance features to nuclear uncertainties. Methods: We calculate neutron-capture reactivities using different nuclear level density (NLD) and gamma-ray strength function (GSF) prescriptions. We study their impact on r-process calculations for individual trajectories, mass-integrated ejecta from a neutron-star-merger, and a broad set of 10,000 parametric trajectories with a wide range of electron fractions and entropies. Results: The final abundances are more sensitive to NLDs than to GSFs. Selected NLDs produce pronounced abundance changes between the lanthanides and the third peak. Although the variation is reduced in the mass-integrated total ejecta, a subpeak at A=172-178 and systematic abundance changes at A=180-194 persist. The parametric trajectories show that the NLD sensitivity is greater in the cold r-process regime, where neutron captures continue after photodissociations have become ineffective. Additional conditions with large NLD sensitivities are found at intermediate electron fractions, where small changes in the matter flow can lead to significant differences in the final abundances. Conclusions: Systematic differences in neutron-capture rates between NLD prescriptions affect the final r-process abundances. Therefore, improved experimental constraints and theoretical descriptions of NLDs in these regions are needed."
+    },
+    {
+      "title": "Regularization of stochastic fluid dynamics and non-perturbative renormalization of the shear viscosity of incompressible fluids",
+      "link": "https://arxiv.org/abs/2610.23442",
+      "authors": "Mattis Harhoff, Cedric Riedel, Johannes Roth, S\\\"oren Schlichting",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2610.23442v1 Announce Type: cross \nAbstract: We propose a regularization of stochastic fluid dynamics that preserves all relevant symmetries. By considering an incompressible fluid, we demonstrate explicitly that the regularized theory is UV finite, and therefore admits a continuum limit. Strikingly, the regularized theory of stochastic fluid dynamics is not only amenable to direct numerical simulations of the lattice discretized theory, but also to functional methods in the continuum. We exploit this to perform renormalization group improved perturbative calculations of the renormalization of the shear viscosity of an incompressible fluid in two and three spatial dimensions, and compare our results to direct numerical simulations of the lattice discretized theory."
+    },
+    {
+      "title": "From closed to open strings: the tensionless route in Kalb-Ramond background and noncommutativity",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326009299?dgcid=rss_sd_all",
       "authors": "Unknown",
       "source": "Physics Letters B",
-      "summary": "Publication date: Available online 16 October 2026Source: Physics Letters BAuthor(s): Hans-Werner Hammer, Akaki Rusetsky"
+      "summary": "Publication date: Available online 17 October 2026Source: Physics Letters BAuthor(s): Sarthak Duary, Sourav Maji"
     },
     {
-      "title": "Muon pair production in electron-positron collisions close to threshold in the presence of a strong laser field",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326009251?dgcid=rss_sd_all",
+      "title": "Standard Model Symmetries and the Nested Embeddings of <math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si17.svg\" class=\"math\"><mrow><mi mathvariant=\"double-struck\">R</mi><mo>⊂</mo><mi mathvariant=\"double-struck\">C</mi><mo>⊂</mo><mi mathvariant=\"double-struck\">H</mi><mo>⊂</mo><mi mathvariant=\"double-struck\">O</mi></mrow></math>",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326009287?dgcid=rss_sd_all",
       "authors": "Unknown",
       "source": "Physics Letters B",
-      "summary": "Publication date: Available online 16 October 2026Source: Physics Letters BAuthor(s): N. Mahlin, S. Villalba-Chávez, C. Müller"
+      "summary": "Publication date: Available online 17 October 2026Source: Physics Letters BAuthor(s): N. Furey"
+    },
+    {
+      "title": "Gauge conditions in the perturbative quantization of quadratic gravity and its quantum Lagrangian",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326009263?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: Available online 17 October 2026Source: Physics Letters BAuthor(s): Jorge Bellorin, Claudio Bórquez, Byron Droguett"
+    },
+    {
+      "title": "Dark Matter Interpretation of the Super-Kamiokande Antineutrino Excess in <math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si1.svg\" class=\"math\"><mrow><mi mathvariant=\"normal\">U</mi><msub><mrow><mo>(</mo><mn>1</mn><mo>)</mo></mrow><mrow><msub><mi>L</mi><mi>μ</mi></msub><mo>−</mo><msub><mi>L</mi><mi>τ</mi></msub></mrow></msub></mrow></math> model",
+      "link": "https://www.sciencedirect.com/science/article/pii/S037026932600924X?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: Available online 17 October 2026Source: Physics Letters BAuthor(s): Motoi Endo, Yushi Mura, Tenta Tsuji"
     }
   ]
 }
