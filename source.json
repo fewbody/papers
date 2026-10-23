@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-22T05:37:33.597652",
+  "lastUpdated": "2026-10-23T05:35:12.734963",
   "papers": [
     {
       "title": "Increasing Octupole Collectivity across the $Z=64$ Isotopic Chain: B(E3) Values in $^{150}\\mathrm{Gd}$",
@@ -77623,6 +77623,111 @@
       "authors": "Chong-Chung Lih, Chao-Qiang Geng",
       "source": "arXiv for Nuclear Theory",
       "summary": "arXiv:2606.01768v2 Announce Type: replace-cross \nAbstract: We investigate the exclusive semileptonic decays of $\\Lambda \\to p \\ell^{-} \\bar{\\nu}_{\\ell}~(\\ell=e,\\mu)$ within the Standard Model using the light-front quark model. The transition form factor behaviors of $\\Lambda \\to p$ are obtained from the effective treatment of nonvalence contributions in addition to the valence ones in the Drell-Yan-West frame due to the Bethe-Salpeter formalism. Based on these form factors, we obtain that the branching ratios of $\\Lambda\\to p e^{-} \\bar{\\nu}_{e}$ and $p \\mu^{-} \\bar{\\nu}_{\\mu}$, including nonvalence contributions, are around $8.32\\times 10^{-4}$ and $1.31\\times 10^{-4}$, which are consistent with the latest measurements from the BESIII Collaboration, respectively. Our results indicate that nonvalence contributions can play a non-negligible role in the semileptonic baryon decays within the light-front framework."
+    },
+    {
+      "title": "Anisotropic flows of light-flavor and charmed hadrons in Pb+Pb collisions at energies available at the CERN Large Hadron Collider",
+      "link": "http://link.aps.org/doi/10.1103/9zxp-frbf",
+      "authors": "Yan-ting Feng, Rui-qin Wang, Feng-lan Shao, and Jun Song",
+      "source": "Physical Review C",
+      "summary": "Author(s): Yan-ting Feng, Rui-qin Wang, Feng-lan Shao, and Jun SongWe apply a constituent quark equal-velocity combination (EVC) model to study the elliptic flow (${v}_{2}$) and triangular flow (${v}_{3}$) of light-flavor and single-charmed hadrons in Pb+Pb collisions at $\\sqrt{{s}_{NN}}=$ 2.76 and 5.02 TeV. ${v}_{2,3}$ of hadrons in the EVC model can be expressed …[Phys. Rev. C 114, 044907] Published Thu Oct 22, 2026"
+    },
+    {
+      "title": "3D initial-state dynamics across scales: A comparative study of saturation and string-based descriptions",
+      "link": "http://link.aps.org/doi/10.1103/1ptt-tdqx",
+      "authors": "Lucas Constantin, Oscar Garcia-Montero, Niklas Götz, and Hannah Elfner",
+      "source": "Physical Review C",
+      "summary": "Author(s): Lucas Constantin, Oscar Garcia-Montero, Niklas Götz, and Hannah ElfnerWe compare the longitudinal deposition of various conserved quantities in the initial condition models of a string based (SMASH) and a saturation based (McDipper) approach. SMASH has been shown to work reasonably well at lower collision energies as an initial condition for the SMASH-vHLLE hybrid app…[Phys. Rev. C 114, 044906] Published Wed Oct 21, 2026"
+    },
+    {
+      "title": "Semileptonic decays of $\\mathrm{Λ}→p{ℓ}^{−}{\\overline{ν}}_{ℓ}$ in light-front dynamics",
+      "link": "http://link.aps.org/doi/10.1103/f668-vzjw",
+      "authors": "Chong-Chung Lih and Chao-Qiang Geng",
+      "source": "Physical Review C",
+      "summary": "Author(s): Chong-Chung Lih and Chao-Qiang GengWe investigate the exclusive semileptonic decays of $\\mathrm{Λ}→p{ℓ}^{−}{\\overline{ν}}_{ℓ}\\phantom{\\rule{4pt}{0ex}}(ℓ=e,μ)$ within the standard model using the light-front quark model. The transition form factor behaviors of $\\mathrm{Λ}→p$ are obtained from the effective treatment of nonvalence cont…[Phys. Rev. C 114, 045206] Published Wed Oct 21, 2026"
+    },
+    {
+      "title": "UrQMD-Agent: An LLM-Assisted Framework for Microscopic Tracing of Proton Azimuthal Correlations",
+      "link": "https://arxiv.org/abs/2610.30198",
+      "authors": "Fu-Peng Li, Yige Huang",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2610.30198v1 Announce Type: new \nAbstract: We present an LLM-assisted framework for microscopic transport studies that connects a general-purpose large language model (LLM) to the UrQMD transport model through a model-specific Skill and a deterministic scientific tool layer. The LLM supports literature-guided scientific planning and interpretation, while numerical calculations, event-history reconstruction, and statistical analyses are performed by deterministic tools. As a demonstration, the framework is applied to proton azimuthal-partition fluctuations in Au+Au collisions at $\\sqrt{s_{NN}}=3.0$--39~GeV. In the 0--5\\% centrality class, the fluctuations are statistically resolved below zero from 3 to 27~GeV and consistent with zero at 39~GeV. An exact pair-kernel decomposition shows that the negative signal is carried mainly by proton pairs containing at least one decay-fed proton. A random-label null test further distinguishes the observed pair contributions from expectations based on pair abundance alone. Reaction-history tracing shows that, for pairs of two decay-fed protons, the negative pair-kernel contribution is already present in the parent momenta evaluated at their respective formation vertices. The modular architecture is designed to accommodate different general-purpose LLMs and can be extended to other microscopic transport models through dedicated Skills and tool interfaces. This provides a pathway toward systematic microscopic analyses and comparisons across transport models within a common LLM-assisted framework."
+    },
+    {
+      "title": "Anisotropic spin hydrodynamics in a magnetized medium: entropy-current formulation and minimal linear modes",
+      "link": "https://arxiv.org/abs/2610.31408",
+      "authors": "Yiwei Qiu, Duan She, Defu Hou",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2610.31408v1 Announce Type: new \nAbstract: We formulate anisotropic relativistic spin hydrodynamics in a parity-even magnetized medium using an Israel--Stewart entropy-current construction. Treating the magnetic field at leading order in the gradient expansion reduces the rotational symmetry to $SO(2)$ and separates spin susceptibilities and dissipative transport into longitudinal, transverse, and mixed channels. A restricted quadratic entropy current yields transient equations for the retained dissipative stresses and spin fluxes. We analyze a minimal linear closure around an unpolarized homogeneous equilibrium, retaining dynamical magnetic-flux perturbations but no explicit spin-magnetization coupling; spin and magnetic fluctuations mix through the fluid variables. Infrared coefficient equations and ultraviolet characteristic expansions organize the magnetosonic and Alfv\\'en-like spectra together with spectator spin-flux poles. The first-order truncation exhibits unstable boost-sector poles and superlinear large-wave-number branches, interpreted as diagnostics of the truncated equations rather than microscopic dispersion predictions. For the baseline parameters, finite relaxation times yield asymptotically linear propagation branches and finite relaxation poles, with no growing modes found on the sampled grid. The characteristic speeds depend nonmonotonically on spin transport and provide necessary light-cone diagnostics, without establishing general stability or strong hyperbolicity."
+    },
+    {
+      "title": "Can Coulomb breakup of $N=Z$ clustered nuclei constrain capture cross sections? Analyzing the $\\alpha(d,\\gamma){}^{6}\\mathrm{Li}$ case",
+      "link": "https://arxiv.org/abs/2610.31514",
+      "authors": "Monica Sanjinez-Ortiz, Pierre Capel",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2610.31514v1 Announce Type: new \nAbstract: In nuclear astrophysics, it is fundamental to measure the cross section of radiative-capture reactions involving charged particles at low energy. However, this endeavor is difficult. Coulomb breakup of nuclei on heavy targets has been proposed as an indirect method to infer the low-energy cross sections, because this reaction corresponds to the time reversed process of radiative capture. Two Coulomb breakup experiments aiming to infer the $\\alpha(d,\\gamma){}^{6}\\mathrm{Li}$ radiative-capture cross section have been performed at 26 MeV/nucleon and 150 MeV/nucleon. Within a fully dynamical reaction model, we report here on a new theoretical analysis of these reactions. Our analysis indicates that the breakup of ${}^6\\mathrm{Li}$ onto ${}^{208}\\mathrm{Pb}$ is nuclear dominated at forward angles because Coulomb breakup is suppressed due to the $N=Z$ cluster structure of ${}^6\\mathrm{Li}$. Our analysis also suggests that the reaction is characterized by marked Coulomb-nuclear interferences. Moreover, we find that higher-order effects considerably increase the breakup cross section at low energies. Consequently, extracting radiative capture cross sections from the breakup reaction data in this case is extremely challenging. We suggest that the forward Coulomb breakup suppression is a general feature of collision processes involving $N=Z$ clustered nuclei. Our findings underscore the importance of advancing alternative indirect methods for nuclear reactions in astrophysics such as electron-induced dissociation."
+    },
+    {
+      "title": "Nonconformal kinetic theory with transverse dynamics and event-by-event simulations using CoMBolt-RTA",
+      "link": "https://arxiv.org/abs/2610.31611",
+      "authors": "Seyed Farid Taghavi",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2610.31611v1 Announce Type: new \nAbstract: A new version of CoMBolt, called CoMBolt-RTA, is introduced to solve the Boltzmann equation for massive quasiparticles in the relaxation time approximation (RTA). The inclusion of a constant quasiparticle mass allows one to obtain an equation of state (EOS) closer to that of lattice QCD. The nonequilibrium dynamics of a boost-invariant, nonconformal system with transverse spatial extension are studied, with particular emphasis on the effects of quasiparticle mass on the evolution toward equilibrium. Using the hybrid version, which includes TrENTo for the initial state and UrQMD as an afterburner, the model parameters are manually tuned to describe recent anisotropic-flow and charged-multiplicity measurements in OO collisions by the ALICE Collaboration. The resulting predictions for the $p_T$-spectrum and $\\langle p_T\\rangle$ are also compared with ATLAS measurements. Based on the preferred parameter tuning, the collective response as a function of opacity is investigated. The results suggest that central OO collisions remain in the fluid-like regime, while smaller systems, namely ${}^3$He-${}^3$He and ${}^4$He-${}^4$He collisions, could provide a better opportunity to investigate the transition from fluid-like to particle-like collective dynamics."
+    },
+    {
+      "title": "General-purpose equations of state for hadron-quark matter: first application to accretion-induced phase transitions in neutron stars",
+      "link": "https://arxiv.org/abs/2610.30233",
+      "authors": "J\\'anos Tak\\'atsy, Henrique Gieg, Tim Dietrich",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2610.30233v1 Announce Type: cross \nAbstract: Strong first-order phase transitions in the cores of neutron stars (NSs) can have profound implications for astrophysical observables, however, their existence remains an open question. Since most NSs form in binary systems, they are expected to experience prolonged episodes of mass accretion that gradually increase their central density and can potentially trigger such a transition. This might, in turn, generate observable multi-messenger signals, as suggested by previous studies. Motivated by this prospect, we generate a new set of equations of state for hadron--quark matter with first-order phase transitions of various strengths, including neutrino absorption opacities in the quark phase as well. We then perform general-relativistic radiation hydrodynamics simulations of NSs undergoing accretion-induced phase transitions. In contrast to previous findings, our results indicate that these systems do not produce unbound ejecta for the models considered, making accretion-induced phase transitions unlikely sources of observable electromagnetic transients. However, we find that transitions are accompanied by intense neutrino emission, with peak luminosities reaching $\\sim10^{52}~\\mathrm{erg/s}$ for the strongest transition considered. To facilitate future numerical studies, we make the family of equations of state and neutrino opacities used in this work publicly available, enabling the systematic exploration of the role of the phase transition strength."
+    },
+    {
+      "title": "Machine Learning Neutrino-Nucleus Cross Sections II: More Leptons",
+      "link": "https://arxiv.org/abs/2610.30338",
+      "authors": "Daniel C. Hackett, Joshua Isaacson, Shirley Weishi Li, Karla Tame-Narvaez, Michael L. Wagman",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2610.30338v1 Announce Type: cross \nAbstract: Neutrino-nucleus cross sections are essential inputs for long-baseline neutrino oscillation experiments, yet remain challenging to model with high precision. Recent work demonstrated that fully black-box data-driven cross-section models cannot accurately generalize between near- and far-detector fluxes, but imposing Standard-Model symmetries via structure-function parameterizations provides a well-posed learning problem in a simplified DUNE-inspired muon-neutrino disappearance analysis. Here, we extend this framework to multiple lepton flavors and both neutrino and antineutrino beam modes, incorporating the electron appearance channel and enabling a simultaneous determination of $\\sin^2\\theta_{23}$, $\\Delta m^2_{31}$, and the CP-violating phase $\\delta_{\\rm CP}$. We find that the learned cross section model recovers the injected oscillation parameters without significant bias, with constraints comparable to those obtained using the exact underlying cross section. Flux uncertainties have more significant effects in the multi-channel case, and incorporating flux nuisance parameters into the learning problem is required for accurate results. Our results demonstrate that this data-driven approach can be extended to the multi-channel measurements needed for long-baseline neutrino oscillation analyses."
+    },
+    {
+      "title": "Thermomagnetic enhancement of conserved-charge correlations in a lattice-constrained PNJL model",
+      "link": "https://arxiv.org/abs/2610.30393",
+      "authors": "Bruno S. Lopes, Arthur E. B. Pasqualotto, Jandir J. Buttenbender Filho, Dyana C. Duarte, Ricardo L. S. Farias",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2610.30393v1 Announce Type: cross \nAbstract: Conserved-charge correlations offer a promising probe of magnetic fields in strongly interacting matter. We investigate their magnetic response and the finite-density equation of state within a lattice-constrained three-flavor Polyakov--Nambu--Jona-Lasinio model. A thermomagnetic scalar coupling, inferred by Gaussian process regression from lattice QCD results for the average light-quark condensate, incorporates inverse magnetic catalysis into the effective interaction. Without fitting conserved-charge observables, the resulting framework substantially improves their magnetic-field dependence and crossover behavior compared with the fixed-coupling model. In particular, it captures the pronounced magnetic enhancement of the baryon--electric-charge correlation and related susceptibility ratios, supporting their use as QCD magnetometers. The comparison demonstrates that the medium dependence of the effective interaction is essential to describe this response within the model. We further calculate pressure Taylor coefficients through sixth order and reconstruct the pressure and baryon density at nonzero baryon chemical potential. Our results show that lattice information from a single chiral observable constrains a broad thermodynamic response, connecting inverse magnetic catalysis, conserved-charge correlations, and the equation of state in a common framework. This provides a lattice-constrained basis for investigating magnetic-field signatures and finite-density thermodynamics in QCD matter."
+    },
+    {
+      "title": "Parton distribution functions of the proton in a hot isospin-asymmetric nuclear medium and finite nuclei",
+      "link": "https://arxiv.org/abs/2610.31122",
+      "authors": "Navpreet Kaur, Manpreet Kaur, Dhananjay Singh, Arvind Kumar, Harleen Dahiya, Suneel Dutt",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2610.31122v1 Announce Type: cross \nAbstract: When a nucleon is bound in a nucleus, its quark distributions are modified, and the change in the spin-dependent distributions can differ in size from that in the spin-independent ones. We compute the unpolarized $f_1(x)$, helicity $g_1(x)$, and transversity $h_1(x)$ distributions of the $u$ and $d$ quarks in a proton immersed in hot and isospin-asymmetric nuclear matter. The proton is described in the diquark spectator model, with the medium effects entering through the effective quark, diquark, and proton masses computed using the chiral SU(3) quark mean field (CQMF) model. The axial and tensor charges are obtained for baryon densities up to saturation density and temperatures $T = 0$ and $0.1$ GeV, in both symmetric nuclear matter and pure neutron matter. The distributions are then carried to $^{40}$Ca, $^{56}$Fe, $^{197}$Au, and $^{208}$Pb at zero temperature through the local density approximation. In symmetric matter at saturation density and zero temperature, the peaks of the three $u$ quark distributions move toward larger $x$ and fall least for the unpolarized distribution and most for the transversity distribution, so the spin-dependent $u$ quark distributions are modified more strongly. Between vacuum and saturation density, the axial charge of the proton drops from $1.28$ to $0.844$, and the tensor charge of the $u$ quark decreases while that of the $d$ quark grows in magnitude. At the center of each nucleus, the axial charge of the proton rises from $0.699$ in $^{40}$Ca to $0.817$ in $^{208}$Pb as the central baryon density decreases, which suggests that the modification at the center follows the central density rather than the mass number."
+    },
+    {
+      "title": "$N \\to \\Delta$ Transition Form Factors in the Thermal AdS/QCD Soft-Wall Model with Modified Propagators",
+      "link": "https://arxiv.org/abs/2610.31395",
+      "authors": "Narmin Nasibova, Xerxes D. Arsiwalla, Shakir Nagiyev",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2610.31395v1 Announce Type: cross \nAbstract: We investigate electromagnetic (EM) and axial vector (AV) form factors of the nucleon-Delta baryon transition within the thermal AdS/QCD soft-wall model. While the vector bulk-to-boundary propagator admits a well-behaved analytical solution, the transverse axial vector equation of motion involves the vacuum expectation value of the bifundamental scalar (generating chiral symmetry breaking). Due to this, the axial propagator diverges asymptotically, rendering it unsuitable for computing observables in the soft-wall model. To address this problem, we implement a regularization for the axial propagator in the form of a momentum-dependent cut-off, that identifies its correct physical regime. This is achieved via an interior constraint approach to the boundary-value problem, that determines the cut-off point. The consistency of this procedure is verified near the UV limit. As a proof of concept, we test this modified propagator (and also a parametrically deformed version of it) to estimate axial vector form factors of the $N \\to \\Delta$ transition, and find results moderately comparable with form factor profiles from experimental observations, lattice QCD, and other theoretical models. Equipped with this regularization, the thermal soft-wall model becomes a useful tool to probe thermal characteristics of QCD form factors. We demonstrate this for both, the EM and AV sectors of the $N \\to \\Delta$ transition."
+    },
+    {
+      "title": "Macroscopic Nuclear Resonance Energy Transfer Mediated by Coherent Magnons",
+      "link": "https://arxiv.org/abs/2610.31507",
+      "authors": "Ryan Weed",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2610.31507v1 Announce Type: cross \nAbstract: Phonon-mediated nuclear Resonance Energy Transfer (RET) in metal deuterides is severely constrained by inertial rest-mass dilution, lattice fracture limits, and thermal nuclear spin cancellation. Extending the generalized nuclear Dicke model to Ferromagnetic Resonance (FMR) magnons eliminates mass dilution via hyperfine-amplified M1 coupling while unlocking relativistic Dirac M2 coupling via Overhauser spin polarization. We derive a Suhl-clamped FMR scaling law predicting 14.2 MeV (Pd-106) and 11.4 MeV (Ni-58) breakup neutrons, 19.9 MeV alpha particles, and reconciled sub-keV fusion anomalies."
+    },
+    {
+      "title": "The linearized Israel-Stewart equations with a physical vacuum boundary",
+      "link": "https://arxiv.org/abs/2411.00291",
+      "authors": "Runzhang Zhong",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2411.00291v2 Announce Type: replace-cross \nAbstract: In this article, we consider the Israel-Stewart equations of relativistic viscous fluid dynamics with bulk viscosity. We investigate the evolution of the equations linearized about solutions that satisfy the physical vacuum boundary condition and establish local well-posedness of the corresponding Cauchy problem."
+    },
+    {
+      "title": "Higgs production in association with a Z boson at TeV-scale lepton colliders",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326009342?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: Available online 21 October 2026Source: Physics Letters BAuthor(s): Hiroyuki Furusato, Satsuki Hosoya, Kentarou Mawatari, Shouta Suzuki"
     }
   ]
 }
