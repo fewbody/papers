@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-28T06:27:42.311091",
+  "lastUpdated": "2026-10-29T06:38:39.633851",
   "papers": [
     {
       "title": "Increasing Octupole Collectivity across the $Z=64$ Isotopic Chain: B(E3) Values in $^{150}\\mathrm{Gd}$",
@@ -78407,6 +78407,55 @@
       "authors": "Wen-Xuan Zhang, 文轩 张, Wen-Nian Liu, 文念 刘, Duojie Jia and 多杰 贾",
       "source": "Chinese Physics C",
       "summary": "We demonstrate that mass inequalities for hadrons containing one or more heavy quarks arise primarily from the concavity of binding energies in the quark model, reflecting short-range Coulombic interactions and long-range confinement. Empirical two-body bindings are extracted from spin-averaged meson masses, ensuring model independence and direct use of experimental data. Fitting these quantities as functions of the reduced mass reveals a critical confinement scale of 1.34 fm, at which the bindings become positive. The concavity of motivates Jensen-like relations under flavor permutation, reproducing relations such as and the baryon analog . Hadron mass decomposition validates with MeV for mesons and baryons. Using this decomposition, we obtain approximate mass estimates for unobserved heavy baryons (e.g., MeV, MeV, and MeV) and identify favored quark-exchange scattering channels. The present analysis is phenomenological and does not constitute a rigorous three-body derivation."
+    },
+    {
+      "title": "Prospects for detecting axion-like particles via W+W− fusion at the FCC-eh",
+      "link": "https://iopscience.iop.org/article/10.1088/1361-6471/aeb31a",
+      "authors": "Han Wang and Chong-Xing Yue",
+      "source": "Journal of Physics G: Nuclear and Particle Physics",
+      "summary": "We investigate the prospective sensitivity of the FCC-eh to the axion-like particle (ALP)- interaction via the ALP-mediated fusion process , followed by the semileptonic decay . Focusing on the coupling, we consider a benchmark FCC-eh configuration with and , assuming an integrated luminosity of 2 and an initial electron beam polarization of . Under the adopted configuration, the FCC-eh can access a broad ALP mass range spanning from approximately 100 GeV to 1 TeV, with the projected sensitivity to at the level. Our results indicate that the FCC-eh has considerable potential for probing the interaction between the ALP and bosons."
+    },
+    {
+      "title": "Non-equilibrium trace of the energy-momentum tensor and bulk viscous pressure of a massive gas from kinetic theory",
+      "link": "https://iopscience.iop.org/article/10.1088/1361-6471/aeb39a",
+      "authors": "Krishanu Sengupta, Reghukrishnan Gangadharan and Victor Roy",
+      "source": "Journal of Physics G: Nuclear and Particle Physics",
+      "summary": "We investigate the far-from-equilibrium dynamics of a relativistic massive gas obeying Maxwell–Boltzmann, Bose–Einstein, and Fermi–Dirac statistics, undergoing a boost-invariant Bjorken expansion. We solve the relativistic Boltzmann equation in the relaxation-time approximation (RTA) using the method of moments. We focus specifically on the time evolution of the trace of the energy-momentum tensor and the bulk viscous pressure , quantities that are crucial for understanding the breaking of conformal symmetry in the rapidly evolving fireball created in heavy ion collisions. Our results demonstrate that the non-equilibrium values of exhibit non-monotonic behavior, characterized by a local maximum at early times and a distinct dip around the characteristic collision time scale . We find that the scaled bulk viscous pressure ( isotropic pressure) depends significantly on the particle statistics. Along with this, we also observe that the magnitudes of both the bulk viscous pressure and are significantly enhanced by a larger initial chemical potential. We further find that increasing mass strongly enhances both the normalized trace and the magnitude of the bulk viscous pressure. Finally, for ensembles of randomly perturbed non-equilibrium moment initial conditions, the scaled bulk viscous pressure and pressure anisotropy lose sensitivity to the initial conditions and approach common late-time trajectories but scaled trace is not converging to a common late time trajectory."
+    },
+    {
+      "title": "The sigma meson ( f 0 ...",
+      "link": "https://iopscience.iop.org/article/10.1088/1361-6471/aeb39c",
+      "authors": "Susumu Date, Yuko Murakami, Motoo Sekiguchi, Hiroaki Wada and Masayuki Wakayama",
+      "source": "Journal of Physics G: Nuclear and Particle Physics",
+      "summary": "We study the temperature dependence of meson screening masses in two-flavour lattice QCD using dynamical truncated overlap fermions (TOFs), a type of lattice chiral fermions. The screening masses for the , , , , and the sigma mesons are extracted by computing spatial correlation functions. This exploratory study uses meson screening masses and the connected/disconnected decomposition of the scalar correlator as diagnostic observables to examine how the disconnected contribution changes across the pseudocritical region. Above the pseudocritical temperature , the and screening masses become degenerate, consistent with chiral restoration. The pair also shows the expected degeneracy. Decomposition of the propagator reveals that the connected contribution dominates above , while the disconnected part becomes significant below , explaining the reduced statistical clarity observed at low . These results demonstrate that dynamical TOF simulations can capture the qualitative thermal behaviour of the scalar sector."
+    },
+    {
+      "title": "The full strong-coupling expansion of the cusp anomalous dimension and the O(6) mass gap",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326009469?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: December 2026Source: Physics Letters B, Volume 883Author(s): Zoltan Bajnok, Bercel Boldis, Dennis le Plat"
+    },
+    {
+      "title": "Integral transformations for conformally invariant celestial amplitudes",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326009408?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: December 2026Source: Physics Letters B, Volume 883Author(s): Aphiwat Yuenyong, Pongwit Srisangyingcharoen, Ekapong Hirunsirisawat, Tanapat Deesuwan"
+    },
+    {
+      "title": "Can power-law entropic corrections account for the baryon asymmetry in the early universe?",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326008439?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: December 2026Source: Physics Letters B, Volume 883Author(s): Kalyan Malakar, Mrinnoy M. Gohain, Kalyan Bhuyan"
+    },
+    {
+      "title": "From quantum correlations to inflationary tracking scalar field evolution",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326009512?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: December 2026Source: Physics Letters B, Volume 883Author(s): V.K. Oikonomou"
     }
   ]
 }
