@@ -1,152 +1,47 @@
 {
-  "lastUpdated": "2026-11-02T06:59:31.586237",
+  "lastUpdated": "2026-11-03T07:24:00.047033",
   "papers": [
     {
-      "title": "Nuclear-geometry-tagging events in high-energy Ne--Ne collisions",
-      "link": "https://arxiv.org/abs/2610.40724",
-      "authors": "Joachim Carlo Kristian Bjerg Hansen, Emil Gorm Dahlb{\\ae}k Nielsen",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2610.40724v1 Announce Type: new \nAbstract: Nucleon-nucleon interactions within atomic nuclei give rise to collective properties such as deformation and nuclear clustering. Ultrarelativistic nucleon-nucleon collisions offer a novel way to probe the many-body correlations of the incoming nuclei, as the nuclear structure is reflected in the initial geometry of the produced system. State-of-the-art low-energy nuclear theory calculations predict highly deformed $^{20}$Ne nuclei with a characteristic $\\alpha$+$^{16}$O bowling-pin-like shape. Since such nuclei have recently been collided at the LHC, investigating methods to maximise the sensitivity to the nuclear structure is pertinent. In this paper, we investigate whether body--body and tip--tip configurations of $^{20}$Ne nuclei can be identified in Monte--Carlo Glauber simulations using geometry-sensitive observables: the eccentricity, $\\varepsilon_2$, and the transverse compactness, $d_\\perp$. The nuclear configurations are obtained from nuclear lattice effective field theory calculations within the framework of Nuclear Lattice Effective Field Theory (NLEFT) and $\\textit{ab initio}$ Projected Generator Coordinate Method (PGCM). We utilise a Fisher linear discriminant to select body--body and tip--tip configurations based on the $\\varepsilon_2$-$d_\\perp$ correlation. With classifier thresholds chosen to retain $30\\%$ of the target class in a validation sample, the two-variable Fisher selection obtains purities in NLEFT (PGCM) of $0.201$ ($0.156$) and $0.573$ ($0.540$) for body--body and tip--tip events, respectively."
+      "title": "Decay spectroscopy of $^{152}\\mathrm{Tb}$: A diagnostic component of the terbium theragnostic toolbox",
+      "link": "http://link.aps.org/doi/10.1103/3c72-gcls",
+      "authors": "E. B. O'Sullivan, S. M. Collins, J.-M. Daugas, L. Domenichetti, J. Heery, J. Henderson, U. Köster, C. Michelagnoli, T. Parry, S. Pascu, P. H. Regan, and R. Shearman",
+      "source": "Physical Review C",
+      "summary": "Author(s): E. B. O'Sullivan, S. M. Collins, J.-M. Daugas, L. Domenichetti, J. Heery, J. Henderson, U. Köster, C. Michelagnoli, T. Parry, S. Pascu, P. H. Regan, and R. ShearmanTerbium-152, decaying by electron capture and ${β}^{+}$ emission to the ground and excited states in $^{152}\\mathrm{Gd}$, shows potential for use in PET imaging as part of personalized cancer treatments. We report results of decay spectroscopy measurements, providing nuclear data necessary for medic…[Phys. Rev. C 114, 054301] Published Mon Nov 02, 2026"
     },
     {
-      "title": "Relativistic viscous hydrodynamics in the Density Frame for heavy-ion collisions",
-      "link": "https://arxiv.org/abs/2610.40909",
-      "authors": "Jean-Fran\\c{c}ois Paquet, Mayank Singh, Derek Teaney",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2610.40909v1 Announce Type: new \nAbstract: We present a numerical study of relativistic viscous hydrodynamics in the Density Frame for boost-invariant flows in 2+1 dimensions. The Density Frame is a formulation of relativistic viscous hydrodynamics that is first order in time, requires no auxiliary fields, and has no non-hydrodynamic modes; the only parameters are the shear and bulk viscosities and the equation of state. We formulate the numerical method in terms of a discrete analog of the dissipative function, which guarantees that the discrete equations produce entropy on all length scales and leads to a remarkably robust algorithm. We test the method against the exact solution of kinetic theory in the relaxation time approximation with Gubser symmetry. In making this comparison, we clarify how the kinetic solution matches onto hydrodynamics: we organize the solution by the opacity and show how the Bjorken attractor passes onto the Gubser solution order by order in gradients. We then replace the hydrodynamic engine of the MUSIC code with the Density Frame, and compare the two for IP-Glasma initial conditions in Pb-Pb collisions at $\\sqrt{s_{NN}} = 5.02$ TeV. The Density Frame smooths sharp gradients more rapidly. The largest differences arise in the bulk-viscous sector, where the bulk pressure in the Density Frame responds instantaneously to the flow, while in the M\\\"uller-Israel-Stewart-based MUSIC it relaxes over a finite time. With shear viscosity alone, the multiplicity, mean transverse momentum, and elliptic flow of final-state hadrons from the two codes are very similar. The Density Frame is now ready for a complete Bayesian analysis of heavy-ion data."
+      "title": "Multitask Gaussian process predictions of low-lying excitation observables and shell evolution near $N, Z=20$ and 28",
+      "link": "http://link.aps.org/doi/10.1103/p21l-zm7x",
+      "authors": "S. Li, X. Liu, H. Zheng, C. Lv, W. Lin, J. Han, Q. Zhao, G. Qu, and P. Ren",
+      "source": "Physical Review C",
+      "summary": "Author(s): S. Li, X. Liu, H. Zheng, C. Lv, W. Lin, J. Han, Q. Zhao, G. Qu, and P. RenThe low-lying excitation observables of even-even nuclei, e.g., the excitation energies of the first ${2}^{+}$ and ${4}^{+}$ states, $E({2}_{1}^{+})$ and $E({4}_{1}^{+})$, and the reduced electric quadrupole transition probability between the ground state and the first ${2}^{+}$ state, $B(E2;{0}_{1}…[Phys. Rev. C 114, 054302] Published Mon Nov 02, 2026"
     },
     {
-      "title": "Incorporating deep neural networks into lepton-nucleus interaction modeling",
-      "link": "https://arxiv.org/abs/2610.40912",
-      "authors": "Hemant Prasad, Jan T. Sobczyk, Krzysztof M. Graczyk, Beata E. Kowal, Rwik Dharmapal Banerjee, J. Luis Bonilla",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2610.40912v1 Announce Type: new \nAbstract: We present a scheme to incorporate precise inclusive cross-section predictions from a deep neural network trained on electron--carbon scattering data into a Monte Carlo event generator. The inclusive prediction is decomposed into independent exclusive interaction channels using the generator's theoretical models, and the resulting events are reweighted accordingly. We apply this scheme to investigate nuclear effects in inclusive and semi-exclusive electron-scattering measurements."
+      "title": "Phaseless auxiliary-field quantum Monte Carlo method in the Hartree-Fock-Bogoliubov manifold",
+      "link": "http://link.aps.org/doi/10.1103/hhwv-6vh2",
+      "authors": "Zhaozhan Zhang",
+      "source": "Physical Review C",
+      "summary": "Author(s): Zhaozhan ZhangThis work formulates and implements the phaseless auxiliary-field quantum Monte Carlo method in the Hartree-Fock-Bogoliubov (HFB) manifold for systems with strong pairing correlations. HFB walkers are represented in both the product-state and Thouless forms with respect to a flexible reference vacuu…[Phys. Rev. C 114, 054303] Published Mon Nov 02, 2026"
     },
     {
-      "title": "Is XTE J1814-338 a dark matter-admixed neutron star?",
-      "link": "https://arxiv.org/abs/2610.41293",
-      "authors": "Hong-Ming Liu, Peng-Cheng Chu, He Liu, Zeng-Hua Li, Xiao-Hua Li",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2610.41293v1 Announce Type: new \nAbstract: We explore the possibility that the ultracompact object XTE J1814-338 is a dark matter-admixed neutron star (DNS) based on a general-relativistic two-fluid approach, in which one fluid describes ordinary nuclear matter and the other dark matter. The equations of state of nuclear matter and dark matter are described by the Brueckner-Hartree-Fock (BHF) theory with realistic three-body forces and a generic bosonic self-interacting dark matter model, respectively. Based on the observational data, we determine the parameter space for XTE J1814-338 as a DNS, and find that only a halo stellar configuration with a high dark matter fraction is allowed. Furthermore, we predict other observable properties of XTE J1814-338 and provide robust lower bounds for these quantities."
+      "title": "Time evolution of the $α$-decay process in intense laser fields",
+      "link": "http://link.aps.org/doi/10.1103/9y46-lc6w",
+      "authors": "Huaxuan Pan, Jianghua Jia, Yongping Du, Yibin Qian, and Chang Xu",
+      "source": "Physical Review C",
+      "summary": "Author(s): Huaxuan Pan, Jianghua Jia, Yongping Du, Yibin Qian, and Chang XuRecently, influence of strong fields on nuclear decay processes is progressively becoming a topic of great interest plus the existence of some ambiguities. In this study, an approximate calculation of the Schrödinger equation with reduced $r$ dependence is employed instead of the classical Coulomb w…[Phys. Rev. C 114, 054304] Published Mon Nov 02, 2026"
     },
     {
-      "title": "The role of spin polarization in event-by-event fluctuations",
-      "link": "https://arxiv.org/abs/2610.41386",
-      "authors": "Xiao-Ying He, Li-Juan Zhou, Li-Xin Yang, Qian-Qian Du, De-Xian Wei",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2610.41386v1 Announce Type: new \nAbstract: The event-by-event initial state fluctuations constitute a critical physical quantity for understanding the dynamics of high-energy heavy-ion collisions. Due to the extremely limited available experimental data of such fluctuations, it is difficult to constrain or direct the characterization of the underlying initial state properties. This work constrains the correlation function between the initial eccentricity and the asymmetry by employing a parton distribution function that incorporates spin polarization induced by thermal vorticity and thermal shear. Based on the kinetic theory calculations, we found that the asymmetry fluctuations considering spin polarization have a significant splitting effect compared to those without spin polarization. These splitting exhibit pronounced system size and energy dependence. Moreover, the ratios of correlation function display similar system size and energy dependence--particularly in the low-temperature regime ($T \\lesssim$ 0.12 GeV). These results suggest that spin polarization may serve as a useful constraint method for the event-by-event initial state fluctuations of heavy-ion collisions."
+      "title": "Proton femtoscopy in heavy-ion collisions: From transport theory to source imaging",
+      "link": "http://link.aps.org/doi/10.1103/kfzk-rtnm",
+      "authors": "Pierre Nzabahimana, Pawel Danielewicz, and Giuseppe Verde",
+      "source": "Physical Review C",
+      "summary": "Author(s): Pierre Nzabahimana, Pawel Danielewicz, and Giuseppe VerdeTwo-particle correlations play a pivotal role in understanding the space-time characteristics of particle emission in heavy-ion collisions (HIC). A relative emission source typically represents these characteristics and can be obtained from transport-model simulations such as the Boltzmann-Uehling-U…[Phys. Rev. C 114, 054601] Published Mon Nov 02, 2026"
     },
     {
-      "title": "Color transparency effects on the deuteron spin observables in the hard $pd \\to ppn$ reaction",
-      "link": "https://arxiv.org/abs/2610.41767",
-      "authors": "A. B. Larionov",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2610.41767v1 Announce Type: new \nAbstract: The pionless breakup of a deuteron induced by 15 GeV/$c$ beam proton is considered theoretically in the kinematics\n  where both outgoing protons are fast and the neutron is slow in the rest frame of the deuteron.\n  Significant influence of color transparency on the deuteron vector and tensor analyzing powers is expected."
-    },
-    {
-      "title": "Algebraic models of alpha-cluster nuclei",
-      "link": "https://arxiv.org/abs/2610.42015",
-      "authors": "Roelof Bijker",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2610.42015v1 Announce Type: new \nAbstract: In this contribution I review the algebraic cluster model (ACM) for $\\alpha$-conjugate nuclei with $A=4n$ and its extension to the cluster shell model (CSM) for $A=4n+x$ nuclei. The CSM describes the splitting of single-particles levels in a deformed field generated by the cluster of $\\alpha$-particles. As an example, I discuss the energies, electromagnetic transitions and form factors of the neighboring nuclei $^{12}$C and $^{13}$C."
-    },
-    {
-      "title": "A systematic study of hydrodynamic attractors in periodically driven systems at weak and strong couplings",
-      "link": "https://arxiv.org/abs/2610.40877",
-      "authors": "Aleksas Mazeliauskas, Toshali Mitra, S\\\"oren Schlichting, Simon Schneider, Louis Nwakile Onwuka, Martin Vrdoljak",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2610.40877v1 Announce Type: cross \nAbstract: We study equilibration and hydrodynamic response in conformal systems undergoing periodic expansion and contraction along one spatial direction. Using strongly coupled holography (AdS/CFT), weakly coupled kinetic theories (relaxation-time approximation, scalar $\\phi^4$ theory and the Yang--Mills sector of QCD effective kinetic theory) and hydrodynamics (Navier--Stokes, M\\\"uller--Israel--Stewart (MIS) and rBRSSS), we investigate the shear response to a periodic drive of varying amplitude $A$ and frequency $\\omega$, both analytically in linear response and numerically. We find that, at the linear level, $A\\ll 1$, periodically driven systems approach a cyclic attractor that in general differs from Navier--Stokes behaviour. This attractor is universal among kinetic theories and accurately described by MIS theory: for slow driving, $\\omega \\tau_\\pi \\ll 1$, where $\\tau_\\pi$ is the shear relaxation time, it approaches the Navier--Stokes limit, whereas for fast driving the shear stress saturates at its non-interacting (free-streaming) value. In strongly coupled holographic systems, the periodic drive excites non-hydrodynamic quasinormal modes, which produce a characteristic ringing in the approach to the cyclic attractor, in contrast to the purely exponential approach found in kinetic theories. This difference is a direct consequence of the distinct non-hydrodynamic spectra of the two classes of theories. Moreover, unlike in kinetic theory, the holographic response is sensitive to the curvature terms of second-order hydrodynamics. Over longer times, non-linear viscous heating, which is quadratic in the drive amplitude, raises the temperature and thereby lowers $\\omega\\tau_\\pi$, since $\\tau_\\pi\\sim 1/T$. This induces a slow drift of the cyclic attractor, which eventually converges towards Navier--Stokes hydrodynamics at asymptotically late times."
-    },
-    {
-      "title": "The Importance of Curium-250 to the $\\gamma$-Ray Signature of $r$-Process Remnants",
-      "link": "https://arxiv.org/abs/2610.40907",
-      "authors": "Axel Gross, Samuel Cupp, G. Wendell Misch, Matthew R. Mumpower",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2610.40907v1 Announce Type: cross \nAbstract: Identifying the astrophysical sites of the heavy rapid neutron-capture process ($r$-process) remains one of the most prominent unsolved problems in nuclear astrophysics. Emitted $\\gamma$-rays from the decay of unstable nuclei have been identified as a potential observable marker on both prompt and delayed timescales which could provide conclusive evidence of the presence of $r$-process activity. In this work, we identify and discuss the importance of $^{250}$Cm to the $\\gamma$-ray spectra of remnants, showing that the decay spectrum of $^{250}$Cm dominates the $\\gamma$-ray spectra of $r$-process ejecta across a broad timescale ($\\sim$ 2,000 - 20,000 years). We highlight the uncertain nature of this spectra: $^{250}$Cm may decay via $\\alpha$-decay, $\\beta$-decay, and spontaneous fission, but the decay branchings are not experimentally known, and each decay channel produces unique spectral lines which may be observable. We examine the potential for observation of the most prominent spectral signatures, finding that for conventional neutron star merger remnants, $\\gamma$-ray lines will be detectable in current and future detectors only in the very near galaxy ($\\sim$ 1 kpc), but other sites which could produce a larger ejecta mass may have greater observable distances. Our findings highlight the potential of actinide decay chains to indicate r-process nucleosynthesis and further underscore the necessity of measuring the nuclear properties that define their characteristic spectral signatures."
-    },
-    {
-      "title": "Two gluon fusion into a $\\pi^0$, $\\eta$, or $\\eta'$ in a relatively weak magnetic field",
-      "link": "https://arxiv.org/abs/2610.41020",
-      "authors": "Fabio L. Braghin, Enrique Mu\\~noz",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2610.41020v1 Announce Type: cross \nAbstract: In this article, we investigate gluon fusion as a mechanism for neutral meson production ($\\pi^0$, $\\eta$, and $\\eta'$), in the phenomenological context of heavy-ion collisions prior to thermalization, in which a large gluon multiplicity is expected, and when an intense background magnetic field is expected to arise. For this purpose, we computed the ratios of the emission probability rates in the presence of the background magnetic field as compared to vacuum (zero-field), as a function of transverse momenta $p_T$ and energy $\\sqrt{s}$, close to midrapidity. Our theoretical results suggest a catalytic effect from the presence of the background magnetic field, that may enhance the neutral pion production by several orders of magnitude at very small energies $s \\lesssim 1~\\text{GeV}^2$, while the effect is negligible at larger energies $s\\gtrsim 10~\\text{GeV}^2$. In contrast, the $\\eta$ and $\\eta'$ production rates are nearly insensitive to the magnetic field presence\n  (as compared to vacuum)."
-    },
-    {
-      "title": "Deconfinement in weak electric and magnetic fields",
-      "link": "https://arxiv.org/abs/2610.41066",
-      "authors": "Eduardo S. Fraga, Leticia F. Palhares",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2610.41066v1 Announce Type: cross \nAbstract: We investigate the thermal deconfinement transition in weak electric and magnetic fields, describing the hadronic phase by a pion gas and the quark--gluon plasma by the MIT bag model. Besides the thermal response of each phase, we include the one-loop electromagnetic vacuum terms of quarks and charged pions, renormalized at a common scale that fixes the charge in the confined vacuum. With no fitting of the electromagnetic response, the critical temperature rises with the electric field and falls with the magnetic one. The electric curvature is of the same size as that obtained on the lattice, while the magnetic one is a few times larger. We discuss the dependence on quark mass and renormalization scale, and a large-$N_c$ organization of both curvatures, whose sum is independent of the vacuum terms and connects directly to perturbative QCD."
-    },
-    {
-      "title": "Two-Fluid Radial Stability of Dark-Matter-Admixed Compact Objects: Dark Compact Planets, Dark White Dwarfs, Dark Neutron Stars, and Dark Oysters",
-      "link": "https://arxiv.org/abs/2610.41082",
-      "authors": "Jos\\'e C. Jim\\'enez, Oscar Pastor, Laura Tolos",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2610.41082v1 Announce Type: cross \nAbstract: We investigate the equilibrium structure and stability against radial oscillations of a variety of two-fluid compact objects containing ordinary baryonic matter admixed with cold dark matter coupled through the background spacetime. For the ordinary fluid, we employ a QCD equation of state compatible with chiral effective field theory at nuclear densities (supplemented by the BPS and Negele-Vautherin models at extremely low densities) and with perturbative QCD in the high-density regime while also satisfying also current astrophysical data. For the dark fluid, we assume self-interacting fermionic matter with particle masses of $m_f=$ 2, 5, 10, and 100 GeV and two self-interaction strengths of $y=0.1$ and $10^3$. By scanning a large range of central pressures for both fluids, we identify the presence of dark compact planets, dark white dwarfs, dark neutron stars and the so-called dark oysters. Importantly, these objects are not only in two-fluid hydrostatic equilibrium, but they are also stable against two-fluid radial oscillations. We find that the relative representation of each class in the radially stable sample is strongly sensitive to the combinations of $m_f$ and $y$, with some combinations entirely suppressing some of these object classes within the sampled domain while favoring others. In addition to these classes, strong self-repulsion supports stable, dark-matter-dominated branches with compact ordinary-matter cores and extended dark halos, approaching the self-interacting fermion-star limit. Finally, we calculate the gravitational redshift at the ordinary-matter surface, $z_{\\rm OM}$, including the contribution of extended dark-matter halos for which we found radially stable configurations with $z_{\\rm OM}>2$."
-    },
-    {
-      "title": "Characterizing $\\pT$-differential Radial-Flow Fluctuations in Au+Au Collisions at FAIR with a Multi-Phase Transport Model",
-      "link": "https://arxiv.org/abs/2610.41607",
-      "authors": "Sanchari Thakur, Partha Pratim Bhaduri",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2610.41607v1 Announce Type: cross \nAbstract: We report the first predictions of the transverse-momentum ($\\pT$)-differential radial-flow fluctuation observable, $\\vzpT$, in Au+Au collisions at the top SIS100 energy, $\\snn=4.9$~GeV, which will be available at the FAIR accelerator complex. Radial flow and its fluctuations are studied for different centrality intervals and reference-$\\pT$ selections to investigate the properties and robustness of the calculated long-range correlation. $\\vzpT$ displays a characteristic evolution from negative values at low $\\pT$ to positive values at higher $\\pT$. The integrated $v_0$, obtained with different reference-$\\pT$ intervals, follows a common trend, with an approximately inverse-square-root dependence on the inclusive charged-particle multiplicity ($\\nch$). The $\\vzpT$ signal changes little when the pseudorapidity gap is varied between 0.2 and 0.8, or when the edges of the reference-$\\pT$ interval are varied, in the bulk region. For identified particles, the pion and proton $\\vzpT$ are ordered at low $\\pT$, qualitatively similar to the mass ordering seen at higher energies. However, unlike at higher collision energies, $\\vzpT$ does not exhibit constituent-quark scaling, so the results do not support an interpretation in terms of partonic collectivity. These results provide constraints on the evolution of radial correlations toward lower collision energies and motivate comparisons with complementary observables to clarify their connection to collective dynamics."
-    },
-    {
-      "title": "Meson spectroscopy from lattice QCD",
-      "link": "https://arxiv.org/abs/2610.42037",
-      "authors": "Andrew W. Jackura",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2610.42037v1 Announce Type: cross \nAbstract: Determining the meson spectrum directly from Quantum Chromodynamics (QCD) remains a central challenge, since QCD is strongly coupled at low energies and most excited states appear as resonances in hadronic decay channels. Advances in lattice QCD and scattering theory now provide a systematic framework for extracting meson spectra and resonance properties from first principles. Here I present an overview of this program and review current state-of-the-art calculations in meson spectroscopy from lattice QCD. I highlight recent progress in the extraction of resonant and coupled-channel amplitudes, along with frontier developments in three-body dynamics and the determination of meson photo-couplings. Together, these advances are bringing us closer to a comprehensive first-principles description of the excited meson spectrum."
-    },
-    {
-      "title": "Complex potential and the thermal width of quarkonium in quark-gluon plasma",
-      "link": "https://arxiv.org/abs/2610.40220",
-      "authors": "Rasmus Normann Larsen, Peter Petreczky, Jorge Luis Dasilva Golan, Johannes H. Weber",
-      "source": "arXiv for Nuclear Theory",
-      "summary": "arXiv:2610.40220v2 Announce Type: replace-cross \nAbstract: We study the complex heavy quark anti-quark potential in lattice 2+1 flavor QCD at non-zero temperature. We point out a close relation between the imaginary part of the potential and the thermal quarkonium width. Using this relation, we estimate the thermal width of charmonia and bottomonia at high temperatures, which are not yet accessible with direct lattice QCD calculations of the quarkonium correlation functions and compare these to the results of the T-matrix analysis. For some of the excited quarkonia states, our estimates of the thermal width are smaller than the ones obtained in the T-matrix analysis."
-    },
-    {
-      "title": "Vector meson photoproduction on the nucleus and the extraction of the nuclear suppression factor using asymmetric beams",
-      "link": "https://iopscience.iop.org/article/10.1088/1361-6471/aeb39b",
-      "authors": "Ronan McNulty and Wolfgang Schäfer",
-      "source": "Journal of Physics G: Nuclear and Particle Physics",
-      "summary": "Nuclear suppression factors quantify the modification of particle production in nuclei relative to free protons and thus provide insight into the properties of nuclear matter and its constituent quarks and gluons. The cross-section for photoproduction of a vector meson on a nucleus is usually determined in nucleus–nucleus collisions, which introduces a two-fold ambiguity because either nucleus can emit the photon. This can be resolved in asymmetric proton–nucleus collisions, where the ratio of photoproduction cross-sections on the proton and nucleus directly measures the nuclear suppression factor with minimal model dependence. Using simulated data corresponding to that already collected at the LHC, it is shown that the nuclear suppression factor can be measured with a statistical precision of 10% using mesons and a few percent using mesons. These results demonstrate the potential of proton-lead collisions to provide precise measurements of nuclear suppression factors and motivate future proton-lead running at the LHC."
-    },
-    {
-      "title": "Corrigendum to “From obstacle to opportunity: uncovering the silver lining of pileup” [Phys. Lett. B 873 (2026) 140121]",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326009494?dgcid=rss_sd_all",
-      "authors": "Unknown",
-      "source": "Physics Letters B",
-      "summary": "Publication date: December 2026Source: Physics Letters B, Volume 883Author(s): Biplob Bhattacherjee, Abhinav Kumar, Swagata Mukherjee, Rhitaja Sengupta, Anand Sharma"
-    },
-    {
-      "title": "Non-monotonicity of <em>p<sub>T</sub></em> correlations from meson-baryon mixing",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326009597?dgcid=rss_sd_all",
-      "authors": "Unknown",
-      "source": "Physics Letters B",
-      "summary": "Publication date: December 2026Source: Physics Letters B, Volume 883Author(s): Tom Reichert, Jan Steinheimer, Marcus Bleicher"
-    },
-    {
-      "title": "Electroweak baryogenesis from charged current anomalies in <em>B</em> meson decays",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326009421?dgcid=rss_sd_all",
-      "authors": "Unknown",
-      "source": "Physics Letters B",
-      "summary": "Publication date: December 2026Source: Physics Letters B, Volume 883Author(s): Peter Athron, Michael J. Ramsey-Musolf, Cristian Sierra, Yongcheng Wu"
-    },
-    {
-      "title": "Photon rings and shadows of black holes with non-minimal couplings between curvature and electromagnetic field",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326009524?dgcid=rss_sd_all",
-      "authors": "Unknown",
-      "source": "Physics Letters B",
-      "summary": "Publication date: December 2026Source: Physics Letters B, Volume 883Author(s): Zhixiang Yin, Changjun Gao, Yun-Long Zhang"
-    },
-    {
-      "title": "Teleparallel torsion and white dwarf structure in <math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si8.svg\" class=\"math\"><mrow><mi>f</mi><mrow><mo>(</mo><mi>T</mi><mo>)</mo></mrow><mo linebreak=\"goodbreak\">=</mo><mi>T</mi><mo linebreak=\"goodbreak\">+</mo><mstyle mathvariant=\"normal\"><mi>Ξ</mi></mstyle><msup><mi>T</mi><mn>2</mn></msup></mrow></math> gravity",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326009640?dgcid=rss_sd_all",
-      "authors": "Unknown",
-      "source": "Physics Letters B",
-      "summary": "Publication date: December 2026Source: Physics Letters B, Volume 883Author(s): Edson Otoniel, Jonathan A. Rebouças, Iarley P. Lobo"
+      "title": "Neutrino absorption in two-flavor color-superconducting quark matter",
+      "link": "http://link.aps.org/doi/10.1103/dg6d-6cv3",
+      "authors": "M. G. Alford, L. Brodie, M. Buballa, H. Gholami, A. Haber, and M. Hofmann",
+      "source": "Physical Review C",
+      "summary": "Author(s): M. G. Alford, L. Brodie, M. Buballa, H. Gholami, A. Haber, and M. HofmannWe calculate the absorption mean free paths of electron and muon neutrinos in two-flavor color-superconducting (2SC) quark matter in the density and temperature range that is relevant to binary neutron star mergers. We model the strong interaction between quarks using a Nambu–Jona-Lasinio model, per…[Phys. Rev. C 114, 055801] Published Mon Nov 02, 2026"
     }
   ]
 }
