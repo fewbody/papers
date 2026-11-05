@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-04T07:05:53.556760",
+  "lastUpdated": "2026-11-05T07:34:56.365837",
   "papers": [
     {
       "title": "Increasing Octupole Collectivity across the $Z=64$ Isotopic Chain: B(E3) Values in $^{150}\\mathrm{Gd}$",
@@ -79072,6 +79072,167 @@
       "authors": "Unknown",
       "source": "Nuclear Physics A",
       "summary": "Publication date: January 2027Source: Nuclear Physics A, Volume 1077Author(s): "
+    },
+    {
+      "title": "Building Far-from-Equilibrium Effective Field Theories Using Shift Symmetries",
+      "link": "http://link.aps.org/doi/10.1103/7bz2-nmb9",
+      "authors": "Xin An, Robbe Brants, Michal P. Heller, and Yi Yin",
+      "source": "Physical Review Letter",
+      "summary": "Author(s): Xin An, Robbe Brants, Michal P. Heller, and Yi YinContemporary understanding of thermalization in quantum field theory stems largely from understanding properties of transient excitations of equilibria. These nonhydrodynamic excitations are known to structurally differ between weakly and strongly coupled quantum field theories with no known results…[Phys. Rev. Lett. 137, 192301] Published Tue Nov 03, 2026"
+    },
+    {
+      "title": "Inherited collectivity from shape-coexisting cores in the ${i}_{13/2}$ rotational band of $^{189}\\mathrm{Hg}$",
+      "link": "http://link.aps.org/doi/10.1103/jkvj-3qcz",
+      "authors": "I. Zanon <em>et al.</em>",
+      "source": "Physical Review C",
+      "summary": "Author(s): I. Zanon et al.Background: The neutron-deficient Hg isotopes provide one of the most prominent examples of nuclear shape coexistence. While the even-even nuclei have been extensively investigated, much less is known about how an unpaired neutron influences the evolution of collectivity in the odd-mass isotopes.\n  Pur…\n[Phys. Rev. C 114, 054305] Published Tue Nov 03, 2026"
+    },
+    {
+      "title": "Signals for fluctuating constituent numbers in small systems",
+      "link": "http://link.aps.org/doi/10.1103/55cy-wzvx",
+      "authors": "Andreas Kirchner and Steffen A. Bass",
+      "source": "Physical Review C",
+      "summary": "Author(s): Andreas Kirchner and Steffen A. BassWe propose an extension of the initial-condition model trento for sampling the number of partons inside the nucleons that participate in a heavy-ion collision. This sampling method is based on parton distribution functions and therefore has a natural dependence on the momentum transferred in the col…[Phys. Rev. C 114, 054902] Published Tue Nov 03, 2026"
+    },
+    {
+      "title": "Charmonium production at energies available at the CERN Super Proton Synchrotron and Facility for Antiproton and Ion Research",
+      "link": "http://link.aps.org/doi/10.1103/l95r-wy1x",
+      "authors": "Taesoo Song, Jiaxing Zhao, Joerg Aichelin, and Elena Bratkovskaya",
+      "source": "Physical Review C",
+      "summary": "Author(s): Taesoo Song, Jiaxing Zhao, Joerg Aichelin, and Elena BratkovskayaIn this study we apply the Remler formalism to charmonium production at Super Proton Synchrotron (SPS) and GSI/Facility for Antiproton and Ion Research (FAIR) energies in order to investigate the effects of baryon-rich matter on charmonium production and dissociation in heavy-ion collisions within t…[Phys. Rev. C 114, 054903] Published Tue Nov 03, 2026"
+    },
+    {
+      "title": "Quantum computing for high energy nuclear physics",
+      "link": "https://arxiv.org/abs/2611.05491",
+      "authors": "Jo\\~{a}o Barata",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2611.05491v1 Announce Type: new \nAbstract: Quantum information science (QIS) offers a new set of conceptual and computational tools ideally suited to exploring the many-body, out-of-equilibrium, and real-time properties of strongly interacting quantum systems. These themes find a natural counterpart in high energy nuclear physics, whose central goal is to describe the properties of Quantum Chromodynamics (QCD), the theory of the strong interaction, under extreme conditions. Relevant examples range from the formation and internal structure of hadrons, to the collective and thermalization dynamics of strongly interacting QCD matter, and the properties of complex many-body scattering processes. Although tremendous progress has been made over the past decades in our understanding of QCD in the nuclear physics context, through perturbative methods, lattice QCD, and effective theory descriptions, phenomena that are intrinsically connected to real-time dynamics, highly entangled many-body evolution, or finite density regimes remain only partially accessible with existing approaches. In this article, we argue that QIS can help realize a new paradigm for addressing these open questions. With the aim of making the discussion accessible to both high energy nuclear physics and QIS audiences, we provide an overview of selected open problems in high energy nuclear physics, with emphasis on aspects motivated by collider phenomenology, and discuss how they can be approached using QIS tools. This connection is illustrated through representative examples drawn from the recent literature, making the case that QIS can become a driving force for discovery in nuclear physics in the coming years."
+    },
+    {
+      "title": "Spurious center-of-mass mode as an $S$-matrix pole within the Jost-random-phase approximation",
+      "link": "https://arxiv.org/abs/2611.05858",
+      "authors": "Kazuhito Mizuyama",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2611.05858v1 Announce Type: new \nAbstract: Within the Jost-random-phase approximation (Jost-RPA), the spurious center-of-mass mode is a zero of the Jost determinant and hence a pole of the $S$ matrix. A zero at zero excitation energy $E$, whether from self-consistency or from a calibration of the residual interaction, is a pole of exactly second order when it has a single independent solution, every unoccupied bound orbital lies above the holes, and each hole is paired with every allowed partial wave; the order follows from the position of the zero, not from self-consistency. The state of this double pole, given by the Autonne-Takagi factorization of its $E^{-2}$ coefficient, is the zero-energy solution normalized by its inertia. In a self-consistent model of one energy density of the neutron and proton densities, every physical $S$-matrix element continued to $E=0$ carries the $E^{-2}$ term, contrary to an earlier conclusion. Subtracting the mode's principal part from the response changes the strength at real $E\\neq0$ only through the smoothing and, in such a model, coincides with the projection of the ideal spurious state. In uncalibrated Woods-Saxon models of $^{16}$O and $^{208}$Pb the mode is a pair of poles on the imaginary axis."
+    },
+    {
+      "title": "Interacting Boson System at Finite Temperatures: The treatment of the lattice QCD results",
+      "link": "https://arxiv.org/abs/2611.06697",
+      "authors": "D. Anchishkin, V. Gnatovskyy, D. Zhuravel, V. Karpenko",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2611.06697v1 Announce Type: new \nAbstract: We study an interacting relativistic system of charged bosons at finite temperature and fixed isospin density within a thermodynamically consistent mean-field approach. The interaction is represented by repulsive phi-4 and phi-6 self-interactions, which generate a density-dependent effective mass of the bosonic quasiparticles. We formulate the thermodynamics in the Extended Canonical Ensemble, obtained from the grand canonical description by a Legendre transformation from the isospin chemical potential to the conserved isospin density. In the condensed phase the chemical potential is constrained by the Bose-condensation condition and is therefore determined self-consistently through the effective mass. We apply the formalism to a pion-like system at finite isospin and clarify the relation between the isospin chemical-potential conventions used for pion and quark degrees of freedom. Using the convention adopted in lattice-QCD calculations, we compare the pressure, isospin density, energy density, and trace anomaly with lattice results at T=120 MeV. With one constant fitted to the lattice pressure, each model reproduces the lattice isospin density, energy density, and trace anomaly. Both the phi-4 and phi-6 models reproduce the main features of the lattice data, with the phi-6 interaction providing the better description. The Extended Canonical Ensemble provides a convenient framework for treating interacting particle-antiparticle systems across the transition to the Bose-condensed phase."
+    },
+    {
+      "title": "Multi-phonon wobbling excitations as a probe for dynamical quasiparticle alignment",
+      "link": "https://arxiv.org/abs/2611.06867",
+      "authors": "R. Budaca, A. I. Budaca",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2611.06867v1 Announce Type: new \nAbstract: The multiple and very extended triaxial strongly deformed bands of the $^{163,165}$Lu nuclei are used to ascertain the spin dependence of the odd quasiparticle alignment. The band heads are found to favor a tilted alignment geometry which gradually evolves into a transverse configuration. Distinct dynamical regimes are thus identified in specific bands and spin intervals, which are discussed in terms of wobbling excitations based on the analysis of the wave functions and $E2$ transition probabilities."
+    },
+    {
+      "title": "Density-driven $\\alpha$-particle clustering in neutron-rich oxygen isotopes",
+      "link": "https://arxiv.org/abs/2611.06883",
+      "authors": "M. Davies, E. Y\\\"uksel, J. -P. Ebran, E. Khan",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2611.06883v1 Announce Type: new \nAbstract: In this work, we study the effect of valence neutrons on density-driven localisation in the neutron-rich oxygen isotopes. Calculations are performed within the multidimensionally constrained relativistic Hartree--Bogoliubov model using the DD-ME2 covariant energy-density functional. By constraining the mass rms radius to larger values, we study the structural evolution of these nuclei under progressive dilution, from spatially delocalised configurations to localised clustered states. The total energy, pairing correlations, deformation, and proton and neutron density distributions are analysed to determine how valence neutrons influence the emergence of $\\alpha$-like clustering. For all three isotopes, we find a transition from a spatially delocalised nucleonic configuration to a tetrahedral $4\\alpha$-like structure. The onset of this transition occurs at similar values of the radius-derived relative dilution parameter, $\\chi_{\\mathrm{PT}}=\\rho_{\\mathrm{PT}}/ \\rho_{\\mathrm{GS}}\\simeq 0.28$--$0.31$, and shows only a weak dependence on neutron number. The excess neutrons modify the clustered density by increasing the density in the central regions and between clusters, while leaving the underlying tetrahedral core structure largely intact. Finally, we also use a phenomenological four-centre H\\\"uckel-type mapping of nuclei, which provides a molecular-orbital-like interpretation of cluster structures. We find that the effective coupling between the cluster centers decreases by progressively expanding the nucleus. The centroid-referenced energy shift $\\Delta E_{\\mathrm{val}}$ also becomes less negative and provides smaller net molecular-orbital-like energy lowering relative to its centroid with increasing neutron number."
+    },
+    {
+      "title": "Toward a Quantum Information Foundation for Neutron Scattering",
+      "link": "https://arxiv.org/abs/2611.05466",
+      "authors": "Michael J. Landry, Yongqiang Cheng, Daniel Pajerowski, Joshua J. Turner, Mingda Li",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2611.05466v1 Announce Type: cross \nAbstract: Neutron scattering is a central probe of quantum materials, yet what quantum information can, in principle, be extracted from a scattering experiment remains unclear. Here we formulate neutron scattering as a quantum measurement, with the scattering amplitudes acting as Kraus operators on the material state. This provides a unified description of conventional intensity, coherent scattering, interferometric measurements, and entanglement witnesses, including those based on quantum Fisher information. We then ask how far this connection can be extended to nonlinear properties of a quantum state. For two independently prepared samples, we derive the general structure of probe-mediated measurement probabilities and show that, for spin-projection-conserving dynamics, low-order scattering cannot resolve certain many-body coherences required to determine purity. Conversely, an idealized single-spin protocol shows how probe-mediated exchange can access purity when the appropriate two-copy operation is realized. Our results establish a quantum-information description of neutron scattering and delineate the information accessible through conventional and interferometric measurements."
+    },
+    {
+      "title": "Goldstone theory of gluon saturation in high energy QCD: From color glass to color superfluid condensate",
+      "link": "https://arxiv.org/abs/2611.05498",
+      "authors": "V. P. Nair, Raju Venugopalan",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2611.05498v1 Announce Type: cross \nAbstract: In the high energy Regge asymptotics of QCD, the rapid overpopulation of gluons leads to gluon saturation, characterized by nonperturbative semi-classical lumpy configurations of size $1/Q_S$, where $Q_S\\gg \\Lambda_{\\rm QCD}$ is a dynamical semi-hard saturation scale. We discuss here a generalization of the Color Glass Condensate (CGC) framework describing this phenomenon that is obtained by carefully treating the breaking of global symmetries by the condensate. In particular, we show that the breaking of a global subgroup of color results in a Goldstone effective field theory (EFT) whose dynamics is characterized by a Goldstone decay constant $f_G = \\sqrt{N} Q_S$, where $N=O(1/\\alpha_S)$ is the phase space occupancy of the condensate, which is large for $\\alpha_S(Q_S)\\ll 1$. Further, the coupling of these colored Goldstones to collinear gluon modes leads to a depletion of the condensate, thereby modifying the static shockwave scattering framework of the CGC on timescales controlled by $f_G$. The CGC EFT on these longer time scales is a novel color superfluid. Low frequency modes with $\\omega\\leq \\alpha_S Q_S$ in an external probe of the CGC are sensitive to superfluid dynamics, with interesting physical consequences for deeply inelastic scattering and ultrarelativistic nuclear collisions."
+    },
+    {
+      "title": "Proton generalized parton distributions from electromagnetic form factors: A theoretically constrained phenomenological reconstruction",
+      "link": "https://arxiv.org/abs/2611.05635",
+      "authors": "A. Capelo-Astudillo, T. Aguilar, M. Conde-Correa, A. Duenas-Vidal, P. G. Ortega, J. Segovia",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2611.05635v1 Announce Type: cross \nAbstract: We present a theoretically constrained phenomenological reconstruction of the unpolarized, chiral-even, leading-twist proton generalized parton distributions $H^q$ and $E^q$. At zero skewness, valence-quark distributions are combined with flavor-dependent exponential profiles calibrated simultaneously against phenomenological representations of the proton and neutron electromagnetic form factors. The construction imposes exact valence and anomalous-magnetic-moment normalizations, the low-scale condition $B^{u+d}(0)=0$, the required endpoint behavior, and the complete Gaussian impact-parameter positivity bound. The resulting parametrization provides a reasonable description of the electromagnetic form factors and their slopes while revealing the tension between strict GPD consistency and a precision reproduction of all low-$Q^2$ observables within the adopted ansatz. We extend the distributions to nonzero skewness using normalized double distributions and introduce an independent $D$-term to complete the relevant Mellin polynomials. We examine electromagnetic and energy--momentum-tensor form factors, impact-parameter distributions, positivity, polynomiality, and illustrative mechanical properties. The analysis distinguishes information constrained by electromagnetic data from additional assumptions governing skewness and the mechanical sector, thereby providing a transparent elastic baseline for future studies of nucleon-to-resonance transition GPDs."
+    },
+    {
+      "title": "From lattice QCD thermodynamics to an effective quasiparticle description of gluonic matter at finite temperature",
+      "link": "https://arxiv.org/abs/2611.06128",
+      "authors": "Cheng-Gang Guo, La-Yuan Peng, Zhen-Yan Lu, Marco Ruggieri, Shu-Peng Wang, Zhi-Jun Ma",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2611.06128v1 Announce Type: cross \nAbstract: We develop a lattice-constrained quasiparticle description of pure SU(3) Yang--Mills matter at finite temperature. The temperature-dependent effective gluon quasiparticle mass is determined from the lattice entropy density over $0.70\\leq T/T_c\\leq5$. It is interpreted as an effective thermal parameter encoding medium modifications of gluonic excitations, rather than as a physical gluon mass. With this mass fixed, we reconstruct the background contribution required for thermodynamic consistency, using a single pressure-normalization condition. The resulting pressure, energy density, entropy density, interaction measure, and squared speed of sound are then compared with available lattice results. Near $T_c$, the rapid variation of the effective mass is accompanied by a pronounced maximum in the interaction measure at $T/T_c\\simeq1.09$, a strong suppression of the squared speed of sound, and a maximum in the background contribution. These correlated features characterize the substantial departure from conformal behavior in the transition region. At higher temperatures, the interaction measure decreases and the squared speed of sound approaches the conformal limit. We also examine the energy-per-excitation ratio $E/n_g$, which has a minimum of approximately $964~\\mathrm{MeV}$ at $T/T_c\\simeq1.21$. This ratio provides a measure of the excitation scale within the quasiparticle description. Overall, our results show how lattice thermodynamics can be mapped onto an effective gluonic excitation spectrum while maintaining thermodynamic consistency."
+    },
+    {
+      "title": "Heavy quarkonium spin transport in a hot medium",
+      "link": "https://arxiv.org/abs/2611.06707",
+      "authors": "Nora Brambilla, Shuo Fang, Tom Magorsch, Panayiotis Panayiotou",
+      "source": "arXiv for Nuclear Theory",
+      "summary": "arXiv:2611.06707v1 Announce Type: cross \nAbstract: We investigate the in-medium spin transport of heavy quarkonium using an open-quantum-system approach based on potential nonrelativistic QCD. We express the heavy quarkonium dilepton decay angular distribution in terms of late-time quarkonium spin-dependent distribution functions. Working in the quantum-optical regime, where the inverse quarkonium size is much larger than the binding energy and the binding energy is comparable to or larger than the medium temperature $T$, we derive a spin-dependent quantum master equation incorporating both dissociation and regeneration, followed by the corresponding projected semiclassical Boltzmann equations. At leading order in the coupling, we retain the recoil corrections of relative order $T/M$ that contribute to the leading spin-dependent collision kernel. Here $M$ denotes the heavy-quark mass. At zeroth order in fluid gradients, we show that the relative motion between quarkonium and the medium supplies the leading anisotropy, while spin-chromomagnetic and spin-orbit interactions both contribute to the leading nonzero spin-alignment kernel. As an exploratory phenomenological application, we also estimate the medium-induced polarization parameter $\\lambda_{\\theta}$ of bottomonium $\\Upsilon(1\\text{S})$ using a simplified rate equation with background density matrices obtained from the Lindblad equation using QTraj. Within this simplified treatment, the resulting medium-induced polarization is found to be very small while a naive rescaling for charmonium can qualitatively describe the polarization of charmonium."
+    },
+    {
+      "title": "Production of vacuum particles from relativistic scalar particles in a deformed spacetime",
+      "link": "https://iopscience.iop.org/article/10.1088/1361-6471/aeb8a3",
+      "authors": "Yasemin Deniz, Oguzhan Sahin, Mustafa Salti and Oktay Aydogdu",
+      "source": "Journal of Physics G: Nuclear and Particle Physics",
+      "summary": "In this work, we investigate the quantum dynamics of relativistic scalar particles in a (1+1)-dimensional de Sitter spacetime deformed by rainbow gravity, in which the spacetime metric depends explicitly on the energy of the probing particles. We begin by deriving the covariant Klein–Gordon equation in this modified gravitational background and obtain its exact solutions by two independent methods, in terms of Whittaker and Hankel functions. Building upon this formulation, we analyze the corresponding energy spectrum and the semiclassical solutions, and subsequently examine vacuum particle production within the Bogoliubov approach. Both sets of solutions lead to the same particle number density, which takes the form of a thermal Bose–Einstein distribution depending only on the temporal rainbow function . In the large-mass limit, it reduces to a Boltzmann factor characterized by an effective Gibbons–Hawking temperature , showing that rainbow gravity rescales the de Sitter horizon temperature and can either enhance or suppress particle creation relative to general relativity."
+    },
+    {
+      "title": "Form-factor-constrained non-factorized transition-GPD tomography of N → Δ ( ...",
+      "link": "https://iopscience.iop.org/article/10.1088/1361-6471/aeb8a4",
+      "authors": "R M Marinaro III",
+      "source": "Journal of Physics G: Nuclear and Particle Physics",
+      "summary": "A form-factor-constrained non-factorized transition-GPD reconstruction is developed for the electromagnetic transition. The production input consists of the published CLAS magnetic multipole amplitude and electric and scalar/Coulomb quadrupole ratios. Additional external low- ratio data are retained only as a separate ratio-sector diagnostic. The electroproduction quantities are propagated replica by replica and converted to the dimensionless Jones–Scadron transition form factors , , and . AICc model selection yields a modified dipole for , a dipole for , and a cubic expansion for . These fits define the imposed positive- normalization for factorized, correlated exponential, Regge-like, and double-distribution-inspired transition-GPD profiles. The upper boundary of the impact-parameter transform is fixed by the largest measured absolute-form-factor point, , so that no high- continuation beyond the measured range enters the production reconstruction. The primary transverse localization observable is therefore defined from the small- slope of the modeled transition GPD, with finite-window radial moments retained only as secondary core-shape diagnostics. For the slope-defined width, the transition form factor contributes an -independent channel-dependent offset, while the entire dependence is fixed by the chosen longitudinal–transverse profile ansatz. The factorized profile is -independent and the three non-factorized families generate distinct modeled dependences. The resulting reconstruction separates measured transition-form-factor information from model-dependent longitudinal structure and provides a controlled framework for assessing structural and covariance sensitivity in transition tomography."
+    },
+    {
+      "title": "Chaos bound violation and greybody factors of charged-AdS black holes surrounded by dark matter halos and quintessence",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326009445?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: December 2026Source: Physics Letters B, Volume 883Author(s): Muhammad Yasir, Faisal Javed, Chuanzhong Li, M. Zeeshan Gul, Sulaman Shaukat"
+    },
+    {
+      "title": "Efficient Analysis of Numerous Galactic Compact Binaries via the Free-bin Scheme",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326009780?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: Available online 3 November 2026Source: Physics Letters BAuthor(s): Ya-Nan Li, En-Kun Li, Yi-Ming Hu"
+    },
+    {
+      "title": "Enhancing pair production with optimized chirped electric fields",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326009767?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: Available online 3 November 2026Source: Physics Letters BAuthor(s): Z.L. Li, Y.F. Chen, R.Z. Jiang, Y.J. Li"
+    },
+    {
+      "title": "Resonances in the early Universe",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326009779?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: Available online 3 November 2026Source: Physics Letters BAuthor(s): D.L. Canedo, G. Oliveira-Neto, G.A. Monerat, E.V. Corrêa Silva"
+    },
+    {
+      "title": "Amortized Simulation-Based Inference of Relativistic Mean-Field Couplings for Neutron-Star Equations of State",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326009615?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: Available online 3 November 2026Source: Physics Letters BAuthor(s): Prashant Thakur, Tuhin Malik"
+    },
+    {
+      "title": "Search for <sup>7</sup>Li solar axion with Li<sub>2</sub>MoO<sub>4</sub> detectors in the AMoRE-I experiment",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0370269326009743?dgcid=rss_sd_all",
+      "authors": "Unknown",
+      "source": "Physics Letters B",
+      "summary": "Publication date: Available online 3 November 2026Source: Physics Letters BAuthor(s): A. Agrawal, V.V. Alenkov, P. Aryal, J. Beyer, B. Bhandari, R.S. Boiko, K. Boonin, O. Buzanov, C.R. Byeon, N. Chanthima, M.K. Cheoun, J.S. Choe, Seonho Choi, S. Choudhury, J.S. Chung, F.A. Danevich, M. Djamal, D. Drung, C. Enss, A. Fleischmann"
+    },
+    {
+      "title": "Study of radiative proton capture by the 7Be nucleus with the use of ab initio approaches*",
+      "link": "https://iopscience.iop.org/article/10.1088/1674-1137/ae836e",
+      "authors": "D. M. Rodkin and Yu. M. Tchuvil'sky",
+      "source": "Chinese Physics C",
+      "summary": "A theoretical study of the 7Be(p, γ)8B reaction in the \"astrophysical\" energy range with the use of ab initio methods is presented. The used approaches are No-Core Shell Model and Cluster Channels Orthogonal Functions Method. The scheme also contains elements of R-matrix theory and procedures for extrapolating various data obtained in ab initio computations. The developed approach as a whole allows one not only to calculate the astrophysical S-factor and all nuclear characteristics that determine its value, but also to evaluate the reliability of the obtained results and to identify the dominant reaction mechanisms against a background of insignificant ones. The high accuracy of the obtained results and has been demonstrated."
     }
   ]
 }
